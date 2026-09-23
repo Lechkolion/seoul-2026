@@ -44,6 +44,8 @@
     },
     "ratings": {
       "tripadvisor": {
+        "score": 5,
+        "count": 2073,
         "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d14803574-Reviews-Flavors-Seoul.html"
       },
       "naver": {
@@ -2558,6 +2560,7 @@
     },
     "ratings": {
       "tripadvisor": {
+        "score": 4.3,
         "count": 29,
         "rank": "#596 of 31,638 restaurants in Seoul",
         "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d7748326-Reviews-Menya_Sandaime-Seoul.html"
@@ -3372,6 +3375,7 @@
     },
     "ratings": {
       "tripadvisor": {
+        "score": 3.7,
         "count": 57,
         "rank": "#750 of 24,927 restaurants in Seoul",
         "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d4075640-Reviews-Din_Tai_Fung_Gangnam_Station-Seoul.html"
@@ -6578,6 +6582,7 @@
     },
     "ratings": {
       "tripadvisor": {
+        "score": 4.1,
         "count": 148,
         "rank": "#167 of 25,191 restaurants in Seoul",
         "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d3572888-Reviews-Pizzeria_d_Buzza-Seoul.html"
@@ -7756,6 +7761,7 @@
     },
     "ratings": {
       "tripadvisor": {
+        "score": 4.3,
         "count": 241,
         "rank": "#43 of 38,785 restaurants in Seoul",
         "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d7033805-Reviews-Linus_Bama_Style_BBQ-Seoul.html"

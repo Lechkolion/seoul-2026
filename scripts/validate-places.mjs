@@ -246,7 +246,7 @@ export function validateRecord(p) {
   // --- images
   if (!Array.isArray(p.images)) err('images: required array');
   else {
-    if (p.images.length < 3) err(`images: ${p.images.length} (minimum 3)`);
+    if (p.images.length < 1) err('images: none (minimum 1)');
     else if (p.images.length < 5) warn(`images: ${p.images.length} (aim 5–8)`);
     const seen = new Set();
     p.images.forEach((im, i) => {
