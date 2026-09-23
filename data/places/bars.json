@@ -426,6 +426,11 @@
           "음악이 좋아요"
         ],
         "url": "https://m.place.naver.com/restaurant/1245369400/home"
+      },
+      "tripadvisor": {
+        "score": 3.7,
+        "count": 12,
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d19030465-Reviews-Bar_Cham-Seoul.html"
       }
     },
     "reviews": [
@@ -1155,6 +1160,11 @@
           "친절해요"
         ],
         "url": "https://m.place.naver.com/restaurant/35507086/home"
+      },
+      "tripadvisor": {
+        "score": 4.3,
+        "count": 40,
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d9996738-Reviews-Le_Chamber-Seoul.html"
       }
     },
     "reviews": [
@@ -1335,6 +1345,11 @@
           "음악이 좋아요"
         ],
         "url": "https://m.place.naver.com/restaurant/880392273/home"
+      },
+      "tripadvisor": {
+        "score": 3.3,
+        "count": 4,
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d9234662-Reviews-Soko-Seoul.html"
       }
     },
     "reviews": [
@@ -2360,6 +2375,11 @@
           "인테리어가 멋져요"
         ],
         "url": "https://m.place.naver.com/restaurant/1427737970/home"
+      },
+      "tripadvisor": {
+        "score": 4.3,
+        "count": 8,
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d26680721-Reviews-Saeseoul-Seoul.html"
       }
     },
     "reviews": [
@@ -5097,6 +5117,11 @@
           "대화하기 좋아요"
         ],
         "url": "https://m.place.naver.com/restaurant/1066736419/home"
+      },
+      "tripadvisor": {
+        "score": 1,
+        "count": 1,
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d25188308-Reviews-Mood_Seoul-Seoul.html"
       }
     },
     "reviews": [
@@ -5618,6 +5643,11 @@
           "대화하기 좋아요"
         ],
         "url": "https://m.place.naver.com/restaurant/1168678548/home"
+      },
+      "tripadvisor": {
+        "score": 4.9,
+        "count": 177,
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d20941492-Reviews-Privilege_Bar-Seoul.html"
       }
     },
     "reviews": [
