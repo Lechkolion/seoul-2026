@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+.env*
+data/home.private.json
+scripts/transit/.osm-cache.json
+*.tsbuildinfo

@@ -1,0 +1,107 @@
+{
+  "title": "Seoul 2026 · Family Guide",
+  "travellers": 5,
+  "dates": {
+    "start": "2026-09-23",
+    "end": "2026-09-30"
+  },
+  "home": {
+    "label": "Home",
+    "neighborhood": "Seocho 3-dong",
+    "stations": [
+      {
+        "name": "Nambu Bus Terminal",
+        "nameKo": "남부터미널역",
+        "lines": [
+          "3"
+        ],
+        "lat": 37.48498,
+        "lng": 127.01623,
+        "walkMin": 6
+      },
+      {
+        "name": "Seocho",
+        "nameKo": "서초역",
+        "lines": [
+          "2"
+        ],
+        "lat": 37.49178,
+        "lng": 127.00766,
+        "walkMin": 9
+      },
+      {
+        "name": "Seoul Nat'l Univ. of Education",
+        "nameKo": "교대역",
+        "lines": [
+          "2",
+          "3"
+        ],
+        "lat": 37.49343,
+        "lng": 127.01408,
+        "walkMin": 11
+      }
+    ],
+    "private": "Exact address + coordinates live in data/home.private.json (gitignored). Build encrypts them into public/data/home.enc.json with FAMILY_PASSCODE (.env.local)."
+  },
+  "holidays": {
+    "chuseok": {
+      "days": [
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-26"
+      ],
+      "mainDay": "2026-09-25",
+      "note": "Chuseok holiday is Thu 24 – Sat 26 Sep 2026; 25 Sep is Chuseok day. Sun 27 is a normal Sunday. No substitute holiday on Mon 28.",
+      "sources": [
+        "https://www.vegannews.co.kr/news/article.html?no=385394",
+        "https://www.hantoday.net/news/articleView.html?idxno=54789"
+      ]
+    }
+  },
+  "tripDays": [
+    {
+      "date": "2026-09-23",
+      "dow": "Wed",
+      "label": "Arrival week"
+    },
+    {
+      "date": "2026-09-24",
+      "dow": "Thu",
+      "label": "Chuseok eve holiday",
+      "holiday": true
+    },
+    {
+      "date": "2026-09-25",
+      "dow": "Fri",
+      "label": "Chuseok day",
+      "holiday": true,
+      "main": true
+    },
+    {
+      "date": "2026-09-26",
+      "dow": "Sat",
+      "label": "Chuseok holiday",
+      "holiday": true
+    },
+    {
+      "date": "2026-09-27",
+      "dow": "Sun",
+      "label": "Sunday"
+    },
+    {
+      "date": "2026-09-28",
+      "dow": "Mon",
+      "label": "Monday — many museums/palaces closed"
+    },
+    {
+      "date": "2026-09-29",
+      "dow": "Tue",
+      "label": "Tuesday — Gyeongbokgung closed"
+    },
+    {
+      "date": "2026-09-30",
+      "dow": "Wed",
+      "label": "Last day"
+    }
+  ]
+}

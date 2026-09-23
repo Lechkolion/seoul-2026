@@ -1,0 +1,45 @@
+[
+  {
+    "id": "sample-hanwoo-house",
+    "name": "SAMPLE — Hanwoo House (fixture, not real)",
+    "nameKo": "샘플 한우집",
+    "category": "food",
+    "subcategory": "Korean BBQ",
+    "cuisine": ["Korean BBQ", "Hanwoo beef"],
+    "tags": ["reservation-needed", "private-room", "group-friendly", "english-menu"],
+    "vibes": ["luxe", "minimal"],
+    "summary": "SHAPE EXAMPLE ONLY. Staff-grilled dry-aged hanwoo in a sleek, smoke-free room.",
+    "description": "This record only demonstrates the schema shape. Do not publish. Values are placeholders.",
+    "highlights": ["Dry-aged sirloin", "Galbi-tang lunch set"],
+    "tips": ["Book a private room for 5 on CatchTable", "Lunch set is half the dinner price"],
+    "badges": { "valueForMoney": false, "hiddenGem": false, "futuristic": true, "familyFriendly": true, "michelin": "selected" },
+    "ratings": {
+      "tripadvisor": { "score": 4.5, "count": 321, "rank": "#99 of 14,000 Restaurants in Seoul", "url": "https://www.tripadvisor.com/" },
+      "google": { "score": 4.4, "count": 1200, "url": "https://maps.google.com/" },
+      "naver": { "visitorReviews": 2500, "blogReviews": 900, "keywords": ["고기가 맛있어요", "친절해요"], "url": "https://map.naver.com/" }
+    },
+    "reviews": [
+      { "source": "TripAdvisor", "text": "Placeholder review text.", "paraphrased": true, "lang": "en", "date": "2026-05" },
+      { "source": "Naver", "text": "Placeholder: locals praise the meat quality and kind staff.", "paraphrased": true, "lang": "en" }
+    ],
+    "price": { "level": 4, "perPersonKRW": [90000, 160000], "note": "Dinner ₩90k–160k pp" },
+    "hours": { "weekly": { "mon": "11:30-22:00", "tue": "11:30-22:00", "wed": "11:30-22:00", "thu": "11:30-22:00", "fri": "11:30-22:00", "sat": "11:30-22:00", "sun": "closed" }, "lastOrder": "21:00" },
+    "tripDays": { "2026-09-23": "open", "2026-09-24": "open", "2026-09-25": "closed", "2026-09-26": "unknown", "2026-09-27": "closed", "2026-09-28": "open", "2026-09-29": "open", "2026-09-30": "open" },
+    "chuseok": { "status": "partial", "note": "Closed on Chuseok day (25 Sep). No 2026 notice found for 26 Sep — call ahead.", "verified": false },
+    "location": {
+      "address": "1 Sample-ro, Gangnam-gu, Seoul", "addressKo": "서울 강남구 샘플로 1", "district": "Gangnam-gu", "neighborhood": "Cheongdam",
+      "lat": 37.5236, "lng": 127.0473,
+      "nearestStation": { "name": "Cheongdam", "nameKo": "청담역", "lines": ["7"], "exit": "Exit 9", "walkMin": 7 }
+    },
+    "links": { "naverMap": "https://map.naver.com/p/search/%EC%83%98%ED%94%8C", "googleMaps": "https://www.google.com/maps/search/?api=1&query=Seoul", "reservation": "https://app.catchtable.co.kr/", "phone": "+82-2-000-0000" },
+    "images": [
+      { "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Korean_barbecue-Samgyeopsal-05.jpg/1280px-Korean_barbecue-Samgyeopsal-05.jpg", "source": "https://commons.wikimedia.org/", "credit": "Wikimedia Commons (placeholder)", "alt": "Pork belly on a grill" }
+    ],
+    "duration": "1.5–2 h",
+    "bestTime": "Weekday lunch",
+    "goodFor": ["Family of 5", "Parents", "Celebration"],
+    "reservation": { "recommended": true, "how": "CatchTable" },
+    "sources": ["https://example.com"],
+    "lastVerified": "2026-09-23"
+  }
+]

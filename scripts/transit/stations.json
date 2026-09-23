@@ -1,0 +1,5411 @@
+{
+ "source": {
+  "name": "OpenStreetMap public-transport route relations (route=subway|train|light_rail) + railway=station nodes, via Overpass API",
+  "license": "© OpenStreetMap contributors, ODbL 1.0 — https://www.openstreetmap.org/copyright",
+  "osmTimestamp": "2026-09-22T08:45:51Z",
+  "notes": "Stop positions merged into stations by Korean name within 700 m. Express/rapid services excluded except Line 9 express (lines.json \"express\"). Names: OSM name:en, else Revised Romanization fallback. Built by scripts/transit/build-network.mjs."
+ },
+ "count": 528,
+ "stations": [
+  {
+   "id": "achasan",
+   "name": "Achasan",
+   "nameKo": "아차산역",
+   "lat": 37.551698,
+   "lng": 127.089795,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "aeogae",
+   "name": "Aeogae",
+   "nameKo": "애오개역",
+   "lat": 37.553428,
+   "lng": 126.956698,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "ahyeon",
+   "name": "Ahyeon",
+   "nameKo": "아현역",
+   "lat": 37.557431,
+   "lng": 126.956121,
+   "lines": [
+    "2"
+   ]
+  },
+  {
+   "id": "airport-market",
+   "name": "Airport Market",
+   "nameKo": "공항시장역",
+   "lat": 37.563658,
+   "lng": 126.810602,
+   "lines": [
+    "9"
+   ]
+  },
+  {
+   "id": "amsa",
+   "name": "Amsa",
+   "nameKo": "암사역",
+   "lat": 37.550106,
+   "lng": 127.127538,
+   "lines": [
+    "8"
+   ]
+  },
+  {
+   "id": "amsa-history-park",
+   "name": "Amsa History Park",
+   "nameKo": "암사역사공원역",
+   "lat": 37.557047,
+   "lng": 127.137432,
+   "lines": [
+    "8"
+   ]
+  },
+  {
+   "id": "anam",
+   "name": "Anam",
+   "nameKo": "안암역",
+   "lat": 37.586269,
+   "lng": 127.029278,
+   "lines": [
+    "6"
+   ]
+  },
+  {
+   "id": "anguk",
+   "name": "Anguk",
+   "nameKo": "안국역",
+   "lat": 37.576828,
+   "lng": 126.986171,
+   "lines": [
+    "3"
+   ]
+  },
+  {
+   "id": "ansan",
+   "name": "Ansan",
+   "nameKo": "안산역",
+   "lat": 37.327089,
+   "lng": 126.7887,
+   "lines": [
+    "4",
+    "SUIN"
+   ]
+  },
+  {
+   "id": "anyang",
+   "name": "Anyang",
+   "nameKo": "안양역",
+   "lat": 37.40163,
+   "lng": 126.922883,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "apgujeong",
+   "name": "Apgujeong",
+   "nameKo": "압구정역",
+   "lat": 37.526185,
+   "lng": 127.028499,
+   "lines": [
+    "3"
+   ]
+  },
+  {
+   "id": "apgujeong-rodeo",
+   "name": "Apgujeong Rodeo",
+   "nameKo": "압구정로데오역",
+   "lat": 37.527813,
+   "lng": 127.040709,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "april-19th-national-cemetery",
+   "name": "April 19th National Cemetery",
+   "nameKo": "4.19민주묘지역",
+   "lat": 37.649341,
+   "lng": 127.013686,
+   "lines": [
+    "UI"
+   ]
+  },
+  {
+   "id": "asin",
+   "name": "Asin",
+   "nameKo": "아신역",
+   "lat": 37.513917,
+   "lng": 127.443233,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "baegun",
+   "name": "Baegun",
+   "nameKo": "백운역",
+   "lat": 37.483123,
+   "lng": 126.707111,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "baekseok",
+   "name": "Baekseok",
+   "nameKo": "백석역",
+   "lat": 37.643036,
+   "lng": 126.788038,
+   "lines": [
+    "3"
+   ]
+  },
+  {
+   "id": "baekyangri",
+   "name": "Baekyangri",
+   "nameKo": "백양리역",
+   "lat": 37.830779,
+   "lng": 127.589165,
+   "lines": [
+    "GC"
+   ]
+  },
+  {
+   "id": "baengma",
+   "name": "Baengma",
+   "nameKo": "백마역",
+   "lat": 37.65833,
+   "lng": 126.794475,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "balsan",
+   "name": "Balsan",
+   "nameKo": "발산역",
+   "lat": 37.558495,
+   "lng": 126.837465,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "bangbae",
+   "name": "Bangbae",
+   "nameKo": "방배역",
+   "lat": 37.481466,
+   "lng": 126.997707,
+   "lines": [
+    "2"
+   ]
+  },
+  {
+   "id": "banghak",
+   "name": "Banghak",
+   "nameKo": "방학역",
+   "lat": 37.66769,
+   "lng": 127.044303,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "banghwa",
+   "name": "Banghwa",
+   "nameKo": "방화역",
+   "lat": 37.577404,
+   "lng": 126.812732,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "bangi",
+   "name": "Bangi",
+   "nameKo": "방이역",
+   "lat": 37.508643,
+   "lng": 127.126039,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "banpo",
+   "name": "Banpo",
+   "nameKo": "반포역",
+   "lat": 37.508175,
+   "lng": 127.011635,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "banwol",
+   "name": "Banwol",
+   "nameKo": "반월역",
+   "lat": 37.312433,
+   "lng": 126.903854,
+   "lines": [
+    "4"
+   ]
+  },
+  {
+   "id": "beomgye",
+   "name": "Beomgye",
+   "nameKo": "범계역",
+   "lat": 37.389907,
+   "lng": 126.95091,
+   "lines": [
+    "4"
+   ]
+  },
+  {
+   "id": "beotigogae",
+   "name": "Beotigogae",
+   "nameKo": "버티고개역",
+   "lat": 37.548232,
+   "lng": 127.006588,
+   "lines": [
+    "6"
+   ]
+  },
+  {
+   "id": "bojeong",
+   "name": "Bojeong",
+   "nameKo": "보정역",
+   "lat": 37.312353,
+   "lng": 127.108324,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "bokjeong",
+   "name": "Bokjeong",
+   "nameKo": "복정역",
+   "lat": 37.470916,
+   "lng": 127.126731,
+   "lines": [
+    "8",
+    "SUIN"
+   ]
+  },
+  {
+   "id": "bomun",
+   "name": "Bomun",
+   "nameKo": "보문역",
+   "lat": 37.585274,
+   "lng": 127.019374,
+   "lines": [
+    "6",
+    "UI"
+   ]
+  },
+  {
+   "id": "bongcheon",
+   "name": "Bongcheon",
+   "nameKo": "봉천역",
+   "lat": 37.482389,
+   "lng": 126.941939,
+   "lines": [
+    "2"
+   ]
+  },
+  {
+   "id": "bongeunsa",
+   "name": "Bongeunsa",
+   "nameKo": "봉은사역",
+   "lat": 37.514187,
+   "lng": 127.060241,
+   "lines": [
+    "9"
+   ]
+  },
+  {
+   "id": "bonghwasan",
+   "name": "Bonghwasan",
+   "nameKo": "봉화산역",
+   "lat": 37.617416,
+   "lng": 127.091097,
+   "lines": [
+    "6"
+   ]
+  },
+  {
+   "id": "boramae",
+   "name": "Boramae",
+   "nameKo": "보라매역",
+   "lat": 37.500281,
+   "lng": 126.920474,
+   "lines": [
+    "7",
+    "SL"
+   ]
+  },
+  {
+   "id": "boramae-medical-center",
+   "name": "Boramae Medical Center",
+   "nameKo": "보라매병원역",
+   "lat": 37.492964,
+   "lng": 126.924273,
+   "lines": [
+    "SL"
+   ]
+  },
+  {
+   "id": "boramae-park",
+   "name": "Boramae Park",
+   "nameKo": "보라매공원역",
+   "lat": 37.495293,
+   "lng": 126.91819,
+   "lines": [
+    "SL"
+   ]
+  },
+  {
+   "id": "bosan",
+   "name": "Bosan",
+   "nameKo": "보산역",
+   "lat": 37.914118,
+   "lng": 127.057225,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "bucheon",
+   "name": "Bucheon",
+   "nameKo": "부천역",
+   "lat": 37.48411,
+   "lng": 126.782735,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "bucheon-stadium",
+   "name": "Bucheon Stadium",
+   "nameKo": "부천종합운동장역",
+   "lat": 37.505457,
+   "lng": 126.797288,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "bucheonsicheong",
+   "name": "Bucheonsicheong",
+   "nameKo": "부천시청역",
+   "lat": 37.504765,
+   "lng": 126.763178,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "bugae",
+   "name": "Bugae",
+   "nameKo": "부개역",
+   "lat": 37.488491,
+   "lng": 126.740606,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "bukhansan-bogungmun",
+   "name": "Bukhansan Bogungmun",
+   "nameKo": "북한산보국문역",
+   "lat": 37.61218,
+   "lng": 127.008174,
+   "lines": [
+    "UI"
+   ]
+  },
+  {
+   "id": "bukhansan-ui",
+   "name": "Bukhansan Ui",
+   "nameKo": "북한산우이역",
+   "lat": 37.663324,
+   "lng": 127.012412,
+   "lines": [
+    "UI"
+   ]
+  },
+  {
+   "id": "bulgwang",
+   "name": "Bulgwang",
+   "nameKo": "불광역",
+   "lat": 37.610881,
+   "lng": 126.929631,
+   "lines": [
+    "3",
+    "6"
+   ]
+  },
+  {
+   "id": "bupyeong",
+   "name": "Bupyeong",
+   "nameKo": "부평역",
+   "lat": 37.489454,
+   "lng": 126.724559,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "bupyeong-gu-office",
+   "name": "Bupyeong-gu Office",
+   "nameKo": "부평구청역",
+   "lat": 37.507465,
+   "lng": 126.721104,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "buramsan",
+   "name": "Buramsan",
+   "nameKo": "불암산역",
+   "lat": 37.670098,
+   "lng": 127.078924,
+   "lines": [
+    "4"
+   ]
+  },
+  {
+   "id": "byeollae",
+   "name": "Byeollae",
+   "nameKo": "별내역",
+   "lat": 37.642333,
+   "lng": 127.127609,
+   "lines": [
+    "8",
+    "GC"
+   ]
+  },
+  {
+   "id": "byeollaebyeolgaram",
+   "name": "Byeollaebyeolgaram",
+   "nameKo": "별내별가람역",
+   "lat": 37.667824,
+   "lng": 127.116269,
+   "lines": [
+    "4"
+   ]
+  },
+  {
+   "id": "byeongjeom",
+   "name": "Byeongjeom",
+   "nameKo": "병점역",
+   "lat": 37.206827,
+   "lng": 127.033123,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "chang-dong",
+   "name": "Chang-Dong",
+   "nameKo": "창동역",
+   "lat": 37.653182,
+   "lng": 127.047699,
+   "lines": [
+    "1",
+    "4"
+   ]
+  },
+  {
+   "id": "changsin",
+   "name": "Changsin",
+   "nameKo": "창신역",
+   "lat": 37.579804,
+   "lng": 127.015247,
+   "lines": [
+    "6"
+   ]
+  },
+  {
+   "id": "cheolsan",
+   "name": "Cheolsan",
+   "nameKo": "철산역",
+   "lat": 37.476001,
+   "lng": 126.867597,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "cheongdam",
+   "name": "Cheongdam",
+   "nameKo": "청담역",
+   "lat": 37.519091,
+   "lng": 127.051678,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "cheonggu",
+   "name": "Cheonggu",
+   "nameKo": "청구역",
+   "lat": 37.560231,
+   "lng": 127.013778,
+   "lines": [
+    "5",
+    "6"
+   ]
+  },
+  {
+   "id": "cheonggyesan",
+   "name": "Cheonggyesan",
+   "nameKo": "청계산입구역",
+   "lat": 37.448311,
+   "lng": 127.054643,
+   "lines": [
+    "SB"
+   ]
+  },
+  {
+   "id": "cheongmyeong",
+   "name": "Cheongmyeong",
+   "nameKo": "청명역",
+   "lat": 37.259983,
+   "lng": 127.079527,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "cheongna-intl-city",
+   "name": "Cheongna Int'l City",
+   "nameKo": "청라국제도시역",
+   "lat": 37.556445,
+   "lng": 126.624692,
+   "lines": [
+    "AREX"
+   ]
+  },
+  {
+   "id": "cheongnyangni",
+   "name": "Cheongnyangni",
+   "nameKo": "청량리역",
+   "lat": 37.580596,
+   "lng": 127.048257,
+   "lines": [
+    "1",
+    "SUIN",
+    "GJ",
+    "GC"
+   ]
+  },
+  {
+   "id": "cheongpyeong",
+   "name": "Cheongpyeong",
+   "nameKo": "청평역",
+   "lat": 37.73551,
+   "lng": 127.426636,
+   "lines": [
+    "GC"
+   ]
+  },
+  {
+   "id": "cheongsan",
+   "name": "Cheongsan",
+   "nameKo": "청산역",
+   "lat": 37.995083,
+   "lng": 127.074225,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "cheonho",
+   "name": "Cheonho",
+   "nameKo": "천호역",
+   "lat": 37.538522,
+   "lng": 127.123402,
+   "lines": [
+    "5",
+    "8"
+   ]
+  },
+  {
+   "id": "cheonmasan",
+   "name": "Cheonmasan",
+   "nameKo": "천마산역",
+   "lat": 37.659217,
+   "lng": 127.285049,
+   "lines": [
+    "GC"
+   ]
+  },
+  {
+   "id": "cheonwang",
+   "name": "Cheonwang",
+   "nameKo": "천왕역",
+   "lat": 37.486367,
+   "lng": 126.838922,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "childrens-grand-park",
+   "name": "Children's Grand Park",
+   "nameKo": "어린이대공원역",
+   "lat": 37.5476,
+   "lng": 127.074392,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "choji",
+   "name": "Choji",
+   "nameKo": "초지역",
+   "lat": 37.32071,
+   "lng": 126.805922,
+   "lines": [
+    "4",
+    "SUIN"
+   ]
+  },
+  {
+   "id": "chongshin-univ",
+   "name": "Chongshin Univ. (Isu)",
+   "nameKo": "총신대입구역",
+   "lat": 37.48678,
+   "lng": 126.982237,
+   "lines": [
+    "4",
+    "7"
+   ]
+  },
+  {
+   "id": "chuncheon",
+   "name": "Chuncheon",
+   "nameKo": "춘천역",
+   "lat": 37.884495,
+   "lng": 127.716712,
+   "lines": [
+    "GC"
+   ]
+  },
+  {
+   "id": "chungjeongno",
+   "name": "Chungjeongno",
+   "nameKo": "충정로역",
+   "lat": 37.559371,
+   "lng": 126.962911,
+   "lines": [
+    "2",
+    "5"
+   ]
+  },
+  {
+   "id": "chungmuro",
+   "name": "Chungmuro",
+   "nameKo": "충무로역",
+   "lat": 37.561202,
+   "lng": 126.994109,
+   "lines": [
+    "3",
+    "4"
+   ]
+  },
+  {
+   "id": "chunui",
+   "name": "Chunui",
+   "nameKo": "춘의역",
+   "lat": 37.503731,
+   "lng": 126.787201,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "city-hall",
+   "name": "City Hall",
+   "nameKo": "시청역",
+   "lat": 37.56548,
+   "lng": 126.977114,
+   "lines": [
+    "1",
+    "2"
+   ]
+  },
+  {
+   "id": "daebang",
+   "name": "Daebang",
+   "nameKo": "대방역",
+   "lat": 37.513358,
+   "lng": 126.926478,
+   "lines": [
+    "1",
+    "SL"
+   ]
+  },
+  {
+   "id": "daecheong",
+   "name": "Daecheong",
+   "nameKo": "대청역",
+   "lat": 37.493628,
+   "lng": 127.079551,
+   "lines": [
+    "3"
+   ]
+  },
+  {
+   "id": "daechi",
+   "name": "Daechi",
+   "nameKo": "대치역",
+   "lat": 37.494474,
+   "lng": 127.063193,
+   "lines": [
+    "3"
+   ]
+  },
+  {
+   "id": "daegok",
+   "name": "Daegok",
+   "nameKo": "대곡역",
+   "lat": 37.631781,
+   "lng": 126.810284,
+   "lines": [
+    "3",
+    "GJ",
+    "GTXA"
+   ]
+  },
+  {
+   "id": "daeheung",
+   "name": "Daeheung",
+   "nameKo": "대흥역",
+   "lat": 37.547699,
+   "lng": 126.942345,
+   "lines": [
+    "6"
+   ]
+  },
+  {
+   "id": "daehwa",
+   "name": "Daehwa",
+   "nameKo": "대화역",
+   "lat": 37.676175,
+   "lng": 126.747463,
+   "lines": [
+    "3"
+   ]
+  },
+  {
+   "id": "daemosan",
+   "name": "Daemosan",
+   "nameKo": "대모산입구역",
+   "lat": 37.491389,
+   "lng": 127.072749,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "daerim",
+   "name": "Daerim",
+   "nameKo": "대림역",
+   "lat": 37.493437,
+   "lng": 126.894932,
+   "lines": [
+    "2",
+    "7"
+   ]
+  },
+  {
+   "id": "daeseongri",
+   "name": "Daeseongri",
+   "nameKo": "대성리역",
+   "lat": 37.683849,
+   "lng": 127.379585,
+   "lines": [
+    "GC"
+   ]
+  },
+  {
+   "id": "daeyami",
+   "name": "Daeyami",
+   "nameKo": "대야미역",
+   "lat": 37.327974,
+   "lng": 126.916899,
+   "lines": [
+    "4"
+   ]
+  },
+  {
+   "id": "dalwol",
+   "name": "Dalwol",
+   "nameKo": "달월역",
+   "lat": 37.379992,
+   "lng": 126.745372,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "dandaeogeori",
+   "name": "Dandaeogeori",
+   "nameKo": "단대오거리역",
+   "lat": 37.445085,
+   "lng": 127.156778,
+   "lines": [
+    "8"
+   ]
+  },
+  {
+   "id": "danggok",
+   "name": "Danggok",
+   "nameKo": "당곡역",
+   "lat": 37.489696,
+   "lng": 126.927801,
+   "lines": [
+    "SL"
+   ]
+  },
+  {
+   "id": "dangjeong",
+   "name": "Dangjeong",
+   "nameKo": "당정역",
+   "lat": 37.343344,
+   "lng": 126.948356,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "dangsan",
+   "name": "Dangsan",
+   "nameKo": "당산역",
+   "lat": 37.534596,
+   "lng": 126.902478,
+   "lines": [
+    "2",
+    "9"
+   ]
+  },
+  {
+   "id": "dapsipri",
+   "name": "Dapsipri",
+   "nameKo": "답십리역",
+   "lat": 37.566814,
+   "lng": 127.052699,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "dasan",
+   "name": "Dasan",
+   "nameKo": "다산역",
+   "lat": 37.624329,
+   "lng": 127.149763,
+   "lines": [
+    "8"
+   ]
+  },
+  {
+   "id": "deokgye",
+   "name": "Deokgye",
+   "nameKo": "덕계역",
+   "lat": 37.818767,
+   "lng": 127.056702,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "deokjeong",
+   "name": "Deokjeong (Seojeong College)",
+   "nameKo": "덕정역",
+   "lat": 37.843263,
+   "lng": 127.061565,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "deokso",
+   "name": "Deokso",
+   "nameKo": "덕소역",
+   "lat": 37.586905,
+   "lng": 127.208821,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "deungchon",
+   "name": "Deungchon",
+   "nameKo": "등촌역",
+   "lat": 37.551152,
+   "lng": 126.864574,
+   "lines": [
+    "9"
+   ]
+  },
+  {
+   "id": "digital-media-city",
+   "name": "Digital Media City",
+   "nameKo": "디지털미디어시티역",
+   "lat": 37.577673,
+   "lng": 126.900077,
+   "lines": [
+    "6",
+    "GJ",
+    "AREX"
+   ]
+  },
+  {
+   "id": "dobong",
+   "name": "Dobong",
+   "nameKo": "도봉역",
+   "lat": 37.679208,
+   "lng": 127.045547,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "dobongsan",
+   "name": "Dobongsan",
+   "nameKo": "도봉산역",
+   "lat": 37.689836,
+   "lng": 127.046078,
+   "lines": [
+    "1",
+    "7"
+   ]
+  },
+  {
+   "id": "dogok",
+   "name": "Dogok",
+   "nameKo": "도곡역",
+   "lat": 37.490635,
+   "lng": 127.055473,
+   "lines": [
+    "3",
+    "SUIN"
+   ]
+  },
+  {
+   "id": "dohwa",
+   "name": "Dohwa",
+   "nameKo": "도화역",
+   "lat": 37.466124,
+   "lng": 126.668264,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "dokbawi",
+   "name": "Dokbawi",
+   "nameKo": "독바위역",
+   "lat": 37.618337,
+   "lng": 126.933021,
+   "lines": [
+    "6"
+   ]
+  },
+  {
+   "id": "doksan",
+   "name": "Doksan",
+   "nameKo": "독산역",
+   "lat": 37.466074,
+   "lng": 126.889484,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "dolgoji",
+   "name": "Dolgoji",
+   "nameKo": "돌곶이역",
+   "lat": 37.610566,
+   "lng": 127.056493,
+   "lines": [
+    "6"
+   ]
+  },
+  {
+   "id": "dongam",
+   "name": "Dongam",
+   "nameKo": "동암역",
+   "lat": 37.471046,
+   "lng": 126.702877,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "dongcheon",
+   "name": "Dongcheon",
+   "nameKo": "동천역",
+   "lat": 37.337877,
+   "lng": 127.10281,
+   "lines": [
+    "SB"
+   ]
+  },
+  {
+   "id": "dongdaemun",
+   "name": "Dongdaemun",
+   "nameKo": "동대문역",
+   "lat": 37.570496,
+   "lng": 127.009529,
+   "lines": [
+    "1",
+    "4"
+   ]
+  },
+  {
+   "id": "dongdaemun-history-culture-park-station",
+   "name": "Dongdaemun History & Culture Park Station (DDP)",
+   "nameKo": "동대문역사문화공원역",
+   "lat": 37.565261,
+   "lng": 127.008123,
+   "lines": [
+    "2",
+    "4",
+    "5"
+   ]
+  },
+  {
+   "id": "dongducheon",
+   "name": "Dongducheon",
+   "nameKo": "동두천역",
+   "lat": 37.92756,
+   "lng": 127.054875,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "dongducheonjungang",
+   "name": "Dongducheonjungang",
+   "nameKo": "동두천중앙역",
+   "lat": 37.901728,
+   "lng": 127.056526,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "dongguk-univ",
+   "name": "Dongguk Univ.",
+   "nameKo": "동대입구역",
+   "lat": 37.559061,
+   "lng": 127.005727,
+   "lines": [
+    "3"
+   ]
+  },
+  {
+   "id": "donggureung",
+   "name": "Donggureung",
+   "nameKo": "동구릉역",
+   "lat": 37.610514,
+   "lng": 127.138109,
+   "lines": [
+    "8"
+   ]
+  },
+  {
+   "id": "dongincheon",
+   "name": "Dongincheon",
+   "nameKo": "동인천역",
+   "lat": 37.475129,
+   "lng": 126.633057,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "dongjak",
+   "name": "Dongjak",
+   "nameKo": "동작역",
+   "lat": 37.503108,
+   "lng": 126.980348,
+   "lines": [
+    "4",
+    "9"
+   ]
+  },
+  {
+   "id": "dongmyo",
+   "name": "Dongmyo",
+   "nameKo": "동묘앞역",
+   "lat": 37.572342,
+   "lng": 127.015659,
+   "lines": [
+    "1",
+    "6"
+   ]
+  },
+  {
+   "id": "dongnimmun",
+   "name": "Dongnimmun",
+   "nameKo": "독립문역",
+   "lat": 37.574558,
+   "lng": 126.957836,
+   "lines": [
+    "3"
+   ]
+  },
+  {
+   "id": "dongtan",
+   "name": "Dongtan",
+   "nameKo": "동탄역",
+   "lat": 37.200234,
+   "lng": 127.095525,
+   "lines": [
+    "GTXA"
+   ]
+  },
+  {
+   "id": "donong",
+   "name": "Donong",
+   "nameKo": "도농역",
+   "lat": 37.608783,
+   "lng": 127.161187,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "dorimcheon",
+   "name": "Dorimcheon",
+   "nameKo": "도림천역",
+   "lat": 37.514454,
+   "lng": 126.882684,
+   "lines": [
+    "2"
+   ]
+  },
+  {
+   "id": "dosim",
+   "name": "Dosim",
+   "nameKo": "도심역",
+   "lat": 37.579634,
+   "lng": 127.222676,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "dowon",
+   "name": "Dowon",
+   "nameKo": "도원역",
+   "lat": 37.468826,
+   "lng": 126.642401,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "dunchon-dong",
+   "name": "Dunchon-dong",
+   "nameKo": "둔촌동역",
+   "lat": 37.527802,
+   "lng": 127.136243,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "dunchon-oryun",
+   "name": "Dunchon Oryun",
+   "nameKo": "둔촌오륜역",
+   "lat": 37.519841,
+   "lng": 127.138418,
+   "lines": [
+    "9"
+   ]
+  },
+  {
+   "id": "eocheon",
+   "name": "Eocheon",
+   "nameKo": "어천역",
+   "lat": 37.250095,
+   "lng": 126.909002,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "eonju",
+   "name": "Eonju",
+   "nameKo": "언주역",
+   "lat": 37.507321,
+   "lng": 127.033875,
+   "lines": [
+    "9"
+   ]
+  },
+  {
+   "id": "euljiro-1-ga",
+   "name": "Euljiro 1(il)-ga",
+   "nameKo": "을지로입구역",
+   "lat": 37.565949,
+   "lng": 126.982617,
+   "lines": [
+    "2"
+   ]
+  },
+  {
+   "id": "euljiro-3-ga",
+   "name": "Euljiro 3(sam)-ga",
+   "nameKo": "을지로3가역",
+   "lat": 37.566336,
+   "lng": 126.992531,
+   "lines": [
+    "2",
+    "3"
+   ]
+  },
+  {
+   "id": "euljiro-4-ga",
+   "name": "Euljiro 4(sa)-ga",
+   "nameKo": "을지로4가역",
+   "lat": 37.566643,
+   "lng": 126.998169,
+   "lines": [
+    "2",
+    "5"
+   ]
+  },
+  {
+   "id": "eungam",
+   "name": "Eungam",
+   "nameKo": "응암역",
+   "lat": 37.59843,
+   "lng": 126.915528,
+   "lines": [
+    "6"
+   ]
+  },
+  {
+   "id": "eungbong",
+   "name": "Eungbong",
+   "nameKo": "응봉역",
+   "lat": 37.550276,
+   "lng": 127.034728,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "ewha-womans-univ",
+   "name": "Ewha Womans Univ.",
+   "nameKo": "이대역",
+   "lat": 37.556773,
+   "lng": 126.945835,
+   "lines": [
+    "2"
+   ]
+  },
+  {
+   "id": "express-bus-terminal",
+   "name": "Express Bus Terminal",
+   "nameKo": "고속터미널역",
+   "lat": 37.505037,
+   "lng": 127.004922,
+   "lines": [
+    "3",
+    "7",
+    "9"
+   ]
+  },
+  {
+   "id": "gachon-univ",
+   "name": "Gachon Univ.",
+   "nameKo": "가천대역",
+   "lat": 37.448699,
+   "lng": 127.126725,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "gaebong",
+   "name": "Gaebong",
+   "nameKo": "개봉역",
+   "lat": 37.494593,
+   "lng": 126.858754,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "gaehwa",
+   "name": "Gaehwa",
+   "nameKo": "개화역",
+   "lat": 37.578538,
+   "lng": 126.797665,
+   "lines": [
+    "9"
+   ]
+  },
+  {
+   "id": "gaehwasan",
+   "name": "Gaehwasan",
+   "nameKo": "개화산역",
+   "lat": 37.572876,
+   "lng": 126.80826,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "gaepo-dong",
+   "name": "Gaepo-dong",
+   "nameKo": "개포동역",
+   "lat": 37.489101,
+   "lng": 127.066043,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "gaerong",
+   "name": "Gaerong",
+   "nameKo": "개롱역",
+   "lat": 37.498075,
+   "lng": 127.134843,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "gajwa",
+   "name": "Gajwa",
+   "nameKo": "가좌역",
+   "lat": 37.568679,
+   "lng": 126.915063,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "galmae",
+   "name": "Galmae",
+   "nameKo": "갈매역",
+   "lat": 37.633946,
+   "lng": 127.114729,
+   "lines": [
+    "GC"
+   ]
+  },
+  {
+   "id": "ganeung",
+   "name": "Ganeung",
+   "nameKo": "가능역",
+   "lat": 37.748321,
+   "lng": 127.044363,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "gangbyeon",
+   "name": "Gangbyeon",
+   "nameKo": "강변역",
+   "lat": 37.535111,
+   "lng": 127.094741,
+   "lines": [
+    "2"
+   ]
+  },
+  {
+   "id": "gangchon",
+   "name": "Gangchon",
+   "nameKo": "강촌역",
+   "lat": 37.805717,
+   "lng": 127.634118,
+   "lines": [
+    "GC"
+   ]
+  },
+  {
+   "id": "gangdong",
+   "name": "Gangdong",
+   "nameKo": "강동역",
+   "lat": 37.535797,
+   "lng": 127.132595,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "gangdong-gu-office",
+   "name": "Gangdong-gu Office",
+   "nameKo": "강동구청역",
+   "lat": 37.530694,
+   "lng": 127.120623,
+   "lines": [
+    "8"
+   ]
+  },
+  {
+   "id": "gangil",
+   "name": "Gangil",
+   "nameKo": "강일역",
+   "lat": 37.557482,
+   "lng": 127.175763,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "gangmae",
+   "name": "Gangmae",
+   "nameKo": "강매역",
+   "lat": 37.612287,
+   "lng": 126.844528,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "gangnam",
+   "name": "Gangnam",
+   "nameKo": "강남역",
+   "lat": 37.49795,
+   "lng": 127.027557,
+   "lines": [
+    "2",
+    "SB"
+   ]
+  },
+  {
+   "id": "gangnam-gu-office",
+   "name": "Gangnam-gu Office",
+   "nameKo": "강남구청역",
+   "lat": 37.516812,
+   "lng": 127.041424,
+   "lines": [
+    "7",
+    "SUIN"
+   ]
+  },
+  {
+   "id": "ganseok",
+   "name": "Ganseok",
+   "nameKo": "간석역",
+   "lat": 37.464734,
+   "lng": 126.693531,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "gaori",
+   "name": "Gaori",
+   "nameKo": "가오리역",
+   "lat": 37.641974,
+   "lng": 127.016571,
+   "lines": [
+    "UI"
+   ]
+  },
+  {
+   "id": "gapyeong",
+   "name": "Gapyeong",
+   "nameKo": "가평역",
+   "lat": 37.814523,
+   "lng": 127.510761,
+   "lines": [
+    "GC"
+   ]
+  },
+  {
+   "id": "garak-market",
+   "name": "Garak Market",
+   "nameKo": "가락시장역",
+   "lat": 37.492532,
+   "lng": 127.118638,
+   "lines": [
+    "3",
+    "8"
+   ]
+  },
+  {
+   "id": "gasan-digital-complex",
+   "name": "Gasan Digital Complex",
+   "nameKo": "가산디지털단지역",
+   "lat": 37.481595,
+   "lng": 126.882617,
+   "lines": [
+    "1",
+    "7"
+   ]
+  },
+  {
+   "id": "gayang",
+   "name": "Gayang",
+   "nameKo": "가양역",
+   "lat": 37.561142,
+   "lng": 126.8551,
+   "lines": [
+    "9"
+   ]
+  },
+  {
+   "id": "geomam",
+   "name": "Geomam",
+   "nameKo": "검암역",
+   "lat": 37.56918,
+   "lng": 126.673714,
+   "lines": [
+    "AREX"
+   ]
+  },
+  {
+   "id": "geoyeo",
+   "name": "Geoyeo",
+   "nameKo": "거여역",
+   "lat": 37.493345,
+   "lng": 127.143771,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "geumcheon-gu-office",
+   "name": "Geumcheon-gu Office",
+   "nameKo": "금천구청역",
+   "lat": 37.455813,
+   "lng": 126.8939,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "geumchon",
+   "name": "Geumchon",
+   "nameKo": "금촌역",
+   "lat": 37.766217,
+   "lng": 126.774545,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "geumgok",
+   "name": "Geumgok",
+   "nameKo": "금곡역",
+   "lat": 37.637287,
+   "lng": 127.207444,
+   "lines": [
+    "GC"
+   ]
+  },
+  {
+   "id": "geumho",
+   "name": "Geumho",
+   "nameKo": "금호역",
+   "lat": 37.547973,
+   "lng": 127.015925,
+   "lines": [
+    "3"
+   ]
+  },
+  {
+   "id": "geumjeong",
+   "name": "Geumjeong",
+   "nameKo": "금정역",
+   "lat": 37.372332,
+   "lng": 126.943378,
+   "lines": [
+    "1",
+    "4"
+   ]
+  },
+  {
+   "id": "geumreung",
+   "name": "Geumreung",
+   "nameKo": "금릉역",
+   "lat": 37.751252,
+   "lng": 126.765413,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "giheung",
+   "name": "Giheung",
+   "nameKo": "기흥역",
+   "lat": 37.275509,
+   "lng": 127.116013,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "gil-dong",
+   "name": "Gil-dong",
+   "nameKo": "길동역",
+   "lat": 37.538368,
+   "lng": 127.140205,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "gimpo-intl-airport",
+   "name": "Gimpo Int'l Airport",
+   "nameKo": "김포공항역",
+   "lat": 37.561925,
+   "lng": 126.801393,
+   "lines": [
+    "5",
+    "9",
+    "AREX"
+   ]
+  },
+  {
+   "id": "gimyujeong",
+   "name": "Gimyujeong",
+   "nameKo": "김유정역",
+   "lat": 37.818442,
+   "lng": 127.714335,
+   "lines": [
+    "GC"
+   ]
+  },
+  {
+   "id": "gireum",
+   "name": "Gireum",
+   "nameKo": "길음역",
+   "lat": 37.60316,
+   "lng": 127.024852,
+   "lines": [
+    "4"
+   ]
+  },
+  {
+   "id": "godeok",
+   "name": "Godeok",
+   "nameKo": "고덕역",
+   "lat": 37.555341,
+   "lng": 127.156383,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "gojan",
+   "name": "Gojan",
+   "nameKo": "고잔역",
+   "lat": 37.316865,
+   "lng": 126.823012,
+   "lines": [
+    "4",
+    "SUIN"
+   ]
+  },
+  {
+   "id": "goksan",
+   "name": "Goksan",
+   "nameKo": "곡산역",
+   "lat": 37.645746,
+   "lng": 126.80181,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "gongdeok",
+   "name": "Gongdeok",
+   "nameKo": "공덕역",
+   "lat": 37.543654,
+   "lng": 126.950806,
+   "lines": [
+    "5",
+    "6",
+    "GJ",
+    "AREX"
+   ]
+  },
+  {
+   "id": "gonghanghwamulcheongsa",
+   "name": "Gonghanghwamulcheongsa",
+   "nameKo": "공항화물청사역",
+   "lat": 37.458881,
+   "lng": 126.477651,
+   "lines": [
+    "AREX"
+   ]
+  },
+  {
+   "id": "gongneung",
+   "name": "Gongneung",
+   "nameKo": "공릉역",
+   "lat": 37.625636,
+   "lng": 127.073044,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "gosaek",
+   "name": "Gosaek",
+   "nameKo": "고색역",
+   "lat": 37.249708,
+   "lng": 126.98046,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "government-complex-gwacheon",
+   "name": "Government Complex Gwacheon",
+   "nameKo": "정부과천청사역",
+   "lat": 37.426471,
+   "lng": 126.98975,
+   "lines": [
+    "4"
+   ]
+  },
+  {
+   "id": "gubanpo",
+   "name": "Gubanpo",
+   "nameKo": "구반포역",
+   "lat": 37.50129,
+   "lng": 126.986785,
+   "lines": [
+    "9"
+   ]
+  },
+  {
+   "id": "gubeundari",
+   "name": "Gubeundari",
+   "nameKo": "굽은다리역",
+   "lat": 37.545637,
+   "lng": 127.142962,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "guil",
+   "name": "Guil",
+   "nameKo": "구일역",
+   "lat": 37.496207,
+   "lng": 126.869706,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "guksu",
+   "name": "Guksu",
+   "nameKo": "국수역",
+   "lat": 37.516161,
+   "lng": 127.399292,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "gulbongsan",
+   "name": "Gulbongsan",
+   "nameKo": "굴봉산역",
+   "lat": 37.831928,
+   "lng": 127.557134,
+   "lines": [
+    "GC"
+   ]
+  },
+  {
+   "id": "gulpocheon",
+   "name": "Gulpocheon",
+   "nameKo": "굴포천역",
+   "lat": 37.507023,
+   "lng": 126.731337,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "gunja",
+   "name": "Gunja",
+   "nameKo": "군자역",
+   "lat": 37.557245,
+   "lng": 127.079558,
+   "lines": [
+    "5",
+    "7"
+   ]
+  },
+  {
+   "id": "gunpo",
+   "name": "Gunpo",
+   "nameKo": "군포역",
+   "lat": 37.354191,
+   "lng": 126.948471,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "gupabal",
+   "name": "Gupabal",
+   "nameKo": "구파발역",
+   "lat": 37.636892,
+   "lng": 126.918805,
+   "lines": [
+    "3"
+   ]
+  },
+  {
+   "id": "guri",
+   "name": "Guri",
+   "nameKo": "구리역",
+   "lat": 37.603252,
+   "lng": 127.143375,
+   "lines": [
+    "8",
+    "GJ"
+   ]
+  },
+  {
+   "id": "guro",
+   "name": "Guro",
+   "nameKo": "구로역",
+   "lat": 37.503447,
+   "lng": 126.882509,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "guro-digital-complex",
+   "name": "Guro Digital Complex",
+   "nameKo": "구로디지털단지역",
+   "lat": 37.485276,
+   "lng": 126.901592,
+   "lines": [
+    "2"
+   ]
+  },
+  {
+   "id": "guryong",
+   "name": "Guryong",
+   "nameKo": "구룡역",
+   "lat": 37.486927,
+   "lng": 127.059461,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "gusan",
+   "name": "Gusan",
+   "nameKo": "구산역",
+   "lat": 37.61125,
+   "lng": 126.917219,
+   "lines": [
+    "6"
+   ]
+  },
+  {
+   "id": "guseong",
+   "name": "Guseong",
+   "nameKo": "구성역",
+   "lat": 37.298753,
+   "lng": 127.104835,
+   "lines": [
+    "SUIN",
+    "GTXA"
+   ]
+  },
+  {
+   "id": "guui",
+   "name": "Guui",
+   "nameKo": "구의역",
+   "lat": 37.537168,
+   "lng": 127.086221,
+   "lines": [
+    "2"
+   ]
+  },
+  {
+   "id": "gwacheon",
+   "name": "Gwacheon",
+   "nameKo": "과천역",
+   "lat": 37.433074,
+   "lng": 126.996958,
+   "lines": [
+    "4"
+   ]
+  },
+  {
+   "id": "gwanak",
+   "name": "Gwanak",
+   "nameKo": "관악역",
+   "lat": 37.418724,
+   "lng": 126.909154,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "gwanaksan",
+   "name": "Gwanaksan",
+   "nameKo": "관악산역",
+   "lat": 37.468736,
+   "lng": 126.945328,
+   "lines": [
+    "SL"
+   ]
+  },
+  {
+   "id": "gwanggyo",
+   "name": "Gwanggyo",
+   "nameKo": "광교역",
+   "lat": 37.302177,
+   "lng": 127.04414,
+   "lines": [
+    "SB"
+   ]
+  },
+  {
+   "id": "gwanggyo-jungang",
+   "name": "Gwanggyo Jungang",
+   "nameKo": "광교중앙역",
+   "lat": 37.28856,
+   "lng": 127.051517,
+   "lines": [
+    "SB"
+   ]
+  },
+  {
+   "id": "gwangheungchang",
+   "name": "Gwangheungchang",
+   "nameKo": "광흥창역",
+   "lat": 37.547472,
+   "lng": 126.931961,
+   "lines": [
+    "6"
+   ]
+  },
+  {
+   "id": "gwanghwamun",
+   "name": "Gwanghwamun",
+   "nameKo": "광화문역",
+   "lat": 37.571616,
+   "lng": 126.976903,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "gwangmyeong",
+   "name": "Gwangmyeong",
+   "nameKo": "광명역",
+   "lat": 37.41638,
+   "lng": 126.884698,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "gwangmyeongsageori",
+   "name": "Gwangmyeongsageori",
+   "nameKo": "광명사거리역",
+   "lat": 37.479421,
+   "lng": 126.85446,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "gwangnaru",
+   "name": "Gwangnaru",
+   "nameKo": "광나루역",
+   "lat": 37.545301,
+   "lng": 127.103527,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "gyeongbokgung",
+   "name": "Gyeongbokgung",
+   "nameKo": "경복궁역",
+   "lat": 37.575787,
+   "lng": 126.973526,
+   "lines": [
+    "3"
+   ]
+  },
+  {
+   "id": "gyeyang",
+   "name": "Gyeyang",
+   "nameKo": "계양역",
+   "lat": 37.571767,
+   "lng": 126.736311,
+   "lines": [
+    "AREX"
+   ]
+  },
+  {
+   "id": "haengdang",
+   "name": "Haengdang",
+   "nameKo": "행당역",
+   "lat": 37.557606,
+   "lng": 127.029993,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "haengsin",
+   "name": "Haengsin",
+   "nameKo": "행신역",
+   "lat": 37.612035,
+   "lng": 126.834058,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "hagye",
+   "name": "Hagye",
+   "nameKo": "하계역",
+   "lat": 37.636018,
+   "lng": 127.068252,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "hak-dong",
+   "name": "Hak-dong",
+   "nameKo": "학동역",
+   "lat": 37.513957,
+   "lng": 127.03075,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "hanam-city-hall",
+   "name": "Hanam City Hall",
+   "nameKo": "하남시청역",
+   "lat": 37.541774,
+   "lng": 127.206704,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "hanam-geomdansan",
+   "name": "Hanam Geomdansan",
+   "nameKo": "하남검단산역",
+   "lat": 37.539704,
+   "lng": 127.223533,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "hanam-pungsan",
+   "name": "Hanam Pungsan",
+   "nameKo": "하남풍산역",
+   "lat": 37.551958,
+   "lng": 127.203631,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "hangangjin",
+   "name": "Hangangjin",
+   "nameKo": "한강진역",
+   "lat": 37.539796,
+   "lng": 127.001751,
+   "lines": [
+    "6"
+   ]
+  },
+  {
+   "id": "hangnyeoul",
+   "name": "Hangnyeoul",
+   "nameKo": "학여울역",
+   "lat": 37.496497,
+   "lng": 127.069884,
+   "lines": [
+    "3"
+   ]
+  },
+  {
+   "id": "hankuk-univ-of-foreign-studies",
+   "name": "Hankuk Univ. of Foreign Studies",
+   "nameKo": "외대앞역",
+   "lat": 37.596306,
+   "lng": 127.063743,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "hannam",
+   "name": "Hannam",
+   "nameKo": "한남역",
+   "lat": 37.529445,
+   "lng": 127.009242,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "hanseong-baekje",
+   "name": "Hanseong Baekje",
+   "nameKo": "한성백제역",
+   "lat": 37.51667,
+   "lng": 127.116213,
+   "lines": [
+    "9"
+   ]
+  },
+  {
+   "id": "hansung-university",
+   "name": "Hansung University",
+   "nameKo": "한성대입구역",
+   "lat": 37.588514,
+   "lng": 127.005962,
+   "lines": [
+    "4"
+   ]
+  },
+  {
+   "id": "hanti",
+   "name": "Hanti",
+   "nameKo": "한티역",
+   "lat": 37.496271,
+   "lng": 127.052866,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "hanyang-univ",
+   "name": "Hanyang Univ.",
+   "nameKo": "한양대역",
+   "lat": 37.555727,
+   "lng": 127.043664,
+   "lines": [
+    "2"
+   ]
+  },
+  {
+   "id": "hanyang-university-at-ansan",
+   "name": "Hanyang University at Ansan",
+   "nameKo": "한대앞역",
+   "lat": 37.309726,
+   "lng": 126.853623,
+   "lines": [
+    "4",
+    "SUIN"
+   ]
+  },
+  {
+   "id": "hapjeong",
+   "name": "Hapjeong",
+   "nameKo": "합정역",
+   "lat": 37.549356,
+   "lng": 126.913656,
+   "lines": [
+    "2",
+    "6"
+   ]
+  },
+  {
+   "id": "heukseok",
+   "name": "Heukseok",
+   "nameKo": "흑석역",
+   "lat": 37.508382,
+   "lng": 126.963949,
+   "lines": [
+    "9"
+   ]
+  },
+  {
+   "id": "hoegi",
+   "name": "Hoegi",
+   "nameKo": "회기역",
+   "lat": 37.589497,
+   "lng": 127.057624,
+   "lines": [
+    "1",
+    "GJ",
+    "GC"
+   ]
+  },
+  {
+   "id": "hoehyeon",
+   "name": "Hoehyeon",
+   "nameKo": "회현역",
+   "lat": 37.558698,
+   "lng": 126.978417,
+   "lines": [
+    "4"
+   ]
+  },
+  {
+   "id": "hoeryong",
+   "name": "Hoeryong",
+   "nameKo": "회룡역",
+   "lat": 37.72441,
+   "lng": 127.04735,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "hogupo",
+   "name": "Hogupo",
+   "nameKo": "호구포역",
+   "lat": 37.40169,
+   "lng": 126.708639,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "hongik-univ",
+   "name": "Hongik Univ.",
+   "nameKo": "홍대입구역",
+   "lat": 37.557349,
+   "lng": 126.926908,
+   "lines": [
+    "2",
+    "GJ",
+    "AREX"
+   ]
+  },
+  {
+   "id": "hongje",
+   "name": "Hongje",
+   "nameKo": "홍제역",
+   "lat": 37.588689,
+   "lng": 126.944253,
+   "lines": [
+    "3"
+   ]
+  },
+  {
+   "id": "hwagok",
+   "name": "Hwagok",
+   "nameKo": "화곡역",
+   "lat": 37.541673,
+   "lng": 126.840397,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "hwagye",
+   "name": "Hwagye",
+   "nameKo": "화계역",
+   "lat": 37.634027,
+   "lng": 127.017489,
+   "lines": [
+    "UI"
+   ]
+  },
+  {
+   "id": "hwajeong",
+   "name": "Hwajeong",
+   "nameKo": "화정역",
+   "lat": 37.634646,
+   "lng": 126.832577,
+   "lines": [
+    "3"
+   ]
+  },
+  {
+   "id": "hwarangdae",
+   "name": "Hwarangdae",
+   "nameKo": "화랑대역",
+   "lat": 37.619784,
+   "lng": 127.083712,
+   "lines": [
+    "6"
+   ]
+  },
+  {
+   "id": "hwaseo",
+   "name": "Hwaseo",
+   "nameKo": "화서역",
+   "lat": 37.284061,
+   "lng": 126.989558,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "hyehwa",
+   "name": "Hyehwa",
+   "nameKo": "혜화역",
+   "lat": 37.582138,
+   "lng": 127.001953,
+   "lines": [
+    "4"
+   ]
+  },
+  {
+   "id": "hyochang-park",
+   "name": "Hyochang Park",
+   "nameKo": "효창공원앞역",
+   "lat": 37.539341,
+   "lng": 126.961332,
+   "lines": [
+    "6",
+    "GJ"
+   ]
+  },
+  {
+   "id": "ichon",
+   "name": "Ichon",
+   "nameKo": "이촌역",
+   "lat": 37.52244,
+   "lng": 126.973364,
+   "lines": [
+    "4",
+    "GJ"
+   ]
+  },
+  {
+   "id": "ilsan",
+   "name": "Ilsan",
+   "nameKo": "일산역",
+   "lat": 37.682219,
+   "lng": 126.769498,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "ilwon",
+   "name": "Ilwon",
+   "nameKo": "일원역",
+   "lat": 37.483692,
+   "lng": 127.084377,
+   "lines": [
+    "3"
+   ]
+  },
+  {
+   "id": "imae",
+   "name": "Imae",
+   "nameKo": "이매역",
+   "lat": 37.395252,
+   "lng": 127.128242,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "incheon",
+   "name": "Incheon",
+   "nameKo": "인천역",
+   "lat": 37.476569,
+   "lng": 126.617366,
+   "lines": [
+    "1",
+    "SUIN"
+   ]
+  },
+  {
+   "id": "incheon-airport-terminal-2",
+   "name": "Incheon Airport Terminal 2",
+   "nameKo": "인천공항2터미널역",
+   "lat": 37.46894,
+   "lng": 126.433464,
+   "lines": [
+    "AREX"
+   ]
+  },
+  {
+   "id": "incheon-intl-airport-terminal-1",
+   "name": "Incheon Int'l Airport Terminal 1",
+   "nameKo": "인천공항1터미널역",
+   "lat": 37.447216,
+   "lng": 126.452732,
+   "lines": [
+    "AREX"
+   ]
+  },
+  {
+   "id": "incheon-nonhyeon",
+   "name": "Incheon Nonhyeon",
+   "nameKo": "인천논현역",
+   "lat": 37.400687,
+   "lng": 126.722565,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "indeogwon",
+   "name": "Indeogwon",
+   "nameKo": "인덕원역",
+   "lat": 37.401632,
+   "lng": 126.976966,
+   "lines": [
+    "4"
+   ]
+  },
+  {
+   "id": "inha-univ",
+   "name": "Inha Univ.",
+   "nameKo": "인하대역",
+   "lat": 37.448247,
+   "lng": 126.649784,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "itaewon",
+   "name": "Itaewon",
+   "nameKo": "이태원역",
+   "lat": 37.534503,
+   "lng": 126.994371,
+   "lines": [
+    "6"
+   ]
+  },
+  {
+   "id": "jamsil",
+   "name": "Jamsil",
+   "nameKo": "잠실역",
+   "lat": 37.513217,
+   "lng": 127.100137,
+   "lines": [
+    "2",
+    "8"
+   ]
+  },
+  {
+   "id": "jamsillaru",
+   "name": "Jamsillaru",
+   "nameKo": "잠실나루역",
+   "lat": 37.520691,
+   "lng": 127.10383,
+   "lines": [
+    "2"
+   ]
+  },
+  {
+   "id": "jamsilsaenae",
+   "name": "Jamsilsaenae",
+   "nameKo": "잠실새내역",
+   "lat": 37.511588,
+   "lng": 127.085571,
+   "lines": [
+    "2"
+   ]
+  },
+  {
+   "id": "jamwon",
+   "name": "Jamwon",
+   "nameKo": "잠원역",
+   "lat": 37.512751,
+   "lng": 127.01115,
+   "lines": [
+    "3"
+   ]
+  },
+  {
+   "id": "jangam",
+   "name": "Jangam",
+   "nameKo": "장암역",
+   "lat": 37.699974,
+   "lng": 127.052908,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "janghanpyeong",
+   "name": "Janghanpyeong",
+   "nameKo": "장한평역",
+   "lat": 37.561491,
+   "lng": 127.064567,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "jangja-lake-park",
+   "name": "Jangja Lake Park",
+   "nameKo": "장자호수공원역",
+   "lat": 37.587406,
+   "lng": 127.137912,
+   "lines": [
+    "8"
+   ]
+  },
+  {
+   "id": "jangji",
+   "name": "Jangji",
+   "nameKo": "장지역",
+   "lat": 37.478888,
+   "lng": 127.126067,
+   "lines": [
+    "8"
+   ]
+  },
+  {
+   "id": "jangseungbaegi",
+   "name": "Jangseungbaegi",
+   "nameKo": "장승배기역",
+   "lat": 37.505017,
+   "lng": 126.939279,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "jayang",
+   "name": "Jayang",
+   "nameKo": "자양역",
+   "lat": 37.531532,
+   "lng": 127.066742,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "jegi-dong",
+   "name": "Jegi-dong",
+   "nameKo": "제기동역",
+   "lat": 37.578378,
+   "lng": 127.034467,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "jemulpo",
+   "name": "Jemulpo",
+   "nameKo": "제물포역",
+   "lat": 37.466815,
+   "lng": 126.656985,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "jeongbalsan",
+   "name": "Jeongbalsan",
+   "nameKo": "정발산역",
+   "lat": 37.659711,
+   "lng": 126.773265,
+   "lines": [
+    "3"
+   ]
+  },
+  {
+   "id": "jeongja",
+   "name": "Jeongja",
+   "nameKo": "정자역",
+   "lat": 37.366577,
+   "lng": 127.108269,
+   "lines": [
+    "SB",
+    "SUIN"
+   ]
+  },
+  {
+   "id": "jeongneung",
+   "name": "Jeongneung",
+   "nameKo": "정릉역",
+   "lat": 37.602829,
+   "lng": 127.013355,
+   "lines": [
+    "UI"
+   ]
+  },
+  {
+   "id": "jeongwang",
+   "name": "Jeongwang",
+   "nameKo": "정왕역",
+   "lat": 37.351785,
+   "lng": 126.743002,
+   "lines": [
+    "4",
+    "SUIN"
+   ]
+  },
+  {
+   "id": "jeungmi",
+   "name": "Jeungmi",
+   "nameKo": "증미역",
+   "lat": 37.55751,
+   "lng": 126.861818,
+   "lines": [
+    "9"
+   ]
+  },
+  {
+   "id": "jeungsan",
+   "name": "Jeungsan",
+   "nameKo": "증산역",
+   "lat": 37.584144,
+   "lng": 126.909912,
+   "lines": [
+    "6"
+   ]
+  },
+  {
+   "id": "jichuk",
+   "name": "Jichuk",
+   "nameKo": "지축역",
+   "lat": 37.648118,
+   "lng": 126.91393,
+   "lines": [
+    "3"
+   ]
+  },
+  {
+   "id": "jihaeng",
+   "name": "Jihaeng",
+   "nameKo": "지행역",
+   "lat": 37.892351,
+   "lng": 127.055815,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "jinjeop",
+   "name": "Jinjeop",
+   "nameKo": "진접역",
+   "lat": 37.720054,
+   "lng": 127.20325,
+   "lines": [
+    "4"
+   ]
+  },
+  {
+   "id": "jinwi",
+   "name": "Jinwi",
+   "nameKo": "진위역",
+   "lat": 37.110097,
+   "lng": 127.062394,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "jonggak",
+   "name": "Jonggak",
+   "nameKo": "종각역",
+   "lat": 37.570175,
+   "lng": 126.983183,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "jongno-3-ga",
+   "name": "Jongno 3(sam)-ga",
+   "nameKo": "종로3가역",
+   "lat": 37.571499,
+   "lng": 126.991906,
+   "lines": [
+    "1",
+    "3",
+    "5"
+   ]
+  },
+  {
+   "id": "jongno-5-ga",
+   "name": "Jongno 5(o)-ga",
+   "nameKo": "종로5가역",
+   "lat": 37.570987,
+   "lng": 127.002022,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "juan",
+   "name": "Juan",
+   "nameKo": "주안역",
+   "lat": 37.465153,
+   "lng": 126.679028,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "jukjeon",
+   "name": "Jukjeon",
+   "nameKo": "죽전역",
+   "lat": 37.324565,
+   "lng": 127.107413,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "jung-dong",
+   "name": "Jung-dong",
+   "nameKo": "중동역",
+   "lat": 37.486778,
+   "lng": 126.763967,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "jungang",
+   "name": "Jungang",
+   "nameKo": "중앙역",
+   "lat": 37.316028,
+   "lng": 126.838493,
+   "lines": [
+    "4",
+    "SUIN"
+   ]
+  },
+  {
+   "id": "junggok",
+   "name": "Junggok",
+   "nameKo": "중곡역",
+   "lat": 37.566305,
+   "lng": 127.084515,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "junggye",
+   "name": "Junggye",
+   "nameKo": "중계역",
+   "lat": 37.645537,
+   "lng": 127.063873,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "junghwa",
+   "name": "Junghwa",
+   "nameKo": "중화역",
+   "lat": 37.601627,
+   "lng": 127.079517,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "jungnang",
+   "name": "Jungnang",
+   "nameKo": "중랑역",
+   "lat": 37.594976,
+   "lng": 127.076311,
+   "lines": [
+    "GJ",
+    "GC"
+   ]
+  },
+  {
+   "id": "juyeop",
+   "name": "Juyeop",
+   "nameKo": "주엽역",
+   "lat": 37.670152,
+   "lng": 126.761238,
+   "lines": [
+    "3"
+   ]
+  },
+  {
+   "id": "kintex",
+   "name": "Kintex",
+   "nameKo": "킨텍스역",
+   "lat": 37.665214,
+   "lng": 126.748326,
+   "lines": [
+    "GTXA"
+   ]
+  },
+  {
+   "id": "kkachisan",
+   "name": "Kkachisan",
+   "nameKo": "까치산역",
+   "lat": 37.532112,
+   "lng": 126.846526,
+   "lines": [
+    "2",
+    "5"
+   ]
+  },
+  {
+   "id": "kkachiul",
+   "name": "Kkachiul",
+   "nameKo": "까치울역",
+   "lat": 37.506241,
+   "lng": 126.811384,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "konkuk-univ",
+   "name": "Konkuk Univ.",
+   "nameKo": "건대입구역",
+   "lat": 37.540444,
+   "lng": 127.070864,
+   "lines": [
+    "2",
+    "7"
+   ]
+  },
+  {
+   "id": "korea-aerospace-university",
+   "name": "Korea Aerospace University",
+   "nameKo": "한국항공대역",
+   "lat": 37.602781,
+   "lng": 126.868397,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "korea-univ",
+   "name": "Korea Univ.",
+   "nameKo": "고려대역",
+   "lat": 37.590378,
+   "lng": 127.036013,
+   "lines": [
+    "6"
+   ]
+  },
+  {
+   "id": "kwangwoon-university",
+   "name": "Kwangwoon University",
+   "nameKo": "광운대역",
+   "lat": 37.623699,
+   "lng": 127.061819,
+   "lines": [
+    "1",
+    "GC"
+   ]
+  },
+  {
+   "id": "macheon",
+   "name": "Macheon",
+   "nameKo": "마천역",
+   "lat": 37.494953,
+   "lng": 127.152724,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "madeul",
+   "name": "Madeul",
+   "nameKo": "마들역",
+   "lat": 37.665038,
+   "lng": 127.057721,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "madu",
+   "name": "Madu",
+   "nameKo": "마두역",
+   "lat": 37.652004,
+   "lng": 126.77776,
+   "lines": [
+    "3"
+   ]
+  },
+  {
+   "id": "maebong",
+   "name": "Maebong",
+   "nameKo": "매봉역",
+   "lat": 37.487069,
+   "lng": 127.046978,
+   "lines": [
+    "3"
+   ]
+  },
+  {
+   "id": "maegyo",
+   "name": "Maegyo",
+   "nameKo": "매교역",
+   "lat": 37.265477,
+   "lng": 127.015713,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "maetangwonseon",
+   "name": "Maetangwonseon",
+   "nameKo": "매탄권선역",
+   "lat": 37.253032,
+   "lng": 127.040449,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "magok",
+   "name": "Magok",
+   "nameKo": "마곡역",
+   "lat": 37.560249,
+   "lng": 126.824746,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "magongnaru",
+   "name": "Magongnaru",
+   "nameKo": "마곡나루역",
+   "lat": 37.566218,
+   "lng": 126.827917,
+   "lines": [
+    "9",
+    "AREX"
+   ]
+  },
+  {
+   "id": "majang",
+   "name": "Majang",
+   "nameKo": "마장역",
+   "lat": 37.566098,
+   "lng": 127.042881,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "mangpo",
+   "name": "Mangpo",
+   "nameKo": "망포역",
+   "lat": 37.245613,
+   "lng": 127.057003,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "mangu",
+   "name": "Mangu",
+   "nameKo": "망우역",
+   "lat": 37.599635,
+   "lng": 127.091858,
+   "lines": [
+    "GJ",
+    "GC"
+   ]
+  },
+  {
+   "id": "mangwolsa",
+   "name": "Mangwolsa",
+   "nameKo": "망월사역",
+   "lat": 37.710253,
+   "lng": 127.047397,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "mangwon",
+   "name": "Mangwon",
+   "nameKo": "망원역",
+   "lat": 37.556025,
+   "lng": 126.910128,
+   "lines": [
+    "6"
+   ]
+  },
+  {
+   "id": "mapo",
+   "name": "Mapo",
+   "nameKo": "마포역",
+   "lat": 37.539637,
+   "lng": 126.945993,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "mapo-gu-office",
+   "name": "Mapo-gu Office",
+   "nameKo": "마포구청역",
+   "lat": 37.563559,
+   "lng": 126.903364,
+   "lines": [
+    "6"
+   ]
+  },
+  {
+   "id": "maseok",
+   "name": "Maseok",
+   "nameKo": "마석역",
+   "lat": 37.652774,
+   "lng": 127.311673,
+   "lines": [
+    "GC"
+   ]
+  },
+  {
+   "id": "meokgol",
+   "name": "Meokgol",
+   "nameKo": "먹골역",
+   "lat": 37.611442,
+   "lng": 127.077652,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "mia",
+   "name": "Mia",
+   "nameKo": "미아역",
+   "lat": 37.626494,
+   "lng": 127.026109,
+   "lines": [
+    "4"
+   ]
+  },
+  {
+   "id": "miasageori",
+   "name": "Miasageori",
+   "nameKo": "미아사거리역",
+   "lat": 37.613185,
+   "lng": 127.030091,
+   "lines": [
+    "4"
+   ]
+  },
+  {
+   "id": "migeum",
+   "name": "Migeum",
+   "nameKo": "미금역",
+   "lat": 37.349993,
+   "lng": 127.108945,
+   "lines": [
+    "SB",
+    "SUIN"
+   ]
+  },
+  {
+   "id": "misa",
+   "name": "Misa",
+   "nameKo": "미사역",
+   "lat": 37.563055,
+   "lng": 127.192822,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "mok-dong",
+   "name": "Mok-dong",
+   "nameKo": "목동역",
+   "lat": 37.526124,
+   "lng": 126.864517,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "mongchontoseong",
+   "name": "Mongchontoseong",
+   "nameKo": "몽촌토성역",
+   "lat": 37.517533,
+   "lng": 127.11267,
+   "lines": [
+    "8"
+   ]
+  },
+  {
+   "id": "moran",
+   "name": "Moran",
+   "nameKo": "모란역",
+   "lat": 37.433739,
+   "lng": 127.129155,
+   "lines": [
+    "8",
+    "SUIN"
+   ]
+  },
+  {
+   "id": "muakjae",
+   "name": "Muakjae",
+   "nameKo": "무악재역",
+   "lat": 37.582317,
+   "lng": 126.95035,
+   "lines": [
+    "3"
+   ]
+  },
+  {
+   "id": "mullae",
+   "name": "Mullae",
+   "nameKo": "문래역",
+   "lat": 37.518384,
+   "lng": 126.894873,
+   "lines": [
+    "2"
+   ]
+  },
+  {
+   "id": "munjeong",
+   "name": "Munjeong",
+   "nameKo": "문정역",
+   "lat": 37.485836,
+   "lng": 127.122518,
+   "lines": [
+    "8"
+   ]
+  },
+  {
+   "id": "munsan",
+   "name": "Munsan",
+   "nameKo": "문산역",
+   "lat": 37.854467,
+   "lng": 126.787988,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "myeongdong",
+   "name": "Myeongdong",
+   "nameKo": "명동역",
+   "lat": 37.560898,
+   "lng": 126.986376,
+   "lines": [
+    "4"
+   ]
+  },
+  {
+   "id": "myeonghak",
+   "name": "Myeonghak",
+   "nameKo": "명학역",
+   "lat": 37.384306,
+   "lng": 126.935651,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "myeongil",
+   "name": "Myeongil",
+   "nameKo": "명일역",
+   "lat": 37.551953,
+   "lng": 127.144085,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "myeonmok",
+   "name": "Myeonmok",
+   "nameKo": "면목역",
+   "lat": 37.5884,
+   "lng": 127.087604,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "naebang",
+   "name": "Naebang",
+   "nameKo": "내방역",
+   "lat": 37.487645,
+   "lng": 126.993554,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "nakseongdae",
+   "name": "Nakseongdae",
+   "nameKo": "낙성대역",
+   "lat": 37.477062,
+   "lng": 126.963488,
+   "lines": [
+    "2"
+   ]
+  },
+  {
+   "id": "nambu-bus-terminal",
+   "name": "Nambu Bus Terminal",
+   "nameKo": "남부터미널역",
+   "lat": 37.484943,
+   "lng": 127.016345,
+   "lines": [
+    "3"
+   ]
+  },
+  {
+   "id": "namchuncheon",
+   "name": "Namchuncheon",
+   "nameKo": "남춘천역",
+   "lat": 37.864012,
+   "lng": 127.723939,
+   "lines": [
+    "GC"
+   ]
+  },
+  {
+   "id": "namdong-induspark",
+   "name": "Namdong Induspark",
+   "nameKo": "남동인더스파크역",
+   "lat": 37.407752,
+   "lng": 126.695234,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "namguro",
+   "name": "Namguro",
+   "nameKo": "남구로역",
+   "lat": 37.485361,
+   "lng": 126.886665,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "namhansanseong",
+   "name": "Namhansanseong",
+   "nameKo": "남한산성입구역",
+   "lat": 37.451553,
+   "lng": 127.159813,
+   "lines": [
+    "8"
+   ]
+  },
+  {
+   "id": "namseong",
+   "name": "Namseong",
+   "nameKo": "남성역",
+   "lat": 37.484355,
+   "lng": 126.971894,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "namtaeryeong",
+   "name": "Namtaeryeong",
+   "nameKo": "남태령역",
+   "lat": 37.464656,
+   "lng": 126.988698,
+   "lines": [
+    "4"
+   ]
+  },
+  {
+   "id": "namwirye",
+   "name": "Namwirye",
+   "nameKo": "남위례역",
+   "lat": 37.462772,
+   "lng": 127.139216,
+   "lines": [
+    "8"
+   ]
+  },
+  {
+   "id": "namyeong",
+   "name": "Namyeong",
+   "nameKo": "남영역",
+   "lat": 37.540538,
+   "lng": 126.971321,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "national-assembly",
+   "name": "National Assembly",
+   "nameKo": "국회의사당역",
+   "lat": 37.528016,
+   "lng": 126.917964,
+   "lines": [
+    "9"
+   ]
+  },
+  {
+   "id": "national-police-hospital",
+   "name": "National Police Hospital",
+   "nameKo": "경찰병원역",
+   "lat": 37.495401,
+   "lng": 127.123904,
+   "lines": [
+    "3"
+   ]
+  },
+  {
+   "id": "neunggok",
+   "name": "Neunggok",
+   "nameKo": "능곡역",
+   "lat": 37.61894,
+   "lng": 126.820516,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "nodeul",
+   "name": "Nodeul",
+   "nameKo": "노들역",
+   "lat": 37.512974,
+   "lng": 126.95355,
+   "lines": [
+    "9"
+   ]
+  },
+  {
+   "id": "nogyang",
+   "name": "Nogyang",
+   "nameKo": "녹양역",
+   "lat": 37.759399,
+   "lng": 127.042331,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "nokbeon",
+   "name": "Nokbeon",
+   "nameKo": "녹번역",
+   "lat": 37.600973,
+   "lng": 126.935731,
+   "lines": [
+    "3"
+   ]
+  },
+  {
+   "id": "nokcheon",
+   "name": "Nokcheon",
+   "nameKo": "녹천역",
+   "lat": 37.644627,
+   "lng": 127.051398,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "noksapyeong",
+   "name": "Noksapyeong",
+   "nameKo": "녹사평역",
+   "lat": 37.53492,
+   "lng": 126.986577,
+   "lines": [
+    "6"
+   ]
+  },
+  {
+   "id": "nonhyeon",
+   "name": "Nonhyeon",
+   "nameKo": "논현역",
+   "lat": 37.510979,
+   "lng": 127.021364,
+   "lines": [
+    "7",
+    "SB"
+   ]
+  },
+  {
+   "id": "noryangjin",
+   "name": "Noryangjin",
+   "nameKo": "노량진역",
+   "lat": 37.513614,
+   "lng": 126.941573,
+   "lines": [
+    "1",
+    "9"
+   ]
+  },
+  {
+   "id": "nowon",
+   "name": "Nowon",
+   "nameKo": "노원역",
+   "lat": 37.654591,
+   "lng": 127.060493,
+   "lines": [
+    "4",
+    "7"
+   ]
+  },
+  {
+   "id": "obin",
+   "name": "Obin",
+   "nameKo": "오빈역",
+   "lat": 37.506215,
+   "lng": 127.473666,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "ogeum",
+   "name": "Ogeum",
+   "nameKo": "오금역",
+   "lat": 37.501981,
+   "lng": 127.128152,
+   "lines": [
+    "3",
+    "5"
+   ]
+  },
+  {
+   "id": "oido",
+   "name": "Oido",
+   "nameKo": "오이도역",
+   "lat": 37.361838,
+   "lng": 126.738452,
+   "lines": [
+    "4",
+    "SUIN"
+   ]
+  },
+  {
+   "id": "oksu",
+   "name": "Oksu",
+   "nameKo": "옥수역",
+   "lat": 37.541373,
+   "lng": 127.01755,
+   "lines": [
+    "3",
+    "GJ"
+   ]
+  },
+  {
+   "id": "olympic-park",
+   "name": "Olympic Park",
+   "nameKo": "올림픽공원역",
+   "lat": 37.516148,
+   "lng": 127.13093,
+   "lines": [
+    "5",
+    "9"
+   ]
+  },
+  {
+   "id": "omokcheon",
+   "name": "Omokcheon",
+   "nameKo": "오목천역",
+   "lat": 37.243466,
+   "lng": 126.964013,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "omokgyo",
+   "name": "Omokgyo",
+   "nameKo": "오목교역",
+   "lat": 37.524565,
+   "lng": 126.875122,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "onam",
+   "name": "Onam",
+   "nameKo": "오남역",
+   "lat": 37.705234,
+   "lng": 127.191166,
+   "lines": [
+    "4"
+   ]
+  },
+  {
+   "id": "onsu",
+   "name": "Onsu",
+   "nameKo": "온수역",
+   "lat": 37.492299,
+   "lng": 126.823534,
+   "lines": [
+    "1",
+    "7"
+   ]
+  },
+  {
+   "id": "ori",
+   "name": "Ori",
+   "nameKo": "오리역",
+   "lat": 37.340081,
+   "lng": 127.108932,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "oryu-dong",
+   "name": "Oryu-dong",
+   "nameKo": "오류동역",
+   "lat": 37.494347,
+   "lng": 126.844537,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "osan",
+   "name": "Osan",
+   "nameKo": "오산역",
+   "lat": 37.144826,
+   "lng": 127.066671,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "osan-college",
+   "name": "Osan College",
+   "nameKo": "오산대역",
+   "lat": 37.169452,
+   "lng": 127.06308,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "paju",
+   "name": "Paju",
+   "nameKo": "파주역",
+   "lat": 37.814984,
+   "lng": 126.792445,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "paldang",
+   "name": "Paldang",
+   "nameKo": "팔당역",
+   "lat": 37.547485,
+   "lng": 127.243806,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "pangyo",
+   "name": "Pangyo",
+   "nameKo": "판교역",
+   "lat": 37.394359,
+   "lng": 127.111155,
+   "lines": [
+    "SB"
+   ]
+  },
+  {
+   "id": "pungsan",
+   "name": "Pungsan",
+   "nameKo": "풍산역",
+   "lat": 37.672348,
+   "lng": 126.786243,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "pyeongchon",
+   "name": "Pyeongchon",
+   "nameKo": "평촌역",
+   "lat": 37.394289,
+   "lng": 126.963878,
+   "lines": [
+    "4"
+   ]
+  },
+  {
+   "id": "pyeongnaehopyeong",
+   "name": "PyeongnaeHopyeong",
+   "nameKo": "평내호평역",
+   "lat": 37.653214,
+   "lng": 127.24449,
+   "lines": [
+    "GC"
+   ]
+  },
+  {
+   "id": "pyeongtaek-jije",
+   "name": "Pyeongtaek Jije",
+   "nameKo": "평택지제역",
+   "lat": 37.019002,
+   "lng": 127.070426,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "sadang",
+   "name": "Sadang",
+   "nameKo": "사당역",
+   "lat": 37.476583,
+   "lng": 126.981668,
+   "lines": [
+    "2",
+    "4"
+   ]
+  },
+  {
+   "id": "saejeol",
+   "name": "Saejeol",
+   "nameKo": "새절역",
+   "lat": 37.591649,
+   "lng": 126.913792,
+   "lines": [
+    "6"
+   ]
+  },
+  {
+   "id": "saetgang",
+   "name": "Saetgang",
+   "nameKo": "샛강역",
+   "lat": 37.517367,
+   "lng": 126.929418,
+   "lines": [
+    "9",
+    "SL"
+   ]
+  },
+  {
+   "id": "sagajeong",
+   "name": "Sagajeong",
+   "nameKo": "사가정역",
+   "lat": 37.580697,
+   "lng": 127.088411,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "samgakji",
+   "name": "Samgakji",
+   "nameKo": "삼각지역",
+   "lat": 37.535478,
+   "lng": 126.973889,
+   "lines": [
+    "4",
+    "6"
+   ]
+  },
+  {
+   "id": "samjeon",
+   "name": "Samjeon",
+   "nameKo": "삼전역",
+   "lat": 37.504535,
+   "lng": 127.087208,
+   "lines": [
+    "9"
+   ]
+  },
+  {
+   "id": "samsan-gymnasium",
+   "name": "Samsan Gymnasium",
+   "nameKo": "삼산체육관역",
+   "lat": 37.506496,
+   "lng": 126.742347,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "samseong",
+   "name": "Samseong",
+   "nameKo": "삼성역",
+   "lat": 37.50884,
+   "lng": 127.063143,
+   "lines": [
+    "2"
+   ]
+  },
+  {
+   "id": "samseong-jungang",
+   "name": "Samseong Jungang",
+   "nameKo": "삼성중앙역",
+   "lat": 37.513095,
+   "lng": 127.053475,
+   "lines": [
+    "9"
+   ]
+  },
+  {
+   "id": "samsong",
+   "name": "Samsong",
+   "nameKo": "삼송역",
+   "lat": 37.653119,
+   "lng": 126.89548,
+   "lines": [
+    "3"
+   ]
+  },
+  {
+   "id": "samyang",
+   "name": "Samyang",
+   "nameKo": "삼양역",
+   "lat": 37.626923,
+   "lng": 127.018176,
+   "lines": [
+    "UI"
+   ]
+  },
+  {
+   "id": "samyang-sageori",
+   "name": "Samyang Sageori",
+   "nameKo": "삼양사거리역",
+   "lat": 37.621199,
+   "lng": 127.020492,
+   "lines": [
+    "UI"
+   ]
+  },
+  {
+   "id": "sanbon",
+   "name": "Sanbon",
+   "nameKo": "산본역",
+   "lat": 37.358028,
+   "lng": 126.933021,
+   "lines": [
+    "4"
+   ]
+  },
+  {
+   "id": "sang-dong",
+   "name": "Sang-dong",
+   "nameKo": "상동역",
+   "lat": 37.505836,
+   "lng": 126.753174,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "sangbong",
+   "name": "Sangbong",
+   "nameKo": "상봉역",
+   "lat": 37.597031,
+   "lng": 127.085656,
+   "lines": [
+    "7",
+    "GJ",
+    "GC"
+   ]
+  },
+  {
+   "id": "sangcheon",
+   "name": "Sangcheon",
+   "nameKo": "상천역",
+   "lat": 37.770149,
+   "lng": 127.454418,
+   "lines": [
+    "GC"
+   ]
+  },
+  {
+   "id": "sangdo",
+   "name": "Sangdo",
+   "nameKo": "상도역",
+   "lat": 37.503216,
+   "lng": 126.947673,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "sanggal",
+   "name": "Sanggal",
+   "nameKo": "상갈역",
+   "lat": 37.2617,
+   "lng": 127.108891,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "sanggye",
+   "name": "Sanggye",
+   "nameKo": "상계역",
+   "lat": 37.660765,
+   "lng": 127.073439,
+   "lines": [
+    "4"
+   ]
+  },
+  {
+   "id": "sanghyeon",
+   "name": "Sanghyeon",
+   "nameKo": "상현역",
+   "lat": 37.297429,
+   "lng": 127.069288,
+   "lines": [
+    "SB"
+   ]
+  },
+  {
+   "id": "sangil-dong",
+   "name": "Sangil-dong",
+   "nameKo": "상일동역",
+   "lat": 37.556776,
+   "lng": 127.166779,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "sangnoksu",
+   "name": "Sangnoksu",
+   "nameKo": "상록수역",
+   "lat": 37.302822,
+   "lng": 126.86661,
+   "lines": [
+    "4"
+   ]
+  },
+  {
+   "id": "sangok",
+   "name": "Sangok",
+   "nameKo": "산곡역",
+   "lat": 37.508697,
+   "lng": 126.703693,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "sangsu",
+   "name": "Sangsu",
+   "nameKo": "상수역",
+   "lat": 37.547758,
+   "lng": 126.922892,
+   "lines": [
+    "6"
+   ]
+  },
+  {
+   "id": "sangwangsimni",
+   "name": "Sangwangsimni",
+   "nameKo": "상왕십리역",
+   "lat": 37.564391,
+   "lng": 127.029251,
+   "lines": [
+    "2"
+   ]
+  },
+  {
+   "id": "sangwolgok",
+   "name": "Sangwolgok",
+   "nameKo": "상월곡역",
+   "lat": 37.606238,
+   "lng": 127.048272,
+   "lines": [
+    "6"
+   ]
+  },
+  {
+   "id": "sanseong",
+   "name": "Sanseong",
+   "nameKo": "산성역",
+   "lat": 37.456868,
+   "lng": 127.149933,
+   "lines": [
+    "8"
+   ]
+  },
+  {
+   "id": "sapyeong",
+   "name": "Sapyeong",
+   "nameKo": "사평역",
+   "lat": 37.504295,
+   "lng": 127.01514,
+   "lines": [
+    "9"
+   ]
+  },
+  {
+   "id": "sareung",
+   "name": "Sareung",
+   "nameKo": "사릉역",
+   "lat": 37.651099,
+   "lng": 127.176896,
+   "lines": [
+    "GC"
+   ]
+  },
+  {
+   "id": "sari",
+   "name": "Sari",
+   "nameKo": "사리역",
+   "lat": 37.290867,
+   "lng": 126.8572,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "sema",
+   "name": "Sema",
+   "nameKo": "세마역",
+   "lat": 37.187188,
+   "lng": 127.04343,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "seobinggo",
+   "name": "Seobinggo",
+   "nameKo": "서빙고역",
+   "lat": 37.519574,
+   "lng": 126.988318,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "seocho",
+   "name": "Seocho",
+   "nameKo": "서초역",
+   "lat": 37.491775,
+   "lng": 127.007681,
+   "lines": [
+    "2"
+   ]
+  },
+  {
+   "id": "seodaemun",
+   "name": "Seodaemun",
+   "nameKo": "서대문역",
+   "lat": 37.565795,
+   "lng": 126.966635,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "seodongtan",
+   "name": "Seodongtan",
+   "nameKo": "서동탄역",
+   "lat": 37.195723,
+   "lng": 127.051881,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "seohyeon",
+   "name": "Seohyeon",
+   "nameKo": "서현역",
+   "lat": 37.384911,
+   "lng": 127.123333,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "seojeong-ri",
+   "name": "Seojeong-ri",
+   "nameKo": "서정리역",
+   "lat": 37.056486,
+   "lng": 127.05288,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "seokchon",
+   "name": "Seokchon",
+   "nameKo": "석촌역",
+   "lat": 37.505295,
+   "lng": 127.107111,
+   "lines": [
+    "8",
+    "9"
+   ]
+  },
+  {
+   "id": "seokchon-gobun",
+   "name": "Seokchon Gobun",
+   "nameKo": "석촌고분역",
+   "lat": 37.502444,
+   "lng": 127.096614,
+   "lines": [
+    "9"
+   ]
+  },
+  {
+   "id": "seokgye",
+   "name": "Seokgye",
+   "nameKo": "석계역",
+   "lat": 37.614808,
+   "lng": 127.065839,
+   "lines": [
+    "1",
+    "6"
+   ]
+  },
+  {
+   "id": "seoksu",
+   "name": "Seoksu",
+   "nameKo": "석수역",
+   "lat": 37.435133,
+   "lng": 126.902306,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "seolleung",
+   "name": "Seolleung",
+   "nameKo": "선릉역",
+   "lat": 37.504475,
+   "lng": 127.048951,
+   "lines": [
+    "2",
+    "SUIN"
+   ]
+  },
+  {
+   "id": "seonbawi",
+   "name": "Seonbawi",
+   "nameKo": "선바위역",
+   "lat": 37.451805,
+   "lng": 127.002111,
+   "lines": [
+    "4"
+   ]
+  },
+  {
+   "id": "seongbok",
+   "name": "Seongbok",
+   "nameKo": "성복역",
+   "lat": 37.313432,
+   "lng": 127.080282,
+   "lines": [
+    "SB"
+   ]
+  },
+  {
+   "id": "seongnam",
+   "name": "Seongnam",
+   "nameKo": "석남역",
+   "lat": 37.506286,
+   "lng": 126.674637,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "seongsu",
+   "name": "Seongsu",
+   "nameKo": "성수역",
+   "lat": 37.544569,
+   "lng": 127.056102,
+   "lines": [
+    "2"
+   ]
+  },
+  {
+   "id": "seonjeongneung",
+   "name": "Seonjeongneung",
+   "nameKo": "선정릉역",
+   "lat": 37.510253,
+   "lng": 127.043859,
+   "lines": [
+    "9",
+    "SUIN"
+   ]
+  },
+  {
+   "id": "seonyudo",
+   "name": "Seonyudo",
+   "nameKo": "선유도역",
+   "lat": 37.537859,
+   "lng": 126.893982,
+   "lines": [
+    "9"
+   ]
+  },
+  {
+   "id": "seoul",
+   "name": "Seoul",
+   "nameKo": "서울역",
+   "lat": 37.555417,
+   "lng": 126.972586,
+   "lines": [
+    "1",
+    "4",
+    "GJ",
+    "AREX",
+    "GTXA"
+   ]
+  },
+  {
+   "id": "seoul-forest",
+   "name": "Seoul-forest",
+   "nameKo": "서울숲역",
+   "lat": 37.543592,
+   "lng": 127.04474,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "seoul-grand-park",
+   "name": "Seoul Grand Park",
+   "nameKo": "대공원역",
+   "lat": 37.435803,
+   "lng": 127.006608,
+   "lines": [
+    "4"
+   ]
+  },
+  {
+   "id": "seoul-natl-univ",
+   "name": "Seoul Nat'l Univ.",
+   "nameKo": "서울대입구역",
+   "lat": 37.481223,
+   "lng": 126.952715,
+   "lines": [
+    "2"
+   ]
+  },
+  {
+   "id": "seoul-natl-univ-of-education",
+   "name": "Seoul Nat'l Univ. of Education",
+   "nameKo": "교대역",
+   "lat": 37.493659,
+   "lng": 127.013702,
+   "lines": [
+    "2",
+    "3"
+   ]
+  },
+  {
+   "id": "seoul-natl-univ-venture-town",
+   "name": "Seoul Nat'l Univ. Venture Town",
+   "nameKo": "서울대벤처타운역",
+   "lat": 37.472003,
+   "lng": 126.933706,
+   "lines": [
+    "SL"
+   ]
+  },
+  {
+   "id": "seoul-racecourse-park",
+   "name": "Seoul Racecourse Park",
+   "nameKo": "경마공원역",
+   "lat": 37.443765,
+   "lng": 127.007896,
+   "lines": [
+    "4"
+   ]
+  },
+  {
+   "id": "seoul-regional-office-of-military-manpower",
+   "name": "Seoul Regional Office of Military Manpower",
+   "nameKo": "서울지방병무청역",
+   "lat": 37.505963,
+   "lng": 126.922724,
+   "lines": [
+    "SL"
+   ]
+  },
+  {
+   "id": "seowon",
+   "name": "Seowon",
+   "nameKo": "서원역",
+   "lat": 37.478211,
+   "lng": 126.933012,
+   "lines": [
+    "SL"
+   ]
+  },
+  {
+   "id": "seryu",
+   "name": "Seryu",
+   "nameKo": "세류역",
+   "lat": 37.244152,
+   "lng": 127.013712,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "sillim",
+   "name": "Sillim",
+   "nameKo": "신림역",
+   "lat": 37.484659,
+   "lng": 126.92961,
+   "lines": [
+    "2",
+    "SL"
+   ]
+  },
+  {
+   "id": "sinbanghwa",
+   "name": "Sinbanghwa",
+   "nameKo": "신방화역",
+   "lat": 37.567497,
+   "lng": 126.816592,
+   "lines": [
+    "9"
+   ]
+  },
+  {
+   "id": "sinbanpo",
+   "name": "Sinbanpo",
+   "nameKo": "신반포역",
+   "lat": 37.503601,
+   "lng": 126.996418,
+   "lines": [
+    "9"
+   ]
+  },
+  {
+   "id": "sinchon",
+   "name": "Sinchon",
+   "nameKo": "신촌역",
+   "lat": 37.555152,
+   "lng": 126.936908,
+   "lines": [
+    "2"
+   ]
+  },
+  {
+   "id": "sinchon-2",
+   "name": "Sinchon (Gyeongui-Jungang)",
+   "nameKo": "신촌역",
+   "lat": 37.559781,
+   "lng": 126.942358,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "sindaebang",
+   "name": "Sindaebang",
+   "nameKo": "신대방역",
+   "lat": 37.487595,
+   "lng": 126.913392,
+   "lines": [
+    "2"
+   ]
+  },
+  {
+   "id": "sindaebangsamgeori",
+   "name": "Sindaebangsamgeori",
+   "nameKo": "신대방삼거리역",
+   "lat": 37.499706,
+   "lng": 126.928225,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "sindang",
+   "name": "Sindang",
+   "nameKo": "신당역",
+   "lat": 37.565384,
+   "lng": 127.016252,
+   "lines": [
+    "2",
+    "6"
+   ]
+  },
+  {
+   "id": "sindap",
+   "name": "Sindap",
+   "nameKo": "신답역",
+   "lat": 37.569719,
+   "lng": 127.047127,
+   "lines": [
+    "2"
+   ]
+  },
+  {
+   "id": "sindorim",
+   "name": "Sindorim",
+   "nameKo": "신도림역",
+   "lat": 37.509133,
+   "lng": 126.891665,
+   "lines": [
+    "1",
+    "2"
+   ]
+  },
+  {
+   "id": "singal",
+   "name": "Singal",
+   "nameKo": "신갈역",
+   "lat": 37.286149,
+   "lng": 127.111372,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "singeumho",
+   "name": "Singeumho",
+   "nameKo": "신금호역",
+   "lat": 37.554429,
+   "lng": 127.020248,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "singil",
+   "name": "Singil",
+   "nameKo": "신길역",
+   "lat": 37.516649,
+   "lng": 126.918744,
+   "lines": [
+    "1",
+    "5"
+   ]
+  },
+  {
+   "id": "singiloncheon",
+   "name": "Singiloncheon",
+   "nameKo": "신길온천역",
+   "lat": 37.337619,
+   "lng": 126.767131,
+   "lines": [
+    "4",
+    "SUIN"
+   ]
+  },
+  {
+   "id": "sinheung",
+   "name": "Sinheung",
+   "nameKo": "신흥역",
+   "lat": 37.441003,
+   "lng": 127.147664,
+   "lines": [
+    "8"
+   ]
+  },
+  {
+   "id": "sinimun",
+   "name": "Sinimun",
+   "nameKo": "신이문역",
+   "lat": 37.601638,
+   "lng": 127.06729,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "sinjeong",
+   "name": "Sinjeong",
+   "nameKo": "신정역",
+   "lat": 37.525041,
+   "lng": 126.85597,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "sinjeongnegeori",
+   "name": "Sinjeongnegeori",
+   "nameKo": "신정네거리역",
+   "lat": 37.519983,
+   "lng": 126.853046,
+   "lines": [
+    "2"
+   ]
+  },
+  {
+   "id": "sinjung-dong",
+   "name": "Sinjung-dong",
+   "nameKo": "신중동역",
+   "lat": 37.503039,
+   "lng": 126.776233,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "sinmokdong",
+   "name": "Sinmokdong",
+   "nameKo": "신목동역",
+   "lat": 37.544211,
+   "lng": 126.883176,
+   "lines": [
+    "9"
+   ]
+  },
+  {
+   "id": "sinnae",
+   "name": "Sinnae",
+   "nameKo": "신내역",
+   "lat": 37.612551,
+   "lng": 127.10409,
+   "lines": [
+    "6",
+    "GC"
+   ]
+  },
+  {
+   "id": "sinnonhyeon",
+   "name": "Sinnonhyeon",
+   "nameKo": "신논현역",
+   "lat": 37.504322,
+   "lng": 127.024531,
+   "lines": [
+    "9",
+    "SB"
+   ]
+  },
+  {
+   "id": "sinpo",
+   "name": "Sinpo",
+   "nameKo": "신포역",
+   "lat": 37.468264,
+   "lng": 126.624817,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "sinpung",
+   "name": "Sinpung",
+   "nameKo": "신풍역",
+   "lat": 37.500167,
+   "lng": 126.908875,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "sinsa",
+   "name": "Sinsa",
+   "nameKo": "신사역",
+   "lat": 37.516109,
+   "lng": 127.019516,
+   "lines": [
+    "3",
+    "SB"
+   ]
+  },
+  {
+   "id": "sinseol-dong",
+   "name": "Sinseol-dong",
+   "nameKo": "신설동역",
+   "lat": 37.576054,
+   "lng": 127.024666,
+   "lines": [
+    "1",
+    "2",
+    "UI"
+   ]
+  },
+  {
+   "id": "sinwon",
+   "name": "Sinwon",
+   "nameKo": "신원역",
+   "lat": 37.525589,
+   "lng": 127.37301,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "sinyongsan",
+   "name": "Sinyongsan",
+   "nameKo": "신용산역",
+   "lat": 37.529174,
+   "lng": 126.967857,
+   "lines": [
+    "4"
+   ]
+  },
+  {
+   "id": "sogang-univ",
+   "name": "Sogang Univ.",
+   "nameKo": "서강대역",
+   "lat": 37.552353,
+   "lng": 126.935184,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "solbat-park",
+   "name": "Solbat Park",
+   "nameKo": "솔밭공원역",
+   "lat": 37.65607,
+   "lng": 127.013249,
+   "lines": [
+    "UI"
+   ]
+  },
+  {
+   "id": "solsaem",
+   "name": "Solsaem",
+   "nameKo": "솔샘역",
+   "lat": 37.620166,
+   "lng": 127.013841,
+   "lines": [
+    "UI"
+   ]
+  },
+  {
+   "id": "songdo",
+   "name": "Songdo",
+   "nameKo": "송도역",
+   "lat": 37.429938,
+   "lng": 126.654715,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "songjeong",
+   "name": "Songjeong",
+   "nameKo": "송정역",
+   "lat": 37.561277,
+   "lng": 126.811943,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "songnae",
+   "name": "Songnae",
+   "nameKo": "송내역",
+   "lat": 37.487704,
+   "lng": 126.752885,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "songpa",
+   "name": "Songpa",
+   "nameKo": "송파역",
+   "lat": 37.499725,
+   "lng": 127.112182,
+   "lines": [
+    "8"
+   ]
+  },
+  {
+   "id": "songpanaru",
+   "name": "Songpanaru",
+   "nameKo": "송파나루역",
+   "lat": 37.511245,
+   "lng": 127.112795,
+   "lines": [
+    "9"
+   ]
+  },
+  {
+   "id": "songtan",
+   "name": "Songtan",
+   "nameKo": "송탄역",
+   "lat": 37.075958,
+   "lng": 127.05432,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "sookmyung-womens-univ",
+   "name": "Sookmyung Women's Univ.",
+   "nameKo": "숙대입구역",
+   "lat": 37.545134,
+   "lng": 126.971957,
+   "lines": [
+    "4"
+   ]
+  },
+  {
+   "id": "soongsil-univ",
+   "name": "Soongsil Univ.",
+   "nameKo": "숭실대입구역",
+   "lat": 37.495686,
+   "lng": 126.954133,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "soraepogu",
+   "name": "Soraepogu",
+   "nameKo": "소래포구역",
+   "lat": 37.400917,
+   "lng": 126.733525,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "sosa",
+   "name": "Sosa",
+   "nameKo": "소사역",
+   "lat": 37.482766,
+   "lng": 126.79559,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "soyosan",
+   "name": "Soyosan",
+   "nameKo": "소요산역",
+   "lat": 37.948014,
+   "lng": 127.060812,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "sports-complex",
+   "name": "Sports Complex",
+   "nameKo": "종합운동장역",
+   "lat": 37.511406,
+   "lng": 127.076209,
+   "lines": [
+    "2",
+    "9"
+   ]
+  },
+  {
+   "id": "ssangmun",
+   "name": "Ssangmun",
+   "nameKo": "쌍문역",
+   "lat": 37.648403,
+   "lng": 127.034579,
+   "lines": [
+    "4"
+   ]
+  },
+  {
+   "id": "suji-gu-office",
+   "name": "Suji-gu Office",
+   "nameKo": "수지구청역",
+   "lat": 37.322516,
+   "lng": 127.094721,
+   "lines": [
+    "SB"
+   ]
+  },
+  {
+   "id": "sujin",
+   "name": "Sujin",
+   "nameKo": "수진역",
+   "lat": 37.437443,
+   "lng": 127.140686,
+   "lines": [
+    "8"
+   ]
+  },
+  {
+   "id": "sunae",
+   "name": "Sunae",
+   "nameKo": "수내역",
+   "lat": 37.378405,
+   "lng": 127.114245,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "sungkyunkwan-univ",
+   "name": "Sungkyunkwan Univ",
+   "nameKo": "성균관대역",
+   "lat": 37.300316,
+   "lng": 126.970957,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "sungshin-womens-university",
+   "name": "Sungshin Women's University",
+   "nameKo": "성신여대입구역",
+   "lat": 37.592675,
+   "lng": 127.016476,
+   "lines": [
+    "4",
+    "UI"
+   ]
+  },
+  {
+   "id": "sungui",
+   "name": "Sungui",
+   "nameKo": "숭의역",
+   "lat": 37.460793,
+   "lng": 126.638235,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "suraksan",
+   "name": "Suraksan",
+   "nameKo": "수락산역",
+   "lat": 37.677804,
+   "lng": 127.055343,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "surisan",
+   "name": "Surisan",
+   "nameKo": "수리산역",
+   "lat": 37.350542,
+   "lng": 126.925603,
+   "lines": [
+    "4"
+   ]
+  },
+  {
+   "id": "susaek",
+   "name": "Susaek",
+   "nameKo": "수색역",
+   "lat": 37.580758,
+   "lng": 126.895553,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "suseo",
+   "name": "Suseo",
+   "nameKo": "수서역",
+   "lat": 37.487416,
+   "lng": 127.10184,
+   "lines": [
+    "3",
+    "SUIN",
+    "GTXA"
+   ]
+  },
+  {
+   "id": "suwon",
+   "name": "Suwon",
+   "nameKo": "수원역",
+   "lat": 37.266181,
+   "lng": 127.00004,
+   "lines": [
+    "1",
+    "SUIN"
+   ]
+  },
+  {
+   "id": "suwon-city-hall",
+   "name": "Suwon City Hall",
+   "nameKo": "수원시청역",
+   "lat": 37.261738,
+   "lng": 127.031897,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "suyu",
+   "name": "Suyu",
+   "nameKo": "수유역",
+   "lat": 37.637993,
+   "lng": 127.025723,
+   "lines": [
+    "4"
+   ]
+  },
+  {
+   "id": "taepyeong",
+   "name": "Taepyeong",
+   "nameKo": "태평역",
+   "lat": 37.439709,
+   "lng": 127.127745,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "taereung",
+   "name": "Taereung",
+   "nameKo": "태릉입구역",
+   "lat": 37.617692,
+   "lng": 127.075672,
+   "lines": [
+    "6",
+    "7"
+   ]
+  },
+  {
+   "id": "tanhyeon",
+   "name": "Tanhyeon",
+   "nameKo": "탄현역",
+   "lat": 37.694105,
+   "lng": 126.761026,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "toegyewon",
+   "name": "Toegyewon",
+   "nameKo": "퇴계원역",
+   "lat": 37.648256,
+   "lng": 127.143532,
+   "lines": [
+    "GC"
+   ]
+  },
+  {
+   "id": "ttukseom",
+   "name": "Ttukseom",
+   "nameKo": "뚝섬역",
+   "lat": 37.547235,
+   "lng": 127.04741,
+   "lines": [
+    "2"
+   ]
+  },
+  {
+   "id": "uijeongbu",
+   "name": "Uijeongbu",
+   "nameKo": "의정부역",
+   "lat": 37.737704,
+   "lng": 127.04605,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "uiwang",
+   "name": "Uiwang",
+   "nameKo": "의왕역",
+   "lat": 37.32038,
+   "lng": 126.948073,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "ujangsan",
+   "name": "Ujangsan",
+   "nameKo": "우장산역",
+   "lat": 37.548894,
+   "lng": 126.836323,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "ungilsan",
+   "name": "Ungilsan",
+   "nameKo": "운길산역",
+   "lat": 37.554792,
+   "lng": 127.309876,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "unjeong",
+   "name": "Unjeong",
+   "nameKo": "운정역",
+   "lat": 37.725329,
+   "lng": 126.767045,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "unjeongjungang",
+   "name": "Unjeongjungang",
+   "nameKo": "운정중앙역",
+   "lat": 37.716146,
+   "lng": 126.728286,
+   "lines": [
+    "GTXA"
+   ]
+  },
+  {
+   "id": "unseo",
+   "name": "Unseo",
+   "nameKo": "운서역",
+   "lat": 37.492827,
+   "lng": 126.493727,
+   "lines": [
+    "AREX"
+   ]
+  },
+  {
+   "id": "vhs-medical-center",
+   "name": "VHS Medical Center",
+   "nameKo": "중앙보훈병원역",
+   "lat": 37.52828,
+   "lng": 127.148258,
+   "lines": [
+    "9"
+   ]
+  },
+  {
+   "id": "wangsimni",
+   "name": "Wangsimni",
+   "nameKo": "왕십리역",
+   "lat": 37.561208,
+   "lng": 127.037153,
+   "lines": [
+    "2",
+    "5",
+    "SUIN",
+    "GJ"
+   ]
+  },
+  {
+   "id": "wolgok",
+   "name": "Wolgok",
+   "nameKo": "월곡역",
+   "lat": 37.60192,
+   "lng": 127.041455,
+   "lines": [
+    "6"
+   ]
+  },
+  {
+   "id": "wolgot",
+   "name": "Wolgot",
+   "nameKo": "월곶역",
+   "lat": 37.391796,
+   "lng": 126.742691,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "wolgye",
+   "name": "Wolgye",
+   "nameKo": "월계역",
+   "lat": 37.633063,
+   "lng": 127.058865,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "wolrong",
+   "name": "Wolrong",
+   "nameKo": "월롱역",
+   "lat": 37.796464,
+   "lng": 126.792661,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "wondang",
+   "name": "Wondang",
+   "nameKo": "원당역",
+   "lat": 37.65305,
+   "lng": 126.842898,
+   "lines": [
+    "3"
+   ]
+  },
+  {
+   "id": "wondeok",
+   "name": "Wondeok",
+   "nameKo": "원덕역",
+   "lat": 37.468812,
+   "lng": 127.546566,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "wonheung",
+   "name": "Wonheung",
+   "nameKo": "원흥역",
+   "lat": 37.650512,
+   "lng": 126.873668,
+   "lines": [
+    "3"
+   ]
+  },
+  {
+   "id": "woninjae",
+   "name": "Woninjae",
+   "nameKo": "원인재역",
+   "lat": 37.413124,
+   "lng": 126.686591,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "world-cup-stadium",
+   "name": "World Cup Stadium",
+   "nameKo": "월드컵경기장역",
+   "lat": 37.570192,
+   "lng": 126.899318,
+   "lines": [
+    "6"
+   ]
+  },
+  {
+   "id": "yadang",
+   "name": "Yadang",
+   "nameKo": "야당역",
+   "lat": 37.712967,
+   "lng": 126.761523,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "yaksu",
+   "name": "Yaksu",
+   "nameKo": "약수역",
+   "lat": 37.55475,
+   "lng": 127.010623,
+   "lines": [
+    "3",
+    "6"
+   ]
+  },
+  {
+   "id": "yamok",
+   "name": "Yamok",
+   "nameKo": "야목역",
+   "lat": 37.261195,
+   "lng": 126.884067,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "yangcheon-gu-office",
+   "name": "Yangcheon-gu Office",
+   "nameKo": "양천구청역",
+   "lat": 37.512295,
+   "lng": 126.865945,
+   "lines": [
+    "2"
+   ]
+  },
+  {
+   "id": "yangcheon-hyanggyo",
+   "name": "Yangcheon Hyanggyo",
+   "nameKo": "양천향교역",
+   "lat": 37.568452,
+   "lng": 126.841296,
+   "lines": [
+    "9"
+   ]
+  },
+  {
+   "id": "yangjae",
+   "name": "Yangjae",
+   "nameKo": "양재역",
+   "lat": 37.4844,
+   "lng": 127.034145,
+   "lines": [
+    "3",
+    "SB"
+   ]
+  },
+  {
+   "id": "yangjae-citizens-forest",
+   "name": "Yangjae Citizen's Forest",
+   "nameKo": "양재시민의숲역",
+   "lat": 37.46971,
+   "lng": 127.038477,
+   "lines": [
+    "SB"
+   ]
+  },
+  {
+   "id": "yangjeong",
+   "name": "Yangjeong",
+   "nameKo": "양정역",
+   "lat": 37.60402,
+   "lng": 127.194614,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "yangju",
+   "name": "Yangju",
+   "nameKo": "양주역",
+   "lat": 37.77416,
+   "lng": 127.0448,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "yangpyeong",
+   "name": "Yangpyeong",
+   "nameKo": "양평역",
+   "lat": 37.525633,
+   "lng": 126.886118,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "yangpyeong-2",
+   "name": "Yangpyeong (Gyeongui-Jungang)",
+   "nameKo": "양평역",
+   "lat": 37.492761,
+   "lng": 127.491968,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "yangsu",
+   "name": "Yangsu",
+   "nameKo": "양수역",
+   "lat": 37.546016,
+   "lng": 127.329027,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "yangwon",
+   "name": "Yangwon",
+   "nameKo": "양원역",
+   "lat": 37.606582,
+   "lng": 127.107935,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "yatap",
+   "name": "Yatap",
+   "nameKo": "야탑역",
+   "lat": 37.411298,
+   "lng": 127.128714,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "yeokchon",
+   "name": "Yeokchon",
+   "nameKo": "역촌역",
+   "lat": 37.606073,
+   "lng": 126.922756,
+   "lines": [
+    "6"
+   ]
+  },
+  {
+   "id": "yeokgok",
+   "name": "Yeokgok",
+   "nameKo": "역곡역",
+   "lat": 37.485219,
+   "lng": 126.811811,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "yeoksam",
+   "name": "Yeoksam",
+   "nameKo": "역삼역",
+   "lat": 37.500822,
+   "lng": 127.03696,
+   "lines": [
+    "2"
+   ]
+  },
+  {
+   "id": "yeomchang",
+   "name": "Yeomchang",
+   "nameKo": "염창역",
+   "lat": 37.547033,
+   "lng": 126.875397,
+   "lines": [
+    "9"
+   ]
+  },
+  {
+   "id": "yeongdeungpo",
+   "name": "Yeongdeungpo",
+   "nameKo": "영등포역",
+   "lat": 37.515363,
+   "lng": 126.906935,
+   "lines": [
+    "1"
+   ]
+  },
+  {
+   "id": "yeongdeungpo-gu-office",
+   "name": "Yeongdeungpo-gu Office",
+   "nameKo": "영등포구청역",
+   "lat": 37.524018,
+   "lng": 126.896337,
+   "lines": [
+    "2",
+    "5"
+   ]
+  },
+  {
+   "id": "yeongdeungpo-market",
+   "name": "Yeongdeungpo Market",
+   "nameKo": "영등포시장역",
+   "lat": 37.522693,
+   "lng": 126.905141,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "yeongjong",
+   "name": "Yeongjong",
+   "nameKo": "영종역",
+   "lat": 37.511997,
+   "lng": 126.524873,
+   "lines": [
+    "AREX"
+   ]
+  },
+  {
+   "id": "yeongtong",
+   "name": "Yeongtong",
+   "nameKo": "영통역",
+   "lat": 37.251361,
+   "lng": 127.071283,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "yeonsinnae",
+   "name": "Yeonsinnae",
+   "nameKo": "연신내역",
+   "lat": 37.61893,
+   "lng": 126.920398,
+   "lines": [
+    "3",
+    "6",
+    "GTXA"
+   ]
+  },
+  {
+   "id": "yeonsu",
+   "name": "Yeonsu",
+   "nameKo": "연수역",
+   "lat": 37.417795,
+   "lng": 126.678967,
+   "lines": [
+    "SUIN"
+   ]
+  },
+  {
+   "id": "yeouido",
+   "name": "Yeouido",
+   "nameKo": "여의도역",
+   "lat": 37.521668,
+   "lng": 126.924302,
+   "lines": [
+    "5",
+    "9"
+   ]
+  },
+  {
+   "id": "yeouinaru",
+   "name": "Yeouinaru",
+   "nameKo": "여의나루역",
+   "lat": 37.526853,
+   "lng": 126.932529,
+   "lines": [
+    "5"
+   ]
+  },
+  {
+   "id": "yongdap",
+   "name": "Yongdap",
+   "nameKo": "용답역",
+   "lat": 37.56209,
+   "lng": 127.050861,
+   "lines": [
+    "2"
+   ]
+  },
+  {
+   "id": "yongdu",
+   "name": "Yongdu",
+   "nameKo": "용두역",
+   "lat": 37.574074,
+   "lng": 127.038066,
+   "lines": [
+    "2"
+   ]
+  },
+  {
+   "id": "yongmasan",
+   "name": "Yongmasan",
+   "nameKo": "용마산역",
+   "lat": 37.573993,
+   "lng": 127.08658,
+   "lines": [
+    "7"
+   ]
+  },
+  {
+   "id": "yongmun",
+   "name": "Yongmun",
+   "nameKo": "용문역",
+   "lat": 37.482185,
+   "lng": 127.594688,
+   "lines": [
+    "GJ"
+   ]
+  },
+  {
+   "id": "yongsan",
+   "name": "Yongsan",
+   "nameKo": "용산역",
+   "lat": 37.529953,
+   "lng": 126.964827,
+   "lines": [
+    "1",
+    "GJ"
+   ]
+  }
+ ]
+}

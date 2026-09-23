@@ -1,0 +1,41 @@
+{
+  "categories": {
+    "food": "Eat", "cafe": "Cafés & Desserts", "bar": "Bars & Night", "sight": "See",
+    "shopping": "Shop", "experience": "Do", "wellness": "Relax", "event": "Happening"
+  },
+  "cuisines": [
+    "Korean BBQ", "Hanwoo beef", "Korean pork", "Korean fine dining", "Korean home-style", "Noodles & naengmyeon",
+    "Soups & stews", "Korean fried chicken", "Street & market food", "Seafood", "Temple & vegetarian",
+    "Japanese", "Sushi & omakase", "Ramen", "Chinese", "Dim sum", "Taiwanese", "Thai", "Vietnamese", "Indian",
+    "Middle Eastern", "Mexican", "Italian", "Pizza", "French", "Spanish", "Mediterranean", "American", "Burgers",
+    "Steakhouse", "Brunch", "Buffet", "Modern / fusion", "Bakery", "Dessert", "Coffee", "Tea", "Vegan"
+  ],
+  "vibes": [
+    "futuristic", "luxe", "minimal", "cozy", "lively", "quiet", "romantic", "trendy", "traditional",
+    "view", "rooftop", "riverside", "design", "retro", "hip", "classic", "nature"
+  ],
+  "tags": [
+    "high-tech", "instagrammable", "view", "han-river", "night-view", "rooftop", "michelin", "blue-ribbon",
+    "asias-50-best", "reservation-needed", "walk-in-only", "long-queue", "private-room", "group-friendly",
+    "english-menu", "english-friendly", "late-night", "open-24h", "indoor", "outdoor", "rainy-day", "free",
+    "kid-friendly", "parent-friendly", "accessible", "iconic", "hidden-gem", "value", "local-favorite",
+    "new-2025-2026", "hotel", "shopping-mall", "live-music", "cocktails", "wine", "whisky", "craft-beer",
+    "soju-makgeolli", "k-pop", "k-beauty", "fashion", "design", "art", "museum", "palace", "park", "market",
+    "spa", "sauna", "gaming", "vr", "immersive", "tax-free"
+  ],
+  "goodFor": [
+    "Family of 5", "Parents", "Rainy day", "Night out", "Date", "First-timers", "Foodies", "Quick bite",
+    "Late night", "Celebration", "Photos", "Shopping", "Relaxing", "Kids at heart"
+  ],
+  "subwayLines": {
+    "1": { "name": "Line 1", "color": "#0052A4" }, "2": { "name": "Line 2", "color": "#00A84D" },
+    "3": { "name": "Line 3", "color": "#EF7C1C" }, "4": { "name": "Line 4", "color": "#00A5DE" },
+    "5": { "name": "Line 5", "color": "#996CAC" }, "6": { "name": "Line 6", "color": "#CD7C2F" },
+    "7": { "name": "Line 7", "color": "#747F00" }, "8": { "name": "Line 8", "color": "#E6186C" },
+    "9": { "name": "Line 9", "color": "#BDB092" }, "SB": { "name": "Sinbundang", "color": "#D4003B" },
+    "SUIN": { "name": "Suin-Bundang", "color": "#FABE00" }, "GJ": { "name": "Gyeongui-Jungang", "color": "#77C4A3" },
+    "AREX": { "name": "Airport Railroad", "color": "#0090D2" }, "UI": { "name": "Ui LRT", "color": "#B7C452" },
+    "GTXA": { "name": "GTX-A", "color": "#9A6292" }, "SL": { "name": "Sillim", "color": "#6789CA" },
+    "GC": { "name": "Gyeongchun", "color": "#0C8E72" }
+  }
+}

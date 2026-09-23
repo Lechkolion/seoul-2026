@@ -1,0 +1,113 @@
+/* ============================================================
+   Design tokens — "Night Transit": deep ink, glass, hairlines,
+   one electric cyan→violet accent, full-moon gold for Chuseok.
+   ============================================================ */
+:root {
+  --font-display: 'Unbounded Variable', 'Pretendard Variable', system-ui, sans-serif;
+  --font-body: 'Pretendard Variable', Pretendard, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', system-ui, sans-serif;
+  --font-mono: 'Geist Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
+
+  --r-xs: 8px;
+  --r-sm: 12px;
+  --r-md: 18px;
+  --r-lg: 26px;
+  --r-xl: 34px;
+  --r-pill: 999px;
+
+  --gutter: 16px;
+  --maxw: 1320px;
+  --topbar-h: 60px;
+  --bottomnav-h: 68px;
+  --safe-b: env(safe-area-inset-bottom, 0px);
+  --safe-t: env(safe-area-inset-top, 0px);
+
+  --ease: cubic-bezier(0.2, 0.7, 0.2, 1);
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@media (min-width: 720px) {
+  :root {
+    --gutter: 28px;
+    --topbar-h: 68px;
+  }
+}
+@media (min-width: 1200px) {
+  :root {
+    --gutter: 40px;
+  }
+}
+
+/* ---------- Dark (default) ---------- */
+:root,
+[data-theme='dark'] {
+  color-scheme: dark;
+  --bg: #07080c;
+  --bg-2: #0c0e14;
+  --bg-3: #12151d;
+  --surface: rgba(255, 255, 255, 0.045);
+  --surface-2: rgba(255, 255, 255, 0.075);
+  --surface-3: rgba(255, 255, 255, 0.11);
+  --surface-solid: #11141c;
+  --glass: rgba(14, 16, 23, 0.62);
+  --glass-strong: rgba(10, 12, 18, 0.86);
+  --line: rgba(255, 255, 255, 0.085);
+  --line-2: rgba(255, 255, 255, 0.15);
+  --text: #f3f5f9;
+  --text-2: #bcc3d0;
+  --text-3: #8d96a8;
+  --accent: #6ae4f2;
+  --accent-2: #a898ff;
+  --accent-ink: #03141a;
+  --accent-soft: rgba(106, 228, 242, 0.12);
+  --grad: linear-gradient(115deg, #6ae4f2 0%, #8fb8ff 45%, #a898ff 100%);
+  --grad-text: linear-gradient(100deg, #b9f5fb 0%, #6ae4f2 35%, #a898ff 100%);
+  --moon: #f5c56b;
+  --moon-ink: #1d1400;
+  --moon-soft: rgba(245, 197, 107, 0.13);
+  --open: #5ee39a;
+  --closed: #ff7a7a;
+  --short: #f7c35a;
+  --unknown: #8d96a8;
+  --danger: #ff7a7a;
+  --shadow-1: 0 1px 0 rgba(255, 255, 255, 0.04) inset, 0 10px 30px -12px rgba(0, 0, 0, 0.6);
+  --shadow-2: 0 30px 80px -20px rgba(0, 0, 0, 0.75), 0 0 0 1px rgba(255, 255, 255, 0.06);
+  --img-bg: #151923;
+  --scrim: rgba(3, 4, 7, 0.66);
+}
+
+/* ---------- Light ---------- */
+[data-theme='light'] {
+  color-scheme: light;
+  --bg: #f4f5f8;
+  --bg-2: #ffffff;
+  --bg-3: #eceef3;
+  --surface: rgba(12, 16, 28, 0.035);
+  --surface-2: rgba(12, 16, 28, 0.06);
+  --surface-3: rgba(12, 16, 28, 0.1);
+  --surface-solid: #ffffff;
+  --glass: rgba(255, 255, 255, 0.72);
+  --glass-strong: rgba(255, 255, 255, 0.92);
+  --line: rgba(12, 16, 28, 0.09);
+  --line-2: rgba(12, 16, 28, 0.16);
+  --text: #0b0e15;
+  --text-2: #394152;
+  --text-3: #596276;
+  --accent: #0a6f80;
+  --accent-2: #5a48d4;
+  --accent-ink: #ffffff;
+  --accent-soft: rgba(10, 111, 128, 0.1);
+  --grad: linear-gradient(115deg, #0a8ea3 0%, #3d7be0 50%, #5a48d4 100%);
+  --grad-text: linear-gradient(100deg, #0a6f80 0%, #2f6fd6 50%, #5a48d4 100%);
+  --moon: #9a6410;
+  --moon-ink: #ffffff;
+  --moon-soft: rgba(214, 150, 40, 0.14);
+  --open: #127a3e;
+  --closed: #c0262d;
+  --short: #9a5b00;
+  --unknown: #596276;
+  --danger: #c0262d;
+  --shadow-1: 0 1px 2px rgba(12, 16, 28, 0.06), 0 12px 30px -16px rgba(12, 16, 28, 0.22);
+  --shadow-2: 0 30px 80px -24px rgba(12, 16, 28, 0.35), 0 0 0 1px rgba(12, 16, 28, 0.06);
+  --img-bg: #e3e6ec;
+  --scrim: rgba(10, 12, 18, 0.45);
+}

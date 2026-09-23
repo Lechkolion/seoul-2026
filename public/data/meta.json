@@ -1,0 +1,344 @@
+{
+  "generatedAt": "2026-09-23T16:08:28.935Z",
+  "total": 205,
+  "counts": {
+    "food": 95,
+    "cafe": 32,
+    "bar": 33,
+    "sight": 0,
+    "shopping": 17,
+    "experience": 18,
+    "wellness": 10,
+    "event": 0
+  },
+  "stats": {
+    "withTripAdvisor": 100,
+    "chuseokVerified": 99,
+    "images": 1182,
+    "localImages": 1182,
+    "walkOnly": 17,
+    "routesFromExactHome": true
+  },
+  "transit": {
+    "source": "OpenStreetMap contributors (ODbL) — scripts/transit",
+    "taxiFareSource": "https://news.seoul.go.kr/traffic/archives/1659"
+  },
+  "trip": {
+    "title": "Seoul 2026 · Family Guide",
+    "travellers": 5,
+    "dates": {
+      "start": "2026-09-23",
+      "end": "2026-09-30"
+    },
+    "home": {
+      "label": "Home",
+      "neighborhood": "Seocho 3-dong",
+      "stations": [
+        {
+          "name": "Nambu Bus Terminal",
+          "nameKo": "남부터미널역",
+          "lines": [
+            "3"
+          ],
+          "lat": 37.48498,
+          "lng": 127.01623,
+          "walkMin": 6
+        },
+        {
+          "name": "Seocho",
+          "nameKo": "서초역",
+          "lines": [
+            "2"
+          ],
+          "lat": 37.49178,
+          "lng": 127.00766,
+          "walkMin": 9
+        },
+        {
+          "name": "Seoul Nat'l Univ. of Education",
+          "nameKo": "교대역",
+          "lines": [
+            "2",
+            "3"
+          ],
+          "lat": 37.49343,
+          "lng": 127.01408,
+          "walkMin": 11
+        }
+      ]
+    },
+    "holidays": {
+      "chuseok": {
+        "days": [
+          "2026-09-24",
+          "2026-09-25",
+          "2026-09-26"
+        ],
+        "mainDay": "2026-09-25",
+        "note": "Chuseok holiday is Thu 24 – Sat 26 Sep 2026; 25 Sep is Chuseok day. Sun 27 is a normal Sunday. No substitute holiday on Mon 28.",
+        "sources": [
+          "https://www.vegannews.co.kr/news/article.html?no=385394",
+          "https://www.hantoday.net/news/articleView.html?idxno=54789"
+        ]
+      }
+    },
+    "tripDays": [
+      {
+        "date": "2026-09-23",
+        "dow": "Wed",
+        "label": "Arrival week"
+      },
+      {
+        "date": "2026-09-24",
+        "dow": "Thu",
+        "label": "Chuseok eve holiday",
+        "holiday": true
+      },
+      {
+        "date": "2026-09-25",
+        "dow": "Fri",
+        "label": "Chuseok day",
+        "holiday": true,
+        "main": true
+      },
+      {
+        "date": "2026-09-26",
+        "dow": "Sat",
+        "label": "Chuseok holiday",
+        "holiday": true
+      },
+      {
+        "date": "2026-09-27",
+        "dow": "Sun",
+        "label": "Sunday"
+      },
+      {
+        "date": "2026-09-28",
+        "dow": "Mon",
+        "label": "Monday — many museums/palaces closed"
+      },
+      {
+        "date": "2026-09-29",
+        "dow": "Tue",
+        "label": "Tuesday — Gyeongbokgung closed"
+      },
+      {
+        "date": "2026-09-30",
+        "dow": "Wed",
+        "label": "Last day"
+      }
+    ]
+  },
+  "taxonomy": {
+    "categories": {
+      "food": "Eat",
+      "cafe": "Cafés & Desserts",
+      "bar": "Bars & Night",
+      "sight": "See",
+      "shopping": "Shop",
+      "experience": "Do",
+      "wellness": "Relax",
+      "event": "Happening"
+    },
+    "cuisines": [
+      "Korean BBQ",
+      "Hanwoo beef",
+      "Korean pork",
+      "Korean fine dining",
+      "Korean home-style",
+      "Noodles & naengmyeon",
+      "Soups & stews",
+      "Korean fried chicken",
+      "Street & market food",
+      "Seafood",
+      "Temple & vegetarian",
+      "Japanese",
+      "Sushi & omakase",
+      "Ramen",
+      "Chinese",
+      "Dim sum",
+      "Taiwanese",
+      "Thai",
+      "Vietnamese",
+      "Indian",
+      "Middle Eastern",
+      "Mexican",
+      "Italian",
+      "Pizza",
+      "French",
+      "Spanish",
+      "Mediterranean",
+      "American",
+      "Burgers",
+      "Steakhouse",
+      "Brunch",
+      "Buffet",
+      "Modern / fusion",
+      "Bakery",
+      "Dessert",
+      "Coffee",
+      "Tea",
+      "Vegan"
+    ],
+    "vibes": [
+      "futuristic",
+      "luxe",
+      "minimal",
+      "cozy",
+      "lively",
+      "quiet",
+      "romantic",
+      "trendy",
+      "traditional",
+      "view",
+      "rooftop",
+      "riverside",
+      "design",
+      "retro",
+      "hip",
+      "classic",
+      "nature"
+    ],
+    "tags": [
+      "high-tech",
+      "instagrammable",
+      "view",
+      "han-river",
+      "night-view",
+      "rooftop",
+      "michelin",
+      "blue-ribbon",
+      "asias-50-best",
+      "reservation-needed",
+      "walk-in-only",
+      "long-queue",
+      "private-room",
+      "group-friendly",
+      "english-menu",
+      "english-friendly",
+      "late-night",
+      "open-24h",
+      "indoor",
+      "outdoor",
+      "rainy-day",
+      "free",
+      "kid-friendly",
+      "parent-friendly",
+      "accessible",
+      "iconic",
+      "hidden-gem",
+      "value",
+      "local-favorite",
+      "new-2025-2026",
+      "hotel",
+      "shopping-mall",
+      "live-music",
+      "cocktails",
+      "wine",
+      "whisky",
+      "craft-beer",
+      "soju-makgeolli",
+      "k-pop",
+      "k-beauty",
+      "fashion",
+      "design",
+      "art",
+      "museum",
+      "palace",
+      "park",
+      "market",
+      "spa",
+      "sauna",
+      "gaming",
+      "vr",
+      "immersive",
+      "tax-free"
+    ],
+    "goodFor": [
+      "Family of 5",
+      "Parents",
+      "Rainy day",
+      "Night out",
+      "Date",
+      "First-timers",
+      "Foodies",
+      "Quick bite",
+      "Late night",
+      "Celebration",
+      "Photos",
+      "Shopping",
+      "Relaxing",
+      "Kids at heart"
+    ],
+    "subwayLines": {
+      "1": {
+        "name": "Line 1",
+        "color": "#0052A4"
+      },
+      "2": {
+        "name": "Line 2",
+        "color": "#00A84D"
+      },
+      "3": {
+        "name": "Line 3",
+        "color": "#EF7C1C"
+      },
+      "4": {
+        "name": "Line 4",
+        "color": "#00A5DE"
+      },
+      "5": {
+        "name": "Line 5",
+        "color": "#996CAC"
+      },
+      "6": {
+        "name": "Line 6",
+        "color": "#CD7C2F"
+      },
+      "7": {
+        "name": "Line 7",
+        "color": "#747F00"
+      },
+      "8": {
+        "name": "Line 8",
+        "color": "#E6186C"
+      },
+      "9": {
+        "name": "Line 9",
+        "color": "#BDB092"
+      },
+      "SB": {
+        "name": "Sinbundang",
+        "color": "#D4003B"
+      },
+      "SUIN": {
+        "name": "Suin-Bundang",
+        "color": "#FABE00"
+      },
+      "GJ": {
+        "name": "Gyeongui-Jungang",
+        "color": "#77C4A3"
+      },
+      "AREX": {
+        "name": "Airport Railroad",
+        "color": "#0090D2"
+      },
+      "UI": {
+        "name": "Ui LRT",
+        "color": "#B7C452"
+      },
+      "GTXA": {
+        "name": "GTX-A",
+        "color": "#9A6292"
+      },
+      "SL": {
+        "name": "Sillim",
+        "color": "#6789CA"
+      },
+      "GC": {
+        "name": "Gyeongchun",
+        "color": "#0C8E72"
+      }
+    }
+  }
+}
