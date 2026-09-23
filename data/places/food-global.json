@@ -7590,6 +7590,11 @@
           "특별한 메뉴가 있어요"
         ],
         "url": "https://m.place.naver.com/restaurant/1898369171/home"
+      },
+      "tripadvisor": {
+        "score": 3,
+        "count": 1,
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d27921922-Reviews-Five_Guys-Seoul.html"
       }
     },
     "reviews": [

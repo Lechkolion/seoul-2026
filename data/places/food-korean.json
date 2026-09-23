@@ -629,6 +629,8 @@
     },
     "ratings": {
       "tripadvisor": {
+        "score": 4,
+        "count": 89,
         "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d8380813-Reviews-La_Yeon-Seoul.html"
       },
       "naver": {
@@ -1036,6 +1038,8 @@
     },
     "ratings": {
       "tripadvisor": {
+        "score": 5,
+        "count": 9,
         "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d23418259-Reviews-Eatanic_Garden-Seoul.html"
       },
       "naver": {

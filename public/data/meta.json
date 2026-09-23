@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T16:42:15.740Z",
+  "generatedAt": "2026-09-23T16:45:51.734Z",
   "total": 276,
   "counts": {
     "food": 95,
@@ -12,7 +12,7 @@
     "event": 8
   },
   "stats": {
-    "withTripAdvisor": 157,
+    "withTripAdvisor": 166,
     "chuseokVerified": 135,
     "images": 1530,
     "localImages": 1527,

@@ -917,6 +917,11 @@
           "놀거리가 많아요"
         ],
         "url": "https://m.place.naver.com/place/1001448302/review/visitor"
+      },
+      "tripadvisor": {
+        "score": 3,
+        "count": 4,
+        "url": "https://www.tripadvisor.com/AttractionProductReview-g294197-d33025575-SPAREX_Jjimjilbang_Sauna_Dongmyo_branch_Admission_Ticket-Seoul.html"
       }
     },
     "reviews": [
@@ -2514,7 +2519,13 @@
     "badges": {
       "futuristic": true
     },
-    "ratings": {},
+    "ratings": {
+      "tripadvisor": {
+        "score": 3.5,
+        "count": 13,
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d25173677-Reviews-Nudake_Haus_Dosan-Seoul.html"
+      }
+    },
     "reviews": [
       {
         "source": "TripAdvisor",
@@ -4504,7 +4515,13 @@
     "badges": {
       "familyFriendly": true
     },
-    "ratings": {},
+    "ratings": {
+      "tripadvisor": {
+        "score": 4.1,
+        "count": 15,
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d8394143-Reviews-Sulwhasoo_Spa-Seoul.html"
+      }
+    },
     "reviews": [
       {
         "source": "Press",

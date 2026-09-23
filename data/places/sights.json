@@ -4613,7 +4613,13 @@
       "valueForMoney": true,
       "mustSee": true
     },
-    "ratings": {},
+    "ratings": {
+      "tripadvisor": {
+        "score": 3.7,
+        "count": 299,
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d3568803-Reviews-Banpodaegyo_Bridge-Seoul.html"
+      }
+    },
     "reviews": [
       {
         "source": "Naver",
@@ -4766,7 +4772,13 @@
       "futuristic": true,
       "familyFriendly": true
     },
-    "ratings": {},
+    "ratings": {
+      "tripadvisor": {
+        "score": 4,
+        "count": 80,
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d2173769-Reviews-Sebitseom-Seoul.html"
+      }
+    },
     "reviews": [
       {
         "source": "Naver",
@@ -5280,7 +5292,13 @@
       "futuristic": false,
       "valueForMoney": true
     },
-    "ratings": {},
+    "ratings": {
+      "tripadvisor": {
+        "score": 4.5,
+        "count": 11,
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d19366663-Reviews-Nodeul_Island-Seoul.html"
+      }
+    },
     "reviews": [
       {
         "source": "Press",
