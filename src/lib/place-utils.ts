@@ -33,9 +33,9 @@ export function imgSources(img: PlaceImageExt | undefined, prefer: 'thumb' | 'fu
 export function primaryRating(p: Place): { source: 'TripAdvisor' | 'Google' | 'Kakao' | 'Naver'; score: number; count?: number } | null {
   const { tripadvisor, google, kakao, naver } = p.ratings;
   if (tripadvisor?.score) return { source: 'TripAdvisor', score: tripadvisor.score, count: tripadvisor.count };
-  if (google?.score) return { source: 'Google', score: google.score, count: google.count };
   if (naver?.score) return { source: 'Naver', score: naver.score, count: naver.visitorReviews };
   if (kakao?.score) return { source: 'Kakao', score: kakao.score, count: kakao.count };
+  if (google?.score) return { source: 'Google', score: google.score, count: google.count };
   return null;
 }
 
@@ -43,9 +43,16 @@ export function primaryRating(p: Place): { source: 'TripAdvisor' | 'Google' | 'K
 export function ratingKey(p: Place): number {
   const ta = p.ratings.tripadvisor;
   if (ta?.score) return ta.score + Math.min(Math.log10((ta.count ?? 1) + 1), 4) * 0.02;
+  // Korean platforms skew high, so non-TripAdvisor scores are slightly discounted.
+  const n = p.ratings.naver;
+  if (n?.score) return n.score - 0.3 + Math.min(Math.log10((n.visitorReviews ?? 1) + 1), 4) * 0.02;
+  const k = p.ratings.kakao;
+  if (k?.score) return k.score - 0.2 + Math.min(Math.log10((k.count ?? 1) + 1), 4) * 0.02;
   const g = p.ratings.google;
   if (g?.score) return g.score - 0.25 + Math.min(Math.log10((g.count ?? 1) + 1), 4) * 0.02;
-  return 0;
+  // Review volume only: rank below scored places but above nothing.
+  const v = n?.visitorReviews ?? 0;
+  return v ? Math.min(Math.log10(v + 1), 4) * 0.5 : 0;
 }
 
 export function reviewCount(p: Place): number {

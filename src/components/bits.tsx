@@ -50,7 +50,18 @@ export function SaveButton({ id, name, variant = 'float' }: { id: string; name: 
 
 export function RatingChip({ place }: { place: Place }) {
   const r = primaryRating(place);
-  if (!r) return <span className="rating rating--none">No rating yet</span>;
+  if (!r) {
+    const n = place.ratings.naver?.visitorReviews ?? place.ratings.naver?.blogReviews;
+    if (n) {
+      return (
+        <span className="rating" title={`${n.toLocaleString()} reviews on Naver`}>
+          <b>{compact(n)}</b>
+          <span className="rating__src">Naver reviews</span>
+        </span>
+      );
+    }
+    return <span className="rating rating--none">No rating yet</span>;
+  }
   return (
     <span className="rating" title={`${r.source} ${r.score}${r.count ? ` from ${r.count} reviews` : ''}`}>
       <Star size={14} strokeWidth={0} fill="currentColor" aria-hidden="true" />
