@@ -1,0 +1,2318 @@
+[
+  {
+    "id": "seoul-museum-of-history",
+    "name": "Seoul Museum of History",
+    "nameKo": "서울역사박물관",
+    "category": "sight",
+    "subcategory": "History museum",
+    "tags": [
+      "free",
+      "indoor",
+      "museum",
+      "kid-friendly",
+      "parent-friendly",
+      "english-friendly",
+      "rainy-day"
+    ],
+    "vibes": [
+      "design",
+      "quiet",
+      "minimal"
+    ],
+    "summary": "Free, modern museum tracing Seoul's growth from Joseon capital to megacity, with a walk-on glass city model.",
+    "description": "A well-funded municipal museum next to Gyeonghuigung Palace, telling Seoul's history from the 1394 founding to today through full-scale street recreations, a giant illuminated city model you walk over on glass flooring, and free English audio guides. Exhibits are air-conditioned, spacious, and easy for a group of five to move through at their own pace. The permanent galleries take about 1.5-2 hours; families can skim faster. English signage is strong throughout.",
+    "highlights": [
+      "Glass-floor walkway over the illuminated Seoul city model",
+      "Full-scale 1950s-60s Seoul streetscape reconstruction",
+      "Free English audio guide (leave an ID)"
+    ],
+    "tips": [
+      "Free admission, free water, free audio guide with ID deposit",
+      "Guided English-friendly tours run Tue-Sat from 11am",
+      "Pair with adjacent Gyeonghuigung Palace grounds for a free afternoon"
+    ],
+    "badges": {
+      "valueForMoney": true,
+      "familyFriendly": true
+    },
+    "ratings": {
+      "tripadvisor": {
+        "score": 4.4,
+        "count": 325,
+        "rank": "#28 of 1,622 things to do in Seoul",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d2094166-Reviews-Seoul_Museum_of_History-Seoul.html"
+      }
+    },
+    "reviews": [
+      {
+        "source": "TripAdvisor",
+        "text": "Fantastic free museum - learned so much about how Seoul developed, with great English explanations.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d2094166-Reviews-Seoul_Museum_of_History-Seoul.html"
+      },
+      {
+        "source": "TripAdvisor",
+        "text": "The glass-floor city model and full-size street replicas make Seoul's history feel real, not just read about.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d2094166-Reviews-Seoul_Museum_of_History-Seoul.html"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Free"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "09:00-18:00",
+        "tue": "closed",
+        "wed": "09:00-18:00",
+        "thu": "09:00-18:00",
+        "fri": "09:00-18:00",
+        "sat": "09:00-18:00",
+        "sun": "09:00-18:00"
+      },
+      "note": "Closed Tuesdays; Fri/Sat hours extend seasonally - confirm on arrival."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "closed",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "closed",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "partial",
+      "note": "City-run museums typically close on Chuseok day itself (25 Sep); no 2026 notice found yet, so treat 25 Sep as likely closed and confirm before going. Regular Tuesday closure also falls on 29 Sep.",
+      "verified": false
+    },
+    "location": {
+      "address": "55 Saemunan-ro, Jongno-gu, Seoul",
+      "addressKo": "서울 종로구 새문안로 55",
+      "district": "Jongno-gu",
+      "neighborhood": "Gwanghwamun / Seodaemun",
+      "lat": 37.5704789,
+      "lng": 126.9705257,
+      "nearestStation": {
+        "name": "Gwanghwamun",
+        "nameKo": "광화문역",
+        "lines": [
+          "5"
+        ],
+        "exit": "Exit 7",
+        "walkMin": 10
+      }
+    },
+    "links": {
+      "website": "https://www.museum.seoul.kr/eng/",
+      "naverMap": "https://map.naver.com/p/search/%EC%84%9C%EC%9A%B8%EC%97%AD%EC%82%AC%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Seoul+Museum+of+History+Seoul",
+      "tripadvisor": "https://www.tripadvisor.com/Attraction_Review-g294197-d2094166-Reviews-Seoul_Museum_of_History-Seoul.html"
+    },
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Seoul_Museum_of_History.JPG/1280px-Seoul_Museum_of_History.JPG",
+        "source": "https://commons.wikimedia.org/wiki/File:Seoul_Museum_of_History.JPG",
+        "credit": "Wikimedia Commons",
+        "alt": "exterior of the museum building"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Seoul_Museum_of_History_in_2025.jpg/1280px-Seoul_Museum_of_History_in_2025.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Seoul_Museum_of_History_in_2025.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "museum building in 2025"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Exhibition_record_of_the_Seoul_Museum_of_History.jpg/1280px-Exhibition_record_of_the_Seoul_Museum_of_History.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Exhibition_record_of_the_Seoul_Museum_of_History.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "gallery exhibition record display"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Seoul_CBD_from_Backyard_of_the_Seoul_Museum_of_History.jpg/1280px-Seoul_CBD_from_Backyard_of_the_Seoul_Museum_of_History.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Seoul_CBD_from_Backyard_of_the_Seoul_Museum_of_History.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "view of Seoul's CBD from the museum's back garden"
+      }
+    ],
+    "duration": "1.5-2 h",
+    "bestTime": "Weekday morning, before tour groups",
+    "goodFor": [
+      "Family of 5",
+      "Parents",
+      "Rainy day",
+      "First-timers"
+    ],
+    "reservation": {
+      "recommended": false
+    },
+    "sources": [
+      "https://www.tripadvisor.com/Attraction_Review-g294197-d2094166-Reviews-Seoul_Museum_of_History-Seoul.html",
+      "https://www.museum.seoul.kr/eng/"
+    ],
+    "lastVerified": "2026-09-24"
+  },
+  {
+    "id": "haneul-park-sangam",
+    "name": "Haneul Park (Sky Park)",
+    "nameKo": "하늘공원",
+    "category": "sight",
+    "subcategory": "Park & viewpoint",
+    "tags": [
+      "view",
+      "night-view",
+      "free",
+      "outdoor",
+      "instagrammable",
+      "parent-friendly"
+    ],
+    "vibes": [
+      "nature",
+      "view",
+      "quiet"
+    ],
+    "summary": "Flat-topped former landfill turned open grassland park with a huge Han River and city skyline view, best at sunset.",
+    "description": "Part of World Cup Park in Sangam-dong, Haneul Park sits on a reclaimed former garbage landfill capped with grass and, from mid-September through November, waves of silver pampas grass. The plateau is flat and paved-path accessible (a shuttle bus runs up from the base for those who don't want the short climb), opening onto one of Seoul's widest unobstructed skyline and Han River views. Arrive toward sunset for the best light and to stay through early dusk when the city lights come on.",
+    "highlights": [
+      "Silver grass fields (best late Sep-Nov)",
+      "360-degree Han River and skyline view",
+      "Windmill photo point and sunset benches"
+    ],
+    "tips": [
+      "A small shuttle bus climbs the hill for visitors who don't want the 10-15 min walk up",
+      "Come 30-45 min before sunset and stay for the after-dark skyline",
+      "Bring water - little shade on top"
+    ],
+    "badges": {
+      "valueForMoney": true,
+      "familyFriendly": true
+    },
+    "ratings": {
+      "tripadvisor": {
+        "score": 4.5,
+        "count": 309,
+        "rank": "#14 of 1,622 things to do in Seoul",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d4094861-Reviews-Haneul_Park-Seoul.html"
+      }
+    },
+    "reviews": [
+      {
+        "source": "TripAdvisor",
+        "text": "Out-of-this-world beautiful in silver grass season, with the grass moving in the wind and great Han River views.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d4094861-Reviews-Haneul_Park-Seoul.html"
+      },
+      {
+        "source": "TripAdvisor",
+        "text": "Best visited toward sunset - the orange light through the golden grass makes for the best photos of the trip.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d4094861-Reviews-Haneul_Park-Seoul.html"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Free"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "24h",
+        "tue": "24h",
+        "wed": "24h",
+        "thu": "24h",
+        "fri": "24h",
+        "sat": "24h",
+        "sun": "24h"
+      },
+      "note": "Open-air park, no gate; shuttle bus runs roughly 09:00-sunset."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "Outdoor city park with no gate - open every day of Chuseok, including 25 Sep.",
+      "verified": false
+    },
+    "location": {
+      "address": "95 World Cup-ro, Mapo-gu, Seoul",
+      "addressKo": "서울 마포구 하늘공원로 95",
+      "district": "Mapo-gu",
+      "neighborhood": "Sangam / World Cup Park",
+      "lat": 37.568064,
+      "lng": 126.8849778,
+      "nearestStation": {
+        "name": "World Cup Stadium",
+        "nameKo": "월드컵경기장역",
+        "lines": [
+          "6"
+        ],
+        "exit": "Exit 1",
+        "walkMin": 15
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%ED%95%98%EB%8A%98%EA%B3%B5%EC%9B%90",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Haneul+Park+Seoul",
+      "tripadvisor": "https://www.tripadvisor.com/Attraction_Review-g294197-d4094861-Reviews-Haneul_Park-Seoul.html"
+    },
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Haneul_Park_Seoul_03.jpg/1280px-Haneul_Park_Seoul_03.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Haneul_Park_Seoul_03.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "grass fields on top of Haneul Park"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Haneul_Park_Seoul_01.jpg/1280px-Haneul_Park_Seoul_01.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Haneul_Park_Seoul_01.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "walking path through the park"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Haneul_Park_Seoul_06.jpg/1280px-Haneul_Park_Seoul_06.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Haneul_Park_Seoul_06.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "silver grass and skyline view"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Haneul_Park_Seoul_07.jpg/1280px-Haneul_Park_Seoul_07.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Haneul_Park_Seoul_07.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "windmills on the plateau"
+      }
+    ],
+    "duration": "1-1.5 h",
+    "bestTime": "Sunset",
+    "goodFor": [
+      "Family of 5",
+      "Parents",
+      "Photos",
+      "Relaxing"
+    ],
+    "reservation": {
+      "recommended": false
+    },
+    "sources": [
+      "https://www.tripadvisor.com/Attraction_Review-g294197-d4094861-Reviews-Haneul_Park-Seoul.html"
+    ],
+    "lastVerified": "2026-09-24"
+  },
+  {
+    "id": "gyeongui-line-forest-park-yeonnam",
+    "name": "Gyeongui Line Forest Park (Yeonnam-dong)",
+    "nameKo": "경의선숲길 (연남동)",
+    "category": "sight",
+    "subcategory": "Linear park & street",
+    "tags": [
+      "free",
+      "outdoor",
+      "instagrammable",
+      "parent-friendly",
+      "kid-friendly"
+    ],
+    "vibes": [
+      "hip",
+      "trendy",
+      "nature"
+    ],
+    "summary": "A converted railway line turned skinny green park through Yeonnam-dong's cafe and brunch streets, nicknamed 'Yeontral Park'.",
+    "description": "Built over a decommissioned rail line, this ribbon of lawn and trees runs through Hongdae/Yeonnam-dong and is flanked by some of Seoul's best brunch cafes, bakeries, and boutiques. Locals picnic on the grass on weekends; the flat, paved path is easy for the whole family and connects straight into Hongik University Street. It's an easy, low-effort stroll rather than an attraction with an entrance, ideal for filling an afternoon between meals.",
+    "highlights": [
+      "Yeonnam-dong 'Yeontral Park' lawn stretch",
+      "Cafe and brunch streets either side of the park",
+      "Connects on foot to Hongdae"
+    ],
+    "tips": [
+      "Best on a clear afternoon for a picnic-and-people-watch stop",
+      "Weekday mornings are much quieter than weekend afternoons",
+      "Combine with Hongik University Street for one walkable outing"
+    ],
+    "badges": {
+      "valueForMoney": true,
+      "familyFriendly": true
+    },
+    "ratings": {
+      "tripadvisor": {
+        "score": 4.4,
+        "count": 32,
+        "rank": "#139 of 1,622 things to do in Seoul",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d12202187-Reviews-Gyeongui_Line_Forest-Seoul.html"
+      }
+    },
+    "reviews": [
+      {
+        "source": "TripAdvisor",
+        "text": "A nice place to picnic in Yeonnam-dong, with cafes lining both sides of the green strip.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d12202187-Reviews-Gyeongui_Line_Forest-Seoul.html"
+      },
+      {
+        "source": "TripAdvisor",
+        "text": "A relaxed, tree-lined walk that locals use for jogging, picnics, and browsing the surrounding book and coffee shops.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d12202187-Reviews-Gyeongui_Line_Forest-Seoul.html"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Free"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "24h",
+        "tue": "24h",
+        "wed": "24h",
+        "thu": "24h",
+        "fri": "24h",
+        "sat": "24h",
+        "sun": "24h"
+      },
+      "note": "Open-air park; surrounding cafes keep normal shop hours."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "Open-air public park, always accessible; some adjoining cafes may close 24-26 Sep individually.",
+      "verified": false
+    },
+    "location": {
+      "address": "Yeonnam-dong, Mapo-gu, Seoul",
+      "addressKo": "서울 마포구 연남동 경의선숲길",
+      "district": "Mapo-gu",
+      "neighborhood": "Yeonnam-dong",
+      "lat": 37.5606,
+      "lng": 126.9255,
+      "nearestStation": {
+        "name": "Hongik University",
+        "nameKo": "홍대입구역",
+        "lines": [
+          "2",
+          "GJ",
+          "AREX"
+        ],
+        "exit": "Exit 3",
+        "walkMin": 3
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%EA%B2%BD%EC%9D%98%EC%84%A0%EC%88%B2%EA%B8%B8%20%EC%97%B0%EB%82%A8%EB%8F%99",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Gyeongui+Line+Forest+Park+Yeonnam+Seoul",
+      "tripadvisor": "https://www.tripadvisor.com/Attraction_Review-g294197-d12202187-Reviews-Gyeongui_Line_Forest-Seoul.html"
+    },
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Gyeonguiseon_Forest_Trail_Park_and_Ttaeng-ttaeng_Street_in_Seoul_%28near_Hongdae%2C_3%29.jpg/1280px-Gyeonguiseon_Forest_Trail_Park_and_Ttaeng-ttaeng_Street_in_Seoul_%28near_Hongdae%2C_3%29.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Gyeonguiseon_Forest_Trail_Park_and_Ttaeng-ttaeng_Street_in_Seoul_(near_Hongdae,_3).jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "tree-lined path through the linear park"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Gyeonguiseon_Forest_Trail_Park_and_Ttaeng-ttaeng_Street_in_Seoul_%28near_Hongdae%2C_1%29.jpg/1280px-Gyeonguiseon_Forest_Trail_Park_and_Ttaeng-ttaeng_Street_in_Seoul_%28near_Hongdae%2C_1%29.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Gyeonguiseon_Forest_Trail_Park_and_Ttaeng-ttaeng_Street_in_Seoul_(near_Hongdae,_1).jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "park lawn beside cafe row"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Gyeonguiseon_Forest_Trail_Park_and_Ttaeng-ttaeng_Street_in_Seoul_%28near_Hongdae%2C_2%29.jpg/1280px-Gyeonguiseon_Forest_Trail_Park_and_Ttaeng-ttaeng_Street_in_Seoul_%28near_Hongdae%2C_2%29.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Gyeonguiseon_Forest_Trail_Park_and_Ttaeng-ttaeng_Street_in_Seoul_(near_Hongdae,_2).jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "walkers along the former rail line"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Yeontral_Park%2C_Hongdae.png/1280px-Yeontral_Park%2C_Hongdae.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Yeontral_Park,_Hongdae.png",
+        "credit": "Wikimedia Commons",
+        "alt": "'Yeontral Park' section near Hongdae"
+      }
+    ],
+    "duration": "45 min-1 h",
+    "bestTime": "Weekday afternoon",
+    "goodFor": [
+      "Family of 5",
+      "Photos",
+      "Relaxing"
+    ],
+    "reservation": {
+      "recommended": false
+    },
+    "sources": [
+      "https://www.tripadvisor.com/Attraction_Review-g294197-d12202187-Reviews-Gyeongui_Line_Forest-Seoul.html"
+    ],
+    "lastVerified": "2026-09-24"
+  },
+  {
+    "id": "deoksugung-doldamgil",
+    "name": "Deoksugung Stone Wall Path",
+    "nameKo": "덕수궁 돌담길",
+    "category": "sight",
+    "subcategory": "Scenic street",
+    "tags": [
+      "free",
+      "outdoor",
+      "instagrammable",
+      "view",
+      "palace"
+    ],
+    "vibes": [
+      "romantic",
+      "quiet",
+      "classic"
+    ],
+    "summary": "A gingko-lined lane hugging Deoksugung Palace's old stone wall, one of Seoul's most photographed short walks.",
+    "description": "This easy 10-minute stroll follows the granite wall of Deoksugung Palace between City Hall and Jeong-dong, shaded by mature gingko and plane trees that turn gold in autumn. It requires no admission, no stairs, and no real walking effort - just a pleasant loop past cafes, small galleries, and the Seoul Museum of Art annex. Popular with couples and easy to combine with the palace itself or Seoul City Hall/Library next door.",
+    "highlights": [
+      "Stone wall and gingko canopy",
+      "Views into Deoksugung Palace grounds",
+      "Connects directly to Seoul City Hall Plaza"
+    ],
+    "tips": [
+      "Best light is late afternoon; gingko turns gold from mid-October, still green in late Sep",
+      "Completely flat and stroller-friendly",
+      "Pair with the Seoul Museum of Art annex on the same street"
+    ],
+    "badges": {
+      "valueForMoney": true,
+      "familyFriendly": true
+    },
+    "ratings": {
+      "tripadvisor": {
+        "score": 4.3,
+        "count": 15,
+        "rank": "#223 of 1,622 things to do in Seoul",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d12871271-Reviews-Deoksugung_Doldam_gil-Seoul.html"
+      }
+    },
+    "reviews": [
+      {
+        "source": "TripAdvisor",
+        "text": "A romantic, tree-shaded walk along the historic stone wall - one of the prettiest short strolls in central Seoul.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d12871271-Reviews-Deoksugung_Doldam_gil-Seoul.html"
+      },
+      {
+        "source": "TripAdvisor",
+        "text": "Especially beautiful in autumn foliage, with a peaceful, unhurried atmosphere just steps from City Hall.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d12871271-Reviews-Deoksugung_Doldam_gil-Seoul.html"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Free"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "24h",
+        "tue": "24h",
+        "wed": "24h",
+        "thu": "24h",
+        "fri": "24h",
+        "sat": "24h",
+        "sun": "24h"
+      },
+      "note": "Public street, always open; Deoksugung Palace itself closes Mondays."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "Open public street/sidewalk with no gate, unaffected by Chuseok.",
+      "verified": false
+    },
+    "location": {
+      "address": "Jeong-dong, Jung-gu, Seoul",
+      "addressKo": "서울 중구 정동 덕수궁길",
+      "district": "Jung-gu",
+      "neighborhood": "City Hall / Jeong-dong",
+      "lat": 37.5679947,
+      "lng": 126.9736639,
+      "nearestStation": {
+        "name": "City Hall",
+        "nameKo": "시청역",
+        "lines": [
+          "1",
+          "2"
+        ],
+        "exit": "Exit 2",
+        "walkMin": 3
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%EB%8D%95%EC%88%98%EA%B6%81%20%EB%8F%8C%EB%8B%B4%EA%B8%B8",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Deoksugung+Stone+Wall+Path+Seoul",
+      "tripadvisor": "https://www.tripadvisor.com/Attraction_Review-g294197-d12871271-Reviews-Deoksugung_Doldam_gil-Seoul.html"
+    },
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Deoksugung_Palace_2.jpg/1280px-Deoksugung_Palace_2.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Deoksugung_Palace_2.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "Deoksugung Palace wall and grounds"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Deoksugung_Palace_11.jpg/1280px-Deoksugung_Palace_11.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Deoksugung_Palace_11.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "palace stone wall detail"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Deoksugung_Palace_3.jpg/1280px-Deoksugung_Palace_3.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Deoksugung_Palace_3.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "palace grounds seen from the stone wall path"
+      }
+    ],
+    "duration": "20-30 min",
+    "bestTime": "Late afternoon",
+    "goodFor": [
+      "Family of 5",
+      "Parents",
+      "Photos",
+      "Date"
+    ],
+    "reservation": {
+      "recommended": false
+    },
+    "sources": [
+      "https://www.tripadvisor.com/Attraction_Review-g294197-d12871271-Reviews-Deoksugung_Doldam_gil-Seoul.html"
+    ],
+    "lastVerified": "2026-09-24"
+  },
+  {
+    "id": "national-assembly-building",
+    "name": "National Assembly Building",
+    "nameKo": "국회의사당",
+    "category": "sight",
+    "subcategory": "Modern landmark & architecture",
+    "tags": [
+      "free",
+      "indoor",
+      "outdoor",
+      "view",
+      "han-river",
+      "iconic"
+    ],
+    "vibes": [
+      "classic",
+      "view",
+      "quiet"
+    ],
+    "summary": "South Korea's domed parliament building on Yeouido, free to tour with advance reservation, plus riverside park grounds.",
+    "description": "A green-domed 1975 landmark on Yeouido overlooking the Han River, the National Assembly Building offers free self-guided or reserved tours through its main hall, lobby, and an exhibition on Korean democracy. The wide plaza and pond out front are pleasant even without a tour, and the building anchors Yeouido Hangang Park just a short walk away. It's a low-effort, air-conditioned stop that works well combined with a Han River walk.",
+    "highlights": [
+      "Main assembly hall and dome lobby (reserved tour)",
+      "Front plaza, fountain, and reflecting pond",
+      "Views toward the Han River"
+    ],
+    "tips": [
+      "Book an English tour online at least 3 days ahead via the Assembly's visitor site",
+      "No tour needed to walk the plaza and pond for photos",
+      "Combine with a walk into Yeouido Hangang Park, 10 minutes away"
+    ],
+    "badges": {
+      "valueForMoney": true,
+      "familyFriendly": true
+    },
+    "ratings": {
+      "tripadvisor": {
+        "score": 3.9,
+        "count": 68,
+        "rank": "#145 of 1,622 things to do in Seoul",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d1957629-Reviews-The_National_Assembly_Building-Seoul.html"
+      }
+    },
+    "reviews": [
+      {
+        "source": "TripAdvisor",
+        "text": "A beautiful building right by the Han River, worth the visit even just to see it from outside.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d1957629-Reviews-The_National_Assembly_Building-Seoul.html"
+      },
+      {
+        "source": "TripAdvisor",
+        "text": "Reserve a tour a few days ahead - walk-ins are turned away, but the guided visit inside is worth it.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d1957629-Reviews-The_National_Assembly_Building-Seoul.html"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Free (tour reservation required)"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "closed",
+        "tue": "09:00-18:00",
+        "wed": "09:00-18:00",
+        "thu": "09:00-18:00",
+        "fri": "09:00-18:00",
+        "sat": "closed",
+        "sun": "closed"
+      },
+      "note": "Tours run weekdays only, reservation required 3+ days ahead; plaza/exterior accessible anytime."
+    },
+    "tripDays": {
+      "2026-09-23": "closed",
+      "2026-09-24": "closed",
+      "2026-09-25": "closed",
+      "2026-09-26": "closed",
+      "2026-09-27": "closed",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "closed",
+      "note": "Tours run government weekdays only and are suspended for the Chuseok holiday period (24-27 Sep including the weekend); plaza and pond outside remain viewable from the street.",
+      "verified": false
+    },
+    "location": {
+      "address": "1 Uisadang-daero, Yeongdeungpo-gu, Seoul",
+      "addressKo": "서울 영등포구 의사당대로 1",
+      "district": "Yeongdeungpo-gu",
+      "neighborhood": "Yeouido",
+      "lat": 37.5280157,
+      "lng": 126.9179639,
+      "nearestStation": {
+        "name": "National Assembly",
+        "nameKo": "국회의사당역",
+        "lines": [
+          "9"
+        ],
+        "exit": "Exit 6",
+        "walkMin": 8
+      }
+    },
+    "links": {
+      "website": "https://korea.assembly.go.kr",
+      "naverMap": "https://map.naver.com/p/search/%EA%B5%AD%ED%9A%8C%EC%9D%98%EC%82%AC%EB%8B%B9",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=National+Assembly+Building+Seoul",
+      "tripadvisor": "https://www.tripadvisor.com/Attraction_Review-g294197-d1957629-Reviews-The_National_Assembly_Building-Seoul.html"
+    },
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/National_Assembly_Building_of_South_Korea_night_view.jpg/1280px-National_Assembly_Building_of_South_Korea_night_view.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:National_Assembly_Building_of_South_Korea_night_view.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "the building lit up at night"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Fountain_in_National_Assembly_Building_of_South_Korea.jpg/1280px-Fountain_in_National_Assembly_Building_of_South_Korea.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Fountain_in_National_Assembly_Building_of_South_Korea.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "fountain on the front plaza"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Republic_of_Korea_capitol.jpg/1280px-Republic_of_Korea_capitol.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Republic_of_Korea_capitol.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "the domed building exterior"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Pond_of_the_National_Assembly_in_South_Korea.jpg/1280px-Pond_of_the_National_Assembly_in_South_Korea.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Pond_of_the_National_Assembly_in_South_Korea.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "reflecting pond in front of the building"
+      }
+    ],
+    "duration": "1-1.5 h",
+    "bestTime": "Weekday morning tour slot",
+    "goodFor": [
+      "Family of 5",
+      "Parents",
+      "First-timers"
+    ],
+    "reservation": {
+      "recommended": true,
+      "how": "Book English tour online via korea.assembly.go.kr at least 3 days ahead"
+    },
+    "sources": [
+      "https://www.tripadvisor.com/Attraction_Review-g294197-d1957629-Reviews-The_National_Assembly_Building-Seoul.html",
+      "https://korea.assembly.go.kr"
+    ],
+    "lastVerified": "2026-09-24"
+  },
+  {
+    "id": "seonjeongneung-royal-tombs",
+    "name": "Seolleung & Jeongneung Royal Tombs",
+    "nameKo": "선정릉",
+    "category": "sight",
+    "subcategory": "UNESCO royal tomb park",
+    "tags": [
+      "free",
+      "outdoor",
+      "view",
+      "park",
+      "instagrammable"
+    ],
+    "vibes": [
+      "quiet",
+      "nature",
+      "classic"
+    ],
+    "summary": "A UNESCO-listed royal tomb park of quiet lawns and pine forest tucked right in the middle of Gangnam's skyscrapers.",
+    "description": "Selling for under a coffee's price, this pocket of royal Joseon tombs sits directly across from COEX and Samsung-dong's towers, giving an odd but very pleasant contrast between grass burial mounds and glass office blocks. Paths are flat and shaded, the whole loop takes under an hour, and it's a genuine break from a busy shopping day rather than a full outing in itself. Good low-effort filler between Gangnam errands.",
+    "highlights": [
+      "Grass burial mounds of King Seongjong and Queen Jeonghyeon",
+      "Pine forest walking loop",
+      "Contrast view of Gangnam towers behind the tombs"
+    ],
+    "tips": [
+      "Entry is only about 1,000 won",
+      "Closed Tuesdays - check before planning a Gangnam day around it",
+      "Combine with COEX or Starfield Library, both a short walk away"
+    ],
+    "badges": {
+      "valueForMoney": true,
+      "familyFriendly": true,
+      "hiddenGem": true
+    },
+    "ratings": {
+      "tripadvisor": {
+        "score": 4.1,
+        "count": 178,
+        "rank": "#80 of 1,622 things to do in Seoul",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d1675961-Reviews-Seolleung_Jeongneung_Royal_Tomb-Seoul.html"
+      }
+    },
+    "reviews": [
+      {
+        "source": "TripAdvisor",
+        "text": "An island of fresh, quiet air in the middle of the bustling city, and very well maintained.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d1675961-Reviews-Seolleung_Jeongneung_Royal_Tomb-Seoul.html"
+      },
+      {
+        "source": "TripAdvisor",
+        "text": "A beautiful, calm park right in the heart of Gangnam - history and nature side by side with the skyline.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d1675961-Reviews-Seolleung_Jeongneung_Royal_Tomb-Seoul.html"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Adults ₩1,000"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "06:00-21:00",
+        "tue": "closed",
+        "wed": "06:00-21:00",
+        "thu": "06:00-21:00",
+        "fri": "06:00-21:00",
+        "sat": "06:00-21:00",
+        "sun": "06:00-21:00"
+      },
+      "note": "Closed Tuesdays; seasonal closing time varies."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "closed",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "Royal tomb sites typically stay open through Chuseok (unlike some museums); regular Tuesday closure falls on 29 Sep. No 2026 notice found yet - confirm nearer the date.",
+      "verified": false
+    },
+    "location": {
+      "address": "1 Seolleung-ro 100-gil, Gangnam-gu, Seoul",
+      "addressKo": "서울 강남구 선릉로100길 1",
+      "district": "Gangnam-gu",
+      "neighborhood": "Samseong-dong",
+      "lat": 37.510253,
+      "lng": 127.0438586,
+      "nearestStation": {
+        "name": "Seolleung",
+        "nameKo": "선릉역",
+        "lines": [
+          "2",
+          "SB"
+        ],
+        "exit": "Exit 8",
+        "walkMin": 5
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%EC%84%A0%EC%A0%95%EB%A6%89",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Seolleung+Jeongneung+Royal+Tomb+Seoul",
+      "tripadvisor": "https://www.tripadvisor.com/Attraction_Review-g294197-d1675961-Reviews-Seolleung_Jeongneung_Royal_Tomb-Seoul.html"
+    },
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Seolleung_Jeongneung_01_%2818104363043%29.jpg/1280px-Seolleung_Jeongneung_01_%2818104363043%29.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Seolleung_Jeongneung_01_(18104363043).jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "grass burial mound with pine forest behind"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Seolleung_Jeongneung_08_%2818079131693%29.jpg/1280px-Seolleung_Jeongneung_08_%2818079131693%29.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Seolleung_Jeongneung_08_(18079131693).jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "stone guardian figures along the tomb path"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Seolleung_Jeongneung_05_%2818512028288%29.jpg/1280px-Seolleung_Jeongneung_05_%2818512028288%29.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Seolleung_Jeongneung_05_(18512028288).jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "wooded walking path inside the park"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Seolleung_and_Jeongneung_Royal_Tombs.jpg/1280px-Seolleung_and_Jeongneung_Royal_Tombs.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Seolleung_and_Jeongneung_Royal_Tombs.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "tomb mound with Gangnam towers visible behind"
+      }
+    ],
+    "duration": "45 min-1 h",
+    "bestTime": "Weekday morning",
+    "goodFor": [
+      "Family of 5",
+      "Parents",
+      "Relaxing",
+      "Photos"
+    ],
+    "reservation": {
+      "recommended": false
+    },
+    "sources": [
+      "https://www.tripadvisor.com/Attraction_Review-g294197-d1675961-Reviews-Seolleung_Jeongneung_Royal_Tomb-Seoul.html"
+    ],
+    "lastVerified": "2026-09-24"
+  },
+  {
+    "id": "culture-station-seoul-284",
+    "name": "Culture Station Seoul 284",
+    "nameKo": "문화역서울284",
+    "category": "sight",
+    "subcategory": "Historic building & gallery",
+    "tags": [
+      "free",
+      "indoor",
+      "museum",
+      "art",
+      "rainy-day"
+    ],
+    "vibes": [
+      "classic",
+      "design",
+      "quiet"
+    ],
+    "summary": "The restored 1925 Renaissance-style former Seoul Station, now a free exhibition hall with rotating art and design shows.",
+    "description": "Korea's original Seoul Station building, an ornate 1925 brick-and-dome structure, was retired from rail service and reopened in 2011 as a free public exhibition and events space. The restored waiting hall and stationmaster's rooms host rotating contemporary art, design, and history exhibitions, and the building itself - all domes, arches and period detail - is worth the short visit even between shows. It sits right beside the working Seoul Station, easy to fold into a transit day.",
+    "highlights": [
+      "1925 domed Renaissance-style waiting hall",
+      "Rotating free art/design exhibitions",
+      "Original stationmaster's office and VIP room"
+    ],
+    "tips": [
+      "Visit is roughly 30-45 minutes - easy to combine with a Seoul Station transit connection",
+      "Free entry to the building and most exhibitions",
+      "Check current exhibition online before going, as show quality varies"
+    ],
+    "badges": {
+      "valueForMoney": true,
+      "familyFriendly": true
+    },
+    "ratings": {
+      "tripadvisor": {
+        "score": 3.9,
+        "count": 255,
+        "rank": "#71 of 1,622 things to do in Seoul",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d1960138-Reviews-Culture_Station_Seoul_284-Seoul.html"
+      }
+    },
+    "reviews": [
+      {
+        "source": "TripAdvisor",
+        "text": "The eclectic 1920s exterior and the various rotating exhibitions inside make this an easy, worthwhile stop.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d1960138-Reviews-Culture_Station_Seoul_284-Seoul.html"
+      },
+      {
+        "source": "TripAdvisor",
+        "text": "A former Seoul Station to remember - beautiful restored architecture where past and present coexist.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d1960138-Reviews-Culture_Station_Seoul_284-Seoul.html"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Free"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "closed",
+        "tue": "09:00-18:00",
+        "wed": "09:00-18:00",
+        "thu": "09:00-18:00",
+        "fri": "09:00-18:00",
+        "sat": "10:00-19:00",
+        "sun": "10:00-19:00"
+      },
+      "note": "Closed Mondays."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "closed",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "closed",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "partial",
+      "note": "Government-run culture hall - likely closed on Chuseok day (25 Sep) like other public exhibition halls; no 2026 notice found, and the regular Monday closure falls on 28 Sep.",
+      "verified": false
+    },
+    "location": {
+      "address": "1-1 Cheongpa-ro, Jung-gu, Seoul",
+      "addressKo": "서울 중구 청파로 1-1",
+      "district": "Jung-gu",
+      "neighborhood": "Seoul Station",
+      "lat": 37.5559919,
+      "lng": 126.9715457,
+      "nearestStation": {
+        "name": "Seoul Station",
+        "nameKo": "서울역",
+        "lines": [
+          "1",
+          "4",
+          "AREX",
+          "GJ"
+        ],
+        "exit": "Exit 2",
+        "walkMin": 2
+      }
+    },
+    "links": {
+      "website": "https://www.seoul284.org",
+      "naverMap": "https://map.naver.com/p/search/%EB%AC%B8%ED%99%94%EC%97%AD%EC%84%9C%EC%9A%B8284",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Culture+Station+Seoul+284",
+      "tripadvisor": "https://www.tripadvisor.com/Attraction_Review-g294197-d1960138-Reviews-Culture_Station_Seoul_284-Seoul.html"
+    },
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Culture_Station_Seoul_284_%28_2014_08_05_%29.jpg/1280px-Culture_Station_Seoul_284_%28_2014_08_05_%29.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Culture_Station_Seoul_284_(_2014_08_05_).jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "the domed former station building"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Seoul_Station_Building_1925_side_20240219_02.jpg/1280px-Seoul_Station_Building_1925_side_20240219_02.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Seoul_Station_Building_1925_side_20240219_02.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "side facade of the 1925 building"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Seoul_Station_Building_1925_front_20240219.jpg/1280px-Seoul_Station_Building_1925_front_20240219.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Seoul_Station_Building_1925_front_20240219.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "front entrance of the historic building"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/%EA%B5%AC%EC%84%9C%EC%9A%B8%EC%97%AD%EC%82%AC-Culture-Station-Seoul-284.jpg/1280px-%EA%B5%AC%EC%84%9C%EC%9A%B8%EC%97%AD%EC%82%AC-Culture-Station-Seoul-284.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:구서울역사-Culture-Station-Seoul-284.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "exterior view of the culture station"
+      }
+    ],
+    "duration": "30-45 min",
+    "bestTime": "Weekday afternoon",
+    "goodFor": [
+      "Family of 5",
+      "Rainy day",
+      "First-timers"
+    ],
+    "reservation": {
+      "recommended": false
+    },
+    "sources": [
+      "https://www.tripadvisor.com/Attraction_Review-g294197-d1960138-Reviews-Culture_Station_Seoul_284-Seoul.html",
+      "https://www.seoul284.org"
+    ],
+    "lastVerified": "2026-09-24"
+  },
+  {
+    "id": "itaewon-gyeongridan-gil",
+    "name": "Gyeongnidan-gil",
+    "nameKo": "경리단길",
+    "category": "sight",
+    "subcategory": "Lively evening street",
+    "tags": [
+      "late-night",
+      "instagrammable",
+      "english-friendly",
+      "hidden-gem"
+    ],
+    "vibes": [
+      "hip",
+      "lively",
+      "trendy"
+    ],
+    "summary": "A hillside lane above Itaewon lined with independent bars, cafes, and restaurants - a quieter, more design-forward evening alternative.",
+    "description": "Climbing the hill above Itaewon's main strip, Gyeongnidan-gil is a dense stretch of small, design-conscious restaurants, wine bars and cafes with an international, embassy-district crowd. It's calmer and more walkable-in-an-evening than central Itaewon, good for a browse-and-decide dinner stroll rather than a single destination. Sidewalks are steep in short stretches but manageable for the whole family.",
+    "highlights": [
+      "Independent restaurant and wine bar row",
+      "Rooftop terraces with skyline glimpses",
+      "Easy walk down into Itaewon's main street"
+    ],
+    "tips": [
+      "Go early evening to browse menus before picking a restaurant",
+      "Some stretches have a noticeable incline - fine for most, pace an older visitor",
+      "Connects downhill to Itaewon's main street for more options"
+    ],
+    "badges": {
+      "valueForMoney": true,
+      "familyFriendly": true,
+      "hiddenGem": true
+    },
+    "ratings": {
+      "tripadvisor": {
+        "score": 4,
+        "count": 6,
+        "rank": "#318 of 1,622 things to do in Seoul",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d15512922-Reviews-Gyeongnidan_gil_Road-Seoul.html"
+      }
+    },
+    "reviews": [
+      {
+        "source": "TripAdvisor",
+        "text": "A dense mix of independent restaurants, cafes and bars - a less touristy alternative to central Itaewon.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d15512922-Reviews-Gyeongnidan_gil_Road-Seoul.html"
+      },
+      {
+        "source": "TripAdvisor",
+        "text": "A neighborhood of embassies, fancy pubs and restaurants with an international, laid-back atmosphere.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d15512922-Reviews-Gyeongnidan_gil_Road-Seoul.html"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Free to walk; restaurant/bar prices vary"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "24h",
+        "tue": "24h",
+        "wed": "24h",
+        "thu": "24h",
+        "fri": "24h",
+        "sat": "24h",
+        "sun": "24h"
+      },
+      "note": "Public street; individual shops keep their own hours, mostly evening-focused."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "Open street; some independent restaurants and bars may close individually 24-26 Sep - check specific venues.",
+      "verified": false
+    },
+    "location": {
+      "address": "Itaewon 2(i)-dong, Yongsan-gu, Seoul",
+      "addressKo": "서울 용산구 이태원2동 경리단길",
+      "district": "Yongsan-gu",
+      "neighborhood": "Itaewon",
+      "lat": 37.5399668,
+      "lng": 126.9920123,
+      "nearestStation": {
+        "name": "Noksapyeong",
+        "nameKo": "녹사평역",
+        "lines": [
+          "6"
+        ],
+        "exit": "Exit 2",
+        "walkMin": 10
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%EA%B2%BD%EB%A6%AC%EB%8B%A8%EA%B8%B8",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Gyeongnidan-gil+Seoul",
+      "tripadvisor": "https://www.tripadvisor.com/Attraction_Review-g294197-d15512922-Reviews-Gyeongnidan_gil_Road-Seoul.html"
+    },
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Itaewon_Gyeongnidan-gil.JPG/1280px-Itaewon_Gyeongnidan-gil.JPG",
+        "source": "https://commons.wikimedia.org/wiki/File:Itaewon_Gyeongnidan-gil.JPG",
+        "credit": "Wikimedia Commons",
+        "alt": "street view of Gyeongnidan-gil"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Itaewon_Gyeongnidan-gil_1.jpg/1280px-Itaewon_Gyeongnidan-gil_1.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Itaewon_Gyeongnidan-gil_1.jpg",
+        "credit": "Korea Tourism Organization",
+        "alt": "restaurants and cafes along the hillside lane"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Gyeongnidan-gil_name.jpg/1280px-Gyeongnidan-gil_name.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Gyeongnidan-gil_name.jpg",
+        "credit": "Korea Tourism Organization",
+        "alt": "Gyeongnidan-gil street sign"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Itaewon_Gyeongnidan-gil_2.jpg/1280px-Itaewon_Gyeongnidan-gil_2.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Itaewon_Gyeongnidan-gil_2.jpg",
+        "credit": "Korea Tourism Organization",
+        "alt": "evening view along the street"
+      }
+    ],
+    "duration": "1-1.5 h",
+    "bestTime": "Early evening",
+    "goodFor": [
+      "Family of 5",
+      "Night out",
+      "Foodies"
+    ],
+    "reservation": {
+      "recommended": false
+    },
+    "sources": [
+      "https://www.tripadvisor.com/Attraction_Review-g294197-d15512922-Reviews-Gyeongnidan_gil_Road-Seoul.html"
+    ],
+    "lastVerified": "2026-09-24"
+  },
+  {
+    "id": "hongik-university-street-hongdae",
+    "name": "Hongik University Street (Hongdae)",
+    "nameKo": "홍대 거리",
+    "category": "sight",
+    "subcategory": "Lively evening street",
+    "tags": [
+      "late-night",
+      "instagrammable",
+      "k-pop",
+      "live-music",
+      "english-friendly"
+    ],
+    "vibes": [
+      "lively",
+      "hip",
+      "trendy"
+    ],
+    "summary": "Seoul's youth-culture nexus: buskers, street dance crews, indie boutiques and nightlife packed around Hongik University.",
+    "description": "The streets around Hongik University are Seoul's densest concentration of youth culture - weekend busking and dance crews outside Exit 9, an endless run of quirky cafes and photo-booth shops, and clubs and live-music bars that keep going past midnight. It's a browse-and-graze destination rather than a single sight: come hungry, expect crowds on weekend evenings, and let the family split off between shopping, snacking, and people-watching.",
+    "highlights": [
+      "Weekend busking and dance performances near Exit 9",
+      "Photo-booth and character-goods shopping strip",
+      "Live-music clubs and late-night food stalls"
+    ],
+    "tips": [
+      "Weekend evenings (7-10pm) have the best street performances but the biggest crowds",
+      "Weekday afternoons are calmer for shopping with kids",
+      "Combine with Gyeongui Line Forest Park next door for an easy full outing"
+    ],
+    "badges": {
+      "valueForMoney": true,
+      "familyFriendly": true
+    },
+    "ratings": {
+      "tripadvisor": {
+        "score": 4.3,
+        "count": 2313,
+        "rank": "#19 of 1,622 things to do in Seoul",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d1958940-Reviews-Hongik_University_Street-Seoul.html"
+      }
+    },
+    "reviews": [
+      {
+        "source": "TripAdvisor",
+        "text": "The nexus of Seoul's youth and indie culture, with funky boutiques, avant-garde galleries, and great nightlife.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d1958940-Reviews-Hongik_University_Street-Seoul.html"
+      },
+      {
+        "source": "TripAdvisor",
+        "text": "Every corner feels like a different vibe - colorful murals, hidden cafes, and streets packed with energy.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d1958940-Reviews-Hongik_University_Street-Seoul.html"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Free to walk"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "24h",
+        "tue": "24h",
+        "wed": "24h",
+        "thu": "24h",
+        "fri": "24h",
+        "sat": "24h",
+        "sun": "24h"
+      },
+      "note": "Public street; shops/clubs keep individual hours, busiest Fri-Sun evenings."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "Open public street; some shops close individually 24-26 Sep for the holiday.",
+      "verified": false
+    },
+    "location": {
+      "address": "Seogyo-dong, Mapo-gu, Seoul",
+      "addressKo": "서울 마포구 서교동 홍대거리",
+      "district": "Mapo-gu",
+      "neighborhood": "Hongdae",
+      "lat": 37.5519808,
+      "lng": 126.9214617,
+      "nearestStation": {
+        "name": "Hongik University",
+        "nameKo": "홍대입구역",
+        "lines": [
+          "2",
+          "GJ",
+          "AREX"
+        ],
+        "exit": "Exit 9",
+        "walkMin": 3
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%ED%99%8D%EB%8C%80%EA%B1%B0%EB%A6%AC",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Hongik+University+Street+Seoul",
+      "tripadvisor": "https://www.tripadvisor.com/Attraction_Review-g294197-d1958940-Reviews-Hongik_University_Street-Seoul.html"
+    },
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Hongdae_Playground_street_merchants.JPG/1280px-Hongdae_Playground_street_merchants.JPG",
+        "source": "https://commons.wikimedia.org/wiki/File:Hongdae_Playground_street_merchants.JPG",
+        "credit": "Wikimedia Commons",
+        "alt": "street merchants near Hongdae Playground"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Hongdae_Party_District_at_Night%2C_Seoul.jpg/1280px-Hongdae_Party_District_at_Night%2C_Seoul.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Hongdae_Party_District_at_Night,_Seoul.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "Hongdae nightlife district after dark"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Street_hongdae_Seoul.jpg/1280px-Street_hongdae_Seoul.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Street_hongdae_Seoul.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "shopping street in Hongdae"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Hongdae%2C_Seoul-_Part_II_-_Hongdae2252.jpg/1280px-Hongdae%2C_Seoul-_Part_II_-_Hongdae2252.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Hongdae,_Seoul-_Part_II_-_Hongdae2252.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "street scene in Hongdae"
+      }
+    ],
+    "duration": "1.5-2.5 h",
+    "bestTime": "Weekend early evening for busking",
+    "goodFor": [
+      "Family of 5",
+      "Night out",
+      "Photos"
+    ],
+    "reservation": {
+      "recommended": false
+    },
+    "sources": [
+      "https://www.tripadvisor.com/Attraction_Review-g294197-d1958940-Reviews-Hongik_University_Street-Seoul.html"
+    ],
+    "lastVerified": "2026-09-24"
+  },
+  {
+    "id": "seoul-metropolitan-library",
+    "name": "Seoul Metropolitan Library",
+    "nameKo": "서울도서관",
+    "category": "sight",
+    "subcategory": "Modern landmark & architecture",
+    "tags": [
+      "free",
+      "indoor",
+      "design",
+      "rainy-day",
+      "instagrammable"
+    ],
+    "vibes": [
+      "design",
+      "quiet",
+      "classic"
+    ],
+    "summary": "The old Japanese colonial-era City Hall reborn as a public library, its three-story reading wall facing Seoul Plaza.",
+    "description": "Seoul's former City Hall (built 1926) was converted into a striking public library in 2012, keeping the historic stone facade while opening a soaring reading room lined floor-to-ceiling with books behind glass. The main hall's stepped 'reading stairs' overlook Seoul Plaza and the modern glass City Hall next door - a genuinely photogenic contrast between old and new Seoul. Anyone can walk in and browse for free; the building alone is worth a quick look even without reading.",
+    "highlights": [
+      "Multi-story book wall and reading stairs",
+      "Historic 1926 facade beside the modern glass City Hall",
+      "Free rooftop and window views over Seoul Plaza"
+    ],
+    "tips": [
+      "Free to enter, no membership needed to browse or sit",
+      "Great rainy-day filler right next to Deoksugung and City Hall Plaza",
+      "Quietest on weekday mornings"
+    ],
+    "badges": {
+      "valueForMoney": true,
+      "familyFriendly": true,
+      "futuristic": false
+    },
+    "ratings": {
+      "tripadvisor": {
+        "score": 4.7,
+        "count": 20,
+        "rank": "#186 of 1,622 things to do in Seoul",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d10813620-Reviews-Seoul_Metropolitan_Library-Seoul.html"
+      }
+    },
+    "reviews": [
+      {
+        "source": "TripAdvisor",
+        "text": "One of the best libraries in Seoul - a striking book wall inside a beautifully restored historic building.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d10813620-Reviews-Seoul_Metropolitan_Library-Seoul.html"
+      },
+      {
+        "source": "TripAdvisor",
+        "text": "A one-stop shop for tons of excitement - free, central, and photogenic even for non-readers.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d10813620-Reviews-Seoul_Metropolitan_Library-Seoul.html"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Free"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "closed",
+        "tue": "09:00-21:00",
+        "wed": "09:00-21:00",
+        "thu": "09:00-21:00",
+        "fri": "09:00-21:00",
+        "sat": "09:00-18:00",
+        "sun": "09:00-18:00"
+      },
+      "note": "Closed Mondays."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "closed",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "closed",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "partial",
+      "note": "Public libraries typically close for the Chuseok holidays; no 2026 notice found yet, so treat 24-26 Sep as likely closed and the regular Monday closure falls on 28 Sep - confirm nearer the date.",
+      "verified": false
+    },
+    "location": {
+      "address": "110 Sejong-daero, Jung-gu, Seoul",
+      "addressKo": "서울 중구 세종대로 110",
+      "district": "Jung-gu",
+      "neighborhood": "City Hall",
+      "lat": 37.5658,
+      "lng": 126.9784,
+      "nearestStation": {
+        "name": "City Hall",
+        "nameKo": "시청역",
+        "lines": [
+          "1",
+          "2"
+        ],
+        "exit": "Exit 5",
+        "walkMin": 2
+      }
+    },
+    "links": {
+      "website": "https://lib.seoul.go.kr",
+      "naverMap": "https://map.naver.com/p/search/%EC%84%9C%EC%9A%B8%EB%8F%84%EC%84%9C%EA%B4%80",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Seoul+Metropolitan+Library",
+      "tripadvisor": "https://www.tripadvisor.com/Attraction_Review-g294197-d10813620-Reviews-Seoul_Metropolitan_Library-Seoul.html"
+    },
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Seoul_Metropolitan_Library_20190608_001.jpg/1280px-Seoul_Metropolitan_Library_20190608_001.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Seoul_Metropolitan_Library_20190608_001.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "exterior of the historic library building"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Seoul_Metropolitan_Library_20191221_03.jpg/1280px-Seoul_Metropolitan_Library_20191221_03.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Seoul_Metropolitan_Library_20191221_03.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "interior reading stairs and book wall"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Seoul_Metropolitan_Library_20191221_02.jpg/1280px-Seoul_Metropolitan_Library_20191221_02.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Seoul_Metropolitan_Library_20191221_02.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "reading hall interior"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Seoul_Metropolitan_Library_20191221_04.jpg/1280px-Seoul_Metropolitan_Library_20191221_04.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Seoul_Metropolitan_Library_20191221_04.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "view from inside toward Seoul Plaza"
+      }
+    ],
+    "duration": "30-45 min",
+    "bestTime": "Weekday morning",
+    "goodFor": [
+      "Family of 5",
+      "Rainy day",
+      "Photos"
+    ],
+    "reservation": {
+      "recommended": false
+    },
+    "sources": [
+      "https://www.tripadvisor.com/Attraction_Review-g294197-d10813620-Reviews-Seoul_Metropolitan_Library-Seoul.html",
+      "https://lib.seoul.go.kr"
+    ],
+    "lastVerified": "2026-09-24"
+  },
+  {
+    "id": "trickeye-museum-hongdae",
+    "name": "Trick Eye Museum Seoul",
+    "nameKo": "서울 트릭아이미술관",
+    "category": "experience",
+    "subcategory": "Theme attraction",
+    "tags": [
+      "indoor",
+      "kid-friendly",
+      "parent-friendly",
+      "instagrammable",
+      "rainy-day"
+    ],
+    "vibes": [
+      "lively",
+      "trendy"
+    ],
+    "summary": "A basement gallery of 3D optical-illusion paintings in Hongdae where visitors pose inside the artwork for photos.",
+    "description": "One of Seoul's original trick-art museums, this Hongdae basement gallery is packed with large-scale 3D paintings designed to be photographed with visitors posed inside the scene - falling off cliffs, swimming with sharks, dodging a giant wave. It's entirely indoor, air-conditioned, and needs zero physical effort, making it an easy rainy-day or hot-afternoon filler that works for every age in the family at once.",
+    "highlights": [
+      "3D illusion paintings designed for photo poses",
+      "Combined ticket often available with the ice/snow museum next door",
+      "Fully indoor, air-conditioned galleries"
+    ],
+    "tips": [
+      "Bring a phone with a wide lens for the best illusion photos - staff can help pose you",
+      "Combined tickets with the nearby ice museum save money",
+      "Good backup plan for a rainy Hongdae afternoon"
+    ],
+    "badges": {
+      "valueForMoney": true,
+      "familyFriendly": true
+    },
+    "ratings": {
+      "tripadvisor": {
+        "score": 4.3,
+        "count": 1541,
+        "rank": "#25 of 1,622 things to do in Seoul",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d2203080-Reviews-Trickeye_Museum_Seoul-Seoul.html"
+      }
+    },
+    "reviews": [
+      {
+        "source": "TripAdvisor",
+        "text": "Full of interactive photo booths with optical illusions - every corner is designed to surprise and make you laugh.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d2203080-Reviews-Trickeye_Museum_Seoul-Seoul.html"
+      },
+      {
+        "source": "TripAdvisor",
+        "text": "One of our favorite stops in Seoul - great fun for kids and adults posing together in the illusion scenes.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d2203080-Reviews-Trickeye_Museum_Seoul-Seoul.html"
+      }
+    ],
+    "price": {
+      "level": 2,
+      "note": "Around ₩18,000-22,000 per adult; combo tickets available"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "10:00-22:00",
+        "tue": "10:00-22:00",
+        "wed": "10:00-22:00",
+        "thu": "10:00-22:00",
+        "fri": "10:00-22:00",
+        "sat": "10:00-22:00",
+        "sun": "10:00-22:00"
+      },
+      "lastOrder": "21:00 entry"
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "Privately run paid attraction, typically stays open through public holidays including Chuseok; no closure notice found.",
+      "verified": false
+    },
+    "location": {
+      "address": "20 Hongik-ro 3-gil, Mapo-gu, Seoul",
+      "addressKo": "서울 마포구 홍익로3길 20",
+      "district": "Mapo-gu",
+      "neighborhood": "Hongdae",
+      "lat": 37.5535048,
+      "lng": 126.9216864,
+      "nearestStation": {
+        "name": "Hongik University",
+        "nameKo": "홍대입구역",
+        "lines": [
+          "2",
+          "GJ",
+          "AREX"
+        ],
+        "exit": "Exit 9",
+        "walkMin": 7
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%EC%84%9C%EC%9A%B8%20%ED%8A%B8%EB%A6%AD%EC%95%84%EC%9D%B4%EB%AF%B8%EC%88%A0%EA%B4%80",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Trick+Eye+Museum+Seoul+Hongdae",
+      "tripadvisor": "https://www.tripadvisor.com/Attraction_Review-g294197-d2203080-Reviews-Trickeye_Museum_Seoul-Seoul.html"
+    },
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Korea_Trick_Eye_20140402_05_%2813684820833%29.jpg/1280px-Korea_Trick_Eye_20140402_05_%2813684820833%29.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Korea_Trick_Eye_20140402_05_(13684820833).jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "visitor posing inside a 3D illusion painting"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Korea_Trick_Eye_20140402_03_%2813684778155%29.jpg/1280px-Korea_Trick_Eye_20140402_03_%2813684778155%29.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Korea_Trick_Eye_20140402_03_(13684778155).jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "3D optical illusion wall art"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Korea_Trick_Eye_20140402_09_%2813684776455%29.jpg/1280px-Korea_Trick_Eye_20140402_09_%2813684776455%29.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Korea_Trick_Eye_20140402_09_(13684776455).jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "illusion scene inside the museum"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Korea_Trick_Eye_20140402_08_%2813685132154%29.jpg/1280px-Korea_Trick_Eye_20140402_08_%2813685132154%29.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Korea_Trick_Eye_20140402_08_(13685132154).jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "visitors interacting with painted artwork"
+      }
+    ],
+    "duration": "1-1.5 h",
+    "bestTime": "Rainy afternoon",
+    "goodFor": [
+      "Family of 5",
+      "Kids at heart",
+      "Rainy day",
+      "Photos"
+    ],
+    "reservation": {
+      "recommended": false
+    },
+    "sources": [
+      "https://www.tripadvisor.com/Attraction_Review-g294197-d2203080-Reviews-Trickeye_Museum_Seoul-Seoul.html"
+    ],
+    "lastVerified": "2026-09-24"
+  },
+  {
+    "id": "national-hangeul-museum",
+    "name": "National Hangeul Museum",
+    "nameKo": "국립한글박물관",
+    "category": "sight",
+    "subcategory": "History museum",
+    "tags": [
+      "free",
+      "indoor",
+      "museum",
+      "kid-friendly",
+      "parent-friendly",
+      "english-friendly",
+      "rainy-day"
+    ],
+    "vibes": [
+      "design",
+      "quiet",
+      "minimal"
+    ],
+    "summary": "A free, modern museum on the Korean alphabet next to the National Museum of Korea, with playful hands-on Hangeul exhibits.",
+    "description": "Dedicated entirely to the Hangeul writing system King Sejong created, this bright, modern museum sits directly beside the National Museum of Korea in Yongsan Family Park. Interactive touchscreen and typography exhibits explain how the alphabet works in a way that's genuinely engaging even without reading Korean, and a top-floor cafe and library make it easy to linger. It pairs naturally as a shorter add-on to a National Museum of Korea visit.",
+    "highlights": [
+      "Interactive Hangeul letter-building exhibits",
+      "History of Korean printing and typography",
+      "Rooftop cafe with park views"
+    ],
+    "tips": [
+      "Free entry, English signage throughout",
+      "Best combined with the adjacent National Museum of Korea in one visit",
+      "Closed Mondays like most national museums"
+    ],
+    "badges": {
+      "valueForMoney": true,
+      "familyFriendly": true
+    },
+    "ratings": {
+      "tripadvisor": {
+        "score": 4,
+        "count": 66,
+        "rank": "#130 of 1,622 things to do in Seoul",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d7717516-Reviews-National_Hangeul_Museum-Seoul.html"
+      }
+    },
+    "reviews": [
+      {
+        "source": "TripAdvisor",
+        "text": "A very interesting museum about the Korean language - well worth the short visit, even better a second time.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d7717516-Reviews-National_Hangeul_Museum-Seoul.html"
+      },
+      {
+        "source": "TripAdvisor",
+        "text": "Fascinating for anyone curious how the Hangeul alphabet was designed - easy to combine with the main museum next door.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d7717516-Reviews-National_Hangeul_Museum-Seoul.html"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Free"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "closed",
+        "tue": "10:00-18:00",
+        "wed": "10:00-18:00",
+        "thu": "10:00-18:00",
+        "fri": "10:00-21:00",
+        "sat": "10:00-19:00",
+        "sun": "10:00-19:00"
+      },
+      "note": "Closed Mondays."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "closed",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "closed",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "partial",
+      "note": "Part of the National Museum of Korea complex, which closes on Chuseok day; likely closed 25 Sep with the regular Monday closure falling on 28 Sep. No 2026 notice found yet - confirm nearer the date.",
+      "verified": false
+    },
+    "location": {
+      "address": "139 Seobinggo-ro, Yongsan-gu, Seoul",
+      "addressKo": "서울 용산구 서빙고로 139",
+      "district": "Yongsan-gu",
+      "neighborhood": "Yongsan Family Park",
+      "lat": 37.5211497,
+      "lng": 126.9809372,
+      "nearestStation": {
+        "name": "Ichon",
+        "nameKo": "이촌역",
+        "lines": [
+          "4",
+          "GJ"
+        ],
+        "exit": "Exit 2",
+        "walkMin": 10
+      }
+    },
+    "links": {
+      "website": "https://www.hangeul.go.kr/eng.do",
+      "naverMap": "https://map.naver.com/p/search/%EA%B5%AD%EB%A6%BD%ED%95%9C%EA%B8%80%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=National+Hangeul+Museum+Seoul",
+      "tripadvisor": "https://www.tripadvisor.com/Attraction_Review-g294197-d7717516-Reviews-National_Hangeul_Museum-Seoul.html"
+    },
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Korea_National_Hangeul_Museum_17_%2815230587109%29.jpg/1280px-Korea_National_Hangeul_Museum_17_%2815230587109%29.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Korea_National_Hangeul_Museum_17_(15230587109).jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "exterior of the National Hangeul Museum"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Korea_National_Hangeul_Museum_11_%2815414176811%29.jpg/1280px-Korea_National_Hangeul_Museum_11_%2815414176811%29.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Korea_National_Hangeul_Museum_11_(15414176811).jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "museum building facade"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/National_Hangeul_Museum_Exhibition_20160317_04_%2825850238465%29.jpg/1280px-National_Hangeul_Museum_Exhibition_20160317_04_%2825850238465%29.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:National_Hangeul_Museum_Exhibition_20160317_04_(25850238465).jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "interactive Hangeul exhibition display"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/National_Hangeul_Museum_Exhibition_20160317_01_%2825223673763%29.jpg/1280px-National_Hangeul_Museum_Exhibition_20160317_01_%2825223673763%29.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:National_Hangeul_Museum_Exhibition_20160317_01_(25223673763).jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "gallery exhibition on Korean typography"
+      }
+    ],
+    "duration": "1-1.5 h",
+    "bestTime": "Combine with National Museum of Korea visit",
+    "goodFor": [
+      "Family of 5",
+      "Rainy day",
+      "First-timers"
+    ],
+    "reservation": {
+      "recommended": false
+    },
+    "sources": [
+      "https://www.tripadvisor.com/Attraction_Review-g294197-d7717516-Reviews-National_Hangeul_Museum-Seoul.html",
+      "https://www.hangeul.go.kr/eng.do"
+    ],
+    "lastVerified": "2026-09-24"
+  },
+  {
+    "id": "insadong-street",
+    "name": "Insadong-gil",
+    "nameKo": "인사동길",
+    "category": "shopping",
+    "subcategory": "Traditional shopping street",
+    "tags": [
+      "free",
+      "instagrammable",
+      "art",
+      "market",
+      "tax-free",
+      "parent-friendly"
+    ],
+    "vibes": [
+      "traditional",
+      "classic",
+      "hip"
+    ],
+    "summary": "A pedestrian gallery-and-teahouse street selling antiques, calligraphy, hanbok, and ceramics amid a mix of old and new Seoul.",
+    "description": "Insadong-gil is Seoul's best-known traditional arts street: a mostly car-free lane of tea houses, calligraphy shops, ceramics stalls, small galleries, and the covered Ssamzigil shopping complex built around a courtyard. It's an easy, flat, browse-at-your-own-pace afternoon that suits every generation in a family - grandparents can sit for tea while others shop the side alleys - and requires no advance planning or tickets.",
+    "highlights": [
+      "Ssamzigil courtyard shopping complex",
+      "Traditional tea houses and hanbok shops",
+      "Street food stalls and small private galleries"
+    ],
+    "tips": [
+      "Ssamzigil's spiral ramp layout is worth doing top to bottom",
+      "Weekend afternoons (car-free) are liveliest but busiest",
+      "Good spot for souvenir shopping - ceramics, calligraphy, traditional paper goods"
+    ],
+    "badges": {
+      "valueForMoney": true,
+      "familyFriendly": true,
+      "mustSee": true
+    },
+    "ratings": {
+      "tripadvisor": {
+        "score": 4.2,
+        "count": 6483,
+        "rank": "#39 of 1,622 things to do in Seoul",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d592506-Reviews-Insadong-Seoul.html"
+      }
+    },
+    "reviews": [
+      {
+        "source": "TripAdvisor",
+        "text": "One of the cultural and artistic hubs of Seoul, with great tea houses, restaurants, street food, galleries and souvenir shops.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d592506-Reviews-Insadong-Seoul.html"
+      },
+      {
+        "source": "TripAdvisor",
+        "text": "A pedestrian street lined with galleries and handicraft shops - a mixture of historical and modern Seoul in one walk.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d592506-Reviews-Insadong-Seoul.html"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Free to walk; shopping/tea prices vary"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "10:00-20:00",
+        "tue": "10:00-20:00",
+        "wed": "10:00-20:00",
+        "thu": "10:00-20:00",
+        "fri": "10:00-20:00",
+        "sat": "10:00-21:00",
+        "sun": "10:00-21:00"
+      },
+      "note": "Main street pedestrianized weekends; most shops open daily."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "partial",
+      "note": "Street stays open; many individual shops and some galleries close 24-26 Sep for Chuseok - no single 2026 notice covers the whole street.",
+      "verified": false
+    },
+    "location": {
+      "address": "Insadong-gil, Jongno-gu, Seoul",
+      "addressKo": "서울 종로구 인사동길",
+      "district": "Jongno-gu",
+      "neighborhood": "Insadong",
+      "lat": 37.5735237,
+      "lng": 126.9855961,
+      "nearestStation": {
+        "name": "Anguk",
+        "nameKo": "안국역",
+        "lines": [
+          "3"
+        ],
+        "exit": "Exit 6",
+        "walkMin": 5
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%EC%9D%B8%EC%82%AC%EB%8F%99%EA%B8%B8",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Insadong+Seoul",
+      "tripadvisor": "https://www.tripadvisor.com/Attraction_Review-g294197-d592506-Reviews-Insadong-Seoul.html"
+    },
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Ssamzigil_in_Insadong.jpg/1280px-Ssamzigil_in_Insadong.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Ssamzigil_in_Insadong.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "Ssamzigil courtyard shopping complex"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Insa-dong_%EC%9D%B8%EC%82%AC%EB%8F%99_October_1_2020_12.jpg/1280px-Insa-dong_%EC%9D%B8%EC%82%AC%EB%8F%99_October_1_2020_12.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Insa-dong_인사동_October_1_2020_12.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "pedestrian street lined with shops"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Insa-dong_%EC%9D%B8%EC%82%AC%EB%8F%99_October_1_2020_11.jpg/1280px-Insa-dong_%EC%9D%B8%EC%82%AC%EB%8F%99_October_1_2020_11.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Insa-dong_인사동_October_1_2020_11.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "shopfronts along Insadong-gil"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Insa-dong_%EC%9D%B8%EC%82%AC%EB%8F%99_October_1_2020_13.jpg/1280px-Insa-dong_%EC%9D%B8%EC%82%AC%EB%8F%99_October_1_2020_13.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Insa-dong_인사동_October_1_2020_13.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "crowds walking the pedestrian street"
+      }
+    ],
+    "duration": "1.5-2 h",
+    "bestTime": "Weekend afternoon (car-free)",
+    "goodFor": [
+      "Family of 5",
+      "Parents",
+      "Shopping",
+      "Photos"
+    ],
+    "reservation": {
+      "recommended": false
+    },
+    "sources": [
+      "https://www.tripadvisor.com/Attraction_Review-g294197-d592506-Reviews-Insadong-Seoul.html"
+    ],
+    "lastVerified": "2026-09-24"
+  },
+  {
+    "id": "apgujeong-rodeo-street",
+    "name": "Apgujeong Rodeo Street",
+    "nameKo": "압구정로데오거리",
+    "category": "shopping",
+    "subcategory": "Luxury shopping street",
+    "tags": [
+      "fashion",
+      "instagrammable",
+      "k-pop",
+      "tax-free",
+      "late-night"
+    ],
+    "vibes": [
+      "luxe",
+      "trendy",
+      "lively"
+    ],
+    "summary": "Gangnam's original designer-boutique strip, now mixing luxury flagships with K-pop agency buildings and glossy dessert cafes.",
+    "description": "Apgujeong Rodeo has been Gangnam's high-fashion address since the 1990s and still delivers a concentrated stretch of designer boutiques, plastic-surgery-clinic glass towers, and celebrity-adjacent cafes - plus proximity to SM Entertainment's old building and other agency offices that draw K-pop fans. It's a browsing-and-people-watching street more than a single sight, easy to fold into an Apgujeong/Cheongdam shopping day, with plenty of places to sit down for coffee or dessert between stores.",
+    "highlights": [
+      "Designer boutiques and flagship stores",
+      "Cafes and dessert shops popular with K-pop fans",
+      "Streets connecting to Dosan Park and Cheongdam"
+    ],
+    "tips": [
+      "Evenings bring out the area's nightlife energy - good for a post-dinner stroll",
+      "Combine with K-Star Road and Dosan Park for one Apgujeong afternoon",
+      "Many stores tax-refund eligible for tourists"
+    ],
+    "badges": {
+      "valueForMoney": false,
+      "familyFriendly": true
+    },
+    "ratings": {
+      "tripadvisor": {
+        "score": 3.8,
+        "count": 172,
+        "rank": "#39 of 1,019 Shopping in Seoul",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d1847008-Reviews-Apgujeong_Rodeo_Street-Seoul.html"
+      }
+    },
+    "reviews": [
+      {
+        "source": "TripAdvisor",
+        "text": "A luxury district full of high-end shops - the street of high-end fashion in Gangnam.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d1847008-Reviews-Apgujeong_Rodeo_Street-Seoul.html"
+      },
+      {
+        "source": "TripAdvisor",
+        "text": "Interesting area at night, especially for food and bars, with a different, more grown-up energy than Myeongdong.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d1847008-Reviews-Apgujeong_Rodeo_Street-Seoul.html"
+      }
+    ],
+    "price": {
+      "level": 3,
+      "note": "Free to walk; boutique prices are premium"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "11:00-21:00",
+        "tue": "11:00-21:00",
+        "wed": "11:00-21:00",
+        "thu": "11:00-21:00",
+        "fri": "11:00-21:00",
+        "sat": "11:00-21:00",
+        "sun": "11:00-21:00"
+      },
+      "note": "Individual boutique hours vary; street itself is always accessible."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "partial",
+      "note": "Street stays open; individual boutiques and restaurants often close 1-3 days around Chuseok - check specific stores.",
+      "verified": false
+    },
+    "location": {
+      "address": "Sinsa-dong, Gangnam-gu, Seoul",
+      "addressKo": "서울 강남구 신사동 압구정로데오거리",
+      "district": "Gangnam-gu",
+      "neighborhood": "Apgujeong",
+      "lat": 37.5262279,
+      "lng": 127.03765,
+      "nearestStation": {
+        "name": "Apgujeong Rodeo",
+        "nameKo": "압구정로데오역",
+        "lines": [
+          "SB"
+        ],
+        "exit": "Exit 5",
+        "walkMin": 3
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%EC%95%95%EA%B5%AC%EC%A0%95%EB%A1%9C%EB%8D%B0%EC%98%A4%EA%B1%B0%EB%A6%AC",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Apgujeong+Rodeo+Street+Seoul",
+      "tripadvisor": "https://www.tripadvisor.com/Attraction_Review-g294197-d1847008-Reviews-Apgujeong_Rodeo_Street-Seoul.html"
+    },
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Apgujeong_20180602_094459.jpg/1280px-Apgujeong_20180602_094459.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Apgujeong_20180602_094459.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "street view of Apgujeong Rodeo"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Apgujeong_20180602_094504.jpg/1280px-Apgujeong_20180602_094504.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Apgujeong_20180602_094504.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "boutiques along the Rodeo street"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/%28Apgujeong-Sinsa%29_20190312_050420.jpg/1280px-%28Apgujeong-Sinsa%29_20190312_050420.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:(Apgujeong-Sinsa)_20190312_050420.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "Apgujeong-Sinsa neighborhood street"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/%28Apgujeong-Sinsa%29_20190312_050416.jpg/1280px-%28Apgujeong-Sinsa%29_20190312_050416.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:(Apgujeong-Sinsa)_20190312_050416.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "shopfronts near Apgujeong"
+      }
+    ],
+    "duration": "1-2 h",
+    "bestTime": "Early evening",
+    "goodFor": [
+      "Family of 5",
+      "Shopping",
+      "Photos"
+    ],
+    "reservation": {
+      "recommended": false
+    },
+    "sources": [
+      "https://www.tripadvisor.com/Attraction_Review-g294197-d1847008-Reviews-Apgujeong_Rodeo_Street-Seoul.html"
+    ],
+    "lastVerified": "2026-09-24"
+  },
+  {
+    "id": "dongdaemun-shopping-complex",
+    "name": "Dongdaemun Doota Mall & Night Shopping",
+    "nameKo": "동대문 두타몰",
+    "category": "shopping",
+    "subcategory": "Late-night fashion shopping street",
+    "tags": [
+      "late-night",
+      "open-24h",
+      "fashion",
+      "tax-free",
+      "instagrammable"
+    ],
+    "vibes": [
+      "lively",
+      "trendy",
+      "design"
+    ],
+    "summary": "Korea's largest fashion wholesale district, anchored by the glossy 10-floor Doota mall, with shops running deep into the night.",
+    "description": "Dongdaemun is Korea's biggest fashion retail-and-wholesale zone, and Doota is its most comfortable entry point - ten polished, well-lit floors of fashion, beauty and food that feel like a normal mall rather than a wholesale warehouse. Many surrounding buildings (Migliore, Hello apM, Good Morning City) stay open well past midnight, some 24 hours, making this one of the few genuinely late-night, air-conditioned family activities in Seoul. Good for an after-dinner browse rather than a full daytime outing.",
+    "highlights": [
+      "Doota Mall's 10 floors of fashion and beauty",
+      "Night shopping across neighboring malls until very late",
+      "DDP (Dongdaemun Design Plaza) lit up next door"
+    ],
+    "tips": [
+      "Doota is the most polished, easiest-to-navigate building for a first visit",
+      "Many neighboring malls run until 5am or 24h except Mondays/holidays",
+      "Pair with an evening visit to DDP's lit-up exterior, right across the street"
+    ],
+    "badges": {
+      "valueForMoney": true,
+      "familyFriendly": true
+    },
+    "ratings": {
+      "tripadvisor": {
+        "score": 3.8,
+        "count": 579,
+        "rank": "#75 of 1,622 things to do in Seoul",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d1478599-Reviews-Dongdaemun_Shopping_Complex-Seoul.html"
+      }
+    },
+    "reviews": [
+      {
+        "source": "TripAdvisor",
+        "text": "Night shopping at this wholesale market is a real Seoul experience - shops stay open long after most malls close.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d1478599-Reviews-Dongdaemun_Shopping_Complex-Seoul.html"
+      },
+      {
+        "source": "TripAdvisor",
+        "text": "Doota feels like a proper mall - polished, easy to navigate and a good introduction to Dongdaemun for first-timers.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d1478599-Reviews-Dongdaemun_Shopping_Complex-Seoul.html"
+      }
+    ],
+    "price": {
+      "level": 2,
+      "note": "Free to browse; shopping prices vary"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "10:30-24:00",
+        "tue": "10:30-24:00",
+        "wed": "10:30-24:00",
+        "thu": "10:30-24:00",
+        "fri": "10:30-24:00",
+        "sat": "10:30-24:00",
+        "sun": "10:30-24:00"
+      },
+      "note": "Doota daily 10:30-midnight; many neighboring wholesale malls run later, some 24h except Mon."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "partial",
+      "note": "Doota and most malls stay open through Chuseok, but some wholesale-only floors close 24-26 Sep - no single 2026 notice covers every building.",
+      "verified": false
+    },
+    "location": {
+      "address": "275 Jangchungdan-ro, Jung-gu, Seoul",
+      "addressKo": "서울 중구 장충단로 275",
+      "district": "Jung-gu",
+      "neighborhood": "Dongdaemun",
+      "lat": 37.5687628,
+      "lng": 127.0087284,
+      "nearestStation": {
+        "name": "Dongdaemun History & Culture Park",
+        "nameKo": "동대문역사문화공원역",
+        "lines": [
+          "2",
+          "4",
+          "5"
+        ],
+        "exit": "Exit 14",
+        "walkMin": 3
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%EB%91%90%ED%83%80%EB%AA%B0",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Doota+Mall+Dongdaemun+Seoul",
+      "tripadvisor": "https://www.tripadvisor.com/Attraction_Review-g294197-d1478599-Reviews-Dongdaemun_Shopping_Complex-Seoul.html"
+    },
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Seoul-Dongdaemun.Market-01-Doota.jpg/1280px-Seoul-Dongdaemun.Market-01-Doota.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Seoul-Dongdaemun.Market-01-Doota.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "exterior of Doota Mall"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Doota_Mall_in_Seoul.jpg/1280px-The_Doota_Mall_in_Seoul.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:The_Doota_Mall_in_Seoul.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "Doota Mall building"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Buildings_of_the_Doota_Mall_near_Dongdaemun_Market.jpg/1280px-Buildings_of_the_Doota_Mall_near_Dongdaemun_Market.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Buildings_of_the_Doota_Mall_near_Dongdaemun_Market.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "Doota Mall among Dongdaemun's buildings"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Entrance_of_the_Doota_Mall_near_Dongdaemun_Market.jpg/1280px-Entrance_of_the_Doota_Mall_near_Dongdaemun_Market.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Entrance_of_the_Doota_Mall_near_Dongdaemun_Market.jpg",
+        "credit": "Wikimedia Commons",
+        "alt": "entrance to Doota Mall"
+      }
+    ],
+    "duration": "1.5-2.5 h",
+    "bestTime": "Evening, 8-11pm",
+    "goodFor": [
+      "Family of 5",
+      "Night out",
+      "Shopping",
+      "Late night"
+    ],
+    "reservation": {
+      "recommended": false
+    },
+    "sources": [
+      "https://www.tripadvisor.com/Attraction_Review-g294197-d1478599-Reviews-Dongdaemun_Shopping_Complex-Seoul.html"
+    ],
+    "lastVerified": "2026-09-24"
+  }
+]

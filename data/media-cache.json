@@ -14376,6 +14376,17 @@
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Itaewon_Gyeongnidan-gil.JPG/1280px-Itaewon_Gyeongnidan-gil.JPG": {
+  "status": "ok",
+  "placeId": "itaewon-gyeongridan-gil",
+  "file": "images/itaewon-gyeongridan-gil/1.webp",
+  "thumb": "images/itaewon-gyeongridan-gil/1-sm.webp",
+  "width": 1280,
+  "height": 1708,
+  "bytes": 191350,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/%EC%84%9C%EC%9A%B8%EC%8B%9D%EB%AC%BC%EC%9B%90_%EC%8A%A4%EC%B9%B4%EC%9D%B4%EC%9B%8C%ED%81%AC.jpg/1920px-%EC%84%9C%EC%9A%B8%EC%8B%9D%EB%AC%BC%EC%9B%90_%EC%8A%A4%EC%B9%B4%EC%9D%B4%EC%9B%8C%ED%81%AC.jpg": {
   "status": "ok",
   "placeId": "seoul-botanic-park",
@@ -14384,6 +14395,17 @@
   "width": 1600,
   "height": 1200,
   "bytes": 505738,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Gyeonguiseon_Forest_Trail_Park_and_Ttaeng-ttaeng_Street_in_Seoul_%28near_Hongdae%2C_2%29.jpg/1280px-Gyeonguiseon_Forest_Trail_Park_and_Ttaeng-ttaeng_Street_in_Seoul_%28near_Hongdae%2C_2%29.jpg": {
+  "status": "ok",
+  "placeId": "gyeongui-line-forest-park-yeonnam",
+  "file": "images/gyeongui-line-forest-park-yeonnam/3.webp",
+  "thumb": "images/gyeongui-line-forest-park-yeonnam/3-sm.webp",
+  "width": 1280,
+  "height": 720,
+  "bytes": 263228,
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
@@ -14420,6 +14442,17 @@
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Hongdae%2C_Seoul-_Part_II_-_Hongdae2252.jpg/1280px-Hongdae%2C_Seoul-_Part_II_-_Hongdae2252.jpg": {
+  "status": "ok",
+  "placeId": "hongik-university-street-hongdae",
+  "file": "images/hongik-university-street-hongdae/4.webp",
+  "thumb": "images/hongik-university-street-hongdae/4-sm.webp",
+  "width": 1280,
+  "height": 1708,
+  "bytes": 218654,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/LOL_Park_PC_Room_2.jpg/1920px-LOL_Park_PC_Room_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
   "status": "ok",
   "placeId": "chzzk-lol-park",
@@ -14431,6 +14464,17 @@
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Deoksugung_Palace_11.jpg/1280px-Deoksugung_Palace_11.jpg": {
+  "status": "ok",
+  "placeId": "deoksugung-doldamgil",
+  "file": "images/deoksugung-doldamgil/2.webp",
+  "thumb": "images/deoksugung-doldamgil/2-sm.webp",
+  "width": 1280,
+  "height": 1920,
+  "bytes": 354628,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Ikseon-dong_%EC%9D%B5%EC%84%A0%EB%8F%99_October_1_2020_3.jpg/1920px-Ikseon-dong_%EC%9D%B5%EC%84%A0%EB%8F%99_October_1_2020_3.jpg": {
   "status": "ok",
   "placeId": "ikseon-dong",
@@ -14439,6 +14483,61 @@
   "width": 1600,
   "height": 1066,
   "bytes": 284144,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Deoksugung_Palace_3.jpg/1280px-Deoksugung_Palace_3.jpg": {
+  "status": "ok",
+  "placeId": "deoksugung-doldamgil",
+  "file": "images/deoksugung-doldamgil/3.webp",
+  "thumb": "images/deoksugung-doldamgil/3-sm.webp",
+  "width": 1280,
+  "height": 854,
+  "bytes": 101438,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Republic_of_Korea_capitol.jpg/1280px-Republic_of_Korea_capitol.jpg": {
+  "status": "ok",
+  "placeId": "national-assembly-building",
+  "file": "images/national-assembly-building/3.webp",
+  "thumb": "images/national-assembly-building/3-sm.webp",
+  "width": 1280,
+  "height": 720,
+  "bytes": 120580,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Insa-dong_%EC%9D%B8%EC%82%AC%EB%8F%99_October_1_2020_13.jpg/1280px-Insa-dong_%EC%9D%B8%EC%82%AC%EB%8F%99_October_1_2020_13.jpg": {
+  "status": "ok",
+  "placeId": "insadong-street",
+  "file": "images/insadong-street/4.webp",
+  "thumb": "images/insadong-street/4-sm.webp",
+  "width": 1280,
+  "height": 854,
+  "bytes": 236618,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Seoul_Metropolitan_Library_20191221_02.jpg/1280px-Seoul_Metropolitan_Library_20191221_02.jpg": {
+  "status": "ok",
+  "placeId": "seoul-metropolitan-library",
+  "file": "images/seoul-metropolitan-library/3.webp",
+  "thumb": "images/seoul-metropolitan-library/3-sm.webp",
+  "width": 1280,
+  "height": 960,
+  "bytes": 237672,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Hongdae_Playground_street_merchants.JPG/1280px-Hongdae_Playground_street_merchants.JPG": {
+  "status": "ok",
+  "placeId": "hongik-university-street-hongdae",
+  "file": "images/hongik-university-street-hongdae/1.webp",
+  "thumb": "images/hongik-university-street-hongdae/1-sm.webp",
+  "width": 1280,
+  "height": 854,
+  "bytes": 250332,
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
@@ -14552,6 +14651,17 @@
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Seoul_Metropolitan_Library_20191221_04.jpg/1280px-Seoul_Metropolitan_Library_20191221_04.jpg": {
+  "status": "ok",
+  "placeId": "seoul-metropolitan-library",
+  "file": "images/seoul-metropolitan-library/4.webp",
+  "thumb": "images/seoul-metropolitan-library/4-sm.webp",
+  "width": 1280,
+  "height": 960,
+  "bytes": 255092,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
  "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/%EC%A0%9C2%EB%A1%AF%EB%8D%B0%EC%9B%94%EB%93%9C%ED%83%80%EC%9B%8C_01.jpg/1920px-%EC%A0%9C2%EB%A1%AF%EB%8D%B0%EC%9B%94%EB%93%9C%ED%83%80%EC%9B%8C_01.jpg": {
   "status": "ok",
   "placeId": "lotte-world-tower-seoul-sky",
@@ -14560,6 +14670,17 @@
   "width": 1600,
   "height": 1066,
   "bytes": 407134,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Seoul_Museum_of_History.JPG/1280px-Seoul_Museum_of_History.JPG": {
+  "status": "ok",
+  "placeId": "seoul-museum-of-history",
+  "file": "images/seoul-museum-of-history/1.webp",
+  "thumb": "images/seoul-museum-of-history/1-sm.webp",
+  "width": 1280,
+  "height": 956,
+  "bytes": 137286,
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
@@ -14593,6 +14714,17 @@
   "width": 1600,
   "height": 1200,
   "bytes": 363820,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Entrance_of_the_Doota_Mall_near_Dongdaemun_Market.jpg/1280px-Entrance_of_the_Doota_Mall_near_Dongdaemun_Market.jpg": {
+  "status": "ok",
+  "placeId": "dongdaemun-shopping-complex",
+  "file": "images/dongdaemun-shopping-complex/4.webp",
+  "thumb": "images/dongdaemun-shopping-complex/4-sm.webp",
+  "width": 1280,
+  "height": 720,
+  "bytes": 85960,
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
@@ -14681,6 +14813,17 @@
   "width": 1600,
   "height": 946,
   "bytes": 242094,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/%28Apgujeong-Sinsa%29_20190312_050416.jpg/1280px-%28Apgujeong-Sinsa%29_20190312_050416.jpg": {
+  "status": "ok",
+  "placeId": "apgujeong-rodeo-street",
+  "file": "images/apgujeong-rodeo-street/4.webp",
+  "thumb": "images/apgujeong-rodeo-street/4-sm.webp",
+  "width": 1280,
+  "height": 960,
+  "bytes": 82942,
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
@@ -14783,6 +14926,28 @@
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Apgujeong_20180602_094459.jpg/1280px-Apgujeong_20180602_094459.jpg": {
+  "status": "ok",
+  "placeId": "apgujeong-rodeo-street",
+  "file": "images/apgujeong-rodeo-street/1.webp",
+  "thumb": "images/apgujeong-rodeo-street/1-sm.webp",
+  "width": 1280,
+  "height": 960,
+  "bytes": 231152,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Deoksugung_Palace_2.jpg/1280px-Deoksugung_Palace_2.jpg": {
+  "status": "ok",
+  "placeId": "deoksugung-doldamgil",
+  "file": "images/deoksugung-doldamgil/1.webp",
+  "thumb": "images/deoksugung-doldamgil/1-sm.webp",
+  "width": 1280,
+  "height": 854,
+  "bytes": 189440,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/National_Library_of_Korea_01_%2817736111729%29.jpg/1920px-National_Library_of_Korea_01_%2817736111729%29.jpg": {
   "status": "ok",
   "placeId": "national-library-of-korea",
@@ -14824,6 +14989,17 @@
   "width": 1600,
   "height": 1200,
   "bytes": 509216,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Seolleung_Jeongneung_05_%2818512028288%29.jpg/1280px-Seolleung_Jeongneung_05_%2818512028288%29.jpg": {
+  "status": "ok",
+  "placeId": "seonjeongneung-royal-tombs",
+  "file": "images/seonjeongneung-royal-tombs/3.webp",
+  "thumb": "images/seonjeongneung-royal-tombs/3-sm.webp",
+  "width": 1280,
+  "height": 662,
+  "bytes": 96776,
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
@@ -14904,6 +15080,17 @@
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Seoul_Station_Building_1925_front_20240219.jpg/1280px-Seoul_Station_Building_1925_front_20240219.jpg": {
+  "status": "ok",
+  "placeId": "culture-station-seoul-284",
+  "file": "images/culture-station-seoul-284/3.webp",
+  "thumb": "images/culture-station-seoul-284/3-sm.webp",
+  "width": 1280,
+  "height": 964,
+  "bytes": 160490,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Front_view_of_national_museum_of_korea.jpg/1920px-Front_view_of_national_museum_of_korea.jpg": {
   "status": "ok",
   "placeId": "national-museum-of-korea",
@@ -14948,6 +15135,39 @@
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/%28Apgujeong-Sinsa%29_20190312_050420.jpg/1280px-%28Apgujeong-Sinsa%29_20190312_050420.jpg": {
+  "status": "ok",
+  "placeId": "apgujeong-rodeo-street",
+  "file": "images/apgujeong-rodeo-street/3.webp",
+  "thumb": "images/apgujeong-rodeo-street/3-sm.webp",
+  "width": 1280,
+  "height": 960,
+  "bytes": 135090,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Seoul_Metropolitan_Library_20191221_03.jpg/1280px-Seoul_Metropolitan_Library_20191221_03.jpg": {
+  "status": "ok",
+  "placeId": "seoul-metropolitan-library",
+  "file": "images/seoul-metropolitan-library/2.webp",
+  "thumb": "images/seoul-metropolitan-library/2-sm.webp",
+  "width": 1280,
+  "height": 1708,
+  "bytes": 97690,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Itaewon_Gyeongnidan-gil_1.jpg/1280px-Itaewon_Gyeongnidan-gil_1.jpg": {
+  "status": "ok",
+  "placeId": "itaewon-gyeongridan-gil",
+  "file": "images/itaewon-gyeongridan-gil/2.webp",
+  "thumb": "images/itaewon-gyeongridan-gil/2-sm.webp",
+  "width": 1280,
+  "height": 854,
+  "bytes": 235452,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Namsangol_Hanok_Village_20240409_040.jpg/1920px-Namsangol_Hanok_Village_20240409_040.jpg": {
   "status": "ok",
   "placeId": "namsangol-hanok-village",
@@ -14959,6 +15179,17 @@
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Korea_National_Hangeul_Museum_17_%2815230587109%29.jpg/1280px-Korea_National_Hangeul_Museum_17_%2815230587109%29.jpg": {
+  "status": "ok",
+  "placeId": "national-hangeul-museum",
+  "file": "images/national-hangeul-museum/1.webp",
+  "thumb": "images/national-hangeul-museum/1-sm.webp",
+  "width": 1280,
+  "height": 620,
+  "bytes": 44792,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Korea_Seonyudo_Summer_20140805_08_%2814841920672%29.jpg/1920px-Korea_Seonyudo_Summer_20140805_08_%2814841920672%29.jpg": {
   "status": "ok",
   "placeId": "seonyudo-park",
@@ -14967,6 +15198,17 @@
   "width": 1600,
   "height": 884,
   "bytes": 151236,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Seolleung_and_Jeongneung_Royal_Tombs.jpg/1280px-Seolleung_and_Jeongneung_Royal_Tombs.jpg": {
+  "status": "ok",
+  "placeId": "seonjeongneung-royal-tombs",
+  "file": "images/seonjeongneung-royal-tombs/4.webp",
+  "thumb": "images/seonjeongneung-royal-tombs/4-sm.webp",
+  "width": 1280,
+  "height": 578,
+  "bytes": 296808,
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
@@ -15091,6 +15333,17 @@
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Seoul_Station_Building_1925_side_20240219_02.jpg/1280px-Seoul_Station_Building_1925_side_20240219_02.jpg": {
+  "status": "ok",
+  "placeId": "culture-station-seoul-284",
+  "file": "images/culture-station-seoul-284/2.webp",
+  "thumb": "images/culture-station-seoul-284/2-sm.webp",
+  "width": 1280,
+  "height": 964,
+  "bytes": 219872,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg/1920px-Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg": {
   "status": "ok",
   "placeId": "bukchon-hanok-village",
@@ -15168,6 +15421,17 @@
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Apgujeong_20180602_094504.jpg/1280px-Apgujeong_20180602_094504.jpg": {
+  "status": "ok",
+  "placeId": "apgujeong-rodeo-street",
+  "file": "images/apgujeong-rodeo-street/2.webp",
+  "thumb": "images/apgujeong-rodeo-street/2-sm.webp",
+  "width": 1280,
+  "height": 960,
+  "bytes": 278620,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Epiphyte_Chamber_by_Philip_Beesley.jpg/1920px-Epiphyte_Chamber_by_Philip_Beesley.jpg": {
   "status": "ok",
   "placeId": "mmca-seoul",
@@ -15176,6 +15440,17 @@
   "width": 1600,
   "height": 2398,
   "bytes": 1258648,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Korea_Trick_Eye_20140402_08_%2813685132154%29.jpg/1280px-Korea_Trick_Eye_20140402_08_%2813685132154%29.jpg": {
+  "status": "ok",
+  "placeId": "trickeye-museum-hongdae",
+  "file": "images/trickeye-museum-hongdae/4.webp",
+  "thumb": "images/trickeye-museum-hongdae/4-sm.webp",
+  "width": 1280,
+  "height": 762,
+  "bytes": 80686,
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
@@ -15245,6 +15520,28 @@
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Seoul_CBD_from_Backyard_of_the_Seoul_Museum_of_History.jpg/1280px-Seoul_CBD_from_Backyard_of_the_Seoul_Museum_of_History.jpg": {
+  "status": "ok",
+  "placeId": "seoul-museum-of-history",
+  "file": "images/seoul-museum-of-history/4.webp",
+  "thumb": "images/seoul-museum-of-history/4-sm.webp",
+  "width": 1280,
+  "height": 640,
+  "bytes": 165660,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Doota_Mall_in_Seoul.jpg/1280px-The_Doota_Mall_in_Seoul.jpg": {
+  "status": "ok",
+  "placeId": "dongdaemun-shopping-complex",
+  "file": "images/dongdaemun-shopping-complex/2.webp",
+  "thumb": "images/dongdaemun-shopping-complex/2-sm.webp",
+  "width": 1280,
+  "height": 720,
+  "bytes": 146716,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
  "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Seoullo_7017_night_time_city_lights.jpg/1920px-Seoullo_7017_night_time_city_lights.jpg": {
   "status": "ok",
   "placeId": "seoullo-7017",
@@ -15308,6 +15605,28 @@
   "width": 1600,
   "height": 902,
   "bytes": 26686,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Yeontral_Park%2C_Hongdae.png/1280px-Yeontral_Park%2C_Hongdae.png": {
+  "status": "ok",
+  "placeId": "gyeongui-line-forest-park-yeonnam",
+  "file": "images/gyeongui-line-forest-park-yeonnam/4.webp",
+  "thumb": "images/gyeongui-line-forest-park-yeonnam/4-sm.webp",
+  "width": 1280,
+  "height": 956,
+  "bytes": 246224,
+  "sourceFormat": "png",
+  "fetchedAt": "2026-09-23"
+ },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Korea_Trick_Eye_20140402_03_%2813684778155%29.jpg/1280px-Korea_Trick_Eye_20140402_03_%2813684778155%29.jpg": {
+  "status": "ok",
+  "placeId": "trickeye-museum-hongdae",
+  "file": "images/trickeye-museum-hongdae/2.webp",
+  "thumb": "images/trickeye-museum-hongdae/2-sm.webp",
+  "width": 1280,
+  "height": 778,
+  "bytes": 194270,
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
@@ -15410,6 +15729,17 @@
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Gyeonguiseon_Forest_Trail_Park_and_Ttaeng-ttaeng_Street_in_Seoul_%28near_Hongdae%2C_3%29.jpg/1280px-Gyeonguiseon_Forest_Trail_Park_and_Ttaeng-ttaeng_Street_in_Seoul_%28near_Hongdae%2C_3%29.jpg": {
+  "status": "ok",
+  "placeId": "gyeongui-line-forest-park-yeonnam",
+  "file": "images/gyeongui-line-forest-park-yeonnam/1.webp",
+  "thumb": "images/gyeongui-line-forest-park-yeonnam/1-sm.webp",
+  "width": 1280,
+  "height": 2276,
+  "bytes": 497634,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
  "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Unhyeongung_square%2C_Seoul.jpg/1920px-Unhyeongung_square%2C_Seoul.jpg": {
   "status": "ok",
   "placeId": "unhyeongung",
@@ -15418,6 +15748,17 @@
   "width": 1600,
   "height": 1064,
   "bytes": 484728,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Haneul_Park_Seoul_07.jpg/1280px-Haneul_Park_Seoul_07.jpg": {
+  "status": "ok",
+  "placeId": "haneul-park-sangam",
+  "file": "images/haneul-park-sangam/4.webp",
+  "thumb": "images/haneul-park-sangam/4-sm.webp",
+  "width": 1280,
+  "height": 960,
+  "bytes": 532682,
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
@@ -15553,6 +15894,17 @@
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Ssamzigil_in_Insadong.jpg/1280px-Ssamzigil_in_Insadong.jpg": {
+  "status": "ok",
+  "placeId": "insadong-street",
+  "file": "images/insadong-street/1.webp",
+  "thumb": "images/insadong-street/1-sm.webp",
+  "width": 1280,
+  "height": 2276,
+  "bytes": 722316,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
  "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/NIght_view_at_Ttukseom_Hangang_Park.jpg/1920px-NIght_view_at_Ttukseom_Hangang_Park.jpg": {
   "status": "ok",
   "placeId": "ttukseom-hangang-park",
@@ -15619,6 +15971,17 @@
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Exhibition_record_of_the_Seoul_Museum_of_History.jpg/1280px-Exhibition_record_of_the_Seoul_Museum_of_History.jpg": {
+  "status": "ok",
+  "placeId": "seoul-museum-of-history",
+  "file": "images/seoul-museum-of-history/3.webp",
+  "thumb": "images/seoul-museum-of-history/3-sm.webp",
+  "width": 1280,
+  "height": 854,
+  "bytes": 227022,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Namsangol_Hanok_Village_20240409_048.jpg/1920px-Namsangol_Hanok_Village_20240409_048.jpg": {
   "status": "ok",
   "placeId": "namsangol-hanok-village",
@@ -15649,6 +16012,17 @@
   "width": 1600,
   "height": 1200,
   "bytes": 255348,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Insa-dong_%EC%9D%B8%EC%82%AC%EB%8F%99_October_1_2020_12.jpg/1280px-Insa-dong_%EC%9D%B8%EC%82%AC%EB%8F%99_October_1_2020_12.jpg": {
+  "status": "ok",
+  "placeId": "insadong-street",
+  "file": "images/insadong-street/2.webp",
+  "thumb": "images/insadong-street/2-sm.webp",
+  "width": 1280,
+  "height": 854,
+  "bytes": 191402,
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
@@ -15718,6 +16092,17 @@
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Gyeongnidan-gil_name.jpg/1280px-Gyeongnidan-gil_name.jpg": {
+  "status": "ok",
+  "placeId": "itaewon-gyeongridan-gil",
+  "file": "images/itaewon-gyeongridan-gil/3.webp",
+  "thumb": "images/itaewon-gyeongridan-gil/3-sm.webp",
+  "width": 1280,
+  "height": 854,
+  "bytes": 171536,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
  "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/View_of_Seokchon_Lake.jpg/1920px-View_of_Seokchon_Lake.jpg": {
   "status": "ok",
   "placeId": "seokchon-lake",
@@ -15737,6 +16122,17 @@
   "width": 1600,
   "height": 1200,
   "bytes": 438460,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Seoul_Museum_of_History_in_2025.jpg/1280px-Seoul_Museum_of_History_in_2025.jpg": {
+  "status": "ok",
+  "placeId": "seoul-museum-of-history",
+  "file": "images/seoul-museum-of-history/2.webp",
+  "thumb": "images/seoul-museum-of-history/2-sm.webp",
+  "width": 1280,
+  "height": 640,
+  "bytes": 141670,
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
@@ -15784,6 +16180,17 @@
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Seoul-Dongdaemun.Market-01-Doota.jpg/1280px-Seoul-Dongdaemun.Market-01-Doota.jpg": {
+  "status": "ok",
+  "placeId": "dongdaemun-shopping-complex",
+  "file": "images/dongdaemun-shopping-complex/1.webp",
+  "thumb": "images/dongdaemun-shopping-complex/1-sm.webp",
+  "width": 1280,
+  "height": 1708,
+  "bytes": 146870,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
  "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Korea-Seoul-Jogyesa_Main_Hall_doors.jpg/1920px-Korea-Seoul-Jogyesa_Main_Hall_doors.jpg": {
   "status": "ok",
   "placeId": "jogyesa",
@@ -15792,6 +16199,17 @@
   "width": 1600,
   "height": 682,
   "bytes": 338006,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Korea_Trick_Eye_20140402_09_%2813684776455%29.jpg/1280px-Korea_Trick_Eye_20140402_09_%2813684776455%29.jpg": {
+  "status": "ok",
+  "placeId": "trickeye-museum-hongdae",
+  "file": "images/trickeye-museum-hongdae/3.webp",
+  "thumb": "images/trickeye-museum-hongdae/3-sm.webp",
+  "width": 1280,
+  "height": 1946,
+  "bytes": 139134,
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
@@ -15960,6 +16378,28 @@
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Gyeonguiseon_Forest_Trail_Park_and_Ttaeng-ttaeng_Street_in_Seoul_%28near_Hongdae%2C_1%29.jpg/1280px-Gyeonguiseon_Forest_Trail_Park_and_Ttaeng-ttaeng_Street_in_Seoul_%28near_Hongdae%2C_1%29.jpg": {
+  "status": "ok",
+  "placeId": "gyeongui-line-forest-park-yeonnam",
+  "file": "images/gyeongui-line-forest-park-yeonnam/2.webp",
+  "thumb": "images/gyeongui-line-forest-park-yeonnam/2-sm.webp",
+  "width": 1280,
+  "height": 720,
+  "bytes": 284336,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/National_Hangeul_Museum_Exhibition_20160317_04_%2825850238465%29.jpg/1280px-National_Hangeul_Museum_Exhibition_20160317_04_%2825850238465%29.jpg": {
+  "status": "ok",
+  "placeId": "national-hangeul-museum",
+  "file": "images/national-hangeul-museum/3.webp",
+  "thumb": "images/national-hangeul-museum/3-sm.webp",
+  "width": 1280,
+  "height": 706,
+  "bytes": 102262,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Jogyesa_Lanterns.jpg/1920px-Jogyesa_Lanterns.jpg": {
   "status": "ok",
   "placeId": "jogyesa",
@@ -16004,6 +16444,39 @@
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Haneul_Park_Seoul_03.jpg/1280px-Haneul_Park_Seoul_03.jpg": {
+  "status": "ok",
+  "placeId": "haneul-park-sangam",
+  "file": "images/haneul-park-sangam/1.webp",
+  "thumb": "images/haneul-park-sangam/1-sm.webp",
+  "width": 1280,
+  "height": 960,
+  "bytes": 326758,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/National_Assembly_Building_of_South_Korea_night_view.jpg/1280px-National_Assembly_Building_of_South_Korea_night_view.jpg": {
+  "status": "ok",
+  "placeId": "national-assembly-building",
+  "file": "images/national-assembly-building/1.webp",
+  "thumb": "images/national-assembly-building/1-sm.webp",
+  "width": 1280,
+  "height": 720,
+  "bytes": 122648,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Seoul_Metropolitan_Library_20190608_001.jpg/1280px-Seoul_Metropolitan_Library_20190608_001.jpg": {
+  "status": "ok",
+  "placeId": "seoul-metropolitan-library",
+  "file": "images/seoul-metropolitan-library/1.webp",
+  "thumb": "images/seoul-metropolitan-library/1-sm.webp",
+  "width": 1280,
+  "height": 896,
+  "bytes": 170116,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
  "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Namsangol_Hanok_Village_20240409_054.jpg/1920px-Namsangol_Hanok_Village_20240409_054.jpg": {
   "status": "ok",
   "placeId": "namsangol-hanok-village",
@@ -16034,6 +16507,17 @@
   "width": 1600,
   "height": 1200,
   "bytes": 772398,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Fountain_in_National_Assembly_Building_of_South_Korea.jpg/1280px-Fountain_in_National_Assembly_Building_of_South_Korea.jpg": {
+  "status": "ok",
+  "placeId": "national-assembly-building",
+  "file": "images/national-assembly-building/2.webp",
+  "thumb": "images/national-assembly-building/2-sm.webp",
+  "width": 1280,
+  "height": 854,
+  "bytes": 159702,
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
@@ -16136,6 +16620,17 @@
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Korea_National_Hangeul_Museum_11_%2815414176811%29.jpg/1280px-Korea_National_Hangeul_Museum_11_%2815414176811%29.jpg": {
+  "status": "ok",
+  "placeId": "national-hangeul-museum",
+  "file": "images/national-hangeul-museum/2.webp",
+  "thumb": "images/national-hangeul-museum/2-sm.webp",
+  "width": 1280,
+  "height": 780,
+  "bytes": 37976,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
  "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/November_2019_Yeouido_02.jpg/1920px-November_2019_Yeouido_02.jpg": {
   "status": "ok",
   "placeId": "yeouido-hangang-park",
@@ -16169,6 +16664,17 @@
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Seolleung_Jeongneung_01_%2818104363043%29.jpg/1280px-Seolleung_Jeongneung_01_%2818104363043%29.jpg": {
+  "status": "ok",
+  "placeId": "seonjeongneung-royal-tombs",
+  "file": "images/seonjeongneung-royal-tombs/1.webp",
+  "thumb": "images/seonjeongneung-royal-tombs/1-sm.webp",
+  "width": 1280,
+  "height": 668,
+  "bytes": 172914,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
  "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Gyeongbokgung%28palace%29_Geunjeongjeon%28hall%29.jpg/1920px-Gyeongbokgung%28palace%29_Geunjeongjeon%28hall%29.jpg": {
   "status": "ok",
   "placeId": "gyeongbokgung",
@@ -16188,6 +16694,17 @@
   "width": 1600,
   "height": 1200,
   "bytes": 81258,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Insa-dong_%EC%9D%B8%EC%82%AC%EB%8F%99_October_1_2020_11.jpg/1280px-Insa-dong_%EC%9D%B8%EC%82%AC%EB%8F%99_October_1_2020_11.jpg": {
+  "status": "ok",
+  "placeId": "insadong-street",
+  "file": "images/insadong-street/3.webp",
+  "thumb": "images/insadong-street/3-sm.webp",
+  "width": 1280,
+  "height": 854,
+  "bytes": 302720,
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
@@ -16221,6 +16738,28 @@
   "width": 1600,
   "height": 1066,
   "bytes": 344852,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Haneul_Park_Seoul_06.jpg/1280px-Haneul_Park_Seoul_06.jpg": {
+  "status": "ok",
+  "placeId": "haneul-park-sangam",
+  "file": "images/haneul-park-sangam/3.webp",
+  "thumb": "images/haneul-park-sangam/3-sm.webp",
+  "width": 1280,
+  "height": 960,
+  "bytes": 475676,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Itaewon_Gyeongnidan-gil_2.jpg/1280px-Itaewon_Gyeongnidan-gil_2.jpg": {
+  "status": "ok",
+  "placeId": "itaewon-gyeongridan-gil",
+  "file": "images/itaewon-gyeongridan-gil/4.webp",
+  "thumb": "images/itaewon-gyeongridan-gil/4-sm.webp",
+  "width": 1280,
+  "height": 854,
+  "bytes": 271608,
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
@@ -16367,6 +16906,17 @@
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/National_Hangeul_Museum_Exhibition_20160317_01_%2825223673763%29.jpg/1280px-National_Hangeul_Museum_Exhibition_20160317_01_%2825223673763%29.jpg": {
+  "status": "ok",
+  "placeId": "national-hangeul-museum",
+  "file": "images/national-hangeul-museum/4.webp",
+  "thumb": "images/national-hangeul-museum/4-sm.webp",
+  "width": 1280,
+  "height": 730,
+  "bytes": 61450,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Hyehwa_fall_2014_138_%28Changgyeonggung%29.JPG/1920px-Hyehwa_fall_2014_138_%28Changgyeonggung%29.JPG": {
   "status": "ok",
   "placeId": "changgyeonggung",
@@ -16411,6 +16961,17 @@
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Street_hongdae_Seoul.jpg/1280px-Street_hongdae_Seoul.jpg": {
+  "status": "ok",
+  "placeId": "hongik-university-street-hongdae",
+  "file": "images/hongik-university-street-hongdae/3.webp",
+  "thumb": "images/hongik-university-street-hongdae/3-sm.webp",
+  "width": 1280,
+  "height": 1368,
+  "bytes": 374596,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/%EC%96%91%EC%9E%AC%EC%B2%9C%EA%B3%BC_%EC%82%BC%EC%84%B1_%ED%83%80%EC%9B%8C%ED%8C%B0%EB%A6%AC%EC%8A%A4_Samsung_Tower_Palace_and_Yangjaecheon_Stream_7.jpg/1920px-%EC%96%91%EC%9E%AC%EC%B2%9C%EA%B3%BC_%EC%82%BC%EC%84%B1_%ED%83%80%EC%9B%8C%ED%8C%B0%EB%A6%AC%EC%8A%A4_Samsung_Tower_Palace_and_Yangjaecheon_Stream_7.jpg": {
   "status": "ok",
   "placeId": "yangjaecheon-stream",
@@ -16419,6 +16980,28 @@
   "width": 1600,
   "height": 1066,
   "bytes": 503544,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Buildings_of_the_Doota_Mall_near_Dongdaemun_Market.jpg/1280px-Buildings_of_the_Doota_Mall_near_Dongdaemun_Market.jpg": {
+  "status": "ok",
+  "placeId": "dongdaemun-shopping-complex",
+  "file": "images/dongdaemun-shopping-complex/3.webp",
+  "thumb": "images/dongdaemun-shopping-complex/3-sm.webp",
+  "width": 1280,
+  "height": 2276,
+  "bytes": 274330,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Pond_of_the_National_Assembly_in_South_Korea.jpg/1280px-Pond_of_the_National_Assembly_in_South_Korea.jpg": {
+  "status": "ok",
+  "placeId": "national-assembly-building",
+  "file": "images/national-assembly-building/4.webp",
+  "thumb": "images/national-assembly-building/4-sm.webp",
+  "width": 1280,
+  "height": 960,
+  "bytes": 390284,
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
@@ -16452,6 +17035,17 @@
   "width": 1600,
   "height": 1200,
   "bytes": 375898,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Korea_Trick_Eye_20140402_05_%2813684820833%29.jpg/1280px-Korea_Trick_Eye_20140402_05_%2813684820833%29.jpg": {
+  "status": "ok",
+  "placeId": "trickeye-museum-hongdae",
+  "file": "images/trickeye-museum-hongdae/1.webp",
+  "thumb": "images/trickeye-museum-hongdae/1-sm.webp",
+  "width": 1280,
+  "height": 870,
+  "bytes": 179936,
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
@@ -16532,6 +17126,17 @@
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Seolleung_Jeongneung_08_%2818079131693%29.jpg/1280px-Seolleung_Jeongneung_08_%2818079131693%29.jpg": {
+  "status": "ok",
+  "placeId": "seonjeongneung-royal-tombs",
+  "file": "images/seonjeongneung-royal-tombs/2.webp",
+  "thumb": "images/seonjeongneung-royal-tombs/2-sm.webp",
+  "width": 1280,
+  "height": 1930,
+  "bytes": 1257766,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
  "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Buddha_Leeum_Museum_of_Art.jpg/1920px-Buddha_Leeum_Museum_of_Art.jpg": {
   "status": "ok",
   "placeId": "leeum",
@@ -16540,6 +17145,17 @@
   "width": 1600,
   "height": 2844,
   "bytes": 527092,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Hongdae_Party_District_at_Night%2C_Seoul.jpg/1280px-Hongdae_Party_District_at_Night%2C_Seoul.jpg": {
+  "status": "ok",
+  "placeId": "hongik-university-street-hongdae",
+  "file": "images/hongik-university-street-hongdae/2.webp",
+  "thumb": "images/hongik-university-street-hongdae/2-sm.webp",
+  "width": 1280,
+  "height": 722,
+  "bytes": 174770,
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
@@ -16576,6 +17192,17 @@
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Haneul_Park_Seoul_01.jpg/1280px-Haneul_Park_Seoul_01.jpg": {
+  "status": "ok",
+  "placeId": "haneul-park-sangam",
+  "file": "images/haneul-park-sangam/2.webp",
+  "thumb": "images/haneul-park-sangam/2-sm.webp",
+  "width": 1280,
+  "height": 960,
+  "bytes": 646552,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
  "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Jeongjeon%2C_Jongmyo_%28Summer%2C_2013%29.jpg/1920px-Jeongjeon%2C_Jongmyo_%28Summer%2C_2013%29.jpg": {
   "status": "ok",
   "placeId": "jongmyo",
@@ -16598,6 +17225,17 @@
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Culture_Station_Seoul_284_%28_2014_08_05_%29.jpg/1280px-Culture_Station_Seoul_284_%28_2014_08_05_%29.jpg": {
+  "status": "ok",
+  "placeId": "culture-station-seoul-284",
+  "file": "images/culture-station-seoul-284/1.webp",
+  "thumb": "images/culture-station-seoul-284/1-sm.webp",
+  "width": 1280,
+  "height": 768,
+  "bytes": 108524,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
  "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Seonyudo_Park.jpg/1920px-Seonyudo_Park.jpg": {
   "status": "ok",
   "placeId": "seonyudo-park",
@@ -16617,6 +17255,17 @@
   "width": 1600,
   "height": 1066,
   "bytes": 327368,
+  "sourceFormat": "jpeg",
+  "fetchedAt": "2026-09-23"
+ },
+ "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/%EA%B5%AC%EC%84%9C%EC%9A%B8%EC%97%AD%EC%82%AC-Culture-Station-Seoul-284.jpg/1280px-%EA%B5%AC%EC%84%9C%EC%9A%B8%EC%97%AD%EC%82%AC-Culture-Station-Seoul-284.jpg": {
+  "status": "ok",
+  "placeId": "culture-station-seoul-284",
+  "file": "images/culture-station-seoul-284/4.webp",
+  "thumb": "images/culture-station-seoul-284/4-sm.webp",
+  "width": 1280,
+  "height": 720,
+  "bytes": 130140,
   "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
@@ -16792,9 +17441,14 @@
   "fetchedAt": "2026-09-23"
  },
  "https://upload.wikimedia.org/wikipedia/commons/7/73/Han_River%2C_Banpo_Bridge_%2836%29.jpg": {
-  "status": "failed",
+  "status": "ok",
   "placeId": "ev-banpo-moonlight-market",
-  "error": "HTTP 429",
+  "file": "images/ev-banpo-moonlight-market/3.webp",
+  "thumb": "images/ev-banpo-moonlight-market/3-sm.webp",
+  "width": 1600,
+  "height": 1066,
+  "bytes": 74496,
+  "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
  "https://upload.wikimedia.org/wikipedia/commons/8/8c/20140622_%EC%98%81%EB%93%B1%ED%8F%AC%ED%83%80%EC%9E%84%EC%8A%A4%ED%80%98%EC%96%B4_%EB%82%B4%EB%B6%80.jpg": {
@@ -16831,9 +17485,14 @@
   "fetchedAt": "2026-09-23"
  },
  "https://upload.wikimedia.org/wikipedia/commons/b/bf/Banpo_Bridge_Moonlight_Rainbow_Fountain_at_night_-_2023-08-14.jpg": {
-  "status": "failed",
+  "status": "ok",
   "placeId": "ev-banpo-moonlight-market",
-  "error": "HTTP 429",
+  "file": "images/ev-banpo-moonlight-market/2.webp",
+  "thumb": "images/ev-banpo-moonlight-market/2-sm.webp",
+  "width": 1600,
+  "height": 900,
+  "bytes": 128418,
+  "sourceFormat": "jpeg",
   "fetchedAt": "2026-09-23"
  },
  "https://wvzine.com/wp-content/uploads/2026/04/Z63_0156.jpg": {
