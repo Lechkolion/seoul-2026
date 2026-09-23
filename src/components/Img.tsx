@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import type { Category, PlaceImageExt } from '../lib/types';
 import { imgSources } from '../lib/place-utils';
 import { CATEGORY_COLOR } from '../lib/trip';
@@ -21,12 +21,22 @@ export function Img({ img, category, name, sizes = '(max-width: 640px) 100vw, 33
   const [srcSet, setSrcSet] = useState(initial.srcSet);
   const [state, setState] = useState<'loading' | 'ok' | 'error'>(initial.src ? 'loading' : 'error');
 
+  const imgRef = useRef<HTMLImageElement>(null);
+
+  // Reset only when the resolved source really changes (img objects may be recreated each render).
   useEffect(() => {
-    const s = imgSources(img, prefer);
-    setSrc(s.src);
-    setSrcSet(s.srcSet);
-    setState(s.src ? 'loading' : 'error');
-  }, [img, prefer]);
+    if (initial.src === src) return;
+    setSrc(initial.src);
+    setSrcSet(initial.srcSet);
+    setState(initial.src ? 'loading' : 'error');
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [initial.src, initial.srcSet]);
+
+  // A cached image can finish loading before React attaches onLoad.
+  useEffect(() => {
+    const el = imgRef.current;
+    if (el && el.complete && el.naturalWidth > 0) setState('ok');
+  }, [src]);
 
   const onError = () => {
     if (src !== initial.full && initial.full) {
@@ -42,6 +52,7 @@ export function Img({ img, category, name, sizes = '(max-width: 640px) 100vw, 33
     <div className={`img ${className} img--${state}`} style={{ ['--cat' as string]: CATEGORY_COLOR[category] }}>
       {state !== 'error' && src && (
         <img
+          ref={imgRef}
           src={src}
           srcSet={srcSet}
           sizes={srcSet ? sizes : undefined}
