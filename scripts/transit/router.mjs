@@ -26,6 +26,7 @@ const HERE = dirname(fileURLToPath(import.meta.url));
 export const WALK_M_PER_MIN = 75;
 export const WALK_DETOUR = 1.3;
 export const WALK_ONLY_MAX_MIN = 20;
+export const OUT_OF_TOWN_KM = 20;
 
 /** Per-hop dwell (door-open + accel/decel) in minutes, and running minutes per straight-line km. */
 export const DWELL_MIN = 0.55;
@@ -85,7 +86,9 @@ const r1 = (x) => Math.round(x * 10) / 10;
 
 export function taxiEstimate(straightKm) {
   const roadKm = straightKm * TAXI.roadFactor;
-  const minutes = Math.round((roadKm / TAXI.speedKmh) * 60 + TAXI.overheadMin);
+  // City traffic for the first 10 km, expressway speed beyond (outlets, day trips).
+  const cityKm = Math.min(roadKm, 10);
+  const minutes = Math.round((cityKm / TAXI.speedKmh + Math.max(0, roadKm - 10) / 60) * 60 + TAXI.overheadMin);
   const rideMin = minutes - TAXI.overheadMin;
   // distance fare while moving, time fare for the crawling share (the meter charges one or the other)
   const movingKm = roadKm * (1 - TAXI.slowShare);
@@ -251,6 +254,10 @@ export function createRouter({ home, trip, network = loadNetwork() }) {
       if (!best || total < best.total) best = { total, end, node: a.node };
     }
     // walking the whole way is simpler (and often faster) for short hops
+    // Outside the metro network (or subway far slower than driving): drive / take a taxi.
+    if (straightKm > OUT_OF_TOWN_KM && (!best || best.total > taxi.minutes * 2)) {
+      return { totalMin: taxi.minutes, transfers: 0, lines: [], homeStation: '', legs: [], outOfTown: true, taxi, straightKm };
+    }
     if (!best || doorWalk <= WALK_ONLY_MAX_MIN || doorWalk <= best.total) {
       return { totalMin: doorWalk, transfers: 0, lines: [], homeStation: '', legs: [{ type: 'walk', from: 'Home', to: place.name, minutes: doorWalk }], walkOnly: true, taxi, straightKm };
     }

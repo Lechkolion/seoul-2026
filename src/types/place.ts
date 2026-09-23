@@ -157,6 +157,7 @@ export interface Route {
   homeStation: string; // e.g. "Nambu Bus Terminal"
   legs: RouteLeg[];
   walkOnly?: boolean;
+  outOfTown?: boolean; // beyond the metro: car/taxi time, see tips for bus/train
   taxi: { minutes: number; distanceKm: number; fareKRW: number; taxisNeeded: number; note: string };
   straightKm: number;
 }

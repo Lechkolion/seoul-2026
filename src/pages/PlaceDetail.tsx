@@ -205,10 +205,14 @@ function GettingThere({ place }: { place: Place }) {
         <div className="getting__sum">
           <div className="getting__big">
             <b>{r.totalMin}</b>
-            <span>min door to door</span>
+            <span>{r.outOfTown ? 'min by car' : 'min door to door'}</span>
           </div>
           <div className="getting__lines">
-            {r.walkOnly ? (
+            {r.outOfTown ? (
+              <span className="muted">
+                <Car size={16} aria-hidden="true" /> Out of town · by car or taxi ({r.straightKm} km) — see tips for bus/train
+              </span>
+            ) : r.walkOnly ? (
               <span className="muted">
                 <Footprints size={16} aria-hidden="true" /> Walkable from home
               </span>

@@ -77,7 +77,7 @@ export function TimeChip({ place }: { place: Place }) {
   return (
     <span className="time-chip">
       <Clock size={14} strokeWidth={2} aria-hidden="true" />
-      <b>{place.route.totalMin}</b>&nbsp;min
+      <b>{place.route.totalMin}</b>&nbsp;min{place.route.outOfTown ? ' drive' : ''}
       {place.route.lines?.length ? <LineDots lines={place.route.lines} /> : null}
     </span>
   );
