@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-09-23T16:08:28.935Z",
-  "total": 205,
+  "generatedAt": "2026-09-23T16:23:07.989Z",
+  "total": 192,
   "counts": {
     "food": 95,
     "cafe": 32,
     "bar": 33,
     "sight": 0,
     "shopping": 17,
-    "experience": 18,
+    "experience": 5,
     "wellness": 10,
     "event": 0
   },
   "stats": {
-    "withTripAdvisor": 100,
+    "withTripAdvisor": 90,
     "chuseokVerified": 99,
-    "images": 1182,
-    "localImages": 1182,
+    "images": 1106,
+    "localImages": 1106,
     "walkOnly": 17,
     "routesFromExactHome": true
   },
