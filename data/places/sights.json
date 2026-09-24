@@ -2432,6 +2432,11 @@
           "붐비지 않아요"
         ],
         "url": "https://m.search.naver.com/search.naver?query=%EC%9A%B4%ED%98%84%EA%B6%81"
+      },
+      "google": {
+        "score": 4.4,
+        "count": 3215,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EC%9A%B4%ED%98%84%EA%B6%81%20%EC%84%9C%EC%9A%B8%20%EC%A2%85%EB%A1%9C%EA%B5%AC%20%EC%82%BC%EC%9D%BC%EB%8C%80%EB%A1%9C%20464"
       }
     },
     "reviews": [
@@ -5445,6 +5450,11 @@
           "산책로가 잘 되어있어요"
         ],
         "url": "https://m.search.naver.com/search.naver?query=%EC%84%A0%EC%9C%A0%EB%8F%84%EA%B3%B5%EC%9B%90"
+      },
+      "google": {
+        "score": 4.5,
+        "count": 4386,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EC%84%A0%EC%9C%A0%EB%8F%84%EA%B3%B5%EC%9B%90%20%EC%84%9C%EC%9A%B8%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%EC%84%A0%EC%9C%A0%EB%A1%9C%20343"
       }
     },
     "reviews": [
@@ -6281,6 +6291,11 @@
       "naver": {
         "visitorReviews": 57,
         "url": "https://m.search.naver.com/search.naver?query=%EA%B5%AD%EB%A6%BD%EC%A4%91%EC%95%99%EB%8F%84%EC%84%9C%EA%B4%80"
+      },
+      "google": {
+        "score": 4.6,
+        "count": 392,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EA%B5%AD%EB%A6%BD%EC%A4%91%EC%95%99%EB%8F%84%EC%84%9C%EA%B4%80%20%EC%84%9C%EC%9A%B8%20%EC%84%9C%EC%B4%88%EA%B5%AC%20%EB%B0%98%ED%8F%AC%EB%8C%80%EB%A1%9C%20201"
       }
     },
     "reviews": [
@@ -6447,6 +6462,11 @@
           "피크닉하기 좋아요"
         ],
         "url": "https://m.search.naver.com/search.naver?query=%EC%96%91%EC%9E%AC%EC%8B%9C%EB%AF%BC%EC%9D%98%EC%88%B2"
+      },
+      "google": {
+        "score": 4.7,
+        "count": 98,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EC%96%91%EC%9E%AC%EC%8B%9C%EB%AF%BC%EC%9D%98%EC%88%B2%20%EC%84%9C%EC%9A%B8%20%EC%84%9C%EC%B4%88%EA%B5%AC%20%EB%A7%A4%ED%97%8C%EB%A1%9C%2099"
       }
     },
     "reviews": [
@@ -6613,6 +6633,11 @@
           "사진이 잘 나와요"
         ],
         "url": "https://m.search.naver.com/search.naver?query=%EC%96%91%EC%9E%AC%EC%B2%9C"
+      },
+      "google": {
+        "score": 4.5,
+        "count": 51,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EC%96%91%EC%9E%AC%EC%B2%9C%20%EC%84%9C%EC%9A%B8%20%EC%84%9C%EC%B4%88%EA%B5%AC%20%EC%96%91%EC%9E%AC%EC%B2%9C%EB%A1%9C%20%EC%9D%BC%EB%8C%80"
       }
     },
     "reviews": [
@@ -6763,7 +6788,13 @@
       "familyFriendly": true,
       "mustSee": true
     },
-    "ratings": {},
+    "ratings": {
+      "tripadvisor": {
+        "score": 4.4,
+        "count": 11138,
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d324888-Reviews-Gyeongbokgung_Palace-Seoul.html"
+      }
+    },
     "reviews": [
       {
         "source": "Press",
@@ -6908,7 +6939,13 @@
       "valueForMoney": true,
       "familyFriendly": true
     },
-    "ratings": {},
+    "ratings": {
+      "tripadvisor": {
+        "score": 4.5,
+        "count": 2525,
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d325043-Reviews-National_Museum_Of_Korea-Seoul.html"
+      }
+    },
     "reviews": [
       {
         "source": "Press",
@@ -7069,7 +7106,13 @@
       "familyFriendly": true,
       "valueForMoney": true
     },
-    "ratings": {},
+    "ratings": {
+      "tripadvisor": {
+        "score": 4.2,
+        "count": 874,
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d1551271-Reviews-Namsangol_Hanok_Village-Seoul.html"
+      }
+    },
     "reviews": [
       {
         "source": "Press",
@@ -7228,7 +7271,13 @@
       "familyFriendly": true,
       "valueForMoney": true
     },
-    "ratings": {},
+    "ratings": {
+      "google": {
+        "score": 4.4,
+        "count": 3215,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EC%9A%B4%ED%98%84%EA%B6%81%20%ED%96%89%EC%9A%B4%EA%B0%80%EB%93%9D%ED%95%9C%EA%B0%80%EC%9C%84%20%EC%84%9C%EC%9A%B8%20%EC%A2%85%EB%A1%9C%EA%B5%AC%20%EC%82%BC%EC%9D%BC%EB%8C%80%EB%A1%9C%20464"
+      }
+    },
     "reviews": [
       {
         "source": "Press",
@@ -7387,7 +7436,13 @@
       "familyFriendly": true,
       "localFavorite": true
     },
-    "ratings": {},
+    "ratings": {
+      "tripadvisor": {
+        "score": 4.3,
+        "count": 4041,
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d1046419-Reviews-Cheonggyecheon_Stream-Seoul.html"
+      }
+    },
     "reviews": [
       {
         "source": "Press",
@@ -7544,7 +7599,13 @@
     "badges": {
       "valueForMoney": true
     },
-    "ratings": {},
+    "ratings": {
+      "google": {
+        "score": 4.6,
+        "count": 778,
+        "url": "https://www.google.com/maps/search/?api=1&query=2026%20%EC%84%9C%EC%9A%B8%EC%96%B4%ED%85%80%ED%8E%98%EC%8A%A4%ED%83%80%20%EC%84%9C%EC%9A%B8%20%EA%B4%91%EC%A7%84%EA%B5%AC%20%EA%B0%95%EB%B3%80%EB%B6%81%EB%A1%9C%20139%20%EB%9A%9D%EC%84%AC%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90%20%EC%99%B8"
+      }
+    },
     "reviews": [
       {
         "source": "Press",
@@ -7702,7 +7763,13 @@
     "badges": {
       "valueForMoney": true
     },
-    "ratings": {},
+    "ratings": {
+      "tripadvisor": {
+        "score": 4,
+        "count": 159,
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d1809989-Reviews-Seoul_Museum_of_Art-Seoul.html"
+      }
+    },
     "reviews": [
       {
         "source": "Press",
@@ -7867,7 +7934,13 @@
       "valueForMoney": true,
       "futuristic": true
     },
-    "ratings": {},
+    "ratings": {
+      "tripadvisor": {
+        "score": 4.3,
+        "count": 263,
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d3871936-Reviews-National_Museum_of_Modern_and_Contemporary_Art_Seoul-Seoul.html"
+      }
+    },
     "reviews": [
       {
         "source": "Press",

@@ -40,16 +40,19 @@ export function primaryRating(p: Place): { source: 'TripAdvisor' | 'Google' | 'K
 }
 
 /** Sort key: TripAdvisor first; Google as fallback slightly discounted. */
+/** Pull scores with few reviews toward 4.0 so a 5.0 from 3 reviews doesn't outrank a 4.6 from 2,000. */
+const shrink = (score: number, count?: number) => (count ? (score * count + 4 * 10) / (count + 10) : score);
+
 export function ratingKey(p: Place): number {
   const ta = p.ratings.tripadvisor;
-  if (ta?.score) return ta.score + Math.min(Math.log10((ta.count ?? 1) + 1), 4) * 0.02;
+  if (ta?.score) return shrink(ta.score, ta.count) + Math.min(Math.log10((ta.count ?? 1) + 1), 4) * 0.02;
   // Korean platforms skew high, so non-TripAdvisor scores are slightly discounted.
   const n = p.ratings.naver;
   if (n?.score) return n.score - 0.3 + Math.min(Math.log10((n.visitorReviews ?? 1) + 1), 4) * 0.02;
   const k = p.ratings.kakao;
-  if (k?.score) return k.score - 0.2 + Math.min(Math.log10((k.count ?? 1) + 1), 4) * 0.02;
+  if (k?.score) return shrink(k.score, k.count) - 0.2 + Math.min(Math.log10((k.count ?? 1) + 1), 4) * 0.02;
   const g = p.ratings.google;
-  if (g?.score) return g.score - 0.25 + Math.min(Math.log10((g.count ?? 1) + 1), 4) * 0.02;
+  if (g?.score) return shrink(g.score, g.count) - 0.25 + Math.min(Math.log10((g.count ?? 1) + 1), 4) * 0.02;
   // Review volume only: rank below scored places but above nothing.
   const v = n?.visitorReviews ?? 0;
   return v ? Math.min(Math.log10(v + 1), 4) * 0.5 : 0;

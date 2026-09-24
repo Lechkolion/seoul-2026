@@ -2805,152 +2805,6 @@
     "lastVerified": "2026-09-23"
   },
   {
-    "id": "seongsu-yeonmujang-gil",
-    "name": "Seongsu Yeonmujang-gil (flagships & pop-ups)",
-    "nameKo": "성수동 연무장길",
-    "category": "shopping",
-    "subcategory": "Shopping street",
-    "tags": [
-      "fashion",
-      "k-beauty",
-      "design",
-      "instagrammable",
-      "outdoor",
-      "local-favorite"
-    ],
-    "vibes": [
-      "hip",
-      "trendy",
-      "design"
-    ],
-    "summary": "Seoul’s pop-up capital: ex-shoe-factory street of brand flagships, Dior Seongsu, warehouses cafés and weekly new launches.",
-    "description": "Yeonmujang-gil is the spine of Seongsu-dong, where old shoe workshops and red-brick warehouses have become flagship stores, galleries and cafés. Brands launch pop-ups here almost every week, and the street also holds Olive Young N Seongsu, Musinsa stores and Dior Seongsu nearby. Expect queues outside the hottest pop-ups and a young, fashionable crowd; it is the place to see what Korea is buying next.",
-    "highlights": [
-      "Rotating brand pop-ups",
-      "Daelim Warehouse and red-brick cafés",
-      "Dior Seongsu façade",
-      "Olive Young N Seongsu and Musinsa stores within walking distance"
-    ],
-    "tips": [
-      "Seongsu Station (Line 2) Exit 4; from home take Line 2 from Seocho direct (no transfer).",
-      "Check Instagram or Visit Seoul’s event listings the day before — many pop-ups need a Naver or app pre-booking.",
-      "Weekday afternoons have far shorter queues than weekends."
-    ],
-    "badges": {
-      "localFavorite": true,
-      "futuristic": true
-    },
-    "ratings": {},
-    "reviews": [
-      {
-        "source": "Press",
-        "text": "Visit Seoul describes queues outside pop-ups and restaurants as part of Seongsu’s everyday landscape, with global brands opening one after another.",
-        "paraphrased": true,
-        "lang": "en",
-        "url": "https://english.visitseoul.net/shopping/Seongsu%20Yeonmujang-gil/ENP7u7jrk"
-      },
-      {
-        "source": "Blog",
-        "text": "Tour reviewers call Seongsu an insightful side of Seoul not usually known to tourists, mixing shoe-factory history with new design stores.",
-        "paraphrased": true,
-        "lang": "en",
-        "url": "https://www.tripadvisor.com/ShowUserReviews-g294197-d15791799-r929450315-SA_Tour-Seoul.html"
-      }
-    ],
-    "price": {
-      "level": 2,
-      "note": "Free to stroll; pop-ups usually free"
-    },
-    "hours": {
-      "note": "Shops roughly 11:00–21:00; varies by store and pop-up."
-    },
-    "tripDays": {
-      "2026-09-23": "open",
-      "2026-09-24": "unknown",
-      "2026-09-25": "unknown",
-      "2026-09-26": "unknown",
-      "2026-09-27": "open",
-      "2026-09-28": "open",
-      "2026-09-29": "open",
-      "2026-09-30": "open"
-    },
-    "chuseok": {
-      "status": "unknown",
-      "note": "No street-wide 2026 notice. Chain flagships often trade through the holiday; many cafés and small shops close on 25 Sep. Verify each store before going.",
-      "verified": false
-    },
-    "location": {
-      "address": "Yeonmujang-gil, Seongsu-dong 2-ga, Seongdong-gu, Seoul",
-      "addressKo": "서울 성동구 연무장길",
-      "district": "Seongdong-gu",
-      "neighborhood": "Seongsu",
-      "lat": 37.54318,
-      "lng": 127.05292,
-      "nearestStation": {
-        "name": "Seongsu",
-        "nameKo": "성수역",
-        "lines": [
-          "2"
-        ],
-        "exit": "Exit 4",
-        "walkMin": 3
-      }
-    },
-    "links": {
-      "naverMap": "https://map.naver.com/p/search/%EC%84%B1%EC%88%98%20%EC%97%B0%EB%AC%B4%EC%9E%A5%EA%B8%B8",
-      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Yeonmujang-gil%20Seongsu%20Seoul"
-    },
-    "images": [
-      {
-        "url": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=72532&fileTy=MEDIA&fileNo=4",
-        "source": "https://english.visitseoul.net/shopping/Seongsu%20Yeonmujang-gil/ENP7u7jrk",
-        "credit": "Visit Seoul (Seoul Tourism Organization)",
-        "alt": "Yeonmujang-gil street in Seongsu"
-      },
-      {
-        "url": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=72531&fileTy=MEDIA&fileNo=4&thumbTy=L",
-        "source": "https://english.visitseoul.net/shopping/Seongsu%20Yeonmujang-gil/ENP7u7jrk",
-        "credit": "Visit Seoul (Seoul Tourism Organization)",
-        "alt": "Shops along Yeonmujang-gil"
-      },
-      {
-        "url": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=72530&fileTy=MEDIA&fileNo=2&thumbTy=L",
-        "source": "https://english.visitseoul.net/shopping/Seongsu%20Yeonmujang-gil/ENP7u7jrk",
-        "credit": "Visit Seoul (Seoul Tourism Organization)",
-        "alt": "Seongsu Yeonmujang-gil street scene"
-      },
-      {
-        "url": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=72529&fileTy=MEDIA&fileNo=2&thumbTy=L",
-        "source": "https://english.visitseoul.net/shopping/Seongsu%20Yeonmujang-gil/ENP7u7jrk",
-        "credit": "Visit Seoul (Seoul Tourism Organization)",
-        "alt": "Brick buildings and stores on Yeonmujang-gil"
-      },
-      {
-        "url": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=72528&fileTy=MEDIA&fileNo=3&thumbTy=L",
-        "source": "https://english.visitseoul.net/shopping/Seongsu%20Yeonmujang-gil/ENP7u7jrk",
-        "credit": "Visit Seoul (Seoul Tourism Organization)",
-        "alt": "Yeonmujang-gil storefronts"
-      },
-      {
-        "url": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=75389&fileTy=MEDIA&fileNo=1&thumbTy=L",
-        "source": "https://english.visitseoul.net/shopping/Seongsu%20Yeonmujang-gil/ENP7u7jrk",
-        "credit": "Visit Seoul (Seoul Tourism Organization)",
-        "alt": "Detail of Yeonmujang-gil"
-      }
-    ],
-    "duration": "2–3 h",
-    "bestTime": "Weekday 13:00–17:00",
-    "goodFor": [
-      "Shopping",
-      "Photos"
-    ],
-    "sources": [
-      "https://english.visitseoul.net/shopping/Seongsu%20Yeonmujang-gil/ENP7u7jrk",
-      "https://english.visitseoul.net/editorspicks/2026-Seongsu/ENNky3epf"
-    ],
-    "lastVerified": "2026-09-23"
-  },
-  {
     "id": "olive-young-n-seongsu",
     "name": "Olive Young N Seongsu",
     "nameKo": "올리브영N 성수",
@@ -2986,7 +2840,13 @@
       "futuristic": true,
       "familyFriendly": true
     },
-    "ratings": {},
+    "ratings": {
+      "google": {
+        "score": 4.3,
+        "count": 586,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81N%20%EC%84%B1%EC%88%98%20%EC%84%9C%EC%9A%B8%20%EC%84%B1%EB%8F%99%EA%B5%AC%20%EC%97%B0%EB%AC%B4%EC%9E%A57%EA%B8%B8%2013"
+      }
+    },
     "reviews": [
       {
         "source": "Blog",
@@ -3146,7 +3006,13 @@
     "badges": {
       "futuristic": true
     },
-    "ratings": {},
+    "ratings": {
+      "google": {
+        "score": 4.5,
+        "count": 68,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EB%AC%B4%EC%8B%A0%EC%82%AC%20%EB%A9%94%EA%B0%80%EC%8A%A4%ED%86%A0%EC%96%B4%20%EC%84%B1%EC%88%98%20%EC%84%9C%EC%9A%B8%20%EC%84%B1%EB%8F%99%EA%B5%AC%20%EC%84%B1%EC%88%98%EC%9D%B4%EB%A1%9C%2062"
+      }
+    },
     "reviews": [
       {
         "source": "Press",
@@ -3304,7 +3170,13 @@
       "futuristic": true,
       "familyFriendly": true
     },
-    "ratings": {},
+    "ratings": {
+      "google": {
+        "score": 4.1,
+        "count": 334,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EC%82%BC%EC%84%B1%20%EA%B0%95%EB%82%A8%20%EC%84%9C%EC%9A%B8%20%EC%84%9C%EC%B4%88%EA%B5%AC%20%EA%B0%95%EB%82%A8%EB%8C%80%EB%A1%9C%20411"
+      }
+    },
     "reviews": [
       {
         "source": "Press",
@@ -5538,7 +5410,13 @@
     "badges": {
       "hiddenGem": true
     },
-    "ratings": {},
+    "ratings": {
+      "google": {
+        "score": 4.4,
+        "count": 219,
+        "url": "https://www.google.com/maps/search/?api=1&query=%ED%8F%AC%EC%9D%B8%ED%8A%B8%EC%98%A4%EB%B8%8C%EB%B7%B0%20%EC%84%9C%EC%9A%B8%20%EC%84%9C%EC%9A%B8%20%EC%84%B1%EB%8F%99%EA%B5%AC%20%EC%97%B0%EB%AC%B4%EC%9E%A5%EA%B8%B8%2018%201%E2%80%933%EC%B8%B5"
+      }
+    },
     "reviews": [
       {
         "source": "Press",
