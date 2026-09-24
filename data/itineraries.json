@@ -53,7 +53,7 @@
     "date": "2026-09-26",
     "title": "Downtown lights",
     "theme": "Chuseok holiday — modern downtown, no palaces",
-    "summary": "Zaha Hadid's DDP, a Michelin-starred Mediterranean lunch, Apple Myeongdong and the shopping lanes, sunset from N Seoul Tower, then Alabama BBQ and live jazz in Itaewon.",
+    "summary": "Zaha Hadid's DDP, Seoul's most famous noodle lunch, Apple Myeongdong and the shopping lanes, sunset from N Seoul Tower, then Alabama BBQ and live jazz in Itaewon.",
     "stops": [
       {
         "id": "ddp",
@@ -62,34 +62,34 @@
         "note": "Walk the silver curves and roof path for free; exhibitions inside are optional."
       },
       {
-        "id": "gigas",
-        "time": "12:00",
-        "stay": 105,
-        "note": "Michelin-starred Mediterranean at Piknic; open Sat 26 lunch (closed on the 25th). Book ahead."
+        "id": "myeongdong-kyoja",
+        "time": "11:45",
+        "stay": 45,
+        "note": "Seoul's most famous kalguksu (since 1966): noodles ₩12,000, dumplings ₩13,000. The queue moves fast."
       },
       {
         "id": "apple-myeongdong",
-        "time": "14:15",
+        "time": "12:45",
         "stay": 40,
         "note": "Glass-and-light flagship — try the latest devices, no pressure to buy."
       },
       {
         "id": "myeongdong-shopping-street",
-        "time": "15:05",
-        "stay": 60,
+        "time": "13:35",
+        "stay": 120,
         "note": "K-beauty flagships with instant tax refunds — bring passports."
       },
       {
         "id": "n-seoul-tower",
-        "time": "16:30",
-        "stay": 110,
-        "note": "Take bus 01A/01B or the cable car up — not the steep walk. Sunset ≈18:17; the observatory ticket is optional."
+        "time": "16:00",
+        "stay": 140,
+        "note": "Uphill — take a Venti/TADA or bus 01A/01B to the top, not the walk. Sunset ≈18:17; observatory ticket optional (≈₩29,000)."
       },
       {
         "id": "linus-bama-style-bbq",
         "time": "19:00",
         "stay": 90,
-        "note": "Brisket and ribs platters to share; the Mega platter + a side feeds five."
+        "note": "Taxi down from the tower (~11 min). Brisket and ribs platters to share; the Mega platter (₩129,000) + a side feeds five."
       },
       {
         "id": "all-that-jazz-itaewon",
@@ -100,8 +100,8 @@
     ],
     "tips": [
       "From N Seoul Tower to Itaewon: bus down or a Venti/TADA van (~10 min).",
-      "Gigas is small — reserve today if you want lunch there; fallback lunch: Pierre Gagnaire (French, Lotte Hotel).",
-      "Show option: NANTA (wordless kitchen-percussion comedy) is 3 min from the Myeongdong stop — check weekend showtimes on nanta.co.kr."
+      "Show option: NANTA (wordless kitchen-percussion comedy) is 3 min from the Myeongdong stop — check weekend showtimes on nanta.co.kr.",
+      "Splurge lunch instead: Gigas (Michelin-starred Mediterranean at Piknic) — tasting menus ₩220,000–290,000 per person; book ahead."
     ]
   },
   {
@@ -223,7 +223,7 @@
     "date": "2026-09-29",
     "title": "Seongsu & Hannam",
     "theme": "Tuesday — design district, art, last-night drinks",
-    "summary": "Seoul Forest, Seongsu's art and concept-store scene, Leeum's modern architecture, a Ground Seesaw exhibition, then Mexican in Hannam and a rooftop bar.",
+    "summary": "Seoul Forest, Seongsu's art and concept-store scene, Leeum's modern architecture, a Ground Seesaw exhibition, then Italian in Hannam and a rooftop bar.",
     "stops": [
       {
         "id": "seoul-forest",
@@ -268,10 +268,10 @@
         "note": "Photo/art exhibition hall (₩20,000). Closes 19:00."
       },
       {
-        "id": "escondido",
+        "id": "osteria-orzo-hannam",
         "time": "18:15",
         "stay": 90,
-        "note": "Open from 17:15 on Tuesdays; tacos and mezcal."
+        "note": "Fresh-pasta osteria: tajarin and ravioli ₩28,000–32,000, beef carpaccio ₩29,000. Book ahead."
       },
       {
         "id": "privilege-bar-mondrian",
@@ -283,8 +283,8 @@
     "tips": [
       "Seongsu → Hannam is quickest by taxi (~15 min).",
       "Last night: Privilege is a 25 min taxi from home.",
-      "Prefer Italian? Borgo (Hannam, TA 4.8) — small room, book days ahead.",
-      "Rainy? CGV Cine de Chef (Apgujeong) serves a chef's course at recliner seats before the film."
+      "Rainy? CGV Cine de Chef (Apgujeong) serves a chef's course at recliner seats before the film.",
+      "Special-occasion alternative: Escondido (Michelin-starred Mexican tasting menu, ₩210,000 per person)."
     ]
   }
 ]

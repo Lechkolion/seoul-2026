@@ -52,8 +52,8 @@ const fareRange = (l: Leg) => {
   return ` · ≈₩${lo === hi ? lo : `${lo}–${hi}`}k`;
 };
 
-/** Taxi worth it: much faster than the subway for a short hop. */
-const taxiBetter = (l: Leg) => !l.walkOnly && !!l.taxiMin && l.taxiMin <= 20 && l.totalMin >= l.taxiMin * 1.8;
+/** Taxi worth it: much faster than the subway for a short hop, or a walk of 15+ min. */
+const taxiBetter = (l: Leg) => !!l.taxiMin && l.taxiMin <= 20 && (l.walkOnly ? l.totalMin >= 15 : l.totalMin >= l.taxiMin * 1.8);
 
 function LegDetail({ legs }: { legs: RouteLeg[] }) {
   return (
@@ -109,9 +109,9 @@ function Transit({ leg, label }: { leg: Leg; label?: string }) {
               {leg.transfers ? <span className="muted"> · {leg.transfers} transfer{leg.transfers > 1 ? 's' : ''}</span> : null}
             </>
           )}
-          {!leg.walkOnly && leg.taxiMin ? (
+          {leg.taxiMin && (!leg.walkOnly || taxi) ? (
             <span className={`hop__taxi ${taxi ? 'is-better' : ''}`}>
-              <Car size={13} aria-hidden="true" /> {taxi ? 'Venti/TADA faster: ' : 'Venti/TADA '}
+              <Car size={13} aria-hidden="true" /> {taxi ? (leg.walkOnly ? 'or Venti/TADA ' : 'Venti/TADA faster: ') : 'Venti/TADA '}
               {leg.taxiMin} min{fareRange(leg)}
             </span>
           ) : null}
