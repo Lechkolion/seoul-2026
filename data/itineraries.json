@@ -45,7 +45,8 @@
     "tips": [
       "Chuseok day: many small restaurants close — every stop here is confirmed open or a hotel/mall.",
       "Nightcap option: MOBO Bar at JW Marriott is 15 min on foot from the fountain.",
-      "Want Korean fine dining instead? Bicena (81F, Lotte World Tower) is open 12:30 on Chuseok day."
+      "Want Korean fine dining instead? Bicena (81F, Lotte World Tower) is open 12:30 on Chuseok day.",
+      "Rather sit down? Lotte Cinema Super Plex G (one of Korea's biggest screens) is in the same mall — Hollywood films play in English with Korean subtitles (look for 자막)."
     ]
   },
   {
@@ -99,14 +100,15 @@
     ],
     "tips": [
       "From N Seoul Tower to Itaewon: bus down or a Venti/TADA van (~10 min).",
-      "Gigas is small — reserve today if you want lunch there; fallback lunch: Pierre Gagnaire (French, Lotte Hotel)."
+      "Gigas is small — reserve today if you want lunch there; fallback lunch: Pierre Gagnaire (French, Lotte Hotel).",
+      "Show option: NANTA (wordless kitchen-percussion comedy) is 3 min from the Myeongdong stop — check weekend showtimes on nanta.co.kr."
     ]
   },
   {
     "date": "2026-09-27",
     "title": "Yeouido & the river",
     "theme": "Normal Sunday — malls and river",
-    "summary": "Seoul's most futuristic department store, the Centre Pompidou's new Seoul branch, then sunset on the Han River from a tethered balloon and a boat. Nightcap 37 floors up at the Conrad.",
+    "summary": "Seoul's most futuristic department store, the Centre Pompidou's new Seoul branch and the reopened 63 Building sky deck, then sunset on the Han River from a tethered balloon and a boat, and a nightcap 37 floors up at the Conrad.",
     "stops": [
       {
         "id": "the-hyundai-seoul",
@@ -121,9 +123,15 @@
         "note": "Opened June 2026 inside the 63 Building — Paris collection loans. Book timed tickets."
       },
       {
+        "id": "63-sky-picnic",
+        "time": "14:50",
+        "stay": 50,
+        "note": "Same building as the Pompidou: 60th-floor deck (reopened June 2026) with a Starbucks up top."
+      },
+      {
         "id": "yeouido-hangang-park",
-        "time": "15:30",
-        "stay": 60,
+        "time": "16:00",
+        "stay": 45,
         "note": "Rent a mat, order chicken to the park — very Seoul."
       },
       {
@@ -199,7 +207,8 @@
       }
     ],
     "tips": [
-      "Gucci Osteria is closed Mondays — that's why Wolfgang's is tonight."
+      "Gucci Osteria is closed Mondays — that's why Wolfgang's is tonight.",
+      "Tired feet? Megabox COEX has Seoul's only Dolby Cinema, right under the mall."
     ]
   },
   {
@@ -266,7 +275,8 @@
     "tips": [
       "Seongsu → Hannam is quickest by taxi (~15 min).",
       "Last night: Privilege is a 25 min taxi from home.",
-      "Prefer Italian? Borgo (Hannam, TA 4.8) — small room, book days ahead."
+      "Prefer Italian? Borgo (Hannam, TA 4.8) — small room, book days ahead.",
+      "Rainy? CGV Cine de Chef (Apgujeong) serves a chef's course at recliner seats before the film."
     ]
   }
 ]

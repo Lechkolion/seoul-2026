@@ -1,0 +1,3143 @@
+[
+  {
+    "id": "cgv-yongsan-ipark-imax",
+    "name": "CGV Yongsan I'Park Mall IMAX",
+    "nameKo": "CGV 용산아이파크몰",
+    "category": "experience",
+    "subcategory": "Premium cinema / IMAX",
+    "tags": [
+      "high-tech",
+      "indoor",
+      "rainy-day",
+      "kid-friendly",
+      "parent-friendly",
+      "group-friendly",
+      "shopping-mall",
+      "new-2025-2026"
+    ],
+    "vibes": [
+      "futuristic",
+      "lively"
+    ],
+    "summary": "Korea's largest multiplex, home to an IMAX GT Laser screen — Hollywood films run in English with Korean subtitles.",
+    "description": "CGV's flagship Yongsan branch fills floors 6–8 of I'Park Mall with 20 screens, including Korea's only IMAX GT Laser auditorium (624 seats, one of the biggest screens in the world) plus 4DX, ScreenX and dine-in options. Foreign blockbusters screen in their original English soundtrack with Korean subtitles, so the whole family can follow along. January 2025 brought the world's first 4-screen SCREENX hall with Dolby Atmos, and a bed-style TEMPUR CINEMA hall opened in 2026. It's a zero-effort, air-conditioned way to spend a rainy Seoul afternoon right by Yongsan Station.",
+    "highlights": [
+      "IMAX GT Laser auditorium — 1.43:1 screen, one of the largest in the world",
+      "4DX and Korea's first 4-screen SCREENX with Dolby Atmos",
+      "TEMPUR CINEMA bed-style premium hall (2026)",
+      "Directly connected to Yongsan Station and I'Park Mall shopping/dining"
+    ],
+    "tips": [
+      "Foreign films play in English with Korean subtitles (더빙 versions are dubbed — check the listing says \"자막\" for subtitled).",
+      "Book on the CGV app in advance for IMAX weekend evening shows — they sell out.",
+      "Combine with dinner or shopping at I'Park Mall before/after the film.",
+      "Line 1 and the Gyeongui-Jungang line both stop at Yongsan Station, right under the mall."
+    ],
+    "badges": {
+      "futuristic": true,
+      "familyFriendly": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 3.9,
+        "count": 296,
+        "url": "https://map.kakao.com/?q=CGV%20%EC%9A%A9%EC%82%B0%EC%95%84%EC%9D%B4%ED%8C%8C%ED%81%AC%EB%AA%B0"
+      },
+      "google": {
+        "score": 4.5,
+        "count": 12126,
+        "url": "https://www.google.com/maps/search/?api=1&query=CGV%20%EC%9A%A9%EC%82%B0%EC%95%84%EC%9D%B4%ED%8C%8C%ED%81%AC%EB%AA%B0%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%9A%A9%EC%82%B0%EA%B5%AC%20%ED%95%9C%EA%B0%95%EB%8C%80%EB%A1%9C23%EA%B8%B8%2055%20%EC%95%84%EC%9D%B4%ED%8C%8C%ED%81%AC%EB%AA%B0%206~8%EC%B8%B5"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "Visitors rate it 3.9/5 across nearly 300 ratings and almost 3,000 reviews, calling out the giant IMAX screen and easy access from Yongsan Station.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Blog",
+        "text": "Described as CGV's flagship, with a cumulative audience of over 30 million and Korea's only IMAX GT Laser format.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://namu.wiki/w/CGV%20용산아이파크몰"
+      }
+    ],
+    "price": {
+      "level": 3,
+      "note": "Standard tickets from ~₩15,000; IMAX/4DX/ScreenX premium formats cost more — check the CGV app for the exact showtime price."
+    },
+    "hours": {
+      "weekly": {
+        "mon": "10:30-20:30",
+        "tue": "10:30-20:30",
+        "wed": "10:30-20:30",
+        "thu": "10:30-20:30",
+        "fri": "10:30-24:00",
+        "sat": "10:30-24:00",
+        "sun": "10:30-20:30"
+      },
+      "note": "Actual close time depends on the last showtime of the day; Fri/Sat run later for evening screenings."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "Multiplex cinemas run a full schedule through Chuseok; no 2026 closure notice found for this branch.",
+      "verified": false
+    },
+    "location": {
+      "address": "55 Hangang-daero 23-gil, Yongsan-gu, Seoul (I'Park Mall, 6F–8F)",
+      "addressKo": "서울특별시 용산구 한강대로23길 55 아이파크몰 6~8층",
+      "district": "Yongsan-gu",
+      "neighborhood": "Yongsan",
+      "lat": 37.5292503,
+      "lng": 126.9641779,
+      "nearestStation": {
+        "name": "Yongsan",
+        "nameKo": "용산역",
+        "lines": [
+          "1",
+          "GJ"
+        ],
+        "exit": "Exit 3 (direct mall access)",
+        "walkMin": 3
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/CGV%20용산아이파크몰",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=CGV%20%EC%9A%A9%EC%82%B0%EC%95%84%EC%9D%B4%ED%8C%8C%ED%81%AC%EB%AA%B0",
+      "kakaoMap": "https://map.kakao.com/?q=CGV%20%EC%9A%A9%EC%82%B0%EC%95%84%EC%9D%B4%ED%8C%8C%ED%81%AC%EB%AA%B0",
+      "phone": "+82-2-1544-1122"
+    },
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/4DPlex_CGV%EC%9A%A9%EC%82%B0%28%EB%A1%9C%EB%B9%84%29.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:4DPlex_CGV%EC%9A%A9%EC%82%B0(%EB%A1%9C%EB%B9%84).jpg",
+        "credit": "Wikimedia Commons (CC BY-SA)",
+        "alt": "CGV Yongsan I'Park Mall 4DPlex lobby"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmLKn20NarFwZptJfPFD33bVv_NxvI35Ns2TL8BYNbpRHnY77rE0TUqrTZYWZEaDPQXcLSxUbADOs-sqyz8hJz9KfjJIcwcJFbHtYILMVYSrlKOR5ivtiUQq8HZ_KUCXarvGr3_V0Pog5UJ=w1200-h900-k-no",
+        "source": "https://www.google.com/maps/search/?api=1&query=CGV%20%EC%9A%A9%EC%82%B0%EC%95%84%EC%9D%B4%ED%8C%8C%ED%81%AC%EB%AA%B0%20%EC%84%9C%EC%9A%B8%20%EC%9A%A9%EC%82%B0%EA%B5%AC%20%ED%95%9C%EA%B0%95%EB%8C%80%EB%A1%9C23%EA%B8%B8%2055",
+        "credit": "Google Maps user photo",
+        "alt": "I'Park Mall Yongsan exterior, home to CGV's flagship IMAX screen"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl42oS2aXGFVFjFCvgbusN13hmULw7jFQJlgpREKaUz49Rrma5Kax50p-i087TsSvUYoXzV7B-xvxlr2Ywak2lIsiSg5kgfxjsus7K58GB8sdZultnuPm8zbOgS6s1tH_FWbBnFmQ=w1200-h900-k-no",
+        "source": "https://www.google.com/maps/search/?api=1&query=CGV%20%EC%9A%A9%EC%82%B0%EC%95%84%EC%9D%B4%ED%8C%8C%ED%81%AC%EB%AA%B0%20%EC%84%9C%EC%9A%B8%20%EC%9A%A9%EC%82%B0%EA%B5%AC%20%ED%95%9C%EA%B0%95%EB%8C%80%EB%A1%9C23%EA%B8%B8%2055",
+        "credit": "Google Maps user photo",
+        "alt": "I'Park Mall Yongsan interior atrium"
+      }
+    ],
+    "duration": "2.5-3.5 h",
+    "bestTime": "Weekday afternoon (fewer crowds, still full showtimes)",
+    "goodFor": [
+      "Family of 5",
+      "Rainy day",
+      "Kids at heart"
+    ],
+    "reservation": {
+      "recommended": true,
+      "how": "CGV app or cgv.co.kr"
+    },
+    "sources": [
+      "https://namu.wiki/w/CGV%20용산아이파크몰",
+      "https://map.kakao.com/?q=CGV%20%EC%9A%A9%EC%82%B0%EC%95%84%EC%9D%B4%ED%8C%8C%ED%81%AC%EB%AA%B0"
+    ],
+    "lastVerified": "2026-09-24"
+  },
+  {
+    "id": "lotte-cinema-world-tower-super-plex-g",
+    "name": "Lotte Cinema World Tower Super Plex G",
+    "nameKo": "롯데시네마 월드타워 수퍼플렉스G",
+    "category": "experience",
+    "subcategory": "Premium cinema / giant screen",
+    "tags": [
+      "high-tech",
+      "indoor",
+      "rainy-day",
+      "kid-friendly",
+      "parent-friendly",
+      "group-friendly",
+      "shopping-mall"
+    ],
+    "vibes": [
+      "futuristic",
+      "lively"
+    ],
+    "summary": "Lotte's giant-screen flagship inside Lotte World Tower — one of Korea's biggest cinema screens, with foreign films in English.",
+    "description": "Tucked into floors 5–11 of Lotte World Mall at the foot of the 555m Lotte World Tower, this branch's Super Plex G auditorium is Lotte Cinema's answer to IMAX — a giant curved screen built for blockbuster spectacle. It sits inside the same complex as Lotte World Aquarium, Seoul Sky and Lotte World Mall, so a family can watch a film then shop, eat or ride the aquarium escalators without stepping outside. Foreign releases screen in English with Korean subtitles. It's an easy, air-conditioned, zero-effort stop on a Jamsil day.",
+    "highlights": [
+      "Super Plex G — Lotte Cinema's giant curved premium screen",
+      "Inside Lotte World Tower / Lotte World Mall complex",
+      "Combine with Lotte World Aquarium, Seoul Sky or the mall in one visit",
+      "Directly connected to Jamsil Station"
+    ],
+    "tips": [
+      "Foreign films are shown in English audio with Korean subtitles — check the listing for \"자막\" not \"더빙\".",
+      "Book Super Plex G seats ahead on the Lotte Cinema app; the format has fewer showtimes than standard screens.",
+      "Park at Lotte World Mall and validate parking with a ticket purchase."
+    ],
+    "badges": {
+      "futuristic": true,
+      "familyFriendly": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 3.4,
+        "count": 165,
+        "url": "https://map.kakao.com/?q=%EB%A1%AF%EB%8D%B0%EC%8B%9C%EB%84%A4%EB%A7%88%20%EC%9B%94%EB%93%9C%ED%83%80%EC%9B%8C"
+      },
+      "google": {
+        "score": 4.5,
+        "count": 1926,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EB%A1%AF%EB%8D%B0%EC%8B%9C%EB%84%A4%EB%A7%88%20%EC%9B%94%EB%93%9C%ED%83%80%EC%9B%8C%20%EC%88%98%ED%8D%BC%ED%94%8C%EB%A0%89%EC%8A%A4G%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%86%A1%ED%8C%8C%EA%B5%AC%20%EC%98%AC%EB%A6%BC%ED%94%BD%EB%A1%9C%20300%20%EB%A1%AF%EB%8D%B0%EC%9B%94%EB%93%9C%EB%AA%B0%205~11%EC%B8%B5"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "Nearly 1,900 reviews mention the giant Super Plex G screen and the convenience of the Lotte World Tower / Jamsil location.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Blog",
+        "text": "Super Plex G is Lotte Cinema's premium giant-screen format, built inside its Lotte World Tower flagship at the base of the 555m tower complex.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 3,
+      "note": "Standard tickets from ~₩15,000; Super Plex G premium format costs more — check the Lotte Cinema app for the exact showtime price."
+    },
+    "hours": {
+      "weekly": {
+        "mon": "10:30-22:00",
+        "tue": "10:30-22:00",
+        "wed": "10:30-22:00",
+        "thu": "10:30-22:00",
+        "fri": "10:30-24:00",
+        "sat": "10:30-24:00",
+        "sun": "10:30-22:00"
+      },
+      "note": "Close time follows the last showtime."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "Multiplex cinemas run a full schedule through Chuseok; no 2026 closure notice found.",
+      "verified": false
+    },
+    "location": {
+      "address": "300 Olympic-ro, Songpa-gu, Seoul (Lotte World Mall, 5F–11F)",
+      "addressKo": "서울특별시 송파구 올림픽로 300 롯데월드몰 5~11층",
+      "district": "Songpa-gu",
+      "neighborhood": "Jamsil",
+      "lat": 37.5137422,
+      "lng": 127.1042466,
+      "nearestStation": {
+        "name": "Jamsil",
+        "nameKo": "잠실역",
+        "lines": [
+          "2",
+          "8"
+        ],
+        "exit": "Exit 1/2 (underground link)",
+        "walkMin": 5
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/롯데시네마%20월드타워",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EB%A1%AF%EB%8D%B0%EC%8B%9C%EB%84%A4%EB%A7%88%20%EC%9B%94%EB%93%9C%ED%83%80%EC%9B%8C",
+      "kakaoMap": "https://map.kakao.com/?q=%EB%A1%AF%EB%8D%B0%EC%8B%9C%EB%84%A4%EB%A7%88%20%EC%9B%94%EB%93%9C%ED%83%80%EC%9B%8C",
+      "phone": "+82-1544-8855"
+    },
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Super_Plex_World_Tower.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Super_Plex_World_Tower.jpg",
+        "credit": "Wikimedia Commons (CC BY-SA)",
+        "alt": "Super Plex G premium screen at Lotte Cinema World Tower"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Lotte_World_morning_view_8.jpg/1920px-Lotte_World_morning_view_8.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Lotte_World_morning_view_8.jpg",
+        "credit": "Wikimedia Commons (CC BY-SA)",
+        "alt": "Lotte World Tower and Mall exterior"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/180723_%EB%A1%AF%EB%8D%B0%EC%8B%9C%EB%84%A4%EB%A7%88_%EC%9B%94%EB%93%9C%ED%83%80%EC%9B%8C_%EC%9D%B8%EB%9E%91_%EC%B8%84%EC%9E%89%EC%B1%97_%EB%AC%B4%EB%8C%80%EC%9D%B8%EC%82%AC_%EA%B0%95%EB%8F%99%EC%9B%90_%EC%A7%81%EC%B0%8D_by_%EC%BD%A9%EC%BD%A9_%282%29.jpg",
+        "source": "https://commons.wikimedia.org/wiki/Category:Lotte_Cinema",
+        "credit": "Wikimedia Commons (CC BY-SA)",
+        "alt": "Lotte Cinema World Tower lobby stage event"
+      }
+    ],
+    "duration": "2.5-3.5 h",
+    "bestTime": "Weekday afternoon",
+    "goodFor": [
+      "Family of 5",
+      "Rainy day",
+      "Kids at heart"
+    ],
+    "reservation": {
+      "recommended": true,
+      "how": "Lotte Cinema app or lottecinema.co.kr"
+    },
+    "sources": [
+      "https://map.kakao.com/?q=%EB%A1%AF%EB%8D%B0%EC%8B%9C%EB%84%A4%EB%A7%88%20%EC%9B%94%EB%93%9C%ED%83%80%EC%9B%8C"
+    ],
+    "lastVerified": "2026-09-24"
+  },
+  {
+    "id": "megabox-coex-dolby-cinema",
+    "name": "Megabox COEX Dolby Cinema",
+    "nameKo": "메가박스 코엑스 돌비시네마",
+    "category": "experience",
+    "subcategory": "Premium cinema / Dolby Cinema",
+    "tags": [
+      "high-tech",
+      "indoor",
+      "rainy-day",
+      "kid-friendly",
+      "parent-friendly",
+      "group-friendly",
+      "shopping-mall"
+    ],
+    "vibes": [
+      "futuristic",
+      "lively"
+    ],
+    "summary": "Korea's first and Seoul's only Dolby Cinema — Dolby Vision laser projection plus Dolby Atmos sound, underneath COEX Mall.",
+    "description": "Opened in July 2020, this 378-seat hall was Korea's first Dolby Cinema and remains the only one in Seoul, combining dual-laser Dolby Vision projection with a full Dolby Atmos speaker array for reference-quality picture and sound. It sits in the basement of COEX Mall in Gangnam, so it pairs effortlessly with the Starfield Library, Kakao Friends flagship, Aquarium and endless underground dining next door. Foreign blockbusters run in English with Korean subtitles.",
+    "highlights": [
+      "Korea's first and Seoul's only Dolby Cinema (Dolby Vision + Atmos)",
+      "Underground, directly connected to COEX Mall and Samseong Station",
+      "Combine with the Starfield Library and Kakao Friends flagship next door"
+    ],
+    "tips": [
+      "Foreign films screen in English with Korean subtitles — check for \"자막\" on the listing.",
+      "Dolby Cinema tickets cost more than standard screens; book on the Megabox app.",
+      "COEX Mall is a maze — allow extra time to find the cinema entrance from Samseong Station."
+    ],
+    "badges": {
+      "futuristic": true,
+      "familyFriendly": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 3.7,
+        "count": 156,
+        "url": "https://map.kakao.com/?q=%EB%A9%94%EA%B0%80%EB%B0%95%EC%8A%A4%20%EC%BD%94%EC%97%91%EC%8A%A4"
+      },
+      "google": {
+        "score": 4.4,
+        "count": 7886,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EB%A9%94%EA%B0%80%EB%B0%95%EC%8A%A4%20%EC%BD%94%EC%97%91%EC%8A%A4%20%EB%8F%8C%EB%B9%84%EC%8B%9C%EB%84%A4%EB%A7%88%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EC%98%81%EB%8F%99%EB%8C%80%EB%A1%9C%20513%20%EC%BD%94%EC%97%91%EC%8A%A4%EB%AA%B0%20%EC%A7%80%ED%95%981~%EC%A7%80%ED%95%982%EC%B8%B5"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Blog",
+        "text": "Confirmed as Korea's first Dolby Cinema (opened 2020) and still Seoul's only Dolby Cinema screen among the national rollout of eight.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://namu.wiki/w/%EB%8F%8C%EB%B9%84%20%EC%8B%9C%EB%84%A4%EB%A7%88"
+      },
+      {
+        "source": "Kakao",
+        "text": "Over 1,200 reviews rate the COEX branch 3.7/5, with visitors noting the huge underground complex around it.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 3,
+      "note": "Standard tickets from ~₩15,000; Dolby Cinema costs more — check the Megabox app for the exact showtime price."
+    },
+    "hours": {
+      "weekly": {
+        "mon": "08:00-03:00",
+        "tue": "08:00-03:00",
+        "wed": "08:00-03:00",
+        "thu": "08:00-03:00",
+        "fri": "08:00-03:00",
+        "sat": "08:00-03:00",
+        "sun": "08:00-03:00"
+      },
+      "note": "Runs very late (past midnight) most nights, following showtimes."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "Multiplex cinemas run a full schedule through Chuseok; no 2026 closure notice found.",
+      "verified": false
+    },
+    "location": {
+      "address": "513 Yeongdong-daero, Gangnam-gu, Seoul (COEX Mall, B1–B2)",
+      "addressKo": "서울특별시 강남구 영동대로 513 코엑스몰 지하1~지하2층",
+      "district": "Gangnam-gu",
+      "neighborhood": "Samseong / COEX",
+      "lat": 37.51017,
+      "lng": 127.06009,
+      "nearestStation": {
+        "name": "Samseong",
+        "nameKo": "삼성역",
+        "lines": [
+          "2"
+        ],
+        "exit": "Exit 5/6 (underground link)",
+        "walkMin": 5
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/메가박스%20코엑스",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EB%A9%94%EA%B0%80%EB%B0%95%EC%8A%A4%20%EC%BD%94%EC%97%91%EC%8A%A4",
+      "kakaoMap": "https://map.kakao.com/?q=%EB%A9%94%EA%B0%80%EB%B0%95%EC%8A%A4%20%EC%BD%94%EC%97%91%EC%8A%A4",
+      "phone": "+82-1544-0070"
+    },
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/COEX_Mall_Megabox_Cinema_Lobby_2016.jpg/1920px-COEX_Mall_Megabox_Cinema_Lobby_2016.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:COEX_Mall_Megabox_Cinema_Lobby_2016.jpg",
+        "credit": "Wikimedia Commons (CC BY-SA)",
+        "alt": "Megabox COEX cinema lobby"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Megabox_Cineplex_Seoul.jpg/1920px-Megabox_Cineplex_Seoul.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Megabox_Cineplex_Seoul.jpg",
+        "credit": "Wikimedia Commons (CC BY-SA)",
+        "alt": "Megabox cineplex Seoul signage"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Coexmall04.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Coexmall04.jpg",
+        "credit": "Wikimedia Commons (CC BY-SA)",
+        "alt": "COEX Mall interior, home to Megabox COEX"
+      }
+    ],
+    "duration": "2.5-3.5 h",
+    "bestTime": "Weekday afternoon",
+    "goodFor": [
+      "Family of 5",
+      "Rainy day",
+      "Kids at heart"
+    ],
+    "reservation": {
+      "recommended": true,
+      "how": "Megabox app or megabox.co.kr"
+    },
+    "sources": [
+      "https://namu.wiki/w/%EB%8F%8C%EB%B9%84%20%EC%8B%9C%EB%84%A4%EB%A7%88",
+      "https://map.kakao.com/?q=%EB%A9%94%EA%B0%80%EB%B0%95%EC%8A%A4%20%EC%BD%94%EC%97%91%EC%8A%A4"
+    ],
+    "lastVerified": "2026-09-24"
+  },
+  {
+    "id": "cgv-cine-de-chef-apgujeong",
+    "name": "CGV Cine de Chef Apgujeong",
+    "nameKo": "CGV 씨네드쉐프 압구정",
+    "category": "experience",
+    "subcategory": "Dine-in premium cinema",
+    "tags": [
+      "high-tech",
+      "indoor",
+      "rainy-day",
+      "parent-friendly",
+      "group-friendly",
+      "reservation-needed"
+    ],
+    "vibes": [
+      "futuristic",
+      "luxe",
+      "romantic"
+    ],
+    "summary": "Restaurant-style recliner cinema in Apgujeong — a chef-made course is served to your reclining seat before the film starts.",
+    "description": "CINE de CHEF is CJ CGV's dine-in luxury cinema brand: wide leather recliners with side tables, a sit-down restaurant menu served before the film, and a small number of screenings a day so it never feels rushed. The Apgujeong branch sits in the basement of a building on Apgujeong-ro, an easy taxi from Sinsa or Apgujeong Rodeo. It's a genuinely low-effort, comfortable evening for parents who don't want a loud multiplex — dinner and a movie without switching venues.",
+    "highlights": [
+      "Wide leather recliners with call-button table service",
+      "Sit-down chef course served before the film in the same room",
+      "Small daily screening count keeps the auditorium calm and uncrowded"
+    ],
+    "tips": [
+      "Book the food course and seat together in advance — walk-ins may only get standard seating if the dine-in tier is sold out.",
+      "Arrive 40–60 minutes before showtime to eat the course before the film starts.",
+      "Foreign films run in English with Korean subtitles."
+    ],
+    "badges": {
+      "futuristic": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 3.5,
+        "count": 42,
+        "url": "https://map.kakao.com/?q=CGV%EC%94%A8%EB%84%A4%EB%93%9C%EC%89%90%ED%94%84%20%EC%95%95%EA%B5%AC%EC%A0%95"
+      },
+      "google": {
+        "score": 4.2,
+        "count": 819,
+        "url": "https://www.google.com/maps/search/?api=1&query=CGV%20%EC%94%A8%EB%84%A4%EB%93%9C%EC%89%90%ED%94%84%20%EC%95%95%EA%B5%AC%EC%A0%95%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EC%95%95%EA%B5%AC%EC%A0%95%EB%A1%9C30%EA%B8%B8%2045%20%EC%8B%A0%EA%B4%80%20%EC%A7%80%ED%95%985%EC%B8%B5"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "Rated 3.5/5 from 42 visitor ratings; reviewers describe it as a relaxed, restaurant-like alternative to a standard multiplex.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Blog",
+        "text": "CINE de CHEF is CJ CGV's dine-in luxury cinema brand: wide recliners, a chef-prepared course served before the film, and a limited daily screening count.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 4,
+      "note": "Dine-in seat + course packages run well above a standard ticket — check CGV's Cine de Chef page for current set pricing."
+    },
+    "hours": {
+      "weekly": {
+        "mon": "11:30-16:00,17:30-21:00",
+        "tue": "11:30-16:00,17:30-21:00",
+        "wed": "11:30-16:00,17:30-21:00",
+        "thu": "11:30-16:00,17:30-21:00",
+        "fri": "11:30-16:00,17:30-21:00",
+        "sat": "11:30-16:00,17:30-21:00",
+        "sun": "11:30-16:00,17:30-21:00"
+      },
+      "note": "Daily 11:30–21:00 with a 16:00–17:30 break between lunch and evening service."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "Assumed open daily like other CGV cinemas; no 2026 Chuseok closure notice found — call ahead to confirm the holiday screening schedule.",
+      "verified": false
+    },
+    "location": {
+      "address": "45 Apgujeong-ro 30-gil, Gangnam-gu, Seoul, B5",
+      "addressKo": "서울특별시 강남구 압구정로30길 45 신관 지하5층",
+      "district": "Gangnam-gu",
+      "neighborhood": "Apgujeong",
+      "lat": 37.52435,
+      "lng": 127.029403,
+      "nearestStation": {
+        "name": "Apgujeong Rodeo",
+        "nameKo": "압구정로데오역",
+        "lines": [
+          "SUIN"
+        ],
+        "exit": "Exit 5",
+        "walkMin": 8
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/CGV%20씨네드쉐프%20압구정",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=CGV%20%EC%94%A8%EB%84%A4%EB%93%9C%EC%89%90%ED%94%84%20%EC%95%95%EA%B5%AC%EC%A0%95",
+      "kakaoMap": "https://map.kakao.com/?q=CGV%EC%94%A8%EB%84%A4%EB%93%9C%EC%89%90%ED%94%84%20%EC%95%95%EA%B5%AC%EC%A0%95",
+      "phone": "+82-2-3446-0541"
+    },
+    "images": [
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl6aQ4FqJv-7S_m9r5y8sQpY2geeoOJwz0QX03tVsyCMoi6U_08lCOkans2ois8IUxQt6f3qJPOdexNGF1bMBai2ffntkR1y_StnbfgUo7xW1MP7GlbTcmIWi9pfTVZxu1QubmK9w=w1200-h900-k-no",
+        "source": "https://www.google.com/maps/search/?api=1&query=CGV%20%EC%94%A8%EB%84%A4%EB%93%9C%EC%89%90%ED%94%84%20%EC%95%95%EA%B5%AC%EC%A0%95%20%EC%84%9C%EC%9A%B8%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EC%95%95%EA%B5%AC%EC%A0%95%EB%A1%9C30%EA%B8%B8%2045",
+        "credit": "Google Maps user photo",
+        "alt": "CGV Cine de Chef Apgujeong recliner auditorium"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWke4ySIrtptkxFn2E4ztO-BvIeCaQfQaxXBEHBsRMVGTYfAwIWvZ1uIL1RABasdLWKjRR93muFDhPHNI8uNm08L1fU38ei4M2KhsbbWbE09l1GReYJZerTJcVJSRfYb_f0zQUOs=w1200-h900-k-no",
+        "source": "https://www.google.com/maps/search/?api=1&query=CGV%20%EC%94%A8%EB%84%A4%EB%93%9C%EC%89%90%ED%94%84%20%EC%95%95%EA%B5%AC%EC%A0%95%20%EC%84%9C%EC%9A%B8%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EC%95%95%EA%B5%AC%EC%A0%95%EB%A1%9C30%EA%B8%B8%2045",
+        "credit": "Google Maps user photo",
+        "alt": "CGV Cine de Chef Apgujeong dine-in course"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/a-/ALV-UjX2NrANXBXVK5J57XocRxn43-S70kuvWp6iGOva7-sF2j1LYY0=w1200-h900-k-no",
+        "source": "https://www.google.com/maps/search/?api=1&query=CGV%20%EC%94%A8%EB%84%A4%EB%93%9C%EC%89%90%ED%94%84%20%EC%95%95%EA%B5%AC%EC%A0%95%20%EC%84%9C%EC%9A%B8%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EC%95%95%EA%B5%AC%EC%A0%95%EB%A1%9C30%EA%B8%B8%2045",
+        "credit": "Google Maps user photo",
+        "alt": "CGV Cine de Chef Apgujeong interior"
+      }
+    ],
+    "duration": "2.5-3 h",
+    "bestTime": "Weeknight dinner screening",
+    "goodFor": [
+      "Parents",
+      "Date",
+      "Celebration",
+      "Relaxing"
+    ],
+    "reservation": {
+      "recommended": true,
+      "how": "CGV app (Cine de Chef section) or cgv.co.kr"
+    },
+    "sources": [
+      "https://map.kakao.com/?q=CGV%EC%94%A8%EB%84%A4%EB%93%9C%EC%89%90%ED%94%84%20%EC%95%95%EA%B5%AC%EC%A0%95"
+    ],
+    "lastVerified": "2026-09-24"
+  },
+  {
+    "id": "nanta-myeongdong",
+    "name": "NANTA Myeongdong Theatre",
+    "nameKo": "명동난타극장",
+    "category": "experience",
+    "subcategory": "Non-verbal comedy show",
+    "tags": [
+      "english-friendly",
+      "indoor",
+      "rainy-day",
+      "kid-friendly",
+      "parent-friendly",
+      "group-friendly",
+      "iconic"
+    ],
+    "vibes": [
+      "lively",
+      "trendy"
+    ],
+    "summary": "Wordless percussion-comedy show — four \"chefs\" turn kitchen tools into drums while racing to finish a wedding banquet.",
+    "description": "NANTA is Korea's longest-running non-verbal performance: four chefs bang out samulnori rhythms on pots, knives and chopping boards while slapstick chaos unfolds around a wedding-feast deadline. Because there's no dialogue, language is never a barrier — it's built for a mixed-generation, international family. The dedicated Myeongdong theatre has run the show since it opened, and as of 2026 NANTA has drawn over 16 million cumulative audience members and toured 59 countries. It's an easy 60–90 minute evening slotted around Myeongdong street food and shopping.",
+    "highlights": [
+      "Entirely non-verbal — no language barrier for any age",
+      "Live percussion built from real kitchen equipment",
+      "Interactive moments pull audience members on stage",
+      "Steps from Myeongdong's night market street food"
+    ],
+    "tips": [
+      "Book online in advance — English-language booking is available on nanta.co.kr.",
+      "Arrive early to see if front-row \"VIP\" seats risk a light water splash during the show.",
+      "Combine with dinner in Myeongdong before the evening show."
+    ],
+    "badges": {
+      "familyFriendly": true,
+      "localFavorite": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.4,
+        "count": 7,
+        "url": "https://map.kakao.com/?q=%EB%AA%85%EB%8F%99%EB%82%9C%ED%83%80%EA%B7%B9%EC%9E%A5"
+      },
+      "google": {
+        "score": 4.5,
+        "count": 5691,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EB%AA%85%EB%8F%99%EB%82%9C%ED%83%80%EA%B7%B9%EC%9E%A5%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EB%AA%85%EB%8F%99%EA%B8%B8%2026%20%EC%9C%A0%EB%84%A4%EC%8A%A4%EC%BD%94%ED%9A%8C%EA%B4%80%203%EC%B8%B5"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Blog",
+        "text": "By 2026 the show has been seen by over 16 million people cumulatively and performed more than 4,580 times across 59 countries.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://namu.wiki/w/난타(공연)"
+      },
+      {
+        "source": "Kakao",
+        "text": "Visitors rate the Myeongdong theatre 4.4/5, praising it as fun for kids and adults alike with no language needed.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 3,
+      "note": "Tickets typically run tens of thousands of won per person, with online-booking discounts — check nanta.co.kr for current pricing and seat grade."
+    },
+    "hours": {
+      "weekly": {
+        "mon": "17:00-21:30",
+        "tue": "17:00-21:30",
+        "wed": "17:00-21:30",
+        "thu": "17:00-21:30",
+        "fri": "17:00-21:30"
+      },
+      "note": "Evening shows Mon–Fri per Kakao; check nanta.co.kr for weekend and matinee showtimes, which often run more frequently."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "Long-running tourist show that typically performs daily including Korean holidays, but the showtime schedule may shift around 25 Sep — check nanta.co.kr before booking.",
+      "verified": false
+    },
+    "location": {
+      "address": "26 Myeongdong-gil, Jung-gu, Seoul (UNESCO Building, 3F)",
+      "addressKo": "서울특별시 중구 명동길 26 유네스코회관 3층",
+      "district": "Jung-gu",
+      "neighborhood": "Myeongdong",
+      "lat": 37.563452,
+      "lng": 126.9837703,
+      "nearestStation": {
+        "name": "Myeongdong",
+        "nameKo": "명동역",
+        "lines": [
+          "4"
+        ],
+        "exit": "Exit 6",
+        "walkMin": 3
+      }
+    },
+    "links": {
+      "website": "https://www.nanta.co.kr",
+      "naverMap": "https://map.naver.com/p/search/명동난타극장",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EB%AA%85%EB%8F%99%EB%82%9C%ED%83%80%EA%B7%B9%EC%9E%A5",
+      "kakaoMap": "https://map.kakao.com/?q=%EB%AA%85%EB%8F%99%EB%82%9C%ED%83%80%EA%B7%B9%EC%9E%A5",
+      "phone": "+82-2-739-8288",
+      "reservation": "https://www.nanta.co.kr"
+    },
+    "images": [
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmzd1vREGArma7GZCwR8rAG7AOujDiBgEFG1hDAi1dhMMxTVoQ9wj6RcKvmrnIBTichyBD9sd6KzckTSvmL2yb6L4OX-NUzcudin0iPrmPNi18XSbx9--Si7vHVzxr2DaHe3L4=w1200-h900-k-no",
+        "source": "https://www.google.com/maps/search/?api=1&query=%EB%AA%85%EB%8F%99%EB%82%9C%ED%83%80%EA%B7%B9%EC%9E%A5%20%EC%84%9C%EC%9A%B8%20%EC%A4%91%EA%B5%AC%20%EB%AA%85%EB%8F%99%EA%B8%B8%2026",
+        "credit": "Google Maps user photo",
+        "alt": "NANTA Myeongdong theatre entrance"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlwVrvw7_IqkAzntucG5z1Hu9AOvdsz_wiOk43HWEyP669xa842PrArCWhpW2Qn3N3J66cj8541hqus7aDjup6II6VV1uiAMSvO5PjObXOpI_CBQ-AgqceBfvdpZuKlSI4u7OEp=w1200-h900-k-no",
+        "source": "https://www.google.com/maps/search/?api=1&query=%EB%AA%85%EB%8F%99%EB%82%9C%ED%83%80%EA%B7%B9%EC%9E%A5%20%EC%84%9C%EC%9A%B8%20%EC%A4%91%EA%B5%AC%20%EB%AA%85%EB%8F%99%EA%B8%B8%2026",
+        "credit": "Google Maps user photo",
+        "alt": "NANTA Myeongdong theatre lobby"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Nanta_2016_%2830250424151%29.jpg/1920px-Nanta_2016_%2830250424151%29.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Nanta_2016_(30250424151).jpg",
+        "credit": "Wikimedia Commons (CC BY)",
+        "alt": "NANTA cast performing the kitchen-percussion show"
+      }
+    ],
+    "duration": "1.5 h (90 min show)",
+    "bestTime": "Evening after dinner in Myeongdong",
+    "goodFor": [
+      "Family of 5",
+      "First-timers",
+      "Rainy day",
+      "Kids at heart"
+    ],
+    "reservation": {
+      "recommended": true,
+      "how": "nanta.co.kr (English booking available)"
+    },
+    "sources": [
+      "https://namu.wiki/w/난타(공연)",
+      "https://www.nanta.co.kr",
+      "https://map.kakao.com/?q=%EB%AA%85%EB%8F%99%EB%82%9C%ED%83%80%EA%B7%B9%EC%9E%A5"
+    ],
+    "lastVerified": "2026-09-24"
+  },
+  {
+    "id": "painterz-gwanghwamun",
+    "name": "PAINTERZ Gwanghwamun Theatre",
+    "nameKo": "페인터즈 광화문전용관",
+    "category": "experience",
+    "subcategory": "Non-verbal comedy show",
+    "tags": [
+      "english-friendly",
+      "indoor",
+      "rainy-day",
+      "kid-friendly",
+      "parent-friendly",
+      "group-friendly"
+    ],
+    "vibes": [
+      "lively",
+      "trendy"
+    ],
+    "summary": "High-energy non-verbal show where street-art painters race the clock, freestyle dance and pull the crowd into K-pop dance breaks.",
+    "description": "PAINTERZ (also styled PAINTERS/HERO) follows a crew of live painters competing to finish artworks against the clock, mixing beatboxing, breakdance, magic and audience-participation K-pop dance segments — all without a word of dialogue. The dedicated Gwanghwamun theatre is inside Kyunghyang Arthill near City Hall, an easy walk from Gwanghwamun Square. It's loud, fast and visual rather than talky, which makes it work well for a mixed-generation family regardless of Korean ability.",
+    "highlights": [
+      "Live speed-painting battles with UV-light and blacklight effects",
+      "Non-verbal, audience-participation K-pop dance breaks",
+      "Comedy and magic segments mixed with the art performances",
+      "A finished painting is sometimes gifted/auctioned to the audience"
+    ],
+    "tips": [
+      "Sit within the first few rows if you want to be picked for an interactive segment.",
+      "Book online — foreign-tourist discounts are commonly offered through ticket resellers.",
+      "Combine with Gwanghwamun Square and Cheonggyecheon, both a short walk away."
+    ],
+    "badges": {
+      "familyFriendly": true,
+      "mustSee": false
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.9,
+        "count": 328,
+        "url": "https://map.kakao.com/?q=%ED%8E%98%EC%9D%B8%ED%84%B0%EC%A6%88%20%EA%B4%91%ED%99%94%EB%AC%B8%EC%A0%84%EC%9A%A9%EA%B4%80%20%EA%B2%BD%ED%96%A5%EC%95%84%ED%8A%B8%ED%9E%90"
+      },
+      "google": {
+        "score": 4.9,
+        "count": 4383,
+        "url": "https://www.google.com/maps/search/?api=1&query=%ED%8E%98%EC%9D%B8%ED%84%B0%EC%A6%88%20%EA%B4%91%ED%99%94%EB%AC%B8%EC%A0%84%EC%9A%A9%EA%B4%80%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EC%A0%95%EB%8F%99%EA%B8%B8%203%20%EA%B2%BD%ED%96%A5%EC%95%84%ED%8A%B8%ED%9E%90%201%EC%B8%B5"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "Rated 4.9/5 across 328 ratings and 267 reviews — one of the highest-rated theatre venues on Kakao Map in central Seoul.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Blog",
+        "text": "The PAINTERZ format mixes live speed-painting, breakdance, magic and audience-participation dance segments, all performed without dialogue.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 3,
+      "note": "Tickets typically run tens of thousands of won per person; foreign-visitor discounts are often available through official resellers — check current pricing before booking."
+    },
+    "hours": {
+      "weekly": {
+        "mon": "09:00-20:00",
+        "tue": "09:00-20:00",
+        "wed": "09:00-20:00",
+        "thu": "09:00-20:00",
+        "fri": "09:00-20:00",
+        "sat": "09:00-20:00",
+        "sun": "09:00-20:00"
+      },
+      "note": "Venue open daily 09:00–20:00 per Kakao; actual showtimes are a subset — check the official schedule."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "Tourist-oriented non-verbal show that typically runs daily including holidays; no 2026 Chuseok closure notice found — confirm showtimes before booking.",
+      "verified": false
+    },
+    "location": {
+      "address": "3 Jeongdong-gil, Jung-gu, Seoul (Kyunghyang Arthill, 1F)",
+      "addressKo": "서울특별시 중구 정동길 3 경향아트힐 1층",
+      "district": "Jung-gu",
+      "neighborhood": "Jeong-dong / City Hall",
+      "lat": 37.5680721,
+      "lng": 126.9699993,
+      "nearestStation": {
+        "name": "City Hall",
+        "nameKo": "시청역",
+        "lines": [
+          "1",
+          "2"
+        ],
+        "exit": "Exit 1",
+        "walkMin": 7
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/페인터즈%20광화문전용관",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%ED%8E%98%EC%9D%B8%ED%84%B0%EC%A6%88%20%EA%B4%91%ED%99%94%EB%AC%B8%EC%A0%84%EC%9A%A9%EA%B4%80%20%EA%B2%BD%ED%96%A5%EC%95%84%ED%8A%B8%ED%9E%90",
+      "kakaoMap": "https://map.kakao.com/?q=%ED%8E%98%EC%9D%B8%ED%84%B0%EC%A6%88%20%EA%B4%91%ED%99%94%EB%AC%B8%EC%A0%84%EC%9A%A9%EA%B4%80%20%EA%B2%BD%ED%96%A5%EC%95%84%ED%8A%B8%ED%9E%90",
+      "phone": "+82-2-766-7848"
+    },
+    "images": [
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlTAT2a7tsxsQlneIvcIVD_s8zOdXK_Li5P6HktUAfUUoS6q6wUKHkSHsz6tkaREHe5GBvAI1PyykoHglTmSMjN48LeTZOjmXrAKS9uFe2C4lgKebEoFW1BCzGIxRxPthUUMpQccQ=w1200-h900-k-no",
+        "source": "https://www.google.com/maps/search/?api=1&query=%ED%8E%98%EC%9D%B8%ED%84%B0%EC%A6%88%20%EA%B4%91%ED%99%94%EB%AC%B8%EC%A0%84%EC%9A%A9%EA%B4%80%20%EC%84%9C%EC%9A%B8%20%EC%A4%91%EA%B5%AC%20%EC%A0%95%EB%8F%99%EA%B8%B8%203",
+        "credit": "Google Maps user photo",
+        "alt": "PAINTERZ Gwanghwamun theatre performance"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlA59fgByNbAWjA5o3B3hHpry0EzyswK11XMbymCpDnPOSfaferE5Xe3HbJahp1WmEUDdF7clpiJRmahejEUBHBqf6zEu-eaMpeGcxX9SRzkGDSvtBrlel_KbEHP_tk9nZMfEk=w1200-h900-k-no",
+        "source": "https://www.google.com/maps/search/?api=1&query=%ED%8E%98%EC%9D%B8%ED%84%B0%EC%A6%88%20%EA%B4%91%ED%99%94%EB%AC%B8%EC%A0%84%EC%9A%A9%EA%B4%80%20%EC%84%9C%EC%9A%B8%20%EC%A4%91%EA%B5%AC%20%EC%A0%95%EB%8F%99%EA%B8%B8%203",
+        "credit": "Google Maps user photo",
+        "alt": "PAINTERZ live painting performance"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlMI6bBHJhQCjLiEDjSxoT6MCdVT0WO6a4NL6KdFtIbckOgFBQ6KF7LI5dNzP77JHMCCtMIz8bi_d1XZ5vE6AZ9sFiyEsC1T0LRsKWLo_J7rOZ68dn1BsoNWQN1_2dI9Jdhvt_ljCb5oiw=w1200-h900-k-no",
+        "source": "https://www.google.com/maps/search/?api=1&query=%ED%8E%98%EC%9D%B8%ED%84%B0%EC%A6%88%20%EA%B4%91%ED%99%94%EB%AC%B8%EC%A0%84%EC%9A%A9%EA%B4%80%20%EC%84%9C%EC%9A%B8%20%EC%A4%91%EA%B5%AC%20%EC%A0%95%EB%8F%99%EA%B8%B8%203",
+        "credit": "Google Maps user photo",
+        "alt": "PAINTERZ theatre auditorium"
+      }
+    ],
+    "duration": "1.5 h (90 min show)",
+    "bestTime": "Evening",
+    "goodFor": [
+      "Family of 5",
+      "First-timers",
+      "Rainy day",
+      "Kids at heart"
+    ],
+    "reservation": {
+      "recommended": true,
+      "how": "Official site or ticket resellers (Klook/Trazy/Interpark)"
+    },
+    "sources": [
+      "https://map.kakao.com/?q=%ED%8E%98%EC%9D%B8%ED%84%B0%EC%A6%88%20%EA%B4%91%ED%99%94%EB%AC%B8%EC%A0%84%EC%9A%A9%EA%B4%80%20%EA%B2%BD%ED%96%A5%EC%95%84%ED%8A%B8%ED%9E%90"
+    ],
+    "lastVerified": "2026-09-24"
+  },
+  {
+    "id": "seoul-robot-ai-museum",
+    "name": "Seoul Robot & AI Museum (RAIM)",
+    "nameKo": "서울로봇인공지능과학관",
+    "category": "sight",
+    "subcategory": "Science museum",
+    "tags": [
+      "high-tech",
+      "museum",
+      "indoor",
+      "rainy-day",
+      "kid-friendly",
+      "parent-friendly",
+      "hidden-gem",
+      "design",
+      "new-2025-2026"
+    ],
+    "vibes": [
+      "futuristic",
+      "design",
+      "quiet"
+    ],
+    "summary": "Sculptural white science museum devoted entirely to robots and AI, with hands-on exhibits and a striking Melike Altınışık-designed building.",
+    "description": "Opened in Changdong in 2024, RAIM is Seoul's dedicated robotics and AI museum: a swooping white building by Turkish-Iraqi architect Melike Altınışık (who also designed Robot Science Museum Seocho) that houses interactive exhibits on robotics, AI ethics and future tech aimed squarely at families. It sits in the same Changdong culture cluster as the Seoul Museum of Photography, both far from the usual tourist trail and rarely visited by foreigners. Exhibits are hands-on rather than glass-case, so it fills an easy, air-conditioned few hours for a family that wants something high-tech without any physical effort.",
+    "highlights": [
+      "Melike Altınışık-designed sculptural white building",
+      "Hands-on robotics and AI exhibits aimed at families",
+      "Paired with the Seoul Museum of Photography next door",
+      "Rarely visited by foreign tourists — a genuine hidden gem"
+    ],
+    "tips": [
+      "Far from central Seoul (Dobong-gu) — best combined with the Seoul Museum of Photography next door as one Changdong outing.",
+      "A short taxi from Changdong Station is faster than the walk.",
+      "Kakao shows daily 09:30–17:30 hours; call ahead as Seoul public museums often close for Chuseok."
+    ],
+    "badges": {
+      "futuristic": true,
+      "familyFriendly": true,
+      "hiddenGem": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.4,
+        "count": 135,
+        "url": "https://map.kakao.com/?q=%EC%84%9C%EC%9A%B8%EB%A1%9C%EB%B4%87%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC%ED%95%99%EA%B4%80"
+      },
+      "google": {
+        "score": 4.4,
+        "count": 270,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EC%9A%B8%EB%A1%9C%EB%B4%87%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC%ED%95%99%EA%B4%80%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EB%8F%84%EB%B4%89%EA%B5%AC%20%EB%A7%88%EB%93%A4%EB%A1%9C13%EA%B8%B8%2056"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "Rated 4.4/5 across 135 ratings and over 400 reviews, with visitors highlighting the striking building and engaging robot exhibits for kids.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Blog",
+        "text": "The museum opened in Changdong in 2024 in a sculptural white building by architect Melike Altınışık, who also designed Robot Science Museum Seocho.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Low-cost public museum admission (exact fee not confirmed) — check science.seoul.go.kr/RAIM before visiting."
+    },
+    "hours": {
+      "weekly": {
+        "tue": "09:30-17:30",
+        "wed": "09:30-17:30",
+        "thu": "09:30-17:30",
+        "fri": "09:30-17:30",
+        "sat": "09:30-17:30",
+        "sun": "09:30-17:30"
+      },
+      "note": "Kakao lists daily 09:30–17:30; many Seoul public museums close Mondays and holidays — confirm on the official site."
+    },
+    "tripDays": {
+      "2026-09-23": "unknown",
+      "2026-09-24": "unknown",
+      "2026-09-25": "unknown",
+      "2026-09-26": "unknown",
+      "2026-09-27": "unknown",
+      "2026-09-28": "unknown",
+      "2026-09-29": "unknown",
+      "2026-09-30": "unknown"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found. Many Seoul city-run museums (e.g. Amorepacific, MMCA) close for Seollal/Chuseok — call science.seoul.go.kr/RAIM or +82-2-920-4300 before visiting 24–26 Sep.",
+      "verified": false
+    },
+    "location": {
+      "address": "56 Madeul-ro 13-gil, Dobong-gu, Seoul",
+      "addressKo": "서울특별시 도봉구 마들로13길 56",
+      "district": "Dobong-gu",
+      "neighborhood": "Changdong",
+      "lat": 37.6555437,
+      "lng": 127.049431,
+      "nearestStation": {
+        "name": "Changdong",
+        "nameKo": "창동역",
+        "lines": [
+          "1",
+          "4"
+        ],
+        "exit": "Exit 2",
+        "walkMin": 20
+      }
+    },
+    "links": {
+      "website": "https://science.seoul.go.kr/RAIM",
+      "naverMap": "https://map.naver.com/p/search/서울로봇인공지능과학관",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EC%9A%B8%EB%A1%9C%EB%B4%87%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC%ED%95%99%EA%B4%80",
+      "kakaoMap": "https://map.kakao.com/?q=%EC%84%9C%EC%9A%B8%EB%A1%9C%EB%B4%87%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC%ED%95%99%EA%B4%80",
+      "phone": "+82-2-920-4300"
+    },
+    "images": [
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlP7tn7Vh6bb3j0iGQFTETvqST2r3Lhn7KJwSVXg74N_JFqYFXg1UG99v0I_p24GFE-4zbYgpJ0C4GhuSkWALGJy4YrJ53Br_Ef3K_pUCKMMZ4mNOGonNnSqlhaeLkZJ936J2KlZw=w1200-h900-k-no",
+        "source": "https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EC%9A%B8%EB%A1%9C%EB%B4%87%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC%ED%95%99%EA%B4%80%20%EC%84%9C%EC%9A%B8%20%EB%8F%84%EB%B4%89%EA%B5%AC%20%EB%A7%88%EB%93%A4%EB%A1%9C13%EA%B8%B8%2056",
+        "credit": "Google Maps user photo",
+        "alt": "Seoul Robot & AI Museum white sculptural exterior"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmtVRj_5agzuu6MryedtvvqC7xHwPxypNPXWTzTx0DsYSlT_ABjfoMYoxzTTy7L1sCrCpXjUfIcwfBaPmz9Un-H2I2hLPlGc5_vFjHbLN1shENSZA1KBc8n2AuYR7CqxCKaQJBU=w1200-h900-k-no",
+        "source": "https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EC%9A%B8%EB%A1%9C%EB%B4%87%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC%ED%95%99%EA%B4%80%20%EC%84%9C%EC%9A%B8%20%EB%8F%84%EB%B4%89%EA%B5%AC%20%EB%A7%88%EB%93%A4%EB%A1%9C13%EA%B8%B8%2056",
+        "credit": "Google Maps user photo",
+        "alt": "Seoul Robot & AI Museum interior exhibit hall"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/a-/ALV-UjVIfjiFLdYuXEMKiWwG9RnW71lOV2Sx1J6iE_UpQ_WUplOpz5GV=w1200-h900-k-no",
+        "source": "https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EC%9A%B8%EB%A1%9C%EB%B4%87%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC%ED%95%99%EA%B4%80%20%EC%84%9C%EC%9A%B8%20%EB%8F%84%EB%B4%89%EA%B5%AC%20%EB%A7%88%EB%93%A4%EB%A1%9C13%EA%B8%B8%2056",
+        "credit": "Google Maps user photo",
+        "alt": "Seoul Robot & AI Museum robotics exhibit"
+      }
+    ],
+    "duration": "1.5-2.5 h",
+    "bestTime": "Weekday morning",
+    "goodFor": [
+      "Family of 5",
+      "Rainy day",
+      "Kids at heart",
+      "Photos"
+    ],
+    "sources": [
+      "https://map.kakao.com/?q=%EC%84%9C%EC%9A%B8%EB%A1%9C%EB%B4%87%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC%ED%95%99%EA%B4%80",
+      "https://science.seoul.go.kr/RAIM"
+    ],
+    "lastVerified": "2026-09-24"
+  },
+  {
+    "id": "seoul-museum-of-photography",
+    "name": "Seoul Museum of Photography",
+    "nameKo": "서울시립사진미술관",
+    "category": "sight",
+    "subcategory": "Photography museum",
+    "tags": [
+      "art",
+      "museum",
+      "indoor",
+      "rainy-day",
+      "parent-friendly",
+      "hidden-gem",
+      "design"
+    ],
+    "vibes": [
+      "futuristic",
+      "design",
+      "quiet",
+      "minimal"
+    ],
+    "summary": "Seoul's dedicated photography museum, in the same Changdong cluster as the Robot & AI Museum — clean galleries, rarely visited by tourists.",
+    "description": "A modern gallery building in Dobong-gu's Changdong culture park devoted entirely to photography, run by the Seoul Museum of Art (SeMA) network. It sits right next to the Seoul Robot & AI Museum, so the two make a natural pair for a design-forward, off-the-tourist-trail afternoon. Exhibitions rotate through contemporary Korean and international photographers in bright, minimal white-cube spaces — a quiet, air-conditioned contrast to a busy Seoul itinerary.",
+    "highlights": [
+      "Rotating contemporary photography exhibitions",
+      "Clean, minimal modern gallery architecture",
+      "Paired with the Seoul Robot & AI Museum next door",
+      "Almost entirely local visitors — a genuine hidden gem"
+    ],
+    "tips": [
+      "Combine with the Seoul Robot & AI Museum, a few minutes' walk away, for one Changdong outing.",
+      "A short taxi from Changdong Station beats the walk.",
+      "Check current exhibitions before going — the program changes every few months."
+    ],
+    "badges": {
+      "hiddenGem": true,
+      "valueForMoney": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 3.7,
+        "count": 70,
+        "url": "https://map.kakao.com/?q=%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%A6%BD%EC%82%AC%EC%A7%84%EB%AF%B8%EC%88%A0%EA%B4%80"
+      },
+      "google": {
+        "score": 4.5,
+        "count": 139,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%A6%BD%EC%82%AC%EC%A7%84%EB%AF%B8%EC%88%A0%EA%B4%80%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EB%8F%84%EB%B4%89%EA%B5%AC%20%EB%A7%88%EB%93%A4%EB%A1%9C13%EA%B8%B8%2068"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "Rated 3.7/5 across 70 ratings and over 600 reviews; visitors describe calm, well-lit galleries and a rotating photography program.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Blog",
+        "text": "Run by the Seoul Museum of Art (SeMA) network in the same Changdong culture cluster as the Seoul Robot & AI Museum next door.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Public museum admission — typically low-cost or free for the main collection; check for special exhibition fees."
+    },
+    "hours": {
+      "weekly": {
+        "tue": "10:00-19:00",
+        "wed": "10:00-19:00",
+        "thu": "10:00-19:00",
+        "fri": "10:00-19:00",
+        "sat": "10:00-19:00",
+        "sun": "10:00-19:00"
+      },
+      "note": "Kakao lists daily 10:00–19:00; SeMA venues typically close Mondays — confirm before visiting."
+    },
+    "tripDays": {
+      "2026-09-23": "unknown",
+      "2026-09-24": "unknown",
+      "2026-09-25": "unknown",
+      "2026-09-26": "unknown",
+      "2026-09-27": "unknown",
+      "2026-09-28": "unknown",
+      "2026-09-29": "unknown",
+      "2026-09-30": "unknown"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found. SeMA venues typically close for major holidays — call ahead before visiting 24–26 Sep.",
+      "verified": false
+    },
+    "location": {
+      "address": "68 Madeul-ro 13-gil, Dobong-gu, Seoul",
+      "addressKo": "서울특별시 도봉구 마들로13길 68",
+      "district": "Dobong-gu",
+      "neighborhood": "Changdong",
+      "lat": 37.65557,
+      "lng": 127.0488491,
+      "nearestStation": {
+        "name": "Changdong",
+        "nameKo": "창동역",
+        "lines": [
+          "1",
+          "4"
+        ],
+        "exit": "Exit 2",
+        "walkMin": 20
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/서울시립사진미술관",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%A6%BD%EC%82%AC%EC%A7%84%EB%AF%B8%EC%88%A0%EA%B4%80",
+      "kakaoMap": "https://map.kakao.com/?q=%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%A6%BD%EC%82%AC%EC%A7%84%EB%AF%B8%EC%88%A0%EA%B4%80",
+      "phone": "+82-2-2124-7600"
+    },
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/20250529_%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%A6%BD%EC%82%AC%EC%A7%84%EB%AF%B8%EC%88%A0%EA%B4%80_%EB%82%B4%EB%B6%80_2.jpg/1920px-20250529_%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%A6%BD%EC%82%AC%EC%A7%84%EB%AF%B8%EC%88%A0%EA%B4%80_%EB%82%B4%EB%B6%80_2.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:20250529_서울시립사진미술관_내부_2.jpg",
+        "credit": "Wikimedia Commons (CC BY-SA)",
+        "alt": "Seoul Museum of Photography interior gallery"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/20250529_%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%A6%BD%EC%82%AC%EC%A7%84%EB%AF%B8%EC%88%A0%EA%B4%80_%EB%82%B4%EB%B6%80.jpg/1920px-20250529_%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%A6%BD%EC%82%AC%EC%A7%84%EB%AF%B8%EC%88%A0%EA%B4%80_%EB%82%B4%EB%B6%80.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:20250529_서울시립사진미술관_내부.jpg",
+        "credit": "Wikimedia Commons (CC BY-SA)",
+        "alt": "Seoul Museum of Photography interior"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/20250529_%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%A6%BD%EC%82%AC%EC%A7%84%EB%AF%B8%EC%88%A0%EA%B4%80_%EB%82%B4%EB%B6%80_4.jpg/1920px-20250529_%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%A6%BD%EC%82%AC%EC%A7%84%EB%AF%B8%EC%88%A0%EA%B4%80_%EB%82%B4%EB%B6%80_4.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:20250529_서울시립사진미술관_내부_4.jpg",
+        "credit": "Wikimedia Commons (CC BY-SA)",
+        "alt": "Seoul Museum of Photography gallery space"
+      }
+    ],
+    "duration": "1-1.5 h",
+    "bestTime": "Weekday morning, combined with RAIM next door",
+    "goodFor": [
+      "Parents",
+      "Rainy day",
+      "Photos",
+      "Relaxing"
+    ],
+    "sources": [
+      "https://map.kakao.com/?q=%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%A6%BD%EC%82%AC%EC%A7%84%EB%AF%B8%EC%88%A0%EA%B4%80"
+    ],
+    "lastVerified": "2026-09-24"
+  },
+  {
+    "id": "space-k-seoul",
+    "name": "Space K Seoul",
+    "nameKo": "스페이스K 서울",
+    "category": "sight",
+    "subcategory": "Contemporary art museum",
+    "tags": [
+      "art",
+      "museum",
+      "indoor",
+      "rainy-day",
+      "parent-friendly",
+      "hidden-gem",
+      "design"
+    ],
+    "vibes": [
+      "futuristic",
+      "minimal",
+      "design",
+      "quiet"
+    ],
+    "summary": "Kolon's contemporary art space in Magok — sleek modern galleries showing rotating exhibitions, almost never crowded.",
+    "description": "Space K is Kolon Group's contemporary art museum in the still-developing Magok business district in Gangseo-gu. The building is a minimal, design-forward gallery space with rotating exhibitions of Korean and international contemporary art. As of late 2026 it is showing \"Friends and Neighbors\" through December. Being far from the palace/Hongdae tourist loop, it's a genuinely quiet, uncrowded stop — good for parents who want an air-conditioned, low-stimulation gallery hour.",
+    "highlights": [
+      "Rotating contemporary art exhibitions in a sleek modern building",
+      "\"Friends and Neighbors\" exhibition running through Dec 2026",
+      "Rarely crowded — a calm counterpoint to central Seoul museums"
+    ],
+    "tips": [
+      "Far from central Seoul — best combined with a Magok/Gangseo-gu itinerary or as a stop en route to/from Gimpo Airport.",
+      "Check spacek.co.kr for the current exhibition before visiting.",
+      "Kakao shows a special Chuseok-eve notice on its hours — call ahead for exact 2026 holiday hours."
+    ],
+    "badges": {
+      "hiddenGem": true,
+      "futuristic": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4,
+        "count": 27,
+        "url": "https://map.kakao.com/?q=%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4K%20%EC%84%9C%EC%9A%B8"
+      },
+      "google": {
+        "score": 4.3,
+        "count": 200,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4K%20%EC%84%9C%EC%9A%B8%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EC%84%9C%EA%B5%AC%20%EB%A7%88%EA%B3%A1%EC%A4%91%EC%95%998%EB%A1%9C%2032"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "Rated 4.0/5 across 27 ratings and over 300 reviews; visitors note the calm, uncrowded galleries in Magok.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Press",
+        "text": "Kolon Group's contemporary art space is currently showing \"Friends and Neighbors,\" running through December 2026.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Admission varies by exhibition — check spacek.co.kr for current pricing."
+    },
+    "hours": {
+      "weekly": {
+        "tue": "10:00-18:00",
+        "wed": "10:00-18:00",
+        "thu": "10:00-18:00",
+        "fri": "10:00-18:00",
+        "sat": "10:00-18:00",
+        "sun": "10:00-18:00"
+      },
+      "note": "Regular hours approx. 10:00–18:00, closed Mondays — Kakao showed a special \"Chuseok eve\" notice, so exact 2026 holiday hours are unconfirmed."
+    },
+    "tripDays": {
+      "2026-09-23": "unknown",
+      "2026-09-24": "unknown",
+      "2026-09-25": "unknown",
+      "2026-09-26": "unknown",
+      "2026-09-27": "open",
+      "2026-09-28": "unknown",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "Kakao's live listing showed a \"Chuseok eve\" (추석전날) special-hours notice rather than plain daily hours, suggesting the venue has a specific 2026 holiday exception — call +82-2-3665-8918 or check spacek.co.kr to confirm before visiting 24–26 Sep.",
+      "verified": false
+    },
+    "location": {
+      "address": "32 Magok jungang 8-ro, Gangseo-gu, Seoul",
+      "addressKo": "서울특별시 강서구 마곡중앙8로 32",
+      "district": "Gangseo-gu",
+      "neighborhood": "Magok",
+      "lat": 37.5610159,
+      "lng": 126.8310224,
+      "nearestStation": {
+        "name": "Magongnaru",
+        "nameKo": "마곡나루역",
+        "lines": [
+          "5",
+          "GJ"
+        ],
+        "exit": "Exit 3",
+        "walkMin": 10
+      }
+    },
+    "links": {
+      "website": "https://www.spacek.co.kr",
+      "instagram": "https://www.instagram.com/spacek_korea/",
+      "naverMap": "https://map.naver.com/p/search/스페이스K%20서울",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4K%20%EC%84%9C%EC%9A%B8",
+      "kakaoMap": "https://map.kakao.com/?q=%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4K%20%EC%84%9C%EC%9A%B8",
+      "phone": "+82-2-3665-8918"
+    },
+    "images": [
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm8SoT3vn_h7o9BpzniBTmslm94XkIFInsWC7beCvZM1g4Qbb2oTxtQPaIXkaxfNK0rKvyKxnvwd-sW8RP1Mu5YeoD65_M-0eHD767FEMLCZgz0omVPri9lFPquPf2533fzc1ApUA=w1200-h900-k-no",
+        "source": "https://www.google.com/maps/search/?api=1&query=%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4K%20%EC%84%9C%EC%9A%B8%20%EC%84%9C%EC%9A%B8%20%EA%B0%95%EC%84%9C%EA%B5%AC%20%EB%A7%88%EA%B3%A1%EC%A4%91%EC%95%998%EB%A1%9C%2032",
+        "credit": "Google Maps user photo",
+        "alt": "Space K Seoul museum exterior"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWll4JKlbH3FkDKujX0uCLx86hJ8YWERdzKQ-9F8fKkgRy1SpTxArM_mr78LSHQf4jWFrBWvw1HwGUe00EH99MfFUXGlFLEjEnqxbGwywMYSpiSp7Pm9Yugb7tuKIdBKN_iaWqaA=w1200-h900-k-no",
+        "source": "https://www.google.com/maps/search/?api=1&query=%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4K%20%EC%84%9C%EC%9A%B8%20%EC%84%9C%EC%9A%B8%20%EA%B0%95%EC%84%9C%EA%B5%AC%20%EB%A7%88%EA%B3%A1%EC%A4%91%EC%95%998%EB%A1%9C%2032",
+        "credit": "Google Maps user photo",
+        "alt": "Space K Seoul gallery interior"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlydXvVVl4-UvGETcx4Kqd7-ZzQYXF0GGmmzA0co1yCHAR1KyGHvkDr59fGkvTF0qogx3DDHrDpB8vmwBXrkA9ROj2DWwY-4tWYt8BXmCKoQY2MgSUDA7Q7ZnUJ4IfN0DBqPRuTfq9E4K2d=w1200-h900-k-no",
+        "source": "https://www.google.com/maps/search/?api=1&query=%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4K%20%EC%84%9C%EC%9A%B8%20%EC%84%9C%EC%9A%B8%20%EA%B0%95%EC%84%9C%EA%B5%AC%20%EB%A7%88%EA%B3%A1%EC%A4%91%EC%95%998%EB%A1%9C%2032",
+        "credit": "Google Maps user photo",
+        "alt": "Space K Seoul exhibition space"
+      }
+    ],
+    "duration": "1-1.5 h",
+    "bestTime": "Weekday afternoon",
+    "goodFor": [
+      "Parents",
+      "Rainy day",
+      "Relaxing",
+      "Photos"
+    ],
+    "sources": [
+      "https://www.spacek.co.kr",
+      "https://map.kakao.com/?q=%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4K%20%EC%84%9C%EC%9A%B8"
+    ],
+    "lastVerified": "2026-09-24"
+  },
+  {
+    "id": "hyundai-motorstudio-goyang",
+    "name": "Hyundai Motorstudio Goyang",
+    "nameKo": "현대 모터스튜디오 고양",
+    "category": "sight",
+    "subcategory": "Car brand experience space",
+    "tags": [
+      "high-tech",
+      "indoor",
+      "rainy-day",
+      "kid-friendly",
+      "parent-friendly",
+      "design",
+      "free"
+    ],
+    "vibes": [
+      "futuristic",
+      "design",
+      "minimal"
+    ],
+    "summary": "Hyundai's biggest brand showroom near KINTEX — futuristic concept cars, EV tech displays and design galleries, free to enter.",
+    "description": "Hyundai Motorstudio Goyang is one of the group's flagship brand-experience spaces, next to KINTEX in Ilsan, showing current models, Genesis concept cars and design/technology exhibits in a slick, minimal showroom. It's effectively a free, air-conditioned car museum — no pressure to buy anything — with rotating displays that have included Genesis G90 showcases and future-mobility concepts like the Staria Overlander. It consistently rates among the best-reviewed attractions in the Goyang area on Kakao Map.",
+    "highlights": [
+      "Genesis and Hyundai concept car displays",
+      "Interactive tech and future-mobility exhibits",
+      "Sleek, photogenic showroom architecture",
+      "Free admission"
+    ],
+    "tips": [
+      "Combine with KINTEX or a trip to Starfield Goyang / Aquafield nearby.",
+      "Free entry, no reservation typically needed for casual browsing.",
+      "Best reached by taxi from Daehwa Station or the GTX-A Kintex stop."
+    ],
+    "badges": {
+      "futuristic": true,
+      "familyFriendly": true,
+      "valueForMoney": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.8,
+        "count": 839,
+        "url": "https://map.kakao.com/?q=%ED%98%84%EB%8C%80%EB%AA%A8%ED%84%B0%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%20%EA%B3%A0%EC%96%91"
+      },
+      "google": {
+        "score": 4.6,
+        "count": 772,
+        "url": "https://www.google.com/maps/search/?api=1&query=%ED%98%84%EB%8C%80%20%EB%AA%A8%ED%84%B0%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%20%EA%B3%A0%EC%96%91%20%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B3%A0%EC%96%91%EC%8B%9C%20%EC%9D%BC%EC%82%B0%EC%84%9C%EA%B5%AC%20%ED%82%A8%ED%85%8D%EC%8A%A4%EB%A1%9C%20217-6"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "One of the highest-rated attractions in Goyang: 4.8/5 across 839 ratings and over 1,500 reviews.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Blog",
+        "text": "A free-entry Hyundai brand showroom near KINTEX, showing rotating displays of Genesis and Hyundai concept vehicles such as the Staria Overlander.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Free admission."
+    },
+    "hours": {
+      "weekly": {
+        "mon": "09:00-20:00",
+        "tue": "09:00-20:00",
+        "wed": "09:00-20:00",
+        "thu": "09:00-20:00",
+        "fri": "09:00-20:00",
+        "sat": "09:00-20:00",
+        "sun": "09:00-20:00"
+      },
+      "note": "Daily 09:00–20:00 per Kakao."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "unknown",
+      "2026-09-25": "unknown",
+      "2026-09-26": "unknown",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok closure notice found on Kakao (unlike Hyundai's department stores, which explicitly close); brand showrooms often stay open, but call ahead to confirm 24–26 Sep hours.",
+      "verified": false
+    },
+    "location": {
+      "address": "217-6 Kintex-ro, Ilsanseo-gu, Goyang-si, Gyeonggi-do",
+      "addressKo": "경기도 고양시 일산서구 킨텍스로 217-6",
+      "district": "Goyang-si",
+      "neighborhood": "Ilsan / KINTEX",
+      "lat": 37.6661591,
+      "lng": 126.7478623,
+      "nearestStation": {
+        "name": "Kintex (GTX-A)",
+        "nameKo": "킨텍스역",
+        "lines": [
+          "GTXA"
+        ],
+        "walkMin": 10
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/현대모터스튜디오%20고양",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%ED%98%84%EB%8C%80%20%EB%AA%A8%ED%84%B0%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%20%EA%B3%A0%EC%96%91",
+      "kakaoMap": "https://map.kakao.com/?q=%ED%98%84%EB%8C%80%EB%AA%A8%ED%84%B0%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%20%EA%B3%A0%EC%96%91",
+      "phone": "+82-1899-6611"
+    },
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Two_Genesis_G90s_at_Hyundai_Motorstudio_Goyang_1.jpg/1920px-Two_Genesis_G90s_at_Hyundai_Motorstudio_Goyang_1.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Two_Genesis_G90s_at_Hyundai_Motorstudio_Goyang_1.jpg",
+        "credit": "Wikimedia Commons (CC BY-SA)",
+        "alt": "Genesis G90 display at Hyundai Motorstudio Goyang"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Two_Genesis_G90s_at_Hyundai_Motorstudio_Goyang_2.jpg/1920px-Two_Genesis_G90s_at_Hyundai_Motorstudio_Goyang_2.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Two_Genesis_G90s_at_Hyundai_Motorstudio_Goyang_2.jpg",
+        "credit": "Wikimedia Commons (CC BY-SA)",
+        "alt": "Genesis G90 display, second angle"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Hyundai_Staria_Overlander_Concept_%281%29.jpg/1920px-Hyundai_Staria_Overlander_Concept_%281%29.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Hyundai_Staria_Overlander_Concept_(1).jpg",
+        "credit": "Wikimedia Commons (CC BY-SA)",
+        "alt": "Hyundai Staria Overlander concept vehicle on display"
+      }
+    ],
+    "duration": "1-1.5 h",
+    "bestTime": "Weekday afternoon",
+    "goodFor": [
+      "Family of 5",
+      "Rainy day",
+      "Kids at heart",
+      "Photos"
+    ],
+    "sources": [
+      "https://map.kakao.com/?q=%ED%98%84%EB%8C%80%EB%AA%A8%ED%84%B0%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%20%EA%B3%A0%EC%96%91"
+    ],
+    "lastVerified": "2026-09-24"
+  },
+  {
+    "id": "aquafield-starfield-goyang",
+    "name": "Aquafield Starfield Goyang",
+    "nameKo": "아쿠아필드 고양",
+    "category": "wellness",
+    "subcategory": "Water park / spa complex",
+    "tags": [
+      "high-tech",
+      "spa",
+      "sauna",
+      "indoor",
+      "kid-friendly",
+      "parent-friendly",
+      "group-friendly",
+      "shopping-mall"
+    ],
+    "vibes": [
+      "futuristic",
+      "lively"
+    ],
+    "summary": "Indoor water park and premium jjimjilbang inside Starfield Goyang — wave pools, saunas and a rooftop hot tub under one glass roof.",
+    "description": "Aquafield is Shinsegae's premium indoor water-park-and-spa brand, and the Goyang branch fills the fourth floor of Starfield Goyang mall with an indoor wave pool, kids' pools, waterslides, a range of dry and wet saunas, and clean modern jjimjilbang facilities. Because it's fully indoor and climate-controlled, it works rain or shine, and it's zero-effort compared with an outdoor water park — just swimsuits and towels (or rent everything on site). Pair it with a Starfield Goyang shopping/dining trip for a full lazy day.",
+    "highlights": [
+      "Indoor wave pool and waterslides",
+      "Dry sauna, steam rooms and jjimjilbang relaxation rooms",
+      "Rooftop/outdoor hot tub with mall-complex views",
+      "Everything (swimsuits, towels) rentable on site"
+    ],
+    "tips": [
+      "Bring your own swimsuit or rent one on site — lockers and towels are included in admission.",
+      "Weekday visits are far less crowded than weekends.",
+      "Combine with a shopping/dining trip to the rest of Starfield Goyang."
+    ],
+    "badges": {
+      "futuristic": true,
+      "familyFriendly": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 3.6,
+        "count": 168,
+        "url": "https://map.kakao.com/?q=%EC%95%84%EC%BF%A0%EC%95%84%ED%95%84%EB%93%9C%20%EA%B3%A0%EC%96%91"
+      },
+      "google": {
+        "score": 4.3,
+        "count": 3800,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EC%95%84%EC%BF%A0%EC%95%84%ED%95%84%EB%93%9C%20%EA%B3%A0%EC%96%91%20%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B3%A0%EC%96%91%EC%8B%9C%20%EB%8D%95%EC%96%91%EA%B5%AC%20%EA%B3%A0%EC%96%91%EB%8C%80%EB%A1%9C%201955%20%EC%8A%A4%ED%83%80%ED%95%84%EB%93%9C%20%EA%B3%A0%EC%96%91%204%EC%B8%B5"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "Rated 3.6/5 across 168 ratings and over 1,000 reviews; visitors describe it as a solid indoor water-park option inside Starfield Goyang.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Blog",
+        "text": "Aquafield is Shinsegae's indoor water-park-and-spa brand, combining a wave pool and waterslides with dry/wet saunas and jjimjilbang facilities.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 3,
+      "note": "Admission is priced per adult/child weekday vs weekend — check starfield.co.kr for current rates."
+    },
+    "hours": {
+      "weekly": {
+        "mon": "10:00-22:00",
+        "tue": "10:00-22:00",
+        "wed": "10:00-22:00",
+        "thu": "10:00-22:00",
+        "fri": "10:00-22:00",
+        "sat": "10:00-22:00",
+        "sun": "10:00-22:00"
+      },
+      "note": "Daily 10:00–22:00 per Kakao."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "Starfield malls (unlike traditional department stores) typically stay open through Chuseok as leisure destinations; no 2026 closure notice found — confirm before visiting.",
+      "verified": false
+    },
+    "location": {
+      "address": "1955 Goyang-daero, Deogyang-gu, Goyang-si, Gyeonggi-do (Starfield Goyang, 4F)",
+      "addressKo": "경기도 고양시 덕양구 고양대로 1955 스타필드 고양 4층",
+      "district": "Goyang-si",
+      "neighborhood": "Wondang",
+      "lat": 37.6471579,
+      "lng": 126.8948805,
+      "nearestStation": {
+        "name": "Wondang",
+        "nameKo": "원당역",
+        "lines": [
+          "3"
+        ],
+        "walkMin": 25
+      }
+    },
+    "links": {
+      "website": "https://www.starfield.co.kr/goyang/main.do",
+      "naverMap": "https://map.naver.com/p/search/아쿠아필드%20고양",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EC%95%84%EC%BF%A0%EC%95%84%ED%95%84%EB%93%9C%20%EA%B3%A0%EC%96%91",
+      "kakaoMap": "https://map.kakao.com/?q=%EC%95%84%EC%BF%A0%EC%95%84%ED%95%84%EB%93%9C%20%EA%B3%A0%EC%96%91",
+      "phone": "+82-31-5173-4500"
+    },
+    "images": [
+      {
+        "url": "https://www.starfield.co.kr/assets/images/main/goyang/main-entertain-img01.jpg",
+        "source": "https://www.starfield.co.kr/goyang/main.do",
+        "credit": "Starfield official website",
+        "alt": "Aquafield Starfield Goyang water park"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkcBLpQosr-EIWFFyxgwduNgIsH68pETY4HPuxEW10jsZn--qsd4HTE1uwDSEJ7_YCwaG2e5VCYOsN6aRu2EHF5QM7ZOo7LTEOht5CMksi29z3e7DDv05jz3bQGPkbQIiOdx2KbMw=w1200-h900-k-no",
+        "source": "https://www.google.com/maps/search/?api=1&query=%EC%95%84%EC%BF%A0%EC%95%84%ED%95%84%EB%93%9C%20%EA%B3%A0%EC%96%91%20%EA%B2%BD%EA%B8%B0%20%EA%B3%A0%EC%96%91%EC%8B%9C%20%EB%8D%95%EC%96%91%EA%B5%AC%20%EA%B3%A0%EC%96%91%EB%8C%80%EB%A1%9C%201955",
+        "credit": "Google Maps user photo",
+        "alt": "Aquafield Goyang pool area"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/grass-cs/ACvplmNdFDaG8gFwE6EUqHxfwKCcq4GbOev_9UvUrLFLVqwr57tXSDHLtapNXvgvRk3LtveaGkPSwQOVmMQBnnpuaYNbV3ukfd2vTAKi0CzL7fZ0oPfWpKbeY4_FRGa3KUOS20i3Wn9uRg=w1200-h900-k-no",
+        "source": "https://www.google.com/maps/search/?api=1&query=%EC%95%84%EC%BF%A0%EC%95%84%ED%95%84%EB%93%9C%20%EA%B3%A0%EC%96%91%20%EA%B2%BD%EA%B8%B0%20%EA%B3%A0%EC%96%91%EC%8B%9C%20%EB%8D%95%EC%96%91%EA%B5%AC%20%EA%B3%A0%EC%96%91%EB%8C%80%EB%A1%9C%201955",
+        "credit": "Google Maps user photo",
+        "alt": "Aquafield Goyang entrance / facilities"
+      }
+    ],
+    "duration": "3-4 h",
+    "bestTime": "Weekday, avoid weekend crowds",
+    "goodFor": [
+      "Family of 5",
+      "Relaxing",
+      "Kids at heart",
+      "Rainy day"
+    ],
+    "sources": [
+      "https://map.kakao.com/?q=%EC%95%84%EC%BF%A0%EC%95%84%ED%95%84%EB%93%9C%20%EA%B3%A0%EC%96%91",
+      "https://www.starfield.co.kr/goyang/main.do"
+    ],
+    "lastVerified": "2026-09-24"
+  },
+  {
+    "id": "yongsan-ipark-mall",
+    "name": "Yongsan I'Park Mall",
+    "nameKo": "아이파크몰 용산점",
+    "category": "shopping",
+    "subcategory": "Complex mall",
+    "tags": [
+      "high-tech",
+      "shopping-mall",
+      "indoor",
+      "rainy-day",
+      "kid-friendly",
+      "parent-friendly",
+      "group-friendly"
+    ],
+    "vibes": [
+      "futuristic",
+      "lively"
+    ],
+    "summary": "Huge mall stacked over Yongsan Station with electronics, fashion, a food court, cinema and the old Yongsan Electronics Market next door.",
+    "description": "Yongsan I'Park Mall sits directly on top of Yongsan Station, combining a large fashion and lifestyle mall with an electronics floor that connects the old Yongsan Electronics Market's tech-shopping culture to a modern retail format. With CGV's flagship IMAX cinema on the upper floors, a food court and easy KTX/subway access, it's an efficient one-stop, low-effort stop for shopping, a meal and a film without ever going outside.",
+    "highlights": [
+      "Electronics and camera floors alongside fashion retail",
+      "CGV's flagship IMAX cinema on the upper floors",
+      "Direct underground access to Yongsan Station (KTX, Line 1, Gyeongui-Jungang)",
+      "Large food court for a group of 5"
+    ],
+    "tips": [
+      "The electronics floor is a gentler, fixed-price alternative to haggling at Yongsan Electronics Market next door.",
+      "Combine with a film at the in-mall CGV or a walk to the Electronics Market.",
+      "Directly connected to Yongsan Station — no need to go outdoors from the KTX platform."
+    ],
+    "badges": {
+      "familyFriendly": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 3.8,
+        "count": 433,
+        "url": "https://map.kakao.com/?q=%EC%95%84%EC%9D%B4%ED%8C%8C%ED%81%AC%EB%AA%B0%20%EC%9A%A9%EC%82%B0%EC%A0%90"
+      },
+      "google": {
+        "score": 4.4,
+        "count": 2544,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EC%95%84%EC%9D%B4%ED%8C%8C%ED%81%AC%EB%AA%B0%20%EC%9A%A9%EC%82%B0%EC%A0%90%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%9A%A9%EC%82%B0%EA%B5%AC%20%ED%95%9C%EA%B0%95%EB%8C%80%EB%A1%9C23%EA%B8%B8%2055"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "Rated 3.8/5 across 433 ratings and over 4,000 reviews, with visitors noting the convenience of direct access from Yongsan Station.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Blog",
+        "text": "The mall combines an electronics floor with fashion retail and CGV's flagship IMAX cinema, built directly over Yongsan Station.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Free to browse; shopping/dining prices vary by store."
+    },
+    "hours": {
+      "weekly": {
+        "mon": "10:30-21:00",
+        "tue": "10:30-21:00",
+        "wed": "10:30-21:00",
+        "thu": "10:30-21:00",
+        "fri": "10:30-21:00",
+        "sat": "10:30-21:00",
+        "sun": "10:30-21:00"
+      },
+      "note": "Daily 10:30–21:00 per Kakao; cinema and restaurants may run later."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "Complex malls (not traditional department stores) typically stay open through Chuseok; no 2026 closure notice found — some individual stores inside may close.",
+      "verified": false
+    },
+    "location": {
+      "address": "55 Hangang-daero 23-gil, Yongsan-gu, Seoul",
+      "addressKo": "서울특별시 용산구 한강대로23길 55",
+      "district": "Yongsan-gu",
+      "neighborhood": "Yongsan",
+      "lat": 37.5292503,
+      "lng": 126.9641779,
+      "nearestStation": {
+        "name": "Yongsan",
+        "nameKo": "용산역",
+        "lines": [
+          "1",
+          "GJ"
+        ],
+        "exit": "Exit 3 (direct mall access)",
+        "walkMin": 2
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/아이파크몰%20용산점",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EC%95%84%EC%9D%B4%ED%8C%8C%ED%81%AC%EB%AA%B0%20%EC%9A%A9%EC%82%B0%EC%A0%90",
+      "kakaoMap": "https://map.kakao.com/?q=%EC%95%84%EC%9D%B4%ED%8C%8C%ED%81%AC%EB%AA%B0%20%EC%9A%A9%EC%82%B0%EC%A0%90",
+      "phone": "+82-2-2012-0101"
+    },
+    "images": [
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmLKn20NarFwZptJfPFD33bVv_NxvI35Ns2TL8BYNbpRHnY77rE0TUqrTZYWZEaDPQXcLSxUbADOs-sqyz8hJz9KfjJIcwcJFbHtYILMVYSrlKOR5ivtiUQq8HZ_KUCXarvGr3_V0Pog5UJ=w1200-h900-k-no",
+        "source": "https://www.google.com/maps/search/?api=1&query=%EC%95%84%EC%9D%B4%ED%8C%8C%ED%81%AC%EB%AA%B0%20%EC%9A%A9%EC%82%B0%EC%A0%90%20%EC%84%9C%EC%9A%B8%20%EC%9A%A9%EC%82%B0%EA%B5%AC%20%ED%95%9C%EA%B0%95%EB%8C%80%EB%A1%9C23%EA%B8%B8%2055",
+        "credit": "Google Maps user photo",
+        "alt": "Yongsan I'Park Mall exterior"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl42oS2aXGFVFjFCvgbusN13hmULw7jFQJlgpREKaUz49Rrma5Kax50p-i087TsSvUYoXzV7B-xvxlr2Ywak2lIsiSg5kgfxjsus7K58GB8sdZultnuPm8zbOgS6s1tH_FWbBnFmQ=w1200-h900-k-no",
+        "source": "https://www.google.com/maps/search/?api=1&query=%EC%95%84%EC%9D%B4%ED%8C%8C%ED%81%AC%EB%AA%B0%20%EC%9A%A9%EC%82%B0%EC%A0%90%20%EC%84%9C%EC%9A%B8%20%EC%9A%A9%EC%82%B0%EA%B5%AC%20%ED%95%9C%EA%B0%95%EB%8C%80%EB%A1%9C23%EA%B8%B8%2055",
+        "credit": "Google Maps user photo",
+        "alt": "Yongsan I'Park Mall interior atrium"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnAOrbOTSzz-5qAXoH4HSaXPHQ78B0_kuXyVMd4iZFzZ7Gyy8nVvlxW16bvVeL3kyzvrvzYGx5whK_Ju6ZfU5vmTp0IADF9qoghn-aVa5EamEo4xkCZCIZsEhFDf8bM0Fn2useYiGh13sjR=w1200-h900-k-no",
+        "source": "https://www.google.com/maps/search/?api=1&query=%EC%95%84%EC%9D%B4%ED%8C%8C%ED%81%AC%EB%AA%B0%20%EC%9A%A9%EC%82%B0%EC%A0%90%20%EC%84%9C%EC%9A%B8%20%EC%9A%A9%EC%82%B0%EA%B5%AC%20%ED%95%9C%EA%B0%95%EB%8C%80%EB%A1%9C23%EA%B8%B8%2055",
+        "credit": "Google Maps user photo",
+        "alt": "Yongsan I'Park Mall retail floor"
+      }
+    ],
+    "duration": "2-3 h",
+    "bestTime": "Any time; rainy day friendly",
+    "goodFor": [
+      "Family of 5",
+      "Shopping",
+      "Rainy day"
+    ],
+    "sources": [
+      "https://map.kakao.com/?q=%EC%95%84%EC%9D%B4%ED%8C%8C%ED%81%AC%EB%AA%B0%20%EC%9A%A9%EC%82%B0%EC%A0%90"
+    ],
+    "lastVerified": "2026-09-24"
+  },
+  {
+    "id": "yongsan-electronics-market",
+    "name": "Yongsan Electronics Market",
+    "nameKo": "용산전자상가",
+    "category": "shopping",
+    "subcategory": "Electronics market",
+    "tags": [
+      "high-tech",
+      "shopping-mall",
+      "indoor",
+      "group-friendly",
+      "value",
+      "local-favorite"
+    ],
+    "vibes": [
+      "retro",
+      "lively",
+      "hip"
+    ],
+    "summary": "Sprawling multi-building electronics bazaar by Yongsan Station — thousands of vendors selling cameras, PC parts and gadgets.",
+    "description": "Since the 1980s, Yongsan Electronics Market has been Korea's biggest electronics bazaar: a cluster of multi-storey buildings packed with small independent vendors selling cameras, computer components, drones, retro game consoles, phone accessories and gadgets of every kind. It's less polished than Yongsan I'Park Mall next door and prices are often negotiable, which makes it a genuinely local, high-tech browsing experience rather than a manicured retail stop. Good for a parent or family member who likes gadgets and doesn't mind a bit of retro-mall wandering.",
+    "highlights": [
+      "Camera and lens specialist floors",
+      "PC components, drones and gadget vendors",
+      "Retro game and electronics corners for browsing/nostalgia",
+      "Prices are often negotiable — a genuine local shopping experience"
+    ],
+    "tips": [
+      "Bargaining is normal here, unlike department stores — ask for a discount, especially for cash.",
+      "Compare a few stalls before buying; prices vary vendor to vendor for the same item.",
+      "Combine with Yongsan I'Park Mall next door for a fixed-price alternative.",
+      "Many small vendor shops close for the Chuseok holiday — best visited 27–29 Sep."
+    ],
+    "badges": {
+      "valueForMoney": true,
+      "localFavorite": true
+    },
+    "ratings": {
+      "kakao": {
+        "url": "https://map.kakao.com/?q=%EC%9A%A9%EC%82%B0%EC%A0%84%EC%9E%90%EC%83%81%EA%B0%80"
+      },
+      "google": {
+        "score": 3.7,
+        "count": 2823,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EC%9A%A9%EC%82%B0%EC%A0%84%EC%9E%90%EC%83%81%EA%B0%80%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%9A%A9%EC%82%B0%EA%B5%AC%20%EC%B2%AD%ED%8C%8C%EB%A1%9C%20125"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Blog",
+        "text": "Long-running as Korea's largest electronics bazaar, with dozens of buildings of small independent vendors near Yongsan Station.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Blog",
+        "text": "Operating since the 1980s, the market is known for negotiable prices and specialist floors for cameras, PC components and retro electronics.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Free to browse; prices vary widely and are often negotiable."
+    },
+    "hours": {
+      "note": "Varies by individual vendor; most open roughly 10:00–19:00, closed Sundays as a general market pattern — hours differ shop to shop."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "short",
+      "2026-09-25": "closed",
+      "2026-09-26": "short",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "partial",
+      "note": "Most small vendor shops close for the Chuseok holiday (24–26 Sep), following the common pattern for independent Korean shops; some larger stores may stay open — best visited 27–29 Sep. No specific 2026 notice found.",
+      "verified": false
+    },
+    "location": {
+      "address": "125 Cheongpa-ro, Yongsan-gu, Seoul",
+      "addressKo": "서울특별시 용산구 청파로 125",
+      "district": "Yongsan-gu",
+      "neighborhood": "Yongsan",
+      "lat": 37.5336945,
+      "lng": 126.964355,
+      "nearestStation": {
+        "name": "Yongsan",
+        "nameKo": "용산역",
+        "lines": [
+          "1",
+          "GJ"
+        ],
+        "exit": "Exit 3",
+        "walkMin": 5
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/용산전자상가",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EC%9A%A9%EC%82%B0%EC%A0%84%EC%9E%90%EC%83%81%EA%B0%80",
+      "kakaoMap": "https://map.kakao.com/?q=%EC%9A%A9%EC%82%B0%EC%A0%84%EC%9E%90%EC%83%81%EA%B0%80"
+    },
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/YongsanTerminalMart.JPG",
+        "source": "https://commons.wikimedia.org/wiki/File:YongsanTerminalMart.JPG",
+        "credit": "Wikimedia Commons (CC BY-SA)",
+        "alt": "Yongsan Electronics Market building exterior"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Yongsan_Electronics_Market_%283385983467%29.jpg/1920px-Yongsan_Electronics_Market_%283385983467%29.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Yongsan_Electronics_Market_(3385983467).jpg",
+        "credit": "Wikimedia Commons (CC BY)",
+        "alt": "Yongsan Electronics Market vendor stalls"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Yongsan_Electronics_Market.jpg/1920px-Yongsan_Electronics_Market.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Yongsan_Electronics_Market.jpg",
+        "credit": "Wikimedia Commons (CC BY-SA)",
+        "alt": "Yongsan Electronics Market storefronts"
+      }
+    ],
+    "duration": "1-2 h",
+    "bestTime": "Weekday, avoid Sundays",
+    "goodFor": [
+      "Shopping",
+      "Family of 5"
+    ],
+    "sources": [
+      "https://map.kakao.com/?q=%EC%9A%A9%EC%82%B0%EC%A0%84%EC%9E%90%EC%83%81%EA%B0%80"
+    ],
+    "lastVerified": "2026-09-24"
+  },
+  {
+    "id": "starfield-suwon",
+    "name": "Starfield Suwon",
+    "nameKo": "스타필드 수원",
+    "category": "shopping",
+    "subcategory": "Complex mall",
+    "tags": [
+      "high-tech",
+      "shopping-mall",
+      "indoor",
+      "rainy-day",
+      "kid-friendly",
+      "parent-friendly",
+      "group-friendly",
+      "instagrammable"
+    ],
+    "vibes": [
+      "futuristic",
+      "lively",
+      "design"
+    ],
+    "summary": "Shinsegae's giant Suwon mall with its own Starfield Library atrium — a calmer, less-crowded cousin of Starfield COEX.",
+    "description": "Starfield Suwon is one of Shinsegae's large-format lifestyle malls, combining department-store retail, a cinema, restaurants and entertainment under one glass-roofed complex — with its own two-storey Starfield Library at the centre, echoing the famous one at COEX but with noticeably fewer crowds. It's a comfortable, high-tech, air-conditioned day out for a family that wants shopping and a photogenic library moment without Gangnam-level crowds, about 30–40 minutes south of Seoul.",
+    "highlights": [
+      "Starfield Library — a two-storey book atrium, quieter than the COEX original",
+      "Full mall of shopping, dining and entertainment under one roof",
+      "Large, modern, easy-to-navigate layout for a group of 5"
+    ],
+    "tips": [
+      "The library here is far less crowded than Starfield COEX — better for unhurried photos.",
+      "Roughly 30–40 minutes from Seocho by car/train — plan it as a half-day trip.",
+      "Combine with a meal at the food court or restaurants inside."
+    ],
+    "badges": {
+      "familyFriendly": true,
+      "futuristic": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4,
+        "count": 756,
+        "url": "https://map.kakao.com/?q=%EC%8A%A4%ED%83%80%ED%95%84%EB%93%9C%20%EC%88%98%EC%9B%90"
+      },
+      "google": {
+        "score": 4.5,
+        "count": 2643,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EC%8A%A4%ED%83%80%ED%95%84%EB%93%9C%20%EC%88%98%EC%9B%90%20%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EC%9E%A5%EC%95%88%EA%B5%AC%20%EC%88%98%EC%84%B1%EB%A1%9C%20175"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "Rated 4.0/5 across 756 ratings and over 7,500 reviews, one of the better-reviewed Starfield branches.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "The in-mall Starfield Library is separately rated 4.5/5 across nearly 50 ratings and 500 reviews.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://map.kakao.com/?q=%EC%8A%A4%ED%83%80%ED%95%84%EB%93%9C%20%EC%88%98%EC%9B%90%20%EB%B3%84%EB%A7%88%EB%8B%B9%EB%8F%84%EC%84%9C%EA%B4%80"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Free to browse; shopping/dining prices vary by store."
+    },
+    "hours": {
+      "weekly": {
+        "mon": "10:00-22:00",
+        "tue": "10:00-22:00",
+        "wed": "10:00-22:00",
+        "thu": "10:00-22:00",
+        "fri": "10:00-22:00",
+        "sat": "10:00-22:00",
+        "sun": "10:00-22:00"
+      },
+      "note": "Daily 10:00–22:00 per Kakao."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "Starfield malls typically stay open through Chuseok as leisure/shopping destinations; no 2026 closure notice found, unlike traditional department stores — confirm before visiting.",
+      "verified": false
+    },
+    "location": {
+      "address": "175 Suseong-ro, Jangan-gu, Suwon-si, Gyeonggi-do",
+      "addressKo": "경기도 수원시 장안구 수성로 175",
+      "district": "Suwon-si",
+      "neighborhood": "Jangan-gu",
+      "lat": 37.2874448,
+      "lng": 126.9915752,
+      "nearestStation": {
+        "name": "Uman",
+        "nameKo": "우만역",
+        "lines": [
+          "SUIN"
+        ],
+        "walkMin": 10
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/스타필드%20수원",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EC%8A%A4%ED%83%80%ED%95%84%EB%93%9C%20%EC%88%98%EC%9B%90",
+      "kakaoMap": "https://map.kakao.com/?q=%EC%8A%A4%ED%83%80%ED%95%84%EB%93%9C%20%EC%88%98%EC%9B%90",
+      "phone": "+82-1833-9001"
+    },
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Starfield_Suwon.jpg/1920px-Starfield_Suwon.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Starfield_Suwon.jpg",
+        "credit": "Wikimedia Commons (CC BY-SA)",
+        "alt": "Starfield Suwon mall exterior"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Starfield_Suwon_library.jpg/1920px-Starfield_Suwon_library.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Starfield_Suwon_library.jpg",
+        "credit": "Wikimedia Commons (CC BY-SA)",
+        "alt": "Starfield Library atrium inside Starfield Suwon"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Starfield_Library%28Suwon%29_%2855204435356%29.jpg/1920px-Starfield_Library%28Suwon%29_%2855204435356%29.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Starfield_Library(Suwon)_(55204435356).jpg",
+        "credit": "Wikimedia Commons (CC BY)",
+        "alt": "Starfield Library Suwon bookshelves"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Starfield_Library_Suwon_in_South_Korea.jpg/1920px-Starfield_Library_Suwon_in_South_Korea.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Starfield_Library_Suwon_in_South_Korea.jpg",
+        "credit": "Wikimedia Commons (CC BY-SA)",
+        "alt": "Starfield Library Suwon reading area"
+      }
+    ],
+    "duration": "2-4 h",
+    "bestTime": "Weekday afternoon",
+    "goodFor": [
+      "Family of 5",
+      "Shopping",
+      "Photos",
+      "Rainy day"
+    ],
+    "sources": [
+      "https://map.kakao.com/?q=%EC%8A%A4%ED%83%80%ED%95%84%EB%93%9C%20%EC%88%98%EC%9B%90",
+      "https://map.kakao.com/?q=%EC%8A%A4%ED%83%80%ED%95%84%EB%93%9C%20%EC%88%98%EC%9B%90%20%EB%B3%84%EB%A7%88%EB%8B%B9%EB%8F%84%EC%84%9C%EA%B4%80"
+    ],
+    "lastVerified": "2026-09-24"
+  },
+  {
+    "id": "hyundai-department-store-pangyo",
+    "name": "Hyundai Department Store Pangyo",
+    "nameKo": "현대백화점 판교점",
+    "category": "shopping",
+    "subcategory": "Department store",
+    "tags": [
+      "high-tech",
+      "shopping-mall",
+      "indoor",
+      "rainy-day",
+      "parent-friendly",
+      "group-friendly",
+      "design"
+    ],
+    "vibes": [
+      "futuristic",
+      "design",
+      "luxe"
+    ],
+    "summary": "Sleek, design-forward department store in Pangyo tech valley — spacious modern floors, well connected by GTX-A.",
+    "description": "Hyundai Department Store's Pangyo branch anchors the Pangyo tech-valley area with a spacious, modern building, upscale fashion and food floors, and a curated design/lifestyle section. Because Pangyo is a newer, planned business district, the store and surrounding plaza feel noticeably more spacious and modern than older Seoul department stores. It's directly connected to Pangyo Station, now also served by the GTX-A express line, making it an easy half-day out for parents who want a calmer, less crowded shopping experience.",
+    "highlights": [
+      "Spacious, modern architecture typical of Pangyo's newer developments",
+      "Upscale fashion, design and gourmet food floors",
+      "Directly connected to Pangyo Station (Sinbundang line and GTX-A)"
+    ],
+    "tips": [
+      "GTX-A now reaches Pangyo quickly from central Seoul — check current GTX-A stations for the fastest route.",
+      "Confirmed closed 24–25 Sep 2026 for Chuseok — plan around those two days.",
+      "Combine with a wander around Pangyo's planned-city plazas outside."
+    ],
+    "badges": {
+      "futuristic": true,
+      "familyFriendly": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.2,
+        "count": 424,
+        "url": "https://map.kakao.com/?q=%ED%98%84%EB%8C%80%EB%B0%B1%ED%99%94%EC%A0%90%20%ED%8C%90%EA%B5%90%EC%A0%90"
+      },
+      "google": {
+        "score": 4.4,
+        "count": 14982,
+        "url": "https://www.google.com/maps/search/?api=1&query=%ED%98%84%EB%8C%80%EB%B0%B1%ED%99%94%EC%A0%90%20%ED%8C%90%EA%B5%90%EC%A0%90%20%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%84%B1%EB%82%A8%EC%8B%9C%20%EB%B6%84%EB%8B%B9%EA%B5%AC%20%ED%8C%90%EA%B5%90%EC%97%AD%EB%A1%9C146%EB%B2%88%EA%B8%B8%2020"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "Rated 4.2/5 across 424 ratings and nearly 4,000 reviews — one of the better-reviewed Hyundai Department Store branches.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "The store's own Kakao Map listing shows an official closure notice for 24–25 Sep 2026 (Chuseok), reopening 26 Sep.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://map.kakao.com/?q=%ED%98%84%EB%8C%80%EB%B0%B1%ED%99%94%EC%A0%90%20%ED%8C%90%EA%B5%90%EC%A0%90"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Free to browse; shopping/dining prices vary by store."
+    },
+    "hours": {
+      "weekly": {
+        "mon": "10:30-20:00",
+        "tue": "10:30-20:00",
+        "wed": "10:30-20:00",
+        "thu": "10:30-20:00",
+        "fri": "10:30-20:00",
+        "sat": "10:30-20:30",
+        "sun": "10:30-20:30"
+      },
+      "note": "Typical Korean department store hours; confirmed closed 24–25 Sep 2026 for Chuseok per the store's own Kakao Map notice."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "closed",
+      "2026-09-25": "closed",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "partial",
+      "note": "Confirmed via the store's own Kakao Map listing: closed 24–25 Sep 2026 for Chuseok, reopening 26 Sep.",
+      "verified": true,
+      "source": "https://map.kakao.com/?q=%ED%98%84%EB%8C%80%EB%B0%B1%ED%99%94%EC%A0%90%20%ED%8C%90%EA%B5%90%EC%A0%90"
+    },
+    "location": {
+      "address": "20 Pangyoyeok-ro 146beon-gil, Bundang-gu, Seongnam-si, Gyeonggi-do",
+      "addressKo": "경기도 성남시 분당구 판교역로146번길 20",
+      "district": "Seongnam-si",
+      "neighborhood": "Pangyo",
+      "lat": 37.3927998,
+      "lng": 127.1119913,
+      "nearestStation": {
+        "name": "Pangyo",
+        "nameKo": "판교역",
+        "lines": [
+          "SB",
+          "GTXA"
+        ],
+        "walkMin": 5
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/현대백화점%20판교점",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%ED%98%84%EB%8C%80%EB%B0%B1%ED%99%94%EC%A0%90%20%ED%8C%90%EA%B5%90%EC%A0%90",
+      "kakaoMap": "https://map.kakao.com/?q=%ED%98%84%EB%8C%80%EB%B0%B1%ED%99%94%EC%A0%90%20%ED%8C%90%EA%B5%90%EC%A0%90",
+      "phone": "+82-31-5170-2233"
+    },
+    "images": [
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnByGtJNSnwo2YgZ3iaNkZ3ii_i4ONNnsy6Yj3Y7-CMFKunld9BB6HG7KQFXKHC9_J_iKGK4HYdVhggi47NsXQrmOOCGjVLs-U4yMoGoMb_Fg4a25MSNxxSD-Nzv7yQsKtGWO6Xq80k13o=w1200-h900-k-no",
+        "source": "https://www.google.com/maps/search/?api=1&query=%ED%98%84%EB%8C%80%EB%B0%B1%ED%99%94%EC%A0%90%20%ED%8C%90%EA%B5%90%EC%A0%90%20%EA%B2%BD%EA%B8%B0%20%EC%84%B1%EB%82%A8%EC%8B%9C%20%EB%B6%84%EB%8B%B9%EA%B5%AC%20%ED%8C%90%EA%B5%90%EC%97%AD%EB%A1%9C146%EB%B2%88%EA%B8%B8%2020",
+        "credit": "Google Maps user photo",
+        "alt": "Hyundai Department Store Pangyo exterior"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWms6yNzoowAp9IkbSpeZJJ2v_BIEUtocSNUvcplmgHrTbwG7SPXvBYzYLU-YSRNYuAR6UdtOhHsmCZTr4Xhbja9JHUnVegcNBq86dkjYS-h5SJQQP-xanYh1aAO7_30GCtDMouD=w1200-h900-k-no",
+        "source": "https://www.google.com/maps/search/?api=1&query=%ED%98%84%EB%8C%80%EB%B0%B1%ED%99%94%EC%A0%90%20%ED%8C%90%EA%B5%90%EC%A0%90%20%EA%B2%BD%EA%B8%B0%20%EC%84%B1%EB%82%A8%EC%8B%9C%20%EB%B6%84%EB%8B%B9%EA%B5%AC%20%ED%8C%90%EA%B5%90%EC%97%AD%EB%A1%9C146%EB%B2%88%EA%B8%B8%2020",
+        "credit": "Google Maps user photo",
+        "alt": "Hyundai Department Store Pangyo interior"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/grass-cs/ACvplmOaSc6GCGU79dTml9nwQFS-ttzhf1_ViD5-Yq5vdYJcAU1cuYACnCq0XrSdE75XvHDWg5U91HPy1UjSLeGprkL0APsststR12uSAjWGeg9THFXXghrevlelOROvhORG3G1r8-CFrw=w1200-h900-k-no",
+        "source": "https://www.google.com/maps/search/?api=1&query=%ED%98%84%EB%8C%80%EB%B0%B1%ED%99%94%EC%A0%90%20%ED%8C%90%EA%B5%90%EC%A0%90%20%EA%B2%BD%EA%B8%B0%20%EC%84%B1%EB%82%A8%EC%8B%9C%20%EB%B6%84%EB%8B%B9%EA%B5%AC%20%ED%8C%90%EA%B5%90%EC%97%AD%EB%A1%9C146%EB%B2%88%EA%B8%B8%2020",
+        "credit": "Google Maps user photo",
+        "alt": "Hyundai Department Store Pangyo storefront"
+      }
+    ],
+    "duration": "2-3 h",
+    "bestTime": "Weekday afternoon",
+    "goodFor": [
+      "Parents",
+      "Shopping",
+      "Rainy day"
+    ],
+    "sources": [
+      "https://map.kakao.com/?q=%ED%98%84%EB%8C%80%EB%B0%B1%ED%99%94%EC%A0%90%20%ED%8C%90%EA%B5%90%EC%A0%90"
+    ],
+    "lastVerified": "2026-09-24"
+  },
+  {
+    "id": "lotte-department-store-myeongdong-main",
+    "name": "Lotte Department Store Myeongdong Main",
+    "nameKo": "롯데백화점 본점",
+    "category": "shopping",
+    "subcategory": "Department store",
+    "tags": [
+      "shopping-mall",
+      "indoor",
+      "rainy-day",
+      "parent-friendly",
+      "group-friendly",
+      "tax-free"
+    ],
+    "vibes": [
+      "luxe",
+      "lively"
+    ],
+    "summary": "Lotte's flagship main store by City Hall — a full department store plus duty-free floors, steps from Myeongdong's street food.",
+    "description": "Lotte Department Store's original main branch anchors the Sogong-dong/Myeongdong intersection near City Hall, combining full department-store floors with a duty-free section geared toward foreign visitors upstairs. It's the most central, easiest-to-reach big department store for a Seocho-based family — a comfortable, air-conditioned shopping stop that pairs naturally with Myeongdong's street-food alleys and Cheonggyecheon a short walk away.",
+    "highlights": [
+      "Full department store plus duty-free floors for tax-free shopping",
+      "Steps from Myeongdong's street food and shopping street",
+      "Close to City Hall, Deoksugung and Cheonggyecheon"
+    ],
+    "tips": [
+      "Bring your passport for tax-free/duty-free purchases.",
+      "Confirmed closed 24–25 Sep 2026 for Chuseok — plan shopping around those two days.",
+      "Combine with a walk through Myeongdong's street-food alleys right outside."
+    ],
+    "badges": {
+      "familyFriendly": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.1,
+        "count": 314,
+        "url": "https://map.kakao.com/?q=%EB%A1%AF%EB%8D%B0%EB%B0%B1%ED%99%94%EC%A0%90%20%EB%B3%B8%EC%A0%90"
+      },
+      "google": {
+        "score": 4.2,
+        "count": 13491,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EB%A1%AF%EB%8D%B0%EB%B0%B1%ED%99%94%EC%A0%90%20%EB%B3%B8%EC%A0%90%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EB%82%A8%EB%8C%80%EB%AC%B8%EB%A1%9C%2081"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "Rated 4.1/5 across 314 ratings and over 2,100 reviews — one of the higher-rated Lotte Department Store branches.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "The store's own Kakao Map listing shows an official closure notice for 24–25 Sep 2026 (Chuseok), reopening 26 Sep.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://map.kakao.com/?q=%EB%A1%AF%EB%8D%B0%EB%B0%B1%ED%99%94%EC%A0%90%20%EB%B3%B8%EC%A0%90"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Free to browse; shopping/dining prices vary by store; duty-free available with passport."
+    },
+    "hours": {
+      "weekly": {
+        "mon": "10:30-20:00",
+        "tue": "10:30-20:00",
+        "wed": "10:30-20:00",
+        "thu": "10:30-20:00",
+        "fri": "10:30-20:00",
+        "sat": "10:30-20:30",
+        "sun": "10:30-20:30"
+      },
+      "note": "Typical Korean department store hours; confirmed closed 24–25 Sep 2026 for Chuseok per the store's own Kakao Map notice."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "closed",
+      "2026-09-25": "closed",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "partial",
+      "note": "Confirmed via the store's own Kakao Map listing: closed 24–25 Sep 2026 for Chuseok, reopening 26 Sep.",
+      "verified": true,
+      "source": "https://map.kakao.com/?q=%EB%A1%AF%EB%8D%B0%EB%B0%B1%ED%99%94%EC%A0%90%20%EB%B3%B8%EC%A0%90"
+    },
+    "location": {
+      "address": "81 Namdaemun-ro, Jung-gu, Seoul",
+      "addressKo": "서울특별시 중구 남대문로 81",
+      "district": "Jung-gu",
+      "neighborhood": "Myeongdong / City Hall",
+      "lat": 37.5648738,
+      "lng": 126.9817344,
+      "nearestStation": {
+        "name": "Euljiro 1(il)-ga",
+        "nameKo": "을지로입구역",
+        "lines": [
+          "2"
+        ],
+        "exit": "Exit 7 (direct link)",
+        "walkMin": 3
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/롯데백화점%20본점",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EB%A1%AF%EB%8D%B0%EB%B0%B1%ED%99%94%EC%A0%90%20%EB%B3%B8%EC%A0%90",
+      "kakaoMap": "https://map.kakao.com/?q=%EB%A1%AF%EB%8D%B0%EB%B0%B1%ED%99%94%EC%A0%90%20%EB%B3%B8%EC%A0%90",
+      "phone": "+82-1577-0001"
+    },
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Lotte_Department_Main_Store.JPG/1920px-Lotte_Department_Main_Store.JPG",
+        "source": "https://commons.wikimedia.org/wiki/File:Lotte_Department_Main_Store.JPG",
+        "credit": "Wikimedia Commons (CC BY-SA)",
+        "alt": "Lotte Department Store Main branch exterior"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk5vpk3KKaE3hY4TXzIaae52D6yUoUEc6sh6vY8lXOozIyrNsthIPAqrqr8u9-jv5YokCW9tW1BNGBgHi-v-yOnQdbbFeUDzYZMYKGsPrWQzTm7hy8irgiwYsZch5acYm9MpxWosngELAPn=w1200-h900-k-no",
+        "source": "https://www.google.com/maps/search/?api=1&query=%EB%A1%AF%EB%8D%B0%EB%B0%B1%ED%99%94%EC%A0%90%20%EB%B3%B8%EC%A0%90%20%EC%84%9C%EC%9A%B8%20%EC%A4%91%EA%B5%AC%20%EB%82%A8%EB%8C%80%EB%AC%B8%EB%A1%9C%2081",
+        "credit": "Google Maps user photo",
+        "alt": "Lotte Department Store Main branch interior"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlFDrfXLs_LfJ3zhZHHALDe1OfYIqfGKDb3BkFF2PNjkdl_LjfkDqnYovr1_b3x0ER3_-kiKOcuL3GxkPffy9_L7F946BoA-Ot0bzwxlXw3hrGTJudn4Uvzer9SwFeXkngY2DUATT7KKQ80=w1200-h900-k-no",
+        "source": "https://www.google.com/maps/search/?api=1&query=%EB%A1%AF%EB%8D%B0%EB%B0%B1%ED%99%94%EC%A0%90%20%EB%B3%B8%EC%A0%90%20%EC%84%9C%EC%9A%B8%20%EC%A4%91%EA%B5%AC%20%EB%82%A8%EB%8C%80%EB%AC%B8%EB%A1%9C%2081",
+        "credit": "Google Maps user photo",
+        "alt": "Lotte Department Store Main branch storefront"
+      }
+    ],
+    "duration": "2-3 h",
+    "bestTime": "Weekday afternoon",
+    "goodFor": [
+      "Parents",
+      "Shopping",
+      "Rainy day"
+    ],
+    "sources": [
+      "https://map.kakao.com/?q=%EB%A1%AF%EB%8D%B0%EB%B0%B1%ED%99%94%EC%A0%90%20%EB%B3%B8%EC%A0%90"
+    ],
+    "lastVerified": "2026-09-24"
+  },
+  {
+    "id": "bukak-skyway-palgakjeong",
+    "name": "Bukak Skyway Palgakjeong",
+    "nameKo": "북악팔각정",
+    "category": "sight",
+    "subcategory": "Scenic viewpoint",
+    "tags": [
+      "view",
+      "night-view",
+      "outdoor",
+      "parent-friendly",
+      "free"
+    ],
+    "vibes": [
+      "view",
+      "quiet",
+      "nature"
+    ],
+    "summary": "Octagonal pavilion at the top of a scenic mountain drive — sweeping Seoul skyline views reachable entirely by taxi, no hiking required.",
+    "description": "Bukak Skyway is a winding scenic road over the ridge north of central Seoul, and Palgakjeong (\"octagonal pavilion\") sits at its highest viewpoint with a wraparound terrace looking over the whole city — Namsan Tower on one side, the mountains of Bukhansan on the other. Because it's a paved road built for driving, a family can go there entirely by taxi and walk only a few steps from the car park to the viewing deck — zero hiking effort for a panoramic payoff, especially striking at sunset or after dark.",
+    "highlights": [
+      "360-degree terrace views over central Seoul",
+      "Reachable entirely by car/taxi — no hiking needed",
+      "A café and snack stand at the pavilion",
+      "Popular sunset and night-view photo spot"
+    ],
+    "tips": [
+      "Go by taxi — there is no direct subway access and the road is a scenic drive, not a walking trail.",
+      "Sunset to dusk gives the best light for photos of the changing skyline.",
+      "The road can get busy with cars and motorcycles on weekend evenings."
+    ],
+    "badges": {
+      "familyFriendly": true,
+      "valueForMoney": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.3,
+        "count": 230,
+        "url": "https://map.kakao.com/?q=%EB%B6%81%EC%95%85%ED%8C%94%EA%B0%81%EC%A0%95"
+      },
+      "google": {
+        "score": 4.3,
+        "count": 11589,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EB%B6%81%EC%95%85%ED%8C%94%EA%B0%81%EC%A0%95%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%A2%85%EB%A1%9C%EA%B5%AC%20%EB%B6%81%EC%95%85%EC%82%B0%EB%A1%9C%20267"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "Rated 4.3/5 across 230 ratings and over 250 reviews, with visitors calling out the panoramic night view and easy taxi access.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Blog",
+        "text": "Palgakjeong sits at the highest point of the Bukak Skyway scenic drive, a paved mountain road built for cars rather than hikers.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Free to visit; café/snack items paid separately."
+    },
+    "hours": {
+      "note": "Outdoor pavilion and skyway road, generally accessible during daylight and evening hours; check for occasional road closures."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "Public mountain road and viewpoint — no holiday closures expected, though it may be busier with local holiday visitors.",
+      "verified": false
+    },
+    "location": {
+      "address": "267 Bukaksan-ro, Jongno-gu, Seoul",
+      "addressKo": "서울특별시 종로구 북악산로 267",
+      "district": "Jongno-gu",
+      "neighborhood": "Pyeongchang-dong",
+      "lat": 37.6064905,
+      "lng": 126.985093
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/북악팔각정",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EB%B6%81%EC%95%85%ED%8C%94%EA%B0%81%EC%A0%95",
+      "kakaoMap": "https://map.kakao.com/?q=%EB%B6%81%EC%95%85%ED%8C%94%EA%B0%81%EC%A0%95",
+      "phone": "+82-2-6951-3438"
+    },
+    "images": [
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWllDt2AxGCbYYweyN2KqwcRFUMZPlGM98uJc9tApSMvZJ8wGtMTMV-WOy6A346lLHTvo91t31xSfPSnDpcEVkHNnESjnP6uq0j58vEK8U3JVPjEOgDuo32k0iJSKnNS4hPJxV7RhA=w1200-h900-k-no",
+        "source": "https://www.google.com/maps/search/?api=1&query=%EB%B6%81%EC%95%85%ED%8C%94%EA%B0%81%EC%A0%95%20%EC%84%9C%EC%9A%B8%20%EC%A2%85%EB%A1%9C%EA%B5%AC%20%EB%B6%81%EC%95%85%EC%82%B0%EB%A1%9C%20267",
+        "credit": "Google Maps user photo",
+        "alt": "View from Bukak Skyway Palgakjeong over Seoul"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm7AEDCPOqhixfMnDhzJNoCzwE7twx3pxZPWfNLWHxJ-EMv1GZv7WdX9xl5BAz7FXUWPU8NnKCkeX2de0CT9z2oNL4gitWJbuKtZQX8Dqnn6MRMuufpdB7Z0yIK4XJPIGQOjvgj=w1200-h900-k-no",
+        "source": "https://www.google.com/maps/search/?api=1&query=%EB%B6%81%EC%95%85%ED%8C%94%EA%B0%81%EC%A0%95%20%EC%84%9C%EC%9A%B8%20%EC%A2%85%EB%A1%9C%EA%B5%AC%20%EB%B6%81%EC%95%85%EC%82%B0%EB%A1%9C%20267",
+        "credit": "Google Maps user photo",
+        "alt": "Bukak Palgakjeong pavilion terrace"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmemwDlr6HLRAqwRyGfjGa7XMZ16RiW6QIuQisNUOBrQJ9qzsjg92-4BEWGh8b_NLR7mF5waLKdMwwiFTCWy3HsI88KNuMV13EqjRx5ByK8M7NGsf_qfbC_qU4pWcOmgZ099pa_=w1200-h900-k-no",
+        "source": "https://www.google.com/maps/search/?api=1&query=%EB%B6%81%EC%95%85%ED%8C%94%EA%B0%81%EC%A0%95%20%EC%84%9C%EC%9A%B8%20%EC%A2%85%EB%A1%9C%EA%B5%AC%20%EB%B6%81%EC%95%85%EC%82%B0%EB%A1%9C%20267",
+        "credit": "Google Maps user photo",
+        "alt": "Bukak Skyway road and skyline view"
+      }
+    ],
+    "duration": "30-60 min",
+    "bestTime": "Sunset / night",
+    "goodFor": [
+      "Parents",
+      "Photos",
+      "Relaxing",
+      "Family of 5"
+    ],
+    "sources": [
+      "https://map.kakao.com/?q=%EB%B6%81%EC%95%85%ED%8C%94%EA%B0%81%EC%A0%95"
+    ],
+    "lastVerified": "2026-09-24"
+  },
+  {
+    "id": "jamwon-hangang-park",
+    "name": "Jamwon Hangang Park",
+    "nameKo": "잠원한강공원",
+    "category": "sight",
+    "subcategory": "Riverside park",
+    "tags": [
+      "han-river",
+      "outdoor",
+      "free",
+      "parent-friendly",
+      "kid-friendly",
+      "group-friendly",
+      "night-view"
+    ],
+    "vibes": [
+      "riverside",
+      "nature",
+      "quiet"
+    ],
+    "summary": "Quieter riverside park across from Apgujeong — cycling paths, picnic lawns and the famous riverside chicken-delivery culture.",
+    "description": "Jamwon Hangang Park sits on the south bank of the river near the Hannam and Dongjak bridges, one of the calmer Han River parks compared with the crowds at Yeouido or Banpo. It's Seoul's classic \"order chicken and beer, sit on the grass\" spot — delivery riders bring food directly to marked riverside zones — plus cycling/walking paths, a swimming pool in summer and unobstructed river views toward Apgujeong. It's genuinely zero-effort: sit on a mat, watch the river and skyline, and let dinner come to you.",
+    "highlights": [
+      "Riverside picnic lawns with the famous \"chicken delivery to the riverbank\" culture",
+      "Cycling and walking paths along the Han River",
+      "Open river views toward Apgujeong and the Hannam/Dongjak bridges",
+      "Convenience stores on-site for snacks, mats and drinks"
+    ],
+    "tips": [
+      "Order delivery chicken/pizza using what3words-style landmark numbers posted around the park — apps like Baemin support Hangang Park delivery zones.",
+      "Bring or rent a picnic mat; convenience stores at the park sell basics.",
+      "Best access is by taxi or a short walk/bus from Sinsa Station."
+    ],
+    "badges": {
+      "valueForMoney": true,
+      "familyFriendly": true,
+      "localFavorite": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.4,
+        "count": 74,
+        "url": "https://map.kakao.com/?q=%EC%9E%A0%EC%9B%90%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90"
+      },
+      "google": {
+        "score": 4.4,
+        "count": 2162,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EC%9E%A0%EC%9B%90%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%84%9C%EC%B4%88%EA%B5%AC%20%EC%9E%A0%EC%9B%90%EB%8F%99%20%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "Rated 4.4/5 across 74 ratings, among the higher-rated Han River park sections, with visitors noting it feels calmer than Yeouido or Banpo.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Blog",
+        "text": "Jamwon is one of the Han River parks known for its riverside \"chicken delivery\" culture, where delivery riders bring food directly to marked picnic zones.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Free entry; food/drink/rentals paid separately."
+    },
+    "hours": {
+      "note": "Open 24 hours as a public riverside park."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "Public riverside park, open 24 hours year-round including Chuseok.",
+      "verified": false
+    },
+    "location": {
+      "address": "Jamwon-dong, Seocho-gu, Seoul (Hangang Park)",
+      "addressKo": "서울특별시 서초구 잠원동 한강공원",
+      "district": "Seocho-gu",
+      "neighborhood": "Jamwon-dong",
+      "lat": 37.5250679,
+      "lng": 127.0159854,
+      "nearestStation": {
+        "name": "Sinsa",
+        "nameKo": "신사역",
+        "lines": [
+          "3"
+        ],
+        "exit": "Exit 1, then bus/taxi",
+        "walkMin": 20
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/잠원한강공원",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EC%9E%A0%EC%9B%90%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90",
+      "kakaoMap": "https://map.kakao.com/?q=%EC%9E%A0%EC%9B%90%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90",
+      "phone": "+82-2-3780-0531"
+    },
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/%EC%9E%A0%EC%9B%90%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90_01.jpg/1920px-%EC%9E%A0%EC%9B%90%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90_01.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:잠원한강공원_01.jpg",
+        "credit": "Wikimedia Commons (CC BY-SA)",
+        "alt": "Jamwon Hangang Park riverside lawn"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/%EC%9E%A0%EC%9B%90%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90_03.jpg/1920px-%EC%9E%A0%EC%9B%90%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90_03.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:잠원한강공원_03.jpg",
+        "credit": "Wikimedia Commons (CC BY-SA)",
+        "alt": "Jamwon Hangang Park path along the river"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/%EC%9E%A0%EC%9B%90%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90_04.jpg/1920px-%EC%9E%A0%EC%9B%90%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90_04.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:잠원한강공원_04.jpg",
+        "credit": "Wikimedia Commons (CC BY-SA)",
+        "alt": "Jamwon Hangang Park river view"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/%EC%9E%A0%EC%9B%90%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90_05.jpg/1920px-%EC%9E%A0%EC%9B%90%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90_05.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:잠원한강공원_05.jpg",
+        "credit": "Wikimedia Commons (CC BY-SA)",
+        "alt": "Jamwon Hangang Park picnic area"
+      }
+    ],
+    "duration": "1.5-3 h",
+    "bestTime": "Sunset picnic",
+    "goodFor": [
+      "Family of 5",
+      "Relaxing",
+      "Photos",
+      "Quick bite"
+    ],
+    "sources": [
+      "https://map.kakao.com/?q=%EC%9E%A0%EC%9B%90%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90"
+    ],
+    "lastVerified": "2026-09-24"
+  },
+  {
+    "id": "line-friends-square-myeongdong",
+    "name": "LINE Friends Square Myeongdong",
+    "nameKo": "라인프렌즈스퀘어 명동",
+    "category": "shopping",
+    "subcategory": "Character brand flagship",
+    "tags": [
+      "k-pop",
+      "instagrammable",
+      "shopping-mall",
+      "indoor",
+      "kid-friendly",
+      "parent-friendly",
+      "group-friendly"
+    ],
+    "vibes": [
+      "lively",
+      "design"
+    ],
+    "summary": "Two-storey Brown & Cony flagship store in the middle of Myeongdong — giant character statues, photo zones and merch across every category.",
+    "description": "LINE Friends Square is the brand's Myeongdong flagship, spread across two floors packed with Brown, Cony, Sally and BT21 merchandise — plush toys, stationery, home goods, phone cases and giant photo-ready character statues at the entrance. It's an easy, air-conditioned browsing stop right in the middle of Myeongdong's shopping street, effortless to combine with street food and other shopping without any separate itinerary planning.",
+    "highlights": [
+      "Giant Brown and Cony statues at the storefront for photos",
+      "Two floors of character merchandise across every category",
+      "BT21 (BTS x LINE Friends) collection",
+      "Steps from Myeongdong's street-food alleys"
+    ],
+    "tips": [
+      "Good rainy-day filler between Myeongdong street food stops.",
+      "Tax refund available for foreign tourists on qualifying purchases.",
+      "Photo zones near the entrance get busy — early evening is calmer than midday."
+    ],
+    "badges": {
+      "familyFriendly": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.6,
+        "count": 12,
+        "url": "https://map.kakao.com/?q=%EB%9D%BC%EC%9D%B8%ED%94%84%EB%A0%8C%EC%A6%88%EC%8A%A4%ED%80%98%EC%96%B4%20%EB%AA%85%EB%8F%99"
+      },
+      "google": {
+        "score": 4.6,
+        "count": 3238,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EB%9D%BC%EC%9D%B8%ED%94%84%EB%A0%8C%EC%A6%88%EC%8A%A4%ED%80%98%EC%96%B4%20%EB%AA%85%EB%8F%99%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EB%AA%85%EB%8F%99%EA%B8%B8%2043%201~2%EC%B8%B5"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "Rated 4.6/5 with over 340 reviews mentioning the giant character statues and easy Myeongdong location.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Blog",
+        "text": "The Myeongdong flagship spans two floors of Brown, Cony, Sally and BT21 merchandise, from plush toys to stationery and home goods.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Free to browse; merchandise priced individually, with tax refund available for tourists."
+    },
+    "hours": {
+      "weekly": {
+        "mon": "11:00-22:00",
+        "tue": "11:00-22:00",
+        "wed": "11:00-22:00",
+        "thu": "11:00-22:00",
+        "fri": "11:00-22:00",
+        "sat": "11:00-22:00",
+        "sun": "11:00-22:00"
+      },
+      "note": "Daily 11:00–22:00 per Kakao."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "No 2026 Chuseok notice found; Myeongdong tourist-facing shops commonly stay open through the holiday — call ahead to confirm.",
+      "verified": false
+    },
+    "location": {
+      "address": "43 Myeongdong-gil, Jung-gu, Seoul, 1F–2F",
+      "addressKo": "서울특별시 중구 명동길 43 1~2층",
+      "district": "Jung-gu",
+      "neighborhood": "Myeongdong",
+      "lat": 37.5638807,
+      "lng": 126.9846797,
+      "nearestStation": {
+        "name": "Myeongdong",
+        "nameKo": "명동역",
+        "lines": [
+          "4"
+        ],
+        "exit": "Exit 6",
+        "walkMin": 4
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/라인프렌즈스퀘어%20명동",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EB%9D%BC%EC%9D%B8%ED%94%84%EB%A0%8C%EC%A6%88%EC%8A%A4%ED%80%98%EC%96%B4%20%EB%AA%85%EB%8F%99",
+      "kakaoMap": "https://map.kakao.com/?q=%EB%9D%BC%EC%9D%B8%ED%94%84%EB%A0%8C%EC%A6%88%EC%8A%A4%ED%80%98%EC%96%B4%20%EB%AA%85%EB%8F%99",
+      "phone": "+82-70-4060-3534"
+    },
+    "images": [
+      {
+        "url": "https://lh3.googleusercontent.com/grass-cs/ACvplmNVj6lLqLEelCVxdSvCBSAVJfFsyiV3CE4bDaduxcoUGXU9xWUJxBXb8bxKYO6OOEifVEJS1aFE8qSykJV41Ajs8F3WD0FOdedsUzOb2VOV0GT1XKXHjFrmPyVEAfzzfd-Po8yoJQSwGx4b=w1200-h900-k-no",
+        "source": "https://www.google.com/maps/search/?api=1&query=%EB%9D%BC%EC%9D%B8%ED%94%84%EB%A0%8C%EC%A6%88%EC%8A%A4%ED%80%98%EC%96%B4%20%EB%AA%85%EB%8F%99%20%EC%84%9C%EC%9A%B8%20%EC%A4%91%EA%B5%AC%20%EB%AA%85%EB%8F%99%EA%B8%B8%2043",
+        "credit": "Google Maps user photo",
+        "alt": "LINE Friends Square Myeongdong storefront with character statues"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/grass-cs/ACvplmPTwWrCPhciJYxvvAQthr7j1fhFdb44WRYLDOWNA_suTeE6pxzXFq3kJBAqD3D2xBPW1PMHmElJOXXNqux5dR6FtFd0v0y7J08IGb2bQ3H7-Yf8OfyPNNWCDAz3MgNrwp_5h8xT=w1200-h900-k-no",
+        "source": "https://www.google.com/maps/search/?api=1&query=%EB%9D%BC%EC%9D%B8%ED%94%84%EB%A0%8C%EC%A6%88%EC%8A%A4%ED%80%98%EC%96%B4%20%EB%AA%85%EB%8F%99%20%EC%84%9C%EC%9A%B8%20%EC%A4%91%EA%B5%AC%20%EB%AA%85%EB%8F%99%EA%B8%B8%2043",
+        "credit": "Google Maps user photo",
+        "alt": "LINE Friends Square Myeongdong interior merchandise floor"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/grass-cs/ACvplmPQ47UQZWHTIAkR68HxyAKa30ShPk3u0r1kdkBFAXY75FW-LPhMSwFg7ysQ7cvrlqA3K-HTdtE8sFBxxYaNyoZLAIQh41tWfPRFFa-7LITBs8r3N8pYib05HX2sFxeJ_TRBQy0f19AUv8ip=w1200-h900-k-no",
+        "source": "https://www.google.com/maps/search/?api=1&query=%EB%9D%BC%EC%9D%B8%ED%94%84%EB%A0%8C%EC%A6%88%EC%8A%A4%ED%80%98%EC%96%B4%20%EB%AA%85%EB%8F%99%20%EC%84%9C%EC%9A%B8%20%EC%A4%91%EA%B5%AC%20%EB%AA%85%EB%8F%99%EA%B8%B8%2043",
+        "credit": "Google Maps user photo",
+        "alt": "LINE Friends Square Myeongdong character display"
+      }
+    ],
+    "duration": "30-60 min",
+    "bestTime": "Early evening",
+    "goodFor": [
+      "Family of 5",
+      "Shopping",
+      "Photos",
+      "Kids at heart"
+    ],
+    "sources": [
+      "https://map.kakao.com/?q=%EB%9D%BC%EC%9D%B8%ED%94%84%EB%A0%8C%EC%A6%88%EC%8A%A4%ED%80%98%EC%96%B4%20%EB%AA%85%EB%8F%99"
+    ],
+    "lastVerified": "2026-09-24"
+  },
+  {
+    "id": "yeouido-world-night-market",
+    "name": "Yeouido World Night Market (Bamdokkaebi)",
+    "nameKo": "여의도 월드나이트마켓",
+    "category": "event",
+    "subcategory": "Seasonal night market",
+    "tags": [
+      "han-river",
+      "night-view",
+      "outdoor",
+      "kid-friendly",
+      "group-friendly",
+      "market"
+    ],
+    "vibes": [
+      "lively",
+      "riverside"
+    ],
+    "summary": "Seasonal riverside night market at Yeouido Hangang Park's Mulbit Square — international street food trucks with Han River and skyline views.",
+    "description": "The World Night Market is one of the Seoul Bamdokkaebi Night Market series, set up seasonally at Yeouido Hangang Park's Mulbit Square (물빛광장) with international street-food trucks, craft vendors and performance stages against a Han River backdrop. The Bamdokkaebi series runs roughly April through October across several Hangang parks and city sites (Yeouido, Banpo, DDP, Cheonggyecheon), typically evenings on weekends. It's an easy, no-effort way to graze a variety of food while watching the river and skyline light up.",
+    "highlights": [
+      "International street-food trucks and craft vendors",
+      "Han River and city-skyline backdrop",
+      "Performance stages and pop-up experience zones",
+      "Combine with a walk or bike ride along Yeouido Hangang Park"
+    ],
+    "tips": [
+      "This is a seasonal weekend market (roughly April–October) — whether it runs during the Chuseok weekend (25–27 Sep 2026) is unconfirmed; check Visit Seoul or social media before going.",
+      "Bring cash/mobile pay — many food-truck vendors are cash- or app-only.",
+      "Combine with a sunset walk in Yeouido Hangang Park before the market opens."
+    ],
+    "badges": {},
+    "ratings": {
+      "kakao": {
+        "score": 4,
+        "count": 6,
+        "url": "https://map.kakao.com/?q=%EC%97%AC%EC%9D%98%EB%8F%84%20%EC%9B%94%EB%93%9C%EB%82%98%EC%9D%B4%ED%8A%B8%EB%A7%88%EC%BC%93"
+      },
+      "google": {
+        "score": 4,
+        "count": 37,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EC%97%AC%EC%9D%98%EB%8F%84%20%EC%9B%94%EB%93%9C%EB%82%98%EC%9D%B4%ED%8A%B8%EB%A7%88%EC%BC%93%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%EC%97%AC%EC%9D%98%EB%8F%99%EB%A1%9C%20330%20%EC%97%AC%EC%9D%98%EB%8F%84%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90%20%EB%AC%BC%EB%B9%9B%EA%B4%91%EC%9E%A5"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Blog",
+        "text": "One of several Bamdokkaebi Night Market venues across Seoul (Yeouido, Banpo, DDP, Cheonggyecheon), typically operating April–October.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://namu.wiki/w/%EB%B0%A4%EB%8F%84%EA%B9%A8%EB%B9%84%EC%95%BC%EC%8B%9C%EC%9E%A5"
+      },
+      {
+        "source": "Kakao",
+        "text": "Rated 4.0/5 from early visitor ratings, noting the international food-truck variety and the Han River backdrop at Mulbit Square.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 2,
+      "note": "Free entry; pay per item at food trucks and vendor stalls."
+    },
+    "hours": {
+      "note": "Seasonal, roughly April–October, typically Friday–Sunday evenings 18:00–23:00 when running — exact 2026 September schedule not confirmed."
+    },
+    "tripDays": {
+      "2026-09-23": "closed",
+      "2026-09-24": "unknown",
+      "2026-09-25": "unknown",
+      "2026-09-26": "unknown",
+      "2026-09-27": "unknown",
+      "2026-09-28": "closed",
+      "2026-09-29": "closed",
+      "2026-09-30": "closed"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "Seasonal weekend market (~Apr–Oct), typically Fri–Sun evenings. Whether it runs during Chuseok weekend (25–27 Sep 2026) is unconfirmed — no official 2026 schedule found. Check Visit Seoul or the market's social channels before going.",
+      "verified": false
+    },
+    "location": {
+      "address": "Yeouido Hangang Park, Mulbit Square, Yeongdeungpo-gu, Seoul",
+      "addressKo": "서울특별시 영등포구 여의동로 330 여의도한강공원 물빛광장",
+      "district": "Yeongdeungpo-gu",
+      "neighborhood": "Yeouido",
+      "lat": 37.5230435,
+      "lng": 126.937588,
+      "nearestStation": {
+        "name": "Yeouinaru",
+        "nameKo": "여의나루역",
+        "lines": [
+          "5"
+        ],
+        "exit": "Exit 2/3",
+        "walkMin": 10
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/여의도%20월드나이트마켓",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EC%97%AC%EC%9D%98%EB%8F%84%20%EC%9B%94%EB%93%9C%EB%82%98%EC%9D%B4%ED%8A%B8%EB%A7%88%EC%BC%93",
+      "kakaoMap": "https://map.kakao.com/?q=%EC%97%AC%EC%9D%98%EB%8F%84%20%EC%9B%94%EB%93%9C%EB%82%98%EC%9D%B4%ED%8A%B8%EB%A7%88%EC%BC%93"
+    },
+    "images": [
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnqqD8bLbXq7KVdaK7oLNaisYOaNvSUKBlcu_sUzGZldkUhnPybt6wctvIGDipqNxAbbMHsPErkipEG63fn0j6KG7q1nu0t-bfagA1iou2c8j13mXTI2BRXk9KS7B4jHcooafVe=w1200-h900-k-no",
+        "source": "https://www.google.com/maps/search/?api=1&query=%EC%97%AC%EC%9D%98%EB%8F%84%20%EC%9B%94%EB%93%9C%EB%82%98%EC%9D%B4%ED%8A%B8%EB%A7%88%EC%BC%93%20%EC%84%9C%EC%9A%B8%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%EC%97%AC%EC%9D%98%EB%8F%99%EB%A1%9C%20330",
+        "credit": "Google Maps user photo",
+        "alt": "Yeouido World Night Market food stalls"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWniMm5A36VHjbh2n22bzJsysMIa0dcQDB_CFpvgIvf5r10RIPj1GaetTbGUTSxCWhPCGEXk4SuwL4TytrRFnJg90G81A4eN50FnCfe3gvZfBLFNiirfsGnYcUeHRddX8UseSt_6=w1200-h900-k-no",
+        "source": "https://www.google.com/maps/search/?api=1&query=%EC%97%AC%EC%9D%98%EB%8F%84%20%EC%9B%94%EB%93%9C%EB%82%98%EC%9D%B4%ED%8A%B8%EB%A7%88%EC%BC%93%20%EC%84%9C%EC%9A%B8%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%EC%97%AC%EC%9D%98%EB%8F%99%EB%A1%9C%20330",
+        "credit": "Google Maps user photo",
+        "alt": "Yeouido World Night Market vendors"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/20250927_%EC%97%AC%EC%9D%98%EB%8F%84%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90.jpg/1920px-20250927_%EC%97%AC%EC%9D%98%EB%8F%84%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:20250927_여의도한강공원.jpg",
+        "credit": "Wikimedia Commons (CC BY-SA)",
+        "alt": "Yeouido Hangang Park riverside, where the night market sets up"
+      }
+    ],
+    "duration": "1.5-2 h",
+    "bestTime": "Evening, sunset onward",
+    "goodFor": [
+      "Family of 5",
+      "Quick bite",
+      "Photos"
+    ],
+    "eventDates": {
+      "start": "2026-04-01",
+      "end": "2026-10-31"
+    },
+    "sources": [
+      "https://namu.wiki/w/%EB%B0%A4%EB%8F%84%EA%B9%A8%EB%B9%84%EC%95%BC%EC%8B%9C%EC%9E%A5",
+      "https://map.kakao.com/?q=%EC%97%AC%EC%9D%98%EB%8F%84%20%EC%9B%94%EB%93%9C%EB%82%98%EC%9D%B4%ED%8A%B8%EB%A7%88%EC%BC%93"
+    ],
+    "lastVerified": "2026-09-24"
+  },
+  {
+    "id": "63-sky-picnic",
+    "name": "63 Sky Picnic",
+    "nameKo": "63 스카이피크닉",
+    "category": "sight",
+    "subcategory": "Observatory",
+    "tags": [
+      "view",
+      "night-view",
+      "han-river",
+      "indoor",
+      "new-2025-2026",
+      "parent-friendly",
+      "kid-friendly",
+      "design"
+    ],
+    "vibes": [
+      "futuristic",
+      "view",
+      "design"
+    ],
+    "summary": "Yeouido's iconic 63 Building observatory, reopened June 2026 with a rooftop deck, art space and Starbucks 60 floors above the Han River.",
+    "description": "The 63 Building's long-running observatory closed for years before reopening on 4 June 2026 as \"63 Sky Picnic,\" a refreshed viewing deck on the 60th floor with 360-degree Han River and skyline views, plus a rooftop terrace on the site of the building's former helipad, an art space and a Starbucks. It reopened the same day as the new Centre Pompidou Seoul, which now occupies the lower floors where the old aquarium used to be — so a family can pair the observatory with contemporary art in one Yeouido building. It's a genuinely new (2026), low-effort, elevator-only way to see Seoul from above.",
+    "highlights": [
+      "60th-floor observation deck with 360-degree Han River views",
+      "Rooftop terrace on the former helipad",
+      "On-site art space and Starbucks",
+      "Newly reopened June 2026 — pair with Centre Pompidou Seoul in the same building"
+    ],
+    "tips": [
+      "Combine with Centre Pompidou Seoul, which now occupies the building's lower floors.",
+      "Sunset and after-dark visits give the best skyline photos over the Han River.",
+      "The old 63 Sea World aquarium is permanently closed — don't expect an aquarium here anymore."
+    ],
+    "badges": {
+      "futuristic": true,
+      "familyFriendly": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.2,
+        "count": 15,
+        "url": "https://map.kakao.com/?q=63%20%EC%8A%A4%EC%B9%B4%EC%9D%B4%ED%94%BC%ED%81%AC%EB%8B%89"
+      },
+      "google": {
+        "score": 4.9,
+        "count": 56,
+        "url": "https://www.google.com/maps/search/?api=1&query=63%20%EC%8A%A4%EC%B9%B4%EC%9D%B4%ED%94%BC%ED%81%AC%EB%8B%89%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%2063%EB%A1%9C%2050%2063%EB%B9%8C%EB%94%A9%2060%EC%B8%B5"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Blog",
+        "text": "The observatory reopened 4 June 2026 as \"63 Sky Picnic,\" with rooftop access to the former helipad, an art space and a Starbucks; the old aquarium is permanently closed.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://namu.wiki/w/63빌딩"
+      },
+      {
+        "source": "Kakao",
+        "text": "Early visitors rate it 4.2/5 across 15 ratings and over 100 reviews since reopening.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 2,
+      "note": "Observatory admission fee not yet confirmed for the reopened 2026 format — check on site or the 63 Building's official channels."
+    },
+    "hours": {
+      "weekly": {
+        "mon": "10:00-22:00",
+        "tue": "10:00-22:00",
+        "wed": "10:00-22:00",
+        "thu": "10:00-22:00",
+        "fri": "10:00-22:00",
+        "sat": "10:00-22:00",
+        "sun": "10:00-22:00"
+      },
+      "note": "Daily 10:00–22:00 per Kakao."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "No 2026 Chuseok closure notice found for the newly reopened observatory; assumed open daily — call ahead to confirm.",
+      "verified": false
+    },
+    "location": {
+      "address": "50 Gukjegeumyung-ro, Yeongdeungpo-gu, Seoul (63 Building, 60F)",
+      "addressKo": "서울특별시 영등포구 63로 50 63빌딩 60층",
+      "district": "Yeongdeungpo-gu",
+      "neighborhood": "Yeouido",
+      "lat": 37.5198496,
+      "lng": 126.9402516,
+      "nearestStation": {
+        "name": "Yeouinaru",
+        "nameKo": "여의나루역",
+        "lines": [
+          "5"
+        ],
+        "exit": "Exit 4, then taxi/bus",
+        "walkMin": 12
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/63%20스카이피크닉",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=63%20%EC%8A%A4%EC%B9%B4%EC%9D%B4%ED%94%BC%ED%81%AC%EB%8B%89",
+      "kakaoMap": "https://map.kakao.com/?q=63%20%EC%8A%A4%EC%B9%B4%EC%9D%B4%ED%94%BC%ED%81%AC%EB%8B%89",
+      "phone": "+82-2-780-6366"
+    },
+    "images": [
+      {
+        "url": "https://lh3.googleusercontent.com/grass-cs/ACvplmMyDVNGEJxi0xJuiqNXGXAESYRyj4M7HjWi8M6LCUOLUCNA77ZfGZj0vvD4XjkIUeqywoby5luBxrKB9ah8ndprisYno4iX3iUGY8VaqYcDPq2q5rSXgc32E6UvWSMTai83e5KWMbw7EjXA=w1200-h900-k-no",
+        "source": "https://www.google.com/maps/search/?api=1&query=63%20%EC%8A%A4%EC%B9%B4%EC%9D%B4%ED%94%BC%ED%81%AC%EB%8B%89%20%EC%84%9C%EC%9A%B8%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%2063%EB%A1%9C%2050",
+        "credit": "Google Maps user photo",
+        "alt": "63 Sky Picnic observatory deck view"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/grass-cs/ACvplmOX_6tFrDQMtIXmtJnIyscYo72YmmTkYlpLLM7HgnV0RyJ1W8UO01moejDOKyKlo8rTOsBwH-Gsnn5o1GwVIqO9J_Z1cJb-xROrlYvKoBTyt5DLnOs0LrJE7tBrBhCov5wIummS0Mvanh4k=w1200-h900-k-no",
+        "source": "https://www.google.com/maps/search/?api=1&query=63%20%EC%8A%A4%EC%B9%B4%EC%9D%B4%ED%94%BC%ED%81%AC%EB%8B%89%20%EC%84%9C%EC%9A%B8%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%2063%EB%A1%9C%2050",
+        "credit": "Google Maps user photo",
+        "alt": "63 Sky Picnic rooftop terrace"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/63_Building.jpg/1920px-63_Building.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:63_Building.jpg",
+        "credit": "Wikimedia Commons (CC BY-SA)",
+        "alt": "63 Building exterior, Yeouido"
+      }
+    ],
+    "duration": "1-1.5 h",
+    "bestTime": "Sunset to after dark",
+    "goodFor": [
+      "Family of 5",
+      "Photos",
+      "Relaxing",
+      "Date"
+    ],
+    "sources": [
+      "https://namu.wiki/w/63빌딩",
+      "https://map.kakao.com/?q=63%20%EC%8A%A4%EC%B9%B4%EC%9D%B4%ED%94%BC%ED%81%AC%EB%8B%89"
+    ],
+    "lastVerified": "2026-09-24"
+  }
+]

@@ -123,7 +123,8 @@ export function HomePage() {
   const rainyToday = weather ? ['rain', 'drizzle', 'storm'].includes(describe(weather.code).kind) || (weather.daily.find((d) => d.date === now.date)?.rain ?? 0) >= 60 : false;
 
   const hero = useMemo(() => {
-    const cands = places.filter((p) => p.images.length && (p.category === 'sight' || p.badges.mustSee));
+    // modern skyline over palaces: the family prefers high-tech, futuristic places
+    const cands = places.filter((p) => p.images.length && p.badges.futuristic && (p.category === 'sight' || p.badges.mustSee));
     return sortPlaces(cands.length ? cands : places.filter((p) => p.images.length), 'rating')[0];
   }, [places]);
 
