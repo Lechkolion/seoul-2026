@@ -279,12 +279,23 @@ function GettingThere({ place }: { place: Place }) {
           <Car size={22} aria-hidden="true" />
           <div>
             <p>
-              <b>Taxi ≈ {r.taxi.minutes} min</b> · {r.taxi.distanceKm.toFixed(1)} km · ≈ ₩{r.taxi.fareKRW.toLocaleString()} per car
+              <b>Large taxi ≈ {r.taxi.minutes} min</b> · {r.taxi.distanceKm.toFixed(1)} km
             </p>
-            <p className="muted small">
-              {r.taxi.note || (r.taxi.taxisNeeded > 1 ? `You are ${trip.travellers}: take ${r.taxi.taxisNeeded} regular taxis, or one large taxi (Kakao T Venti / 대형택시).` : '')}
-            </p>
-            {!r.taxi.note && r.taxi.taxisNeeded <= 1 && <p className="muted small">For 5 people: 2 regular taxis, or one large taxi (Kakao T Venti / 대형택시).</p>}
+            {r.taxi.ventiKRW ? (
+              <p className="taxibox__fares">
+                <span>
+                  Kakao T Venti <b>≈₩{r.taxi.ventiKRW.toLocaleString()}</b>
+                </span>
+                {r.taxi.tadaKRW ? (
+                  <span>
+                    TADA Next <b>≈₩{r.taxi.tadaKRW.toLocaleString()}</b>
+                  </span>
+                ) : null}
+              </p>
+            ) : (
+              <p>≈ ₩{r.taxi.fareKRW.toLocaleString()} per car</p>
+            )}
+            <p className="muted small">{r.taxi.note || `You are ${trip.travellers}: book one large taxi (Kakao T Venti / TADA Next).`}</p>
           </div>
         </div>
       )}

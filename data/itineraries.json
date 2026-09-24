@@ -50,55 +50,56 @@
   },
   {
     "date": "2026-09-26",
-    "title": "Free palace, modern art",
-    "theme": "Chuseok holiday — palaces and MMCA are free",
-    "summary": "Gyeongbokgung for free, brunch at a hanok bakery, Do Ho Suh at the national modern art museum, then Four Seasons buffet and Asia's-50-Best bar Charles H without moving again.",
+    "title": "Downtown lights",
+    "theme": "Chuseok holiday — modern downtown, no palaces",
+    "summary": "Zaha Hadid's DDP, a Michelin-starred Mediterranean lunch, Apple Myeongdong and the shopping lanes, sunset from N Seoul Tower, then Alabama BBQ and live jazz in Itaewon.",
     "stops": [
       {
-        "id": "gyeongbokgung",
-        "time": "10:00",
-        "stay": 90,
-        "note": "Free entry 24–27 Sep. Guard-changing ceremony 10:00 & 14:00."
-      },
-      {
-        "id": "cafe-onion-anguk",
-        "time": "11:50",
+        "id": "ddp",
+        "time": "10:30",
         "stay": 60,
-        "note": "Pastries and coffee in a traditional hanok courtyard."
+        "note": "Walk the silver curves and roof path for free; exhibitions inside are optional."
       },
       {
-        "id": "mmca-seoul",
-        "time": "13:15",
-        "stay": 90,
-        "note": "Free during Chuseok, incl. the Do Ho Suh show."
-      },
-      {
-        "id": "osulloc-tea-house-bukchon",
-        "time": "15:10",
-        "stay": 45,
-        "note": "Green-tea desserts and tea in a hanok."
-      },
-      {
-        "id": "cheonggyecheon",
-        "time": "16:45",
-        "stay": 40,
-        "note": "Flat stream walk; the Four Seasons is a few minutes from its start."
-      },
-      {
-        "id": "four-seasons-market-kitchen",
-        "time": "17:45",
+        "id": "gigas",
+        "time": "12:00",
         "stay": 105,
-        "note": "Dinner buffet; book ahead on holiday weekends."
+        "note": "Michelin-starred Mediterranean at Piknic; open Sat 26 lunch (closed on the 25th). Book ahead."
       },
       {
-        "id": "charles-h-four-seasons",
-        "time": "20:00",
+        "id": "apple-myeongdong",
+        "time": "14:15",
+        "stay": 40,
+        "note": "Glass-and-light flagship — try the latest devices, no pressure to buy."
+      },
+      {
+        "id": "myeongdong-shopping-street",
+        "time": "15:05",
+        "stay": 60,
+        "note": "K-beauty flagships with instant tax refunds — bring passports."
+      },
+      {
+        "id": "n-seoul-tower",
+        "time": "16:30",
+        "stay": 110,
+        "note": "Take bus 01A/01B or the cable car up — not the steep walk. Sunset ≈18:17; the observatory ticket is optional."
+      },
+      {
+        "id": "linus-bama-style-bbq",
+        "time": "19:00",
         "stay": 90,
-        "note": "Hidden speakeasy downstairs in the same hotel. Opens 17:00."
+        "note": "Brisket and ribs platters to share; the Mega platter + a side feeds five."
+      },
+      {
+        "id": "all-that-jazz-itaewon",
+        "time": "20:45",
+        "stay": 90,
+        "note": "Korea's oldest jazz club, live bands nightly. Cover ₩15,000 per person per set; book a table for 5."
       }
     ],
     "tips": [
-      "Taxi home from Gwanghwamun is ~30 min; for 5 people take a large Kakao T Venti or two taxis."
+      "From N Seoul Tower to Itaewon: bus down or a Venti/TADA van (~10 min).",
+      "Gigas is small — reserve today if you want lunch there; fallback lunch: Pierre Gagnaire (French, Lotte Hotel)."
     ]
   },
   {
@@ -152,7 +153,7 @@
     "date": "2026-09-28",
     "title": "Gangnam future",
     "theme": "Monday — tech, design, steak and cocktails",
-    "summary": "Starfield Library and the COEX wave screen, a Hyundai car-tech showroom, Gentle Monster's surreal Haus Dosan, then Wolfgang's steak and a world-ranked cocktail bar.",
+    "summary": "Starfield Library and the COEX WAVE screen, a Hyundai car-tech showroom, Gentle Monster's surreal Haus Dosan, then Wolfgang's steak and a world-ranked cocktail bar.",
     "stops": [
       {
         "id": "starfield-coex-library",
@@ -169,25 +170,19 @@
       {
         "id": "coex-kpop-square-wave",
         "time": "13:15",
-        "stay": 15,
+        "stay": 20,
         "note": "Giant 3D wave screen. Bongeunsa Stn exit 7 is right beside it."
       },
       {
-        "id": "bongeunsa",
-        "time": "13:35",
-        "stay": 35,
-        "note": "Temple across the road from COEX — calm contrast with the skyscrapers."
-      },
-      {
         "id": "hyundai-motorstudio-seoul",
-        "time": "14:45",
+        "time": "14:15",
         "stay": 60,
         "note": "Free car-tech showroom; concept cars and design exhibits."
       },
       {
         "id": "haus-dosan-gentle-monster",
-        "time": "16:15",
-        "stay": 60,
+        "time": "15:45",
+        "stay": 75,
         "note": "Robotic art installations + Nudake desserts in the basement."
       },
       {
@@ -247,7 +242,7 @@
         "id": "leeum",
         "time": "15:15",
         "stay": 90,
-        "note": "Architecture by Mario Botta, Jean Nouvel and Rem Koolhaas; closes 18:00."
+        "note": "Buildings by Botta, Nouvel and Koolhaas. Head for the contemporary-art building (M2) and the lobby installations; skip the traditional wing if you've had enough history. Closes 18:00."
       },
       {
         "id": "hyundai-card-music-library",

@@ -49,7 +49,8 @@ const slim = (r) => ({
   outOfTown: !!r.outOfTown,
   legs: r.legs,
   taxiMin: r.taxi?.minutes,
-  taxiFare: r.taxi?.fareKRW,
+  taxiFare: r.taxi?.ventiKRW ?? r.taxi?.fareKRW,
+  tadaFare: r.taxi?.tadaKRW,
   km: r.straightKm,
 });
 

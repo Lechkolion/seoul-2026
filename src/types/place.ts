@@ -158,7 +158,7 @@ export interface Route {
   legs: RouteLeg[];
   walkOnly?: boolean;
   outOfTown?: boolean; // beyond the metro: car/taxi time, see tips for bus/train
-  taxi: { minutes: number; distanceKm: number; fareKRW: number; taxisNeeded: number; note: string };
+  taxi: { minutes: number; distanceKm: number; fareKRW: number; ventiKRW?: number; tadaKRW?: number; regularKRW?: number; taxisNeeded: number; note: string };
   straightKm: number;
 }
 

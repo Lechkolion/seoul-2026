@@ -26,6 +26,7 @@ import { LineBadge } from '../components/bits';
 const APPS = [
   { name: 'Naver Map', ko: '네이버 지도', why: 'Best transit + walking directions in Korea, English UI. Use this instead of Google Maps.' },
   { name: 'Kakao T', ko: '카카오 T', why: 'Hail taxis (incl. large “Venti” vans for 5). Works with foreign cards after sign-up.' },
+  { name: 'TADA', ko: '타다', why: 'Book “TADA Next” — a clean, roomy van (Staria/Carnival) that fits all 5. Fixed price shown before you book.' },
   { name: 'Kakao Map', ko: '카카오맵', why: 'Second opinion for directions; great subway exit info.' },
   { name: 'Papago', ko: '파파고', why: 'Translation that understands Korean menus — use the camera mode.' },
   { name: 'CatchTable Global', ko: '캐치테이블', why: 'Reservations for many top restaurants; English version available.' },
@@ -121,15 +122,16 @@ export function PracticalPage() {
           <h2>
             <Users size={20} aria-hidden="true" /> Taxis for five
           </h2>
-          <p>A regular Seoul taxi takes 4 passengers. As a group of {trip.travellers} you have two easy options:</p>
+          <p>A regular Seoul taxi takes 4 passengers. As a group of {trip.travellers}, book one large van taxi so everyone rides together — every taxi price on this site assumes that:</p>
           <ul>
             <li>
-              <b>Two regular taxis</b> — cheapest and fastest to find. Show both drivers the same taxi card.
+              <b>Kakao T Venti</b> — ₩4,000 for the first 1.5 km, then ₩100 per 123 m plus ₩100 per 40 s. Surge 0.8–2× at busy times.
             </li>
             <li>
-              <b>One large taxi</b> — in Kakao T choose <b>Venti</b> (van) or call a 대형택시 (large/jumbo taxi). Costs more, everyone rides together.
+              <b>TADA Next</b> — ₩5,000 base, ₩100 per 143 m plus ₩100 per 30 s (first 8 km). Surge 0.8–4×, so compare both apps at rush hour.
             </li>
           </ul>
+          <p>Home → Gangnam Stn ≈ ₩7–9k; home → Jamsil ≈ ₩16–17k; home → Gwanghwamun ≈ ₩18–19k (normal demand). Both apps show the price before you confirm. Fallback: two regular taxis.</p>
           <p className="muted">Pay by card or T-money in the taxi. Late-night surcharge applies from 22:00.</p>
         </section>
 

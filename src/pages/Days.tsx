@@ -19,6 +19,7 @@ interface Leg {
   legs: RouteLeg[];
   taxiMin?: number;
   taxiFare?: number;
+  tadaFare?: number;
   km?: number;
 }
 interface Stop {
@@ -42,6 +43,14 @@ interface Day {
 
 const DOW = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
 const dowOf = (date: string) => DOW[new Date(`${date}T12:00:00+09:00`).getUTCDay()];
+
+/** Large-taxi fare range, e.g. " · ≈₩7–10k" (Venti vs TADA Next at normal demand). */
+const fareRange = (l: Leg) => {
+  const f = [l.taxiFare, l.tadaFare].filter((x): x is number => !!x).map((x) => Math.round(x / 1000));
+  if (!f.length) return '';
+  const lo = Math.min(...f), hi = Math.max(...f);
+  return ` · ≈₩${lo === hi ? lo : `${lo}–${hi}`}k`;
+};
 
 /** Taxi worth it: much faster than the subway for a short hop. */
 const taxiBetter = (l: Leg) => !l.walkOnly && !!l.taxiMin && l.taxiMin <= 20 && l.totalMin >= l.taxiMin * 1.8;
@@ -102,8 +111,8 @@ function Transit({ leg, label }: { leg: Leg; label?: string }) {
           )}
           {!leg.walkOnly && leg.taxiMin ? (
             <span className={`hop__taxi ${taxi ? 'is-better' : ''}`}>
-              <Car size={13} aria-hidden="true" /> {taxi ? 'Taxi faster: ' : 'taxi '}
-              {leg.taxiMin} min{leg.taxiFare ? ` · ≈₩${Math.round(leg.taxiFare / 1000)}k/car` : ''}
+              <Car size={13} aria-hidden="true" /> {taxi ? 'Venti/TADA faster: ' : 'Venti/TADA '}
+              {leg.taxiMin} min{fareRange(leg)}
             </span>
           ) : null}
         </span>
@@ -268,7 +277,7 @@ export function DaysPage() {
               ))}
             </ul>
           )}
-          <p className="muted small">Five people: subway is easiest. For taxi hops take one large taxi (Kakao T Venti / 대형택시) or two regular ones.</p>
+          <p className="muted small">Five people: subway is easiest. For taxi hops book one large taxi in the Kakao T app (Venti) or the TADA app (Next) — fares shown are normal-demand estimates; surge and late-night rates are higher.</p>
         </section>
       )}
     </div>

@@ -74,6 +74,14 @@ export const TAXI = {
   taxisNeeded: 2,
 };
 
+/** Large taxis that fit all 5 (fares at 1.0× surge; checked 2026-09 via Seoul City price info / Kakao T listing). */
+export const LARGE_TAXI = {
+  // Kakao T Venti: ₩4,000 to 1.5 km, ₩100 per 123 m, ₩100 per 40 s, surge 0.8–2.0×.
+  venti: { baseFare: 4000, baseKm: 1.5, perMeters: 123, perSeconds: 40, surge: '0.8–2×' },
+  // TADA Next: ₩5,000 base, ₩100 per 143 m, ₩100 per 30 s within the first 8 km, surge 0.8–4×.
+  tada: { baseFare: 5000, baseKm: 0, perMeters: 143, perSeconds: 30, timeKmCap: 8, surge: '0.8–4×' },
+};
+
 const toR = Math.PI / 180;
 export function haversineM(a, b) {
   const dLat = (b.lat - a.lat) * toR, dLng = (b.lng - a.lng) * toR;
@@ -94,13 +102,24 @@ export function taxiEstimate(straightKm) {
   const movingKm = roadKm * (1 - TAXI.slowShare);
   const distFare = Math.max(0, movingKm - TAXI.baseKm) * 1000 / TAXI.perMeters * TAXI.perDistanceWon;
   const timeFare = rideMin * TAXI.slowShare * 60 / TAXI.perSeconds * TAXI.perTimeWon;
-  const fare = Math.round((TAXI.baseFare + distFare + timeFare) / 100) * 100;
+  const regular = Math.round((TAXI.baseFare + distFare + timeFare) / 100) * 100;
+  // platform large taxis charge distance and time together
+  const large = (t) => {
+    const timeMin = t.timeKmCap ? rideMin * Math.min(1, t.timeKmCap / Math.max(roadKm, 0.1)) : rideMin;
+    const won = t.baseFare + (Math.max(0, roadKm - t.baseKm) * 1000) / t.perMeters * 100 + (timeMin * 60) / t.perSeconds * 100;
+    return Math.round(won / 100) * 100;
+  };
+  const ventiKRW = large(LARGE_TAXI.venti), tadaKRW = large(LARGE_TAXI.tada);
+  const k = (n) => n.toLocaleString('en-US');
   return {
     minutes: Math.max(minutes, 5),
     distanceKm: r1(roadKm),
-    fareKRW: fare,
-    taxisNeeded: TAXI.taxisNeeded,
-    note: `Daytime estimate per regular taxi (Seoul meter: ₩4,800 base; +20–40% 22:00–04:00). 5 people: take 2 regular taxis (≈₩${(fare * 2).toLocaleString('en-US')} total), or book a large taxi (Kakao T Venti / 대형택시) for all 5.`,
+    fareKRW: ventiKRW,
+    ventiKRW,
+    tadaKRW,
+    regularKRW: regular,
+    taxisNeeded: 1,
+    note: `One large taxi for all 5 — Kakao T Venti ≈₩${k(ventiKRW)} or TADA Next ≈₩${k(tadaKRW)} at normal demand. Surge can raise it (Venti up to 2×, TADA up to 4×); the app shows the price before you book. Two regular taxis ≈₩${k(regular * 2)}.`,
   };
 }
 

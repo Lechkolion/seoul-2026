@@ -2058,3 +2058,9 @@
 .strip-legend {
   margin-top: 8px;
 }
+
+.taxibox__fares {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 16px;
+}
