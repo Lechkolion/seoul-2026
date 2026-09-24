@@ -6756,655 +6756,6 @@
     "lastVerified": "2026-09-23"
   },
   {
-    "id": "chuseok-free-palaces-2026",
-    "name": "Chuseok Free Palace & Royal Shrine Opening",
-    "nameKo": "추석 궁·능 무료개방",
-    "category": "event",
-    "subcategory": "Holiday free admission",
-    "tags": [
-      "palace",
-      "free",
-      "outdoor",
-      "iconic"
-    ],
-    "vibes": [
-      "traditional",
-      "lively"
-    ],
-    "summary": "Gyeongbokgung, Changdeokgung, Deoksugung, Changgyeonggung and Jongmyo are free 24–27 Sep 2026, with guard ceremonies.",
-    "description": "For Chuseok 2026 the Cultural Heritage Administration opens the four main palaces, Jongmyo and the Joseon royal tombs free of charge from 24 to 27 September. Jongmyo needs no reservation, visitors in hanbok enter without ticketing, and Gyeongbokgung stages its royal guard ceremonies daily. Paid special programs — the Changdeokgung Secret Garden, moonlight tours and night openings — are excluded.",
-    "highlights": [
-      "Free entry to four palaces and Jongmyo",
-      "Gyeongbokgung guard ceremonies 10:00, 11:00, 13:00, 14:00, 15:00",
-      "Deoksugung hall talks 10:00, 11:15, 14:15, 16:30"
-    ],
-    "tips": [
-      "Regular closures still apply: Changdeokgung/Changgyeonggung/Deoksugung closed Mon 28; Gyeongbokgung & Jongmyo closed Tue 29.",
-      "Go early: holiday afternoons get very crowded.",
-      "Secret Garden still needs a paid tour booking."
-    ],
-    "badges": {
-      "valueForMoney": true,
-      "familyFriendly": true,
-      "mustSee": true
-    },
-    "ratings": {
-      "tripadvisor": {
-        "score": 4.4,
-        "count": 11138,
-        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d324888-Reviews-Gyeongbokgung_Palace-Seoul.html"
-      }
-    },
-    "reviews": [
-      {
-        "source": "Press",
-        "text": "Asia Economy reports the four palaces, Jongmyo and royal tombs are free for four days, with Jongmyo open without reservation.",
-        "paraphrased": true,
-        "lang": "en",
-        "url": "https://view.asiae.co.kr/article/2026091722265095038"
-      },
-      {
-        "source": "Press",
-        "text": "Herald Business notes hanbok wearers enter without ticketing and paid programs such as the Secret Garden are excluded.",
-        "paraphrased": true,
-        "lang": "en",
-        "url": "https://n.news.naver.com/article/016/0002700877?sid=103"
-      }
-    ],
-    "price": {
-      "level": 1,
-      "note": "Free"
-    },
-    "hours": {
-      "note": "Normal palace hours (Gyeongbokgung/Changdeokgung/Jongmyo 09:00–18:00; Deoksugung/Changgyeonggung 09:00–21:00)"
-    },
-    "tripDays": {
-      "2026-09-23": "closed",
-      "2026-09-24": "open",
-      "2026-09-25": "open",
-      "2026-09-26": "open",
-      "2026-09-27": "open",
-      "2026-09-28": "closed",
-      "2026-09-29": "closed",
-      "2026-09-30": "closed"
-    },
-    "chuseok": {
-      "status": "open",
-      "note": "Runs 24–27 Sep 2026 across the holiday.",
-      "verified": true,
-      "source": "https://view.asiae.co.kr/article/2026091722265095038"
-    },
-    "location": {
-      "address": "161 Sajik-ro, Jongno-gu, Seoul (Gyeongbokgung)",
-      "addressKo": "서울 종로구 사직로 161",
-      "district": "Jongno-gu",
-      "neighborhood": "Gwanghwamun",
-      "lat": 37.57975,
-      "lng": 126.97668,
-      "nearestStation": {
-        "name": "Gyeongbokgung",
-        "nameKo": "경복궁역",
-        "lines": [
-          "3"
-        ],
-        "exit": "Exit 5",
-        "walkMin": 5
-      }
-    },
-    "links": {
-      "website": "https://royal.khs.go.kr/",
-      "naverMap": "https://map.naver.com/p/search/%EC%B6%94%EC%84%9D%20%EA%B6%81%C2%B7%EB%8A%A5%20%EB%AC%B4%EB%A3%8C%EA%B0%9C%EB%B0%A9",
-      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Chuseok%20Free%20Palace%20%26%20Royal%20Shrine%20Opening%20Seoul"
-    },
-    "images": [
-      {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Front_view_of_the_Imperial_Throne_Hall_Geunjeongjeon_at_Gyeongbokgung_Palace_with_blue_sky_in_Seoul.jpg/1920px-Front_view_of_the_Imperial_Throne_Hall_Geunjeongjeon_at_Gyeongbokgung_Palace_with_blue_sky_in_Seoul.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Front_view_of_the_Imperial_Throne_Hall_Geunjeongjeon_at_Gyeongbokgung_Palace_with_blue_sky_in_Seoul.jpg",
-        "credit": "Wikimedia Commons · Basile Morin · CC BY-SA 4.0",
-        "alt": "Chuseok Free Palace & Royal Shrine Opening — Front view of the Imperial Throne Hall Geunjeongjeon at Gyeongbokgung Palace with blue sky in Seoul",
-        "width": 1600,
-        "height": 900
-      },
-      {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Interior_view_of_the_Geunjeongjeon_Hall_at_Gyeongbokgung_Palace_in_Seoul.jpg/1920px-Interior_view_of_the_Geunjeongjeon_Hall_at_Gyeongbokgung_Palace_in_Seoul.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Interior_view_of_the_Geunjeongjeon_Hall_at_Gyeongbokgung_Palace_in_Seoul.jpg",
-        "credit": "Wikimedia Commons · Basile Morin · CC BY-SA 4.0",
-        "alt": "Chuseok Free Palace & Royal Shrine Opening — Interior view of the Geunjeongjeon Hall at Gyeongbokgung Palace in Seoul",
-        "width": 1600,
-        "height": 1067
-      },
-      {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Gyeongbokgung%28palace%29_Geunjeongjeon%28hall%29.jpg/1920px-Gyeongbokgung%28palace%29_Geunjeongjeon%28hall%29.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Gyeongbokgung(palace)_Geunjeongjeon(hall).jpg",
-        "credit": "Wikimedia Commons · Brady Bellini · CC0",
-        "alt": "Chuseok Free Palace & Royal Shrine Opening — Gyeongbokgung(palace) Geunjeongjeon(hall)",
-        "width": 1600,
-        "height": 1067
-      },
-      {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Geunjeongjeon_Hall_in_Gyeongbokgung_Palace.jpg/1920px-Geunjeongjeon_Hall_in_Gyeongbokgung_Palace.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Geunjeongjeon_Hall_in_Gyeongbokgung_Palace.jpg",
-        "credit": "Wikimedia Commons · Hhk1201 · CC BY-SA 4.0",
-        "alt": "Chuseok Free Palace & Royal Shrine Opening — Geunjeongjeon Hall in Gyeongbokgung Palace",
-        "width": 1600,
-        "height": 1142
-      }
-    ],
-    "duration": "Half day",
-    "bestTime": "Morning",
-    "goodFor": [
-      "Family of 5",
-      "Parents",
-      "First-timers"
-    ],
-    "eventDates": {
-      "start": "2026-09-24",
-      "end": "2026-09-27"
-    },
-    "sources": [
-      "https://view.asiae.co.kr/article/2026091722265095038",
-      "https://n.news.naver.com/article/016/0002700877?sid=103",
-      "https://www.sukbakmagazine.com/news/articleView.html?idxno=69458"
-    ],
-    "lastVerified": "2026-09-23"
-  },
-  {
-    "id": "nmk-the-art-spot-chuseok-2026",
-    "name": "The Art Spot — Chuseok Performances at the National Museum",
-    "nameKo": "2026 디 아트스팟 시리즈",
-    "category": "event",
-    "subcategory": "Free outdoor performances",
-    "tags": [
-      "free",
-      "outdoor",
-      "museum",
-      "live-music"
-    ],
-    "vibes": [
-      "traditional",
-      "lively"
-    ],
-    "summary": "Free gugak, fusion and street-performance shows in the NMK’s open-air yard, 24, 26 and 27 Sep at 13:00 & 15:00.",
-    "description": "The National Museum of Korea and the Korea Traditional Performing Arts Foundation stage free shows in the museum’s outdoor Yeollin Madang during Chuseok. The line-up: a gugak orchestra and samul troupe on 24 Sep; Sori ON and Yeonhui Company Yuhui on 26 Sep; Churat, sorikkun Kim Jun-su and ethnic fusion band Second Moon on 27 Sep. The museum itself is closed on 25 Sep.",
-    "highlights": [
-      "27 Sep: Kim Jun-su and ethnic fusion band Second Moon",
-      "Traditional percussion and street performance",
-      "Free \"Our Table\" food-culture exhibition inside"
-    ],
-    "tips": [
-      "Combine with the museum (free) — arrive 12:00, see the 13:00 show, then galleries.",
-      "Outdoor: may move or change in rain."
-    ],
-    "badges": {
-      "valueForMoney": true,
-      "familyFriendly": true
-    },
-    "ratings": {
-      "tripadvisor": {
-        "score": 4.5,
-        "count": 2525,
-        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d325043-Reviews-National_Museum_Of_Korea-Seoul.html"
-      }
-    },
-    "reviews": [
-      {
-        "source": "Press",
-        "text": "Seoul Shinmun lists the Art Spot shows at 13:00 and 15:00 on 24, 26 and 27 Sep, skipping Chuseok day.",
-        "paraphrased": true,
-        "lang": "en",
-        "url": "https://www.seoul.co.kr/news/life/cultural-heritage/2026/09/18/20260918500036"
-      },
-      {
-        "source": "Press",
-        "text": "Herald Business details the daily line-ups, ending with Kim Jun-su and Second Moon on 27 Sep.",
-        "paraphrased": true,
-        "lang": "en",
-        "url": "https://n.news.naver.com/article/016/0002700877?sid=103"
-      }
-    ],
-    "price": {
-      "level": 1,
-      "note": "Free"
-    },
-    "hours": {
-      "note": "13:00 and 15:00 on 24, 26, 27 Sep"
-    },
-    "tripDays": {
-      "2026-09-23": "closed",
-      "2026-09-24": "open",
-      "2026-09-25": "closed",
-      "2026-09-26": "open",
-      "2026-09-27": "open",
-      "2026-09-28": "closed",
-      "2026-09-29": "closed",
-      "2026-09-30": "closed"
-    },
-    "chuseok": {
-      "status": "partial",
-      "note": "Performances on 24, 26 and 27 Sep; none on Chuseok day (museum closed 25 Sep).",
-      "verified": true,
-      "source": "https://www.seoul.co.kr/news/life/cultural-heritage/2026/09/18/20260918500036"
-    },
-    "location": {
-      "address": "137 Seobinggo-ro, Yongsan-gu, Seoul",
-      "addressKo": "서울 용산구 서빙고로 137",
-      "district": "Yongsan-gu",
-      "neighborhood": "Ichon",
-      "lat": 37.52395,
-      "lng": 126.98032,
-      "nearestStation": {
-        "name": "Ichon",
-        "nameKo": "이촌역",
-        "lines": [
-          "4",
-          "GJ"
-        ],
-        "exit": "Exit 2",
-        "walkMin": 5
-      }
-    },
-    "links": {
-      "website": "https://www.museum.go.kr/",
-      "naverMap": "https://map.naver.com/p/search/2026%20%EB%94%94%20%EC%95%84%ED%8A%B8%EC%8A%A4%ED%8C%9F%20%EC%8B%9C%EB%A6%AC%EC%A6%88",
-      "googleMaps": "https://www.google.com/maps/search/?api=1&query=The%20Art%20Spot%20%E2%80%94%20Chuseok%20Performances%20at%20the%20National%20Museum%20Seoul"
-    },
-    "images": [
-      {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Building_by_the_Lake_outside_the_National_Museum_of_Korea_in_Seoul.jpg/1920px-Building_by_the_Lake_outside_the_National_Museum_of_Korea_in_Seoul.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Building_by_the_Lake_outside_the_National_Museum_of_Korea_in_Seoul.jpg",
-        "credit": "Wikimedia Commons · Ethan Doyle White · CC BY-SA 4.0",
-        "alt": "The Art Spot — Chuseok Performances at the National Museum — Building by the Lake outside the National Museum of Korea in Seoul",
-        "width": 1600,
-        "height": 1067
-      },
-      {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Front_view_of_national_museum_of_korea.jpg/1920px-Front_view_of_national_museum_of_korea.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Front_view_of_national_museum_of_korea.jpg",
-        "credit": "Wikimedia Commons · Jinah78 · CC BY-SA 3.0",
-        "alt": "The Art Spot — Chuseok Performances at the National Museum — Front view of national museum of korea",
-        "width": 1600,
-        "height": 1009
-      },
-      {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/National_Museum_of_Korea.jpg/1920px-National_Museum_of_Korea.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Korea.jpg",
-        "credit": "Wikimedia Commons · sarahkim (A Flickr user) · CC BY-SA 2.0",
-        "alt": "The Art Spot — Chuseok Performances at the National Museum — National Museum of Korea",
-        "width": 1600,
-        "height": 1200
-      },
-      {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Exterior_of_the_National_Museum_of_Korea_in_Seoul.jpg/1920px-Exterior_of_the_National_Museum_of_Korea_in_Seoul.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Exterior_of_the_National_Museum_of_Korea_in_Seoul.jpg",
-        "credit": "Wikimedia Commons · Ethan Doyle White · CC BY-SA 4.0",
-        "alt": "The Art Spot — Chuseok Performances at the National Museum — Exterior of the National Museum of Korea in Seoul",
-        "width": 1600,
-        "height": 1067
-      },
-      {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/National_Museum_of_Korea_exterior.jpg/1920px-National_Museum_of_Korea_exterior.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Korea_exterior.jpg",
-        "credit": "Wikimedia Commons · Tristan Surtel · CC BY-SA 4.0",
-        "alt": "The Art Spot — Chuseok Performances at the National Museum — National Museum of Korea exterior",
-        "width": 1600,
-        "height": 1064
-      },
-      {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/National_Museum_of_Korea%2C_Seoul_%283%29_%2841131647871%29.jpg/1920px-National_Museum_of_Korea%2C_Seoul_%283%29_%2841131647871%29.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Korea,_Seoul_(3)_(41131647871).jpg",
-        "credit": "Wikimedia Commons · Richard Mortel from Riyadh, Saudi Arabia · CC BY 2.0",
-        "alt": "The Art Spot — Chuseok Performances at the National Museum — National Museum of Korea, Seoul (3)",
-        "width": 1600,
-        "height": 1067
-      }
-    ],
-    "duration": "1 h",
-    "bestTime": "13:00 show then galleries",
-    "goodFor": [
-      "Family of 5",
-      "Parents"
-    ],
-    "eventDates": {
-      "start": "2026-09-24",
-      "end": "2026-09-27"
-    },
-    "sources": [
-      "https://www.seoul.co.kr/news/life/cultural-heritage/2026/09/18/20260918500036",
-      "https://n.news.naver.com/article/016/0002700877?sid=103",
-      "https://www.fnnews.com/news/202609190545541340"
-    ],
-    "lastVerified": "2026-09-23"
-  },
-  {
-    "id": "namsan-moonlight-madang-2026",
-    "name": "Namsan Moonlight Madang (Chuseok Festival)",
-    "nameKo": "남산달빛마당",
-    "category": "event",
-    "subcategory": "Chuseok festival",
-    "tags": [
-      "free",
-      "outdoor",
-      "kid-friendly",
-      "parent-friendly"
-    ],
-    "vibes": [
-      "traditional",
-      "lively"
-    ],
-    "summary": "Tightrope walking, Arirang, quilting and hanbok try-ons at Namsangol Hanok Village, 25–27 Sep, 10:00–20:00.",
-    "description": "Seoul’s Namsangol Hanok Village marks Chuseok with \"Namsan Moonlight Madang\": traditional tightrope (jultagi), Arirang and gugak performances, seven hands-on traditional experiences, a master-led nubi quilting craft, hanbok dressing and braided-hair styling. A holiday-food program and a talk on ancestral-table meanings run alongside, linked to the World Pansori Festival.",
-    "highlights": [
-      "Jultagi tightrope performance",
-      "Hanbok and daenggi-hair try-on",
-      "Holiday food \"Monthly Soban\""
-    ],
-    "tips": [
-      "Some experiences are paid; performances are free.",
-      "Village stays open until 21:00 over the holiday — go late afternoon."
-    ],
-    "badges": {
-      "familyFriendly": true,
-      "valueForMoney": true
-    },
-    "ratings": {
-      "tripadvisor": {
-        "score": 4.2,
-        "count": 874,
-        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d1551271-Reviews-Namsangol_Hanok_Village-Seoul.html"
-      }
-    },
-    "reviews": [
-      {
-        "source": "Press",
-        "text": "Money Today (Seoul city release) lists tightrope, Arirang, seven traditional experiences and hanbok try-ons, 10:00–20:00.",
-        "paraphrased": true,
-        "lang": "en",
-        "url": "https://n.news.naver.com/article/008/0005415168?sid=102"
-      },
-      {
-        "source": "Naver",
-        "text": "On Naver, Namsangol is praised for its variety of hands-on programs and being good with kids.",
-        "paraphrased": true,
-        "lang": "en",
-        "url": "https://m.search.naver.com/search.naver?query=%EB%82%A8%EC%82%B0%EA%B3%A8%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84"
-      }
-    ],
-    "price": {
-      "level": 1,
-      "note": "Free entry; some experiences paid"
-    },
-    "hours": {
-      "note": "10:00–20:00, 25–27 Sep"
-    },
-    "tripDays": {
-      "2026-09-23": "closed",
-      "2026-09-24": "closed",
-      "2026-09-25": "open",
-      "2026-09-26": "open",
-      "2026-09-27": "open",
-      "2026-09-28": "closed",
-      "2026-09-29": "closed",
-      "2026-09-30": "closed"
-    },
-    "chuseok": {
-      "status": "partial",
-      "note": "Festival runs 25–27 Sep (not 24 Sep).",
-      "verified": true,
-      "source": "https://n.news.naver.com/article/008/0005415168?sid=102"
-    },
-    "location": {
-      "address": "28 Toegye-ro 34-gil, Jung-gu, Seoul",
-      "addressKo": "서울 중구 퇴계로34길 28",
-      "district": "Jung-gu",
-      "neighborhood": "Pil-dong",
-      "lat": 37.55928,
-      "lng": 126.99447,
-      "nearestStation": {
-        "name": "Chungmuro",
-        "nameKo": "충무로역",
-        "lines": [
-          "3",
-          "4"
-        ],
-        "exit": "Exit 3",
-        "walkMin": 5
-      }
-    },
-    "links": {
-      "website": "https://www.hanokmaeul.co.kr/",
-      "naverMap": "https://map.naver.com/p/search/%EB%82%A8%EC%82%B0%EB%8B%AC%EB%B9%9B%EB%A7%88%EB%8B%B9",
-      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Namsan%20Moonlight%20Madang%20(Chuseok%20Festival)%20Seoul"
-    },
-    "images": [
-      {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Namsangol_Hanok_Village_20240409_048.jpg/1920px-Namsangol_Hanok_Village_20240409_048.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Namsangol_Hanok_Village_20240409_048.jpg",
-        "credit": "Wikimedia Commons · Mobius6 · CC BY 4.0",
-        "alt": "Namsan Moonlight Madang (Chuseok Festival) — Namsangol Hanok Village",
-        "width": 1600,
-        "height": 1067
-      },
-      {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Namsangol_Hanok_Village_20240409_072.jpg/1920px-Namsangol_Hanok_Village_20240409_072.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Namsangol_Hanok_Village_20240409_072.jpg",
-        "credit": "Wikimedia Commons · Mobius6 · CC BY 4.0",
-        "alt": "Namsan Moonlight Madang (Chuseok Festival) — Namsangol Hanok Village",
-        "width": 1600,
-        "height": 1067
-      },
-      {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Namsangol_Hanok_Village_20240409_040.jpg/1920px-Namsangol_Hanok_Village_20240409_040.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Namsangol_Hanok_Village_20240409_040.jpg",
-        "credit": "Wikimedia Commons · Mobius6 · CC BY 4.0",
-        "alt": "Namsan Moonlight Madang (Chuseok Festival) — Namsangol Hanok Village",
-        "width": 1600,
-        "height": 1067
-      },
-      {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Namsangol_Hanok_Village_20240409_095.jpg/1920px-Namsangol_Hanok_Village_20240409_095.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Namsangol_Hanok_Village_20240409_095.jpg",
-        "credit": "Wikimedia Commons · Mobius6 · CC BY 4.0",
-        "alt": "Namsan Moonlight Madang (Chuseok Festival) — Namsangol Hanok Village",
-        "width": 1600,
-        "height": 1067
-      },
-      {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Namsangol_Hanok_Village_20240409_054.jpg/1920px-Namsangol_Hanok_Village_20240409_054.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Namsangol_Hanok_Village_20240409_054.jpg",
-        "credit": "Wikimedia Commons · Mobius6 · CC BY 4.0",
-        "alt": "Namsan Moonlight Madang (Chuseok Festival) — Namsangol Hanok Village",
-        "width": 1600,
-        "height": 1067
-      },
-      {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Namsangol_Hanok_Village_20240409_016.jpg/1920px-Namsangol_Hanok_Village_20240409_016.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Namsangol_Hanok_Village_20240409_016.jpg",
-        "credit": "Wikimedia Commons · Mobius6 · CC BY 4.0",
-        "alt": "Namsan Moonlight Madang (Chuseok Festival) — Namsangol Hanok Village",
-        "width": 1600,
-        "height": 1067
-      }
-    ],
-    "duration": "1.5 h",
-    "bestTime": "Late afternoon",
-    "goodFor": [
-      "Family of 5",
-      "Parents",
-      "Kids at heart"
-    ],
-    "eventDates": {
-      "start": "2026-09-25",
-      "end": "2026-09-27"
-    },
-    "sources": [
-      "https://n.news.naver.com/article/008/0005415168?sid=102"
-    ],
-    "lastVerified": "2026-09-23"
-  },
-  {
-    "id": "unhyeongung-lucky-hangawi-2026",
-    "name": "Lucky Hangawi at Unhyeongung",
-    "nameKo": "운현궁 행운가득한가위",
-    "category": "event",
-    "subcategory": "Chuseok festival",
-    "tags": [
-      "free",
-      "palace",
-      "outdoor",
-      "kid-friendly"
-    ],
-    "vibes": [
-      "traditional",
-      "lively"
-    ],
-    "summary": "Four days of folk games, crafts, gugak, fusion gugak and Korean dance at Unhyeongung, 24–27 Sep, 11:00–17:00.",
-    "description": "Unhyeongung, the residence of King Gojong’s father, hosts \"Lucky Hangawi\" through the Chuseok holiday with traditional games and craft activities from 11:00 to 17:00 plus gugak, fusion gugak and Korean dance performances. Admission to Unhyeongung is free; a few experiences are paid.",
-    "highlights": [
-      "Folk games in the courtyards",
-      "Gugak and Korean dance",
-      "Craft experiences"
-    ],
-    "tips": [
-      "Anguk Station exit 4 — one minute. Combine with Bukchon or Insadong."
-    ],
-    "badges": {
-      "familyFriendly": true,
-      "valueForMoney": true
-    },
-    "ratings": {
-      "google": {
-        "score": 4.4,
-        "count": 3215,
-        "url": "https://www.google.com/maps/search/?api=1&query=%EC%9A%B4%ED%98%84%EA%B6%81%20%ED%96%89%EC%9A%B4%EA%B0%80%EB%93%9D%ED%95%9C%EA%B0%80%EC%9C%84%20%EC%84%9C%EC%9A%B8%20%EC%A2%85%EB%A1%9C%EA%B5%AC%20%EC%82%BC%EC%9D%BC%EB%8C%80%EB%A1%9C%20464"
-      }
-    },
-    "reviews": [
-      {
-        "source": "Press",
-        "text": "Seoul city says Unhyeongung runs traditional games, crafts and gugak, fusion gugak and dance shows daily 24–27 Sep.",
-        "paraphrased": true,
-        "lang": "en",
-        "url": "https://n.news.naver.com/article/008/0005415168?sid=102"
-      },
-      {
-        "source": "Naver",
-        "text": "Naver visitors call Unhyeongung photogenic, well kept and uncrowded.",
-        "paraphrased": true,
-        "lang": "en",
-        "url": "https://m.search.naver.com/search.naver?query=%EC%9A%B4%ED%98%84%EA%B6%81"
-      }
-    ],
-    "price": {
-      "level": 1,
-      "note": "Free; some experiences paid"
-    },
-    "hours": {
-      "note": "11:00–17:00, 24–27 Sep"
-    },
-    "tripDays": {
-      "2026-09-23": "closed",
-      "2026-09-24": "open",
-      "2026-09-25": "open",
-      "2026-09-26": "open",
-      "2026-09-27": "open",
-      "2026-09-28": "closed",
-      "2026-09-29": "closed",
-      "2026-09-30": "closed"
-    },
-    "chuseok": {
-      "status": "open",
-      "note": "Runs every day 24–27 Sep 2026.",
-      "verified": true,
-      "source": "https://n.news.naver.com/article/008/0005415168?sid=102"
-    },
-    "location": {
-      "address": "464 Samil-daero, Jongno-gu, Seoul",
-      "addressKo": "서울 종로구 삼일대로 464",
-      "district": "Jongno-gu",
-      "neighborhood": "Unni-dong",
-      "lat": 37.5762,
-      "lng": 126.98709,
-      "nearestStation": {
-        "name": "Anguk",
-        "nameKo": "안국역",
-        "lines": [
-          "3"
-        ],
-        "exit": "Exit 4",
-        "walkMin": 2
-      }
-    },
-    "links": {
-      "website": "http://www.unhyeongung.or.kr/",
-      "naverMap": "https://map.naver.com/p/search/%EC%9A%B4%ED%98%84%EA%B6%81%20%ED%96%89%EC%9A%B4%EA%B0%80%EB%93%9D%ED%95%9C%EA%B0%80%EC%9C%84",
-      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Lucky%20Hangawi%20at%20Unhyeongung%20Seoul"
-    },
-    "images": [
-      {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Korea-Unhyeongung-06.jpg/1920px-Korea-Unhyeongung-06.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Korea-Unhyeongung-06.jpg",
-        "credit": "Wikimedia Commons · Klaus314 at English Wikipedia · Public domain",
-        "alt": "Lucky Hangawi at Unhyeongung — Korea-Unhyeongung-06",
-        "width": 1600,
-        "height": 1200
-      },
-      {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Iro-dang%2C_Unhyeongung_-_Seoul%2C_Korea.JPG/1920px-Iro-dang%2C_Unhyeongung_-_Seoul%2C_Korea.JPG",
-        "source": "https://commons.wikimedia.org/wiki/File:Iro-dang,_Unhyeongung_-_Seoul,_Korea.JPG",
-        "credit": "Wikimedia Commons · Daderot. · CC BY-SA 3.0",
-        "alt": "Lucky Hangawi at Unhyeongung — Iro-dang, Unhyeongung - Seoul, Korea",
-        "width": 1600,
-        "height": 1200
-      },
-      {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Korea-Unhyeongung-01.jpg/1920px-Korea-Unhyeongung-01.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Korea-Unhyeongung-01.jpg",
-        "credit": "Wikimedia Commons · Klaus314 at English Wikipedia · Public domain",
-        "alt": "Lucky Hangawi at Unhyeongung — Korea-Unhyeongung-01",
-        "width": 1600,
-        "height": 1200
-      },
-      {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Unhyeongung_square%2C_Seoul.jpg/1920px-Unhyeongung_square%2C_Seoul.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Unhyeongung_square,_Seoul.jpg",
-        "credit": "Wikimedia Commons · Tristan Surtel · CC BY-SA 4.0",
-        "alt": "Lucky Hangawi at Unhyeongung — Unhyeongung square, Seoul",
-        "width": 1600,
-        "height": 1064
-      },
-      {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Unhyeongung_palace_scene.jpg/1920px-Unhyeongung_palace_scene.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Unhyeongung_palace_scene.jpg",
-        "credit": "Wikimedia Commons · Tristan Surtel · CC BY-SA 4.0",
-        "alt": "Lucky Hangawi at Unhyeongung — Unhyeongung palace scene",
-        "width": 1600,
-        "height": 1064
-      },
-      {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Korea-Seoul-Unhyeongung_1292-06.JPG",
-        "source": "https://commons.wikimedia.org/wiki/File:Korea-Seoul-Unhyeongung_1292-06.JPG",
-        "credit": "Wikimedia Commons · Steve46814 · CC BY-SA 3.0",
-        "alt": "Lucky Hangawi at Unhyeongung — Korea-Seoul-Unhyeongung 1292-06",
-        "width": 1600,
-        "height": 1110
-      }
-    ],
-    "duration": "1 h",
-    "bestTime": "Late morning",
-    "goodFor": [
-      "Family of 5",
-      "Parents"
-    ],
-    "eventDates": {
-      "start": "2026-09-24",
-      "end": "2026-09-27"
-    },
-    "sources": [
-      "https://n.news.naver.com/article/008/0005415168?sid=102"
-    ],
-    "lastVerified": "2026-09-23"
-  },
-  {
     "id": "seoul-outdoor-library-night-2026",
     "name": "Seoul Outdoor Library — Chuseok Late Nights",
     "nameKo": "서울야외도서관 야간 연장",
@@ -7537,20 +6888,20 @@
         "height": 2844
       },
       {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Nightview_of_the_Gwanghwamun_Square_2024.jpg/1920px-Nightview_of_the_Gwanghwamun_Square_2024.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Nightview_of_the_Gwanghwamun_Square_2024.jpg",
-        "credit": "Wikimedia Commons · Seoul Tourism Organization · KOGL Type 1",
-        "alt": "Gwanghwamun Square — Nightview of the Gwanghwamun Square 2024",
-        "width": 1600,
-        "height": 2335
-      },
-      {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Gwanghwamun_Square_4.jpg/1920px-Gwanghwamun_Square_4.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Gwanghwamun_Square_4.jpg",
         "credit": "Wikimedia Commons · kallerna · CC BY-SA 4.0",
         "alt": "Gwanghwamun Square — Gwanghwamun Square 4",
         "width": 1600,
         "height": 1090
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Nightview_of_the_Gwanghwamun_Square_2024.jpg/1920px-Nightview_of_the_Gwanghwamun_Square_2024.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Nightview_of_the_Gwanghwamun_Square_2024.jpg",
+        "credit": "Wikimedia Commons · Seoul Tourism Organization · KOGL Type 1",
+        "alt": "Gwanghwamun Square — Nightview of the Gwanghwamun Square 2024",
+        "width": 1600,
+        "height": 2335
       }
     ],
     "duration": "1 h",
@@ -7667,18 +7018,26 @@
     },
     "images": [
       {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Ttukseom_Hangang_Park_20260416_2.jpg/1920px-Ttukseom_Hangang_Park_20260416_2.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Ttukseom_Hangang_Park_20260416_2.jpg",
-        "credit": "Wikimedia Commons · Motoko C. K. · CC BY 4.0",
-        "alt": "Seoul Autumn Festa 2026 — Ttukseom Hangang Park",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Korea_Ttukseom_Island_Park_01_%2814472520147%29.jpg/1920px-Korea_Ttukseom_Island_Park_01_%2814472520147%29.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Korea_Ttukseom_Island_Park_01_(14472520147).jpg",
+        "credit": "Wikimedia Commons · Republic of Korea from Seoul, Republic of Korea · CC BY-SA 2.0",
+        "alt": "Seoul Autumn Festa 2026 — Korea Ttukseom Island Park 01",
         "width": 1600,
-        "height": 1067
+        "height": 855
       },
       {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Ttukseom_Hangang_Park_20260416_1.jpg/1920px-Ttukseom_Hangang_Park_20260416_1.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Ttukseom_Hangang_Park_20260416_1.jpg",
-        "credit": "Wikimedia Commons · Motoko C. K. · CC BY 4.0",
-        "alt": "Seoul Autumn Festa 2026 — Ttukseom Hangang Park",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Korea_Ttukseom_Island_Park_02_%2814658581222%29.jpg/1920px-Korea_Ttukseom_Island_Park_02_%2814658581222%29.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Korea_Ttukseom_Island_Park_02_(14658581222).jpg",
+        "credit": "Wikimedia Commons · Republic of Korea from Seoul, Republic of Korea · CC BY-SA 2.0",
+        "alt": "Seoul Autumn Festa 2026 — Korea Ttukseom Island Park 02",
+        "width": 1600,
+        "height": 808
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/NIght_view_at_Ttukseom_Hangang_Park.jpg/1920px-NIght_view_at_Ttukseom_Hangang_Park.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:NIght_view_at_Ttukseom_Hangang_Park.jpg",
+        "credit": "Wikimedia Commons · Real rism · CC BY-SA 4.0",
+        "alt": "Seoul Autumn Festa 2026 — NIght view at Ttukseom Hangang Park",
         "width": 1600,
         "height": 1067
       },
@@ -7691,28 +7050,20 @@
         "height": 1066
       },
       {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/NIght_view_at_Ttukseom_Hangang_Park.jpg/1920px-NIght_view_at_Ttukseom_Hangang_Park.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:NIght_view_at_Ttukseom_Hangang_Park.jpg",
-        "credit": "Wikimedia Commons · Real rism · CC BY-SA 4.0",
-        "alt": "Seoul Autumn Festa 2026 — NIght view at Ttukseom Hangang Park",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Ttukseom_Hangang_Park_20260416_1.jpg/1920px-Ttukseom_Hangang_Park_20260416_1.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Ttukseom_Hangang_Park_20260416_1.jpg",
+        "credit": "Wikimedia Commons · Motoko C. K. · CC BY 4.0",
+        "alt": "Seoul Autumn Festa 2026 — Ttukseom Hangang Park",
         "width": 1600,
         "height": 1067
       },
       {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Korea_Ttukseom_Island_Park_02_%2814658581222%29.jpg/1920px-Korea_Ttukseom_Island_Park_02_%2814658581222%29.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Korea_Ttukseom_Island_Park_02_(14658581222).jpg",
-        "credit": "Wikimedia Commons · Republic of Korea from Seoul, Republic of Korea · CC BY-SA 2.0",
-        "alt": "Seoul Autumn Festa 2026 — Korea Ttukseom Island Park 02",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Ttukseom_Hangang_Park_20260416_2.jpg/1920px-Ttukseom_Hangang_Park_20260416_2.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Ttukseom_Hangang_Park_20260416_2.jpg",
+        "credit": "Wikimedia Commons · Motoko C. K. · CC BY 4.0",
+        "alt": "Seoul Autumn Festa 2026 — Ttukseom Hangang Park",
         "width": 1600,
-        "height": 808
-      },
-      {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Korea_Ttukseom_Island_Park_01_%2814472520147%29.jpg/1920px-Korea_Ttukseom_Island_Park_01_%2814472520147%29.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Korea_Ttukseom_Island_Park_01_(14472520147).jpg",
-        "credit": "Wikimedia Commons · Republic of Korea from Seoul, Republic of Korea · CC BY-SA 2.0",
-        "alt": "Seoul Autumn Festa 2026 — Korea Ttukseom Island Park 01",
-        "width": 1600,
-        "height": 855
+        "height": 1067
       }
     ],
     "duration": "Varies",
@@ -7843,28 +7194,12 @@
     },
     "images": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Seoul_Museum_of_Art_%282014%29.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Seoul_Museum_of_Art_(2014).jpg",
-        "credit": "Wikimedia Commons · Seoul Institute · CC BY 4.0",
-        "alt": "Yoo Youngkuk: The Mountain Is Within Me — Seoul Museum of Art (2014)",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Seoul_Museum_of_Art_%28SeMA%29.jpg/1920px-Seoul_Museum_of_Art_%28SeMA%29.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Seoul_Museum_of_Art_(SeMA).jpg",
+        "credit": "Wikimedia Commons · Ollie Palmer · CC BY-SA 4.0",
+        "alt": "Yoo Youngkuk: The Mountain Is Within Me — Seoul Museum of Art (SeMA)",
         "width": 1600,
-        "height": 1067
-      },
-      {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Seoul_Museum_of_Art_%282013%29.jpg/1920px-Seoul_Museum_of_Art_%282013%29.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Seoul_Museum_of_Art_(2013).jpg",
-        "credit": "Wikimedia Commons · Jinho Jung · CC BY-SA 2.0",
-        "alt": "Yoo Youngkuk: The Mountain Is Within Me — Seoul Museum of Art (2013)",
-        "width": 1600,
-        "height": 1067
-      },
-      {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Seoul_Museum_of_Art_%28%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%A6%BD%EB%AF%B8%EC%88%A0%EA%B4%80%29.jpg/1920px-Seoul_Museum_of_Art_%28%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%A6%BD%EB%AF%B8%EC%88%A0%EA%B4%80%29.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Seoul_Museum_of_Art_(%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%A6%BD%EB%AF%B8%EC%88%A0%EA%B4%80).jpg",
-        "credit": "Wikimedia Commons · Tksgk262 · CC BY-SA 4.0",
-        "alt": "Yoo Youngkuk: The Mountain Is Within Me — Seoul Museum of Art (서울시립미술관)",
-        "width": 1600,
-        "height": 1200
+        "height": 815
       },
       {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Seoul_Museum_of_Art-1.jpg/1920px-Seoul_Museum_of_Art-1.jpg",
@@ -7875,12 +7210,28 @@
         "height": 1062
       },
       {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Seoul_Museum_of_Art_%28SeMA%29.jpg/1920px-Seoul_Museum_of_Art_%28SeMA%29.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Seoul_Museum_of_Art_(SeMA).jpg",
-        "credit": "Wikimedia Commons · Ollie Palmer · CC BY-SA 4.0",
-        "alt": "Yoo Youngkuk: The Mountain Is Within Me — Seoul Museum of Art (SeMA)",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Seoul_Museum_of_Art_%28%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%A6%BD%EB%AF%B8%EC%88%A0%EA%B4%80%29.jpg/1920px-Seoul_Museum_of_Art_%28%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%A6%BD%EB%AF%B8%EC%88%A0%EA%B4%80%29.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Seoul_Museum_of_Art_(%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%A6%BD%EB%AF%B8%EC%88%A0%EA%B4%80).jpg",
+        "credit": "Wikimedia Commons · Tksgk262 · CC BY-SA 4.0",
+        "alt": "Yoo Youngkuk: The Mountain Is Within Me — Seoul Museum of Art (서울시립미술관)",
         "width": 1600,
-        "height": 815
+        "height": 1200
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Seoul_Museum_of_Art_%282013%29.jpg/1920px-Seoul_Museum_of_Art_%282013%29.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Seoul_Museum_of_Art_(2013).jpg",
+        "credit": "Wikimedia Commons · Jinho Jung · CC BY-SA 2.0",
+        "alt": "Yoo Youngkuk: The Mountain Is Within Me — Seoul Museum of Art (2013)",
+        "width": 1600,
+        "height": 1067
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Seoul_Museum_of_Art_%282014%29.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Seoul_Museum_of_Art_(2014).jpg",
+        "credit": "Wikimedia Commons · Seoul Institute · CC BY 4.0",
+        "alt": "Yoo Youngkuk: The Mountain Is Within Me — Seoul Museum of Art (2014)",
+        "width": 1600,
+        "height": 1067
       }
     ],
     "duration": "1–1.5 h",
@@ -8004,28 +7355,12 @@
     },
     "images": [
       {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/MMCA_Seoul_2016.jpg/1920px-MMCA_Seoul_2016.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:MMCA_Seoul_2016.jpg",
-        "credit": "Wikimedia Commons · jens kuu · CC BY 2.0",
-        "alt": "MMCA Free Chuseok Days & Do Ho Suh Retrospective — MMCA Seoul 2016",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Opertus_Lunula_Umbra_%28Hidden_Shadow_of_the_Moon%29_by_U-Ram_Choe.jpg/1920px-Opertus_Lunula_Umbra_%28Hidden_Shadow_of_the_Moon%29_by_U-Ram_Choe.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Opertus_Lunula_Umbra_(Hidden_Shadow_of_the_Moon)_by_U-Ram_Choe.jpg",
+        "credit": "Wikimedia Commons · travel oriented from Seoul, South Korea · CC BY-SA 2.0",
+        "alt": "MMCA Free Chuseok Days & Do Ho Suh Retrospective — Opertus Lunula Umbra (Hidden Shadow of the Moon) by U-Ram Choe",
         "width": 1600,
-        "height": 1070
-      },
-      {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/National_Museum_of_Modern_and_Contemporary_Art%2C_Seoul.jpg/1920px-National_Museum_of_Modern_and_Contemporary_Art%2C_Seoul.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Modern_and_Contemporary_Art,_Seoul.jpg",
-        "credit": "Wikimedia Commons · Bonnielou2013 · CC BY-SA 4.0",
-        "alt": "MMCA Free Chuseok Days & Do Ho Suh Retrospective — National Museum of Modern and Contemporary Art, Seoul",
-        "width": 1600,
-        "height": 900
-      },
-      {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/National_Museum_of_Modern_and_Contemporary_Art_Seoul_1.jpg/1920px-National_Museum_of_Modern_and_Contemporary_Art_Seoul_1.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Modern_and_Contemporary_Art_Seoul_1.jpg",
-        "credit": "Wikimedia Commons · yeung ming · CC BY 2.0",
-        "alt": "MMCA Free Chuseok Days & Do Ho Suh Retrospective — National Museum of Modern and Contemporary Art Seoul 1",
-        "width": 1600,
-        "height": 902
+        "height": 2398
       },
       {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Epiphyte_Chamber_by_Philip_Beesley.jpg/1920px-Epiphyte_Chamber_by_Philip_Beesley.jpg",
@@ -8036,12 +7371,28 @@
         "height": 2398
       },
       {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Opertus_Lunula_Umbra_%28Hidden_Shadow_of_the_Moon%29_by_U-Ram_Choe.jpg/1920px-Opertus_Lunula_Umbra_%28Hidden_Shadow_of_the_Moon%29_by_U-Ram_Choe.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Opertus_Lunula_Umbra_(Hidden_Shadow_of_the_Moon)_by_U-Ram_Choe.jpg",
-        "credit": "Wikimedia Commons · travel oriented from Seoul, South Korea · CC BY-SA 2.0",
-        "alt": "MMCA Free Chuseok Days & Do Ho Suh Retrospective — Opertus Lunula Umbra (Hidden Shadow of the Moon) by U-Ram Choe",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/National_Museum_of_Modern_and_Contemporary_Art_Seoul_1.jpg/1920px-National_Museum_of_Modern_and_Contemporary_Art_Seoul_1.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Modern_and_Contemporary_Art_Seoul_1.jpg",
+        "credit": "Wikimedia Commons · yeung ming · CC BY 2.0",
+        "alt": "MMCA Free Chuseok Days & Do Ho Suh Retrospective — National Museum of Modern and Contemporary Art Seoul 1",
         "width": 1600,
-        "height": 2398
+        "height": 902
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/National_Museum_of_Modern_and_Contemporary_Art%2C_Seoul.jpg/1920px-National_Museum_of_Modern_and_Contemporary_Art%2C_Seoul.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Modern_and_Contemporary_Art,_Seoul.jpg",
+        "credit": "Wikimedia Commons · Bonnielou2013 · CC BY-SA 4.0",
+        "alt": "MMCA Free Chuseok Days & Do Ho Suh Retrospective — National Museum of Modern and Contemporary Art, Seoul",
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/MMCA_Seoul_2016.jpg/1920px-MMCA_Seoul_2016.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:MMCA_Seoul_2016.jpg",
+        "credit": "Wikimedia Commons · jens kuu · CC BY 2.0",
+        "alt": "MMCA Free Chuseok Days & Do Ho Suh Retrospective — MMCA Seoul 2016",
+        "width": 1600,
+        "height": 1070
       }
     ],
     "duration": "1.5–2 h",
