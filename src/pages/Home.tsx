@@ -6,13 +6,16 @@ import { useData } from '../lib/data';
 import type { Category, Place, TripDate } from '../lib/types';
 import { CATEGORY_LABEL, CATEGORY_ORDER, CHUSEOK_MAIN, TRIP_DAYS, isChuseok, seoulNow, tripPhase } from '../lib/trip';
 import { dayStatus, isOpenOn, ratingKey } from '../lib/place-utils';
-import { hasBadge, sortPlaces } from '../lib/filters';
+import { hasBadge, isHeritage, sortPlaces } from '../lib/filters';
 import { useWeather, describe } from '../lib/weather';
 import { Shelf } from '../components/Shelf';
 import { WeatherCard } from '../components/WeatherCard';
 import { Img } from '../components/Img';
 import { CATEGORY_ICON, MoonMark } from '../components/icons';
 import { Skeleton } from '../components/bits';
+
+const TODO_CATS: Category[] = ['sight', 'experience', 'shopping', 'wellness', 'event'];
+const WESTERN = /steak|italian|pizza|french|burger|american|brunch|spanish|mexican|mediterranean|fusion|buffet|bistro|european/i;
 
 function greeting(hour: number) {
   if (hour < 5) return 'Late night in Seoul';
@@ -134,6 +137,9 @@ export function HomePage() {
     const s = [
       { key: 'top', kicker: 'Ranked by Tripadvisor', title: 'Top rated', to: '/explore?sort=rating', places: top(places.filter((p) => p.ratings.tripadvisor?.score)) },
       { key: 'fut', kicker: 'Comfort · tech · design', title: 'Futuristic & high-tech', to: '/explore?badge=futuristic', places: top(places.filter((p) => hasBadge(p, 'futuristic'))) },
+      { key: 'todo', kicker: 'Modern · no palaces', title: 'Things to do', to: '/explore?cat=sight,experience,shopping,wellness,event&modern=1', places: top(places.filter((p) => TODO_CATS.includes(p.category) && !isHeritage(p)), 20) },
+      { key: 'west', kicker: 'Steak · Italian · French · brunch', title: 'Western food', to: '/explore?cat=food', places: top(places.filter((p) => p.category === 'food' && (p.cuisine ?? []).some((c) => WESTERN.test(c))), 20) },
+      { key: 'bars', kicker: 'Rooftops · hotel lounges · jazz', title: 'Bars for a nightcap', to: '/explore?cat=bar', places: top(places.filter((p) => p.category === 'bar'), 20) },
       { key: 'near', kicker: 'Door to door ≤ 20 min', title: 'Near home', to: '/explore?time=20&sort=time', places: sortPlaces(places.filter((p) => (p.route?.totalMin ?? 99) <= 20), 'time').slice(0, 14) },
       { key: 'chu', kicker: 'Fri 25 Sep', title: 'Open on Chuseok day', to: `/explore?day=${CHUSEOK_MAIN}`, places: top(places.filter((p) => isOpenOn(p, CHUSEOK_MAIN))) },
       { key: 'val', kicker: '가성비', title: 'Great value', to: '/explore?badge=value', places: top(places.filter((p) => hasBadge(p, 'value'))) },

@@ -93,7 +93,14 @@
         6000,
         15000
       ],
-      "note": "Coffee 5,000–7,000원; pastries ~6,000원"
+      "note": "Coffee 5,000–7,000원; pastries ~6,000원",
+      "menuKRW": {
+        "min": 8000,
+        "typical": 9000,
+        "max": 9000,
+        "n": 2,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -286,7 +293,14 @@
         8000,
         20000
       ],
-      "note": "Bagels 3,800–4,700원; spreads and drinks extra"
+      "note": "Bagels 3,800–4,700원; spreads and drinks extra",
+      "menuKRW": {
+        "min": 3800,
+        "typical": 5000,
+        "max": 6000,
+        "n": 3,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -479,7 +493,14 @@
         5000,
         15000
       ],
-      "note": "Salt breads 3,800–4,900원"
+      "note": "Salt breads 3,800–4,900원",
+      "menuKRW": {
+        "min": 3800,
+        "typical": 4300,
+        "max": 6800,
+        "n": 3,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -639,6 +660,11 @@
           "뷰가 좋아요"
         ],
         "url": "https://m.place.naver.com/restaurant/1069246697/home"
+      },
+      "kakao": {
+        "score": 4.2,
+        "count": 151,
+        "url": "https://place.map.kakao.com/1502729906"
       }
     },
     "reviews": [
@@ -1012,6 +1038,11 @@
           "디저트가 맛있어요"
         ],
         "url": "https://m.place.naver.com/restaurant/11569524/home"
+      },
+      "kakao": {
+        "score": 3.3,
+        "count": 136,
+        "url": "https://place.map.kakao.com/7940056"
       }
     },
     "reviews": [
@@ -1038,7 +1069,14 @@
         13500,
         20000
       ],
-      "note": "Teas and desserts 13,500–16,500원"
+      "note": "Teas and desserts 13,500–16,500원",
+      "menuKRW": {
+        "min": 13500,
+        "typical": 16000,
+        "max": 16500,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -1237,7 +1275,14 @@
         5000,
         12000
       ],
-      "note": "Coffee 5,000–7,800원"
+      "note": "Coffee 5,000–7,800원",
+      "menuKRW": {
+        "min": 5000,
+        "typical": 6000,
+        "max": 12000,
+        "n": 3,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -1431,7 +1476,14 @@
         6000,
         13000
       ],
-      "note": "Coffee 5,500–6,500원; cake 6,500원"
+      "note": "Coffee 5,500–6,500원; cake 6,500원",
+      "menuKRW": {
+        "min": 5500,
+        "typical": 6000,
+        "max": 6500,
+        "n": 3,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -1621,7 +1673,14 @@
         20000,
         40000
       ],
-      "note": "Desserts 21,000–48,000원; teas ~12,500원"
+      "note": "Desserts 21,000–48,000원; teas ~12,500원",
+      "menuKRW": {
+        "min": 1000,
+        "typical": 38900,
+        "max": 53000,
+        "n": 5,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -1813,7 +1872,14 @@
         6000,
         15000
       ],
-      "note": "Coffee 5,000–7,000원"
+      "note": "Coffee 5,000–7,000원",
+      "menuKRW": {
+        "min": 5000,
+        "typical": 5500,
+        "max": 6000,
+        "n": 3,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -2014,7 +2080,14 @@
         7000,
         20000
       ],
-      "note": "Americano 6,500원; lattes 7,200원+"
+      "note": "Americano 6,500원; lattes 7,200원+",
+      "menuKRW": {
+        "min": 6000,
+        "typical": 7000,
+        "max": 7500,
+        "n": 3,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -2405,7 +2478,14 @@
         5000,
         15000
       ],
-      "note": "Coffee 4,500–7,000원"
+      "note": "Coffee 4,500–7,000원",
+      "menuKRW": {
+        "min": 4500,
+        "typical": 5500,
+        "max": 5500,
+        "n": 2,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -2610,7 +2690,14 @@
         5000,
         10000
       ],
-      "note": "Standard Starbucks prices (americano 4,700원)"
+      "note": "Standard Starbucks prices (americano 4,700원)",
+      "menuKRW": {
+        "min": 4500,
+        "typical": 5200,
+        "max": 5700,
+        "n": 3,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -2771,6 +2858,11 @@
           "매장이 청결해요"
         ],
         "url": "https://m.place.naver.com/restaurant/1022429915/home"
+      },
+      "kakao": {
+        "score": 3.4,
+        "count": 360,
+        "url": "https://place.map.kakao.com/134679676"
       }
     },
     "reviews": [
@@ -2956,6 +3048,11 @@
           "매장이 청결해요"
         ],
         "url": "https://m.place.naver.com/restaurant/1285922861/home"
+      },
+      "kakao": {
+        "score": 4.2,
+        "count": 22,
+        "url": "https://place.map.kakao.com/409019077"
       }
     },
     "reviews": [
@@ -2980,7 +3077,14 @@
         10000,
         25000
       ],
-      "note": "Pour-overs 14,000–18,000원"
+      "note": "Pour-overs 14,000–18,000원",
+      "menuKRW": {
+        "min": 10000,
+        "typical": 14000,
+        "max": 18000,
+        "n": 3,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -3181,7 +3285,14 @@
     ],
     "price": {
       "level": 4,
-      "note": "Le Goûter SIGNIEL 170,000원 per set; Lunch Break 80,000원"
+      "note": "Le Goûter SIGNIEL 170,000원 per set; Lunch Break 80,000원",
+      "menuKRW": {
+        "min": 20000,
+        "typical": 35000,
+        "max": 200000,
+        "n": 6,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -3332,7 +3443,7 @@
     },
     "ratings": {
       "tripadvisor": {
-        "score": 5.0,
+        "score": 5,
         "count": 49,
         "rank": "#67 of 23,678 Restaurants in Seoul",
         "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d14832409-Reviews-The_Lounge-Seoul.html"
@@ -3380,7 +3491,14 @@
     ],
     "price": {
       "level": 4,
-      "note": "Afternoon tea from 120,000원; dim-sum set from 85,000원"
+      "note": "Afternoon tea from 120,000원; dim-sum set from 85,000원",
+      "menuKRW": {
+        "min": 30000,
+        "typical": 33000,
+        "max": 33000,
+        "n": 2,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -3580,7 +3698,14 @@
     ],
     "price": {
       "level": 4,
-      "note": "Lunch sets 120,000–160,000원"
+      "note": "Lunch sets 120,000–160,000원",
+      "menuKRW": {
+        "min": 43000,
+        "typical": 49000,
+        "max": 53000,
+        "n": 3,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -3923,6 +4048,11 @@
           "특별한 메뉴가 있어요"
         ],
         "url": "https://m.place.naver.com/restaurant/1248761544/home"
+      },
+      "kakao": {
+        "score": 4.4,
+        "count": 37,
+        "url": "https://place.map.kakao.com/861679655"
       }
     },
     "reviews": [
@@ -3946,7 +4076,14 @@
       "perPersonKRW": [
         5000,
         12000
-      ]
+      ],
+      "menuKRW": {
+        "min": 4100,
+        "typical": 4800,
+        "max": 5200,
+        "n": 3,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -4110,6 +4247,11 @@
           "음료가 맛있어요"
         ],
         "url": "https://m.place.naver.com/restaurant/1591374273/home"
+      },
+      "kakao": {
+        "score": 4.3,
+        "count": 55,
+        "url": "https://place.map.kakao.com/257370402"
       }
     },
     "reviews": [
@@ -4134,7 +4276,14 @@
         4000,
         15000
       ],
-      "note": "Americano 4,000원; desserts 5,700–9,800원"
+      "note": "Americano 4,000원; desserts 5,700–9,800원",
+      "menuKRW": {
+        "min": 4000,
+        "typical": 5500,
+        "max": 9800,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -4291,6 +4440,11 @@
           "인테리어가 멋져요"
         ],
         "url": "https://m.place.naver.com/restaurant/35581494/home"
+      },
+      "kakao": {
+        "score": 3.8,
+        "count": 198,
+        "url": "https://place.map.kakao.com/26965232"
       }
     },
     "reviews": [
@@ -4315,7 +4469,14 @@
         10000,
         20000
       ],
-      "note": "Cakes 10,200–11,500원; macaron 3,600원"
+      "note": "Cakes 10,200–11,500원; macaron 3,600원",
+      "menuKRW": {
+        "min": 5500,
+        "typical": 9000,
+        "max": 9500,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -4523,7 +4684,14 @@
         6000,
         15000
       ],
-      "note": "Coffee 5,300–6,200원"
+      "note": "Coffee 5,300–6,200원",
+      "menuKRW": {
+        "min": 5300,
+        "typical": 6200,
+        "max": 6500,
+        "n": 3,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -4706,7 +4874,14 @@
       "perPersonKRW": [
         6000,
         12000
-      ]
+      ],
+      "menuKRW": {
+        "min": 5500,
+        "typical": 6500,
+        "max": 7000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -5055,6 +5230,11 @@
           "인테리어가 멋져요"
         ],
         "url": "https://m.place.naver.com/restaurant/1264577661/home"
+      },
+      "kakao": {
+        "score": 4.2,
+        "count": 142,
+        "url": "https://place.map.kakao.com/1315931257"
       }
     },
     "reviews": [
@@ -5081,7 +5261,14 @@
         5000,
         10000
       ],
-      "note": "Standard Starbucks prices"
+      "note": "Standard Starbucks prices",
+      "menuKRW": {
+        "min": 1000,
+        "typical": 5200,
+        "max": 10000,
+        "n": 5,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -5219,6 +5406,11 @@
           "가성비가 좋아요"
         ],
         "url": "https://m.place.naver.com/restaurant/33949546/home"
+      },
+      "kakao": {
+        "score": 2.4,
+        "count": 102,
+        "url": "https://place.map.kakao.com/23998451"
       }
     },
     "reviews": [
@@ -5242,7 +5434,14 @@
       "perPersonKRW": [
         5000,
         10000
-      ]
+      ],
+      "menuKRW": {
+        "min": 18000,
+        "typical": 18500,
+        "max": 18500,
+        "n": 2,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -5449,7 +5648,14 @@
         3000,
         10000
       ],
-      "note": "Breads 2,900–3,300원"
+      "note": "Breads 2,900–3,300원",
+      "menuKRW": {
+        "min": 1200,
+        "typical": 4600,
+        "max": 5800,
+        "n": 5,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -5784,6 +5990,11 @@
           "친절해요"
         ],
         "url": "https://m.place.naver.com/restaurant/1985330916/home"
+      },
+      "kakao": {
+        "score": 4.5,
+        "count": 36,
+        "url": "https://place.map.kakao.com/1561286469"
       }
     },
     "reviews": [
@@ -5808,7 +6019,14 @@
         7000,
         25000
       ],
-      "note": "Coffee 5,000–7,500원; pasta ~17,000원"
+      "note": "Coffee 5,000–7,500원; pasta ~17,000원",
+      "menuKRW": {
+        "min": 5000,
+        "typical": 5500,
+        "max": 5500,
+        "n": 2,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -5965,6 +6183,11 @@
           "가성비가 좋아요"
         ],
         "url": "https://m.place.naver.com/restaurant/1590797753/home"
+      },
+      "kakao": {
+        "score": 4,
+        "count": 63,
+        "url": "https://place.map.kakao.com/734902310"
       }
     },
     "reviews": [
@@ -5989,7 +6212,14 @@
         2000,
         6000
       ],
-      "note": "Milk loaf 6,000–11,000원; jams 8,000–9,000원"
+      "note": "Milk loaf 6,000–11,000원; jams 8,000–9,000원",
+      "menuKRW": {
+        "min": 6000,
+        "typical": 11000,
+        "max": 11000,
+        "n": 2,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {

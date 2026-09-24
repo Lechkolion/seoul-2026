@@ -73,6 +73,18 @@ export function priceLabel(level: number) {
   return '₩'.repeat(Math.max(1, Math.min(4, level)));
 }
 
+const kWon = (n: number) => (n >= 10000 ? `${Math.round(n / 1000)}k` : `${(n / 1000).toFixed(1).replace(/\.0$/, '')}k`);
+
+/** Compact real price for cards: per-person spend, else a typical menu item, else "Free". */
+export function priceShort(p: Place): string | null {
+  const pp = p.price.perPersonKRW;
+  if (pp && pp[0] > 0) return pp[0] === pp[1] ? `₩${kWon(pp[0])} pp` : `₩${kWon(pp[0])}–${kWon(pp[1])} pp`;
+  const m = p.price.menuKRW;
+  if (m && m.n >= 4) return `~₩${kWon(m.typical)}/item`;
+  if (/^free\b/i.test(p.price.note ?? '')) return 'Free';
+  return null;
+}
+
 export const PRICE_HINT: Record<number, string> = {
   1: 'under ₩15k',
   2: '₩15–40k',

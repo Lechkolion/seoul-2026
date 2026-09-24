@@ -61,6 +61,7 @@ export function ExplorePage() {
 
   const active: { key: string; label: string; clear: () => void }[] = [];
   f.badge.forEach((b) => active.push({ key: `b-${b}`, label: BADGE_LABEL[b], clear: () => update({ badge: f.badge.filter((x) => x !== b) }) }));
+  if (f.modern) active.push({ key: 'mod', label: 'Modern only', clear: () => update({ modern: false }) });
   if (f.chuseok) active.push({ key: 'chu', label: 'Open through Chuseok', clear: () => update({ chuseok: false }) });
   if (f.day) active.push({ key: 'day', label: `Open ${shortDate(f.day)}`, clear: () => update({ day: '' }) });
   if (f.time) active.push({ key: 'time', label: `≤ ${f.time} min`, clear: () => update({ time: 0 }) });

@@ -24,6 +24,9 @@ export const SORT_LABEL: Record<SortKey, string> = {
   name: 'Name A–Z',
 };
 
+/** Palaces, temples, hanok and other traditional heritage sights. */
+export const isHeritage = (p: Place) => p.tags.includes('palace') || (p.vibes.includes('traditional') && (p.category === 'sight' || p.category === 'event'));
+
 export interface Filters {
   q: string;
   cat: Category[];
@@ -35,12 +38,13 @@ export interface Filters {
   time: number; // max minutes (0 = any)
   day: TripDate | '';
   chuseok: boolean;
+  modern: boolean; // hide palaces / temples / hanok heritage
   badge: BadgeKey[];
   sort: SortKey;
 }
 
 export const EMPTY: Filters = {
-  q: '', cat: [], cuisine: [], vibe: [], tag: [], price: [], rating: 0, time: 0, day: '', chuseok: false, badge: [], sort: 'rating',
+  q: '', cat: [], cuisine: [], vibe: [], tag: [], price: [], rating: 0, time: 0, day: '', chuseok: false, modern: false, badge: [], sort: 'rating',
 };
 
 const list = (v: string | null) => (v ? v.split(',').filter(Boolean) : []);
@@ -57,6 +61,7 @@ export function parseFilters(sp: URLSearchParams): Filters {
     time: Number(sp.get('time')) || 0,
     day: (sp.get('day') as TripDate) || '',
     chuseok: sp.get('chuseok') === '1',
+    modern: sp.get('modern') === '1',
     badge: list(sp.get('badge')) as BadgeKey[],
     sort: (sp.get('sort') as SortKey) || 'rating',
   };
@@ -75,6 +80,7 @@ export function filtersToParams(f: Filters, keep?: URLSearchParams): URLSearchPa
   if (f.time) sp.set('time', String(f.time));
   if (f.day) sp.set('day', f.day);
   if (f.chuseok) sp.set('chuseok', '1');
+  if (f.modern) sp.set('modern', '1');
   if (f.badge.length) sp.set('badge', f.badge.join(','));
   if (f.sort !== 'rating') sp.set('sort', f.sort);
   return sp;
@@ -82,7 +88,7 @@ export function filtersToParams(f: Filters, keep?: URLSearchParams): URLSearchPa
 
 /** Number of active refinements excluding search, category and sort (shown on the Filters button). */
 export function advancedCount(f: Filters) {
-  return f.cuisine.length + f.vibe.length + f.tag.length + f.price.length + (f.rating ? 1 : 0) + (f.time ? 1 : 0) + (f.day ? 1 : 0) + (f.chuseok ? 1 : 0) + f.badge.length;
+  return f.cuisine.length + f.vibe.length + f.tag.length + f.price.length + (f.rating ? 1 : 0) + (f.time ? 1 : 0) + (f.day ? 1 : 0) + (f.chuseok ? 1 : 0) + (f.modern ? 1 : 0) + f.badge.length;
 }
 
 export function hasBadge(p: Place, b: BadgeKey) {
@@ -148,6 +154,7 @@ export function applyFilters(places: Place[], f: Filters, fuse?: Fuse<Place>): P
     if (f.time && (p.route?.totalMin ?? 999) > f.time) return false;
     if (f.day && !isOpenOn(p, f.day)) return false;
     if (f.chuseok && !openThroughChuseok(p)) return false;
+    if (f.modern && isHeritage(p)) return false;
     if (f.badge.length && !f.badge.every((b) => hasBadge(p, b))) return false;
     return true;
   });

@@ -5,18 +5,38 @@
     "nameKo": "볼트 스테이크하우스",
     "category": "food",
     "subcategory": "Steakhouse",
-    "cuisine": ["Steakhouse", "American"],
-    "tags": ["reservation-needed", "group-friendly", "english-friendly", "indoor", "hotel"],
-    "vibes": ["luxe", "classic", "quiet"],
+    "cuisine": [
+      "Steakhouse",
+      "American"
+    ],
+    "tags": [
+      "reservation-needed",
+      "group-friendly",
+      "english-friendly",
+      "indoor",
+      "hotel"
+    ],
+    "vibes": [
+      "luxe",
+      "classic",
+      "quiet"
+    ],
     "summary": "USDA prime dry-aged steaks and a bank-vault-themed dining room tucked into a quiet Apgujeong side street.",
     "description": "Vault Steakhouse is a Michelin Guide-listed American-style steakhouse near Apgujeong, built around a bank-vault motif and USDA prime, antibiotic-free beef aged in-house. The room is dim, formal and quiet rather than buzzy, which suits a relaxed family dinner more than a night-out crowd. Alongside dry-aged porterhouse and ribeye, the kitchen runs a raw bar with oysters and seafood towers. It works well for a celebration dinner for five who want a proper steakhouse experience without crossing the river to Cheongdam's loudest spots.",
-    "highlights": ["Dry-aged porterhouse for two or more", "Raw bar oyster and seafood platter", "Curated red wine list"],
+    "highlights": [
+      "Dry-aged porterhouse for two or more",
+      "Raw bar oyster and seafood platter",
+      "Curated red wine list"
+    ],
     "tips": [
       "Book ahead — it is a small room and fills on weekend evenings.",
       "Weekday lunch service opens at noon and is quieter than dinner.",
       "Ask for a booth if you're a group of five; table sizes vary."
     ],
-    "badges": { "michelin": "selected", "familyFriendly": true },
+    "badges": {
+      "michelin": "selected",
+      "familyFriendly": true
+    },
     "ratings": {
       "tripadvisor": {
         "score": 3.9,
@@ -26,16 +46,59 @@
       }
     },
     "reviews": [
-      { "source": "Michelin", "text": "The MICHELIN Guide lists Vault for its USDA prime steaks and vault-themed dining room near Apgujeong.", "paraphrased": true, "lang": "en", "url": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/vault-steakhouse" },
-      { "source": "Blog", "text": "A visiting food writer called it a steakhouse you can bank on, praising the dry-aged cuts and quiet, formal room.", "paraphrased": true, "lang": "en", "url": "https://travel-stained.com/vault-steakhouse-seoul/" }
+      {
+        "source": "Michelin",
+        "text": "The MICHELIN Guide lists Vault for its USDA prime steaks and vault-themed dining room near Apgujeong.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/vault-steakhouse"
+      },
+      {
+        "source": "Blog",
+        "text": "A visiting food writer called it a steakhouse you can bank on, praising the dry-aged cuts and quiet, formal room.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://travel-stained.com/vault-steakhouse-seoul/"
+      }
     ],
-    "price": { "level": 4, "note": "Steaks and courses priced per cut; expect ₩100,000+ per person with wine" },
-    "hours": { "weekly": { "mon": "12:00-22:00", "tue": "12:00-22:00", "wed": "12:00-22:00", "thu": "12:00-22:00", "fri": "12:00-22:00", "sat": "11:00-22:00", "sun": "11:00-22:00" }, "note": "Hours from listings; call ahead to confirm." },
-    "tripDays": {
-      "2026-09-23": "open", "2026-09-24": "unknown", "2026-09-25": "unknown", "2026-09-26": "unknown",
-      "2026-09-27": "open", "2026-09-28": "open", "2026-09-29": "open", "2026-09-30": "open"
+    "price": {
+      "level": 4,
+      "note": "Steaks and courses priced per cut; expect ₩100,000+ per person with wine",
+      "menuKRW": {
+        "min": 5000,
+        "typical": 32000,
+        "max": 34000,
+        "n": 5,
+        "source": "Kakao Map menu"
+      }
     },
-    "chuseok": { "status": "unknown", "note": "No 2026 Chuseok notice found. Small independent restaurants often shorten hours or close on Chuseok day (25th) — call or check Instagram before going.", "verified": false },
+    "hours": {
+      "weekly": {
+        "mon": "12:00-22:00",
+        "tue": "12:00-22:00",
+        "wed": "12:00-22:00",
+        "thu": "12:00-22:00",
+        "fri": "12:00-22:00",
+        "sat": "11:00-22:00",
+        "sun": "11:00-22:00"
+      },
+      "note": "Hours from listings; call ahead to confirm."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "unknown",
+      "2026-09-25": "unknown",
+      "2026-09-26": "unknown",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found. Small independent restaurants often shorten hours or close on Chuseok day (25th) — call or check Instagram before going.",
+      "verified": false
+    },
     "location": {
       "address": "2F, 22 Apgujeong-ro 72-gil, Gangnam-gu, Seoul",
       "addressKo": "서울 강남구 압구정로72길 22 2층",
@@ -43,7 +106,15 @@
       "neighborhood": "Cheongdam",
       "lat": 37.5250065,
       "lng": 127.044974,
-      "nearestStation": { "name": "Apgujeong Rodeo", "nameKo": "압구정로데오역", "lines": ["SUIN"], "exit": "Exit 4", "walkMin": 11 }
+      "nearestStation": {
+        "name": "Apgujeong Rodeo",
+        "nameKo": "압구정로데오역",
+        "lines": [
+          "SUIN"
+        ],
+        "exit": "Exit 4",
+        "walkMin": 11
+      }
     },
     "links": {
       "naverMap": "https://map.naver.com/p/search/%EB%B3%BC%ED%8A%B8%20%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%81%AC%ED%95%98%EC%9A%B0%EC%8A%A4",
@@ -52,14 +123,37 @@
       "phone": "+82-2-544-9235"
     },
     "images": [
-      { "url": "https://img02.restaurantguru.com/cb16-Pub-and-bar-Vault-Steakhouse-interior.jpg", "source": "https://restaurantguru.com/Vault-Steakhouse-Seoul", "credit": "Restaurant Guru", "alt": "Vault Steakhouse dining room in Apgujeong" },
-      { "url": "https://img02.restaurantguru.com/c622-Vault-Steakhouse-Seoul-food.jpg", "source": "https://restaurantguru.com/Vault-Steakhouse-Seoul", "credit": "Restaurant Guru", "alt": "Steak dish at Vault Steakhouse" },
-      { "url": "https://img02.restaurantguru.com/c4c3-Vault-Steakhouse-Seoul-oysters.jpg", "source": "https://restaurantguru.com/Vault-Steakhouse-Seoul", "credit": "Restaurant Guru", "alt": "Oysters at Vault Steakhouse raw bar" }
+      {
+        "url": "https://img02.restaurantguru.com/cb16-Pub-and-bar-Vault-Steakhouse-interior.jpg",
+        "source": "https://restaurantguru.com/Vault-Steakhouse-Seoul",
+        "credit": "Restaurant Guru",
+        "alt": "Vault Steakhouse dining room in Apgujeong"
+      },
+      {
+        "url": "https://img02.restaurantguru.com/c622-Vault-Steakhouse-Seoul-food.jpg",
+        "source": "https://restaurantguru.com/Vault-Steakhouse-Seoul",
+        "credit": "Restaurant Guru",
+        "alt": "Steak dish at Vault Steakhouse"
+      },
+      {
+        "url": "https://img02.restaurantguru.com/c4c3-Vault-Steakhouse-Seoul-oysters.jpg",
+        "source": "https://restaurantguru.com/Vault-Steakhouse-Seoul",
+        "credit": "Restaurant Guru",
+        "alt": "Oysters at Vault Steakhouse raw bar"
+      }
     ],
     "duration": "1.5-2 h",
     "bestTime": "Weekday dinner",
-    "goodFor": ["Family of 5", "Parents", "Celebration", "Date"],
-    "reservation": { "recommended": true, "how": "Phone or CatchTable" },
+    "goodFor": [
+      "Family of 5",
+      "Parents",
+      "Celebration",
+      "Date"
+    ],
+    "reservation": {
+      "recommended": true,
+      "how": "Phone or CatchTable"
+    },
     "sources": [
       "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/vault-steakhouse",
       "https://www.tripadvisor.com/Restaurant_Review-g294197-d8926120-Reviews-Vault_Steakhouse-Seoul.html",
@@ -73,32 +167,79 @@
     "nameKo": "킹콩스테이크",
     "category": "food",
     "subcategory": "Steakhouse",
-    "cuisine": ["Steakhouse"],
-    "tags": ["value", "group-friendly", "indoor", "local-favorite"],
-    "vibes": ["cozy", "classic"],
+    "cuisine": [
+      "Steakhouse"
+    ],
+    "tags": [
+      "value",
+      "group-friendly",
+      "indoor",
+      "local-favorite"
+    ],
+    "vibes": [
+      "cozy",
+      "classic"
+    ],
     "summary": "Friendly neighborhood steakhouse near Garosugil serving generous cuts at far gentler prices than Cheongdam's big names.",
     "description": "Kingkong Steak is a casual, value-priced steakhouse tucked near Sinsa's Garosugil, popular with locals for big portions of grilled steak without the fine-dining markup. The room is simple and unpretentious — a good option when the group wants a hearty Western meal without a formal reservation battle. It is a solid 가성비 (value) pick to pair with an afternoon browsing Garosugil's boutiques. Expect a neighborhood-restaurant feel rather than a special-occasion one.",
-    "highlights": ["Grilled sirloin and tenderloin sets", "Garlic rice and side dishes", "Casual walk-in seating"],
-    "tips": ["Go for lunch to avoid the dinner rush.", "Cash or card both accepted; no English menu guaranteed — point at photos on the menu board."],
-    "badges": { "valueForMoney": true },
+    "highlights": [
+      "Grilled sirloin and tenderloin sets",
+      "Garlic rice and side dishes",
+      "Casual walk-in seating"
+    ],
+    "tips": [
+      "Go for lunch to avoid the dinner rush.",
+      "Cash or card both accepted; no English menu guaranteed — point at photos on the menu board."
+    ],
+    "badges": {
+      "valueForMoney": true
+    },
     "ratings": {
       "tripadvisor": {
-        "score": 4.0,
+        "score": 4,
         "rank": "#1,415 of 19,316 Restaurants in Seoul",
         "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d9429653-Reviews-Kingkong_Steak-Seoul.html"
       }
     },
     "reviews": [
-      { "source": "TripAdvisor", "text": "Reviewers describe generous steak portions at friendly prices in a no-frills neighborhood setting near Sinsa.", "paraphrased": true, "lang": "en", "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d9429653-Reviews-Kingkong_Steak-Seoul.html" },
-      { "source": "Blog", "text": "Restaurant Guru lists it among Gangnam's steakhouses for its straightforward, no-frills approach to grilled meat.", "paraphrased": true, "lang": "en", "url": "https://restaurantguru.com/Kingkong-Steak-Seoul" }
+      {
+        "source": "TripAdvisor",
+        "text": "Reviewers describe generous steak portions at friendly prices in a no-frills neighborhood setting near Sinsa.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d9429653-Reviews-Kingkong_Steak-Seoul.html"
+      },
+      {
+        "source": "Blog",
+        "text": "Restaurant Guru lists it among Gangnam's steakhouses for its straightforward, no-frills approach to grilled meat.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://restaurantguru.com/Kingkong-Steak-Seoul"
+      }
     ],
-    "price": { "level": 2, "note": "Casual steak sets, well below Cheongdam steakhouse prices" },
-    "hours": { "weekly": {}, "note": "Exact hours not confirmed online — check Naver Map or call ahead." },
-    "tripDays": {
-      "2026-09-23": "unknown", "2026-09-24": "unknown", "2026-09-25": "unknown", "2026-09-26": "unknown",
-      "2026-09-27": "unknown", "2026-09-28": "unknown", "2026-09-29": "unknown", "2026-09-30": "unknown"
+    "price": {
+      "level": 2,
+      "note": "Casual steak sets, well below Cheongdam steakhouse prices"
     },
-    "chuseok": { "status": "unknown", "note": "No hours or 2026 Chuseok notice confirmed online for this small local restaurant. Call ahead before visiting during the holiday window.", "verified": false },
+    "hours": {
+      "weekly": {},
+      "note": "Exact hours not confirmed online — check Naver Map or call ahead."
+    },
+    "tripDays": {
+      "2026-09-23": "unknown",
+      "2026-09-24": "unknown",
+      "2026-09-25": "unknown",
+      "2026-09-26": "unknown",
+      "2026-09-27": "unknown",
+      "2026-09-28": "unknown",
+      "2026-09-29": "unknown",
+      "2026-09-30": "unknown"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No hours or 2026 Chuseok notice confirmed online for this small local restaurant. Call ahead before visiting during the holiday window.",
+      "verified": false
+    },
     "location": {
       "address": "69 Nonhyeon-ro 175-gil, Gangnam-gu, Seoul",
       "addressKo": "서울 강남구 논현로175길 69",
@@ -106,7 +247,15 @@
       "neighborhood": "Sinsa / Garosugil",
       "lat": 37.5238708,
       "lng": 127.023462,
-      "nearestStation": { "name": "Sinsa", "nameKo": "신사역", "lines": ["3"], "exit": "Exit 8", "walkMin": 12 }
+      "nearestStation": {
+        "name": "Sinsa",
+        "nameKo": "신사역",
+        "lines": [
+          "3"
+        ],
+        "exit": "Exit 8",
+        "walkMin": 12
+      }
     },
     "links": {
       "naverMap": "https://map.naver.com/p/search/%ED%82%B9%EC%BD%A9%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%81%AC",
@@ -114,13 +263,32 @@
       "tripadvisor": "https://www.tripadvisor.com/Restaurant_Review-g294197-d9429653-Reviews-Kingkong_Steak-Seoul.html"
     },
     "images": [
-      { "url": "https://img02.restaurantguru.com/c26c-Steakhouse-King-Kong-Steak-exterior.jpg", "source": "https://restaurantguru.com/Kingkong-Steak-Seoul", "credit": "Restaurant Guru", "alt": "Kingkong Steak exterior near Sinsa" },
-      { "url": "https://img02.restaurantguru.com/c852-King-Kong-Steak-Seoul-meat-1.jpg", "source": "https://restaurantguru.com/Kingkong-Steak-Seoul", "credit": "Restaurant Guru", "alt": "Grilled steak plate at Kingkong Steak" },
-      { "url": "https://img02.restaurantguru.com/cce8-meat-King-Kong-Steak.jpg", "source": "https://restaurantguru.com/Kingkong-Steak-Seoul", "credit": "Restaurant Guru", "alt": "Steak dish at Kingkong Steak" }
+      {
+        "url": "https://img02.restaurantguru.com/c26c-Steakhouse-King-Kong-Steak-exterior.jpg",
+        "source": "https://restaurantguru.com/Kingkong-Steak-Seoul",
+        "credit": "Restaurant Guru",
+        "alt": "Kingkong Steak exterior near Sinsa"
+      },
+      {
+        "url": "https://img02.restaurantguru.com/c852-King-Kong-Steak-Seoul-meat-1.jpg",
+        "source": "https://restaurantguru.com/Kingkong-Steak-Seoul",
+        "credit": "Restaurant Guru",
+        "alt": "Grilled steak plate at Kingkong Steak"
+      },
+      {
+        "url": "https://img02.restaurantguru.com/cce8-meat-King-Kong-Steak.jpg",
+        "source": "https://restaurantguru.com/Kingkong-Steak-Seoul",
+        "credit": "Restaurant Guru",
+        "alt": "Steak dish at Kingkong Steak"
+      }
     ],
     "duration": "1-1.5 h",
     "bestTime": "Lunch",
-    "goodFor": ["Family of 5", "Quick bite", "Foodies"],
+    "goodFor": [
+      "Family of 5",
+      "Quick bite",
+      "Foodies"
+    ],
     "sources": [
       "https://www.tripadvisor.com/Restaurant_Review-g294197-d9429653-Reviews-Kingkong_Steak-Seoul.html"
     ],
@@ -132,14 +300,37 @@
     "nameKo": "보르고 한남",
     "category": "food",
     "subcategory": "Italian",
-    "cuisine": ["Italian"],
-    "tags": ["reservation-needed", "hidden-gem", "english-friendly", "indoor"],
-    "vibes": ["cozy", "romantic", "classic"],
+    "cuisine": [
+      "Italian"
+    ],
+    "tags": [
+      "reservation-needed",
+      "hidden-gem",
+      "english-friendly",
+      "indoor"
+    ],
+    "vibes": [
+      "cozy",
+      "romantic",
+      "classic"
+    ],
     "summary": "Warm, regional Italian cooking from a chef-owner in a small Hannam dining room — one of Seoul's best-loved trattorias.",
     "description": "Borgo Hannam is a small, chef-driven trattoria that mixes regional Italian dishes with genuine warmth — reviewers consistently call out owner Antonio's hospitality alongside the sea bream crudo, fried zucchini flowers and black-truffle pizza. It is intimate rather than flashy, with an unmarked entrance typical of Hannam's quieter dining scene. Because it is small, book ahead for a group of five and expect a leisurely, conversation-friendly pace rather than a quick turnover. It suits the parents' taste for comfort and quality over spectacle.",
-    "highlights": ["Orata (sea bream) crudo", "Trifola mushroom and black truffle cream pizza", "Fried zucchini flowers", "House-made spaghettini"],
-    "tips": ["Book several days ahead — it's a small room and a foreigner favorite.", "Ask the owner for wine pairing suggestions; the list rotates.", "Good for a relaxed date-night-style dinner rather than a big celebratory blowout."],
-    "badges": { "hiddenGem": true, "familyFriendly": true },
+    "highlights": [
+      "Orata (sea bream) crudo",
+      "Trifola mushroom and black truffle cream pizza",
+      "Fried zucchini flowers",
+      "House-made spaghettini"
+    ],
+    "tips": [
+      "Book several days ahead — it's a small room and a foreigner favorite.",
+      "Ask the owner for wine pairing suggestions; the list rotates.",
+      "Good for a relaxed date-night-style dinner rather than a big celebratory blowout."
+    ],
+    "badges": {
+      "hiddenGem": true,
+      "familyFriendly": true
+    },
     "ratings": {
       "tripadvisor": {
         "score": 4.8,
@@ -149,16 +340,44 @@
       }
     },
     "reviews": [
-      { "source": "TripAdvisor", "text": "Reviewers praise the welcoming owner-chef and authentic, beautifully plated regional Italian dishes.", "paraphrased": true, "lang": "en", "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d20054976-Reviews-Borgo_Hannam-Seoul.html" },
-      { "source": "Blog", "text": "A Seoul food blogger highlighted the sea bream crudo and truffle pizza as standout dishes worth the trip to Hannam.", "paraphrased": true, "lang": "en", "url": "https://www.ngoyourmeal.com/reviews/2021/9/borgo-hannam-italian-in-seoul" }
+      {
+        "source": "TripAdvisor",
+        "text": "Reviewers praise the welcoming owner-chef and authentic, beautifully plated regional Italian dishes.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d20054976-Reviews-Borgo_Hannam-Seoul.html"
+      },
+      {
+        "source": "Blog",
+        "text": "A Seoul food blogger highlighted the sea bream crudo and truffle pizza as standout dishes worth the trip to Hannam.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.ngoyourmeal.com/reviews/2021/9/borgo-hannam-italian-in-seoul"
+      }
     ],
-    "price": { "level": 3, "note": "Shared plates and pizza; a dinner for five typically runs mid-range per person" },
-    "hours": { "weekly": {}, "note": "Exact daily hours not fully confirmed online — check Naver Map or call ahead; likely closed one weekday." },
-    "tripDays": {
-      "2026-09-23": "unknown", "2026-09-24": "unknown", "2026-09-25": "unknown", "2026-09-26": "unknown",
-      "2026-09-27": "unknown", "2026-09-28": "unknown", "2026-09-29": "unknown", "2026-09-30": "unknown"
+    "price": {
+      "level": 3,
+      "note": "Shared plates and pizza; a dinner for five typically runs mid-range per person"
     },
-    "chuseok": { "status": "unknown", "note": "No 2026 Chuseok notice found for this small independent restaurant. Many similar Hannam trattorias close on Chuseok day (25th) — call ahead.", "verified": false },
+    "hours": {
+      "weekly": {},
+      "note": "Exact daily hours not fully confirmed online — check Naver Map or call ahead; likely closed one weekday."
+    },
+    "tripDays": {
+      "2026-09-23": "unknown",
+      "2026-09-24": "unknown",
+      "2026-09-25": "unknown",
+      "2026-09-26": "unknown",
+      "2026-09-27": "unknown",
+      "2026-09-28": "unknown",
+      "2026-09-29": "unknown",
+      "2026-09-30": "unknown"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found for this small independent restaurant. Many similar Hannam trattorias close on Chuseok day (25th) — call ahead.",
+      "verified": false
+    },
     "location": {
       "address": "Hannam-dong, Yongsan-gu, Seoul",
       "addressKo": "서울 용산구 한남동",
@@ -166,7 +385,15 @@
       "neighborhood": "Hannam",
       "lat": 37.5382,
       "lng": 127.0074,
-      "nearestStation": { "name": "Hangangjin", "nameKo": "한강진역", "lines": ["6"], "exit": "Exit 3", "walkMin": 10 }
+      "nearestStation": {
+        "name": "Hangangjin",
+        "nameKo": "한강진역",
+        "lines": [
+          "6"
+        ],
+        "exit": "Exit 3",
+        "walkMin": 10
+      }
     },
     "links": {
       "naverMap": "https://map.naver.com/p/search/%EB%B3%B4%EB%A5%B4%EA%B3%A0%20%ED%95%9C%EB%82%A8",
@@ -174,15 +401,43 @@
       "tripadvisor": "https://www.tripadvisor.com/Restaurant_Review-g294197-d20054976-Reviews-Borgo_Hannam-Seoul.html"
     },
     "images": [
-      { "url": "https://images.squarespace-cdn.com/content/v1/5c311ba2697a98937f5a1a98/1632789663960-HLGU4GJN2Q94H8GV3JEV/Orata-Sea-Bream-Crudo-at-Borgo-Hannam-in-South-Korea-2.jpg", "source": "https://www.ngoyourmeal.com/reviews/2021/9/borgo-hannam-italian-in-seoul", "credit": "Ngo Your Meal blog", "alt": "Sea bream crudo at Borgo Hannam" },
-      { "url": "https://images.squarespace-cdn.com/content/v1/5c311ba2697a98937f5a1a98/1632789657473-I7G7SG974XQGSLTMPPC7/Borgo-Hannam-Entrance-at-Borgo-Hannam-in-South-Korea.jpg", "source": "https://www.ngoyourmeal.com/reviews/2021/9/borgo-hannam-italian-in-seoul", "credit": "Ngo Your Meal blog", "alt": "Borgo Hannam entrance" },
-      { "url": "https://images.squarespace-cdn.com/content/v1/5c311ba2697a98937f5a1a98/1632789800138-1W3B9TWRGRGZ0RJ8MDM6/Borgo-Hannam-Dining-Area-at-Borgo-Hannam-in-South-Korea.jpg", "source": "https://www.ngoyourmeal.com/reviews/2021/9/borgo-hannam-italian-in-seoul", "credit": "Ngo Your Meal blog", "alt": "Borgo Hannam dining room" },
-      { "url": "https://images.squarespace-cdn.com/content/v1/5c311ba2697a98937f5a1a98/1632789862159-VP6VRI0LNAX4X6G8Z0LF/Trifola-Mushroom-Black-Truffle-Cream-Pizza-at-Borgo-Hannam-in-South-Korea.jpg", "source": "https://www.ngoyourmeal.com/reviews/2021/9/borgo-hannam-italian-in-seoul", "credit": "Ngo Your Meal blog", "alt": "Black truffle cream pizza at Borgo Hannam" }
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5c311ba2697a98937f5a1a98/1632789663960-HLGU4GJN2Q94H8GV3JEV/Orata-Sea-Bream-Crudo-at-Borgo-Hannam-in-South-Korea-2.jpg",
+        "source": "https://www.ngoyourmeal.com/reviews/2021/9/borgo-hannam-italian-in-seoul",
+        "credit": "Ngo Your Meal blog",
+        "alt": "Sea bream crudo at Borgo Hannam"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5c311ba2697a98937f5a1a98/1632789657473-I7G7SG974XQGSLTMPPC7/Borgo-Hannam-Entrance-at-Borgo-Hannam-in-South-Korea.jpg",
+        "source": "https://www.ngoyourmeal.com/reviews/2021/9/borgo-hannam-italian-in-seoul",
+        "credit": "Ngo Your Meal blog",
+        "alt": "Borgo Hannam entrance"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5c311ba2697a98937f5a1a98/1632789800138-1W3B9TWRGRGZ0RJ8MDM6/Borgo-Hannam-Dining-Area-at-Borgo-Hannam-in-South-Korea.jpg",
+        "source": "https://www.ngoyourmeal.com/reviews/2021/9/borgo-hannam-italian-in-seoul",
+        "credit": "Ngo Your Meal blog",
+        "alt": "Borgo Hannam dining room"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5c311ba2697a98937f5a1a98/1632789862159-VP6VRI0LNAX4X6G8Z0LF/Trifola-Mushroom-Black-Truffle-Cream-Pizza-at-Borgo-Hannam-in-South-Korea.jpg",
+        "source": "https://www.ngoyourmeal.com/reviews/2021/9/borgo-hannam-italian-in-seoul",
+        "credit": "Ngo Your Meal blog",
+        "alt": "Black truffle cream pizza at Borgo Hannam"
+      }
     ],
     "duration": "1.5-2 h",
     "bestTime": "Weeknight dinner",
-    "goodFor": ["Date", "Parents", "Foodies", "Celebration"],
-    "reservation": { "recommended": true, "how": "Phone or Naver reservation, book several days ahead" },
+    "goodFor": [
+      "Date",
+      "Parents",
+      "Foodies",
+      "Celebration"
+    ],
+    "reservation": {
+      "recommended": true,
+      "how": "Phone or Naver reservation, book several days ahead"
+    },
     "sources": [
       "https://www.tripadvisor.com/Restaurant_Review-g294197-d20054976-Reviews-Borgo_Hannam-Seoul.html",
       "https://www.ngoyourmeal.com/reviews/2021/9/borgo-hannam-italian-in-seoul"
@@ -195,33 +450,82 @@
     "nameKo": "라보카",
     "category": "food",
     "subcategory": "Italian",
-    "cuisine": ["Italian"],
-    "tags": ["value", "local-favorite", "english-friendly", "indoor", "group-friendly"],
-    "vibes": ["cozy", "classic"],
+    "cuisine": [
+      "Italian"
+    ],
+    "tags": [
+      "value",
+      "local-favorite",
+      "english-friendly",
+      "indoor",
+      "group-friendly"
+    ],
+    "vibes": [
+      "cozy",
+      "classic"
+    ],
     "summary": "Long-running, no-fuss Itaewon Italian spot for pastas, paninis and dessert from the team behind Sortino's.",
     "description": "La Bocca is a small, easygoing Italian restaurant on upper Itaewon-ro, run by the same owners as neighborhood favorite Sortino's, serving pastas, paninis and a short dessert menu. It has been a steady local pick for years rather than a trendy destination, which makes it a relaxed, low-effort lunch or dinner stop while exploring Itaewon. The interior is simple and casual — good for a group that wants comfort food without ceremony. It's an easy value add-on to a day around Itaewon or Hannam.",
-    "highlights": ["Grilled panini sandwiches", "Classic pasta dishes", "Dessert menu"],
-    "tips": ["Good fallback option in Itaewon when queues elsewhere are too long.", "Casual dress and walk-ins are fine for smaller parties; call ahead for five."],
-    "badges": { "valueForMoney": true, "localFavorite": true },
+    "highlights": [
+      "Grilled panini sandwiches",
+      "Classic pasta dishes",
+      "Dessert menu"
+    ],
+    "tips": [
+      "Good fallback option in Itaewon when queues elsewhere are too long.",
+      "Casual dress and walk-ins are fine for smaller parties; call ahead for five."
+    ],
+    "badges": {
+      "valueForMoney": true,
+      "localFavorite": true
+    },
     "ratings": {
       "tripadvisor": {
-        "score": 4.0,
+        "score": 4,
         "count": 7,
         "rank": "#3,600 of 26,622 Restaurants in Seoul",
         "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d7748282-Reviews-La_Bocca-Seoul.html"
       }
     },
     "reviews": [
-      { "source": "TripAdvisor", "text": "Long-time visitors call it a reliable, unpretentious Italian spot for pasta and paninis in Itaewon.", "paraphrased": true, "lang": "en", "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d7748282-Reviews-La_Bocca-Seoul.html" },
-      { "source": "Blog", "text": "A long-time Seoul food blog notes La Bocca is run by the team behind neighborhood favorite Sortino's and has been a steady Itaewon fixture for pasta and paninis for years.", "paraphrased": true, "lang": "en", "url": "https://www.seouleats.com/2009/03/la-bocca-itaewon-restaurant-story-by.html" }
+      {
+        "source": "TripAdvisor",
+        "text": "Long-time visitors call it a reliable, unpretentious Italian spot for pasta and paninis in Itaewon.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d7748282-Reviews-La_Bocca-Seoul.html"
+      },
+      {
+        "source": "Blog",
+        "text": "A long-time Seoul food blog notes La Bocca is run by the team behind neighborhood favorite Sortino's and has been a steady Itaewon fixture for pasta and paninis for years.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.seouleats.com/2009/03/la-bocca-itaewon-restaurant-story-by.html"
+      }
     ],
-    "price": { "level": 2, "note": "Pastas and paninis at casual, mid-range prices" },
-    "hours": { "weekly": {}, "note": "Hours not fully confirmed online — check Naver Map before visiting." },
-    "tripDays": {
-      "2026-09-23": "unknown", "2026-09-24": "unknown", "2026-09-25": "unknown", "2026-09-26": "unknown",
-      "2026-09-27": "unknown", "2026-09-28": "unknown", "2026-09-29": "unknown", "2026-09-30": "unknown"
+    "price": {
+      "level": 2,
+      "note": "Pastas and paninis at casual, mid-range prices"
     },
-    "chuseok": { "status": "unknown", "note": "No 2026 Chuseok notice found. Small Itaewon restaurants often stay open through the holiday for the expat crowd, but call ahead to confirm.", "verified": false },
+    "hours": {
+      "weekly": {},
+      "note": "Hours not fully confirmed online — check Naver Map before visiting."
+    },
+    "tripDays": {
+      "2026-09-23": "unknown",
+      "2026-09-24": "unknown",
+      "2026-09-25": "unknown",
+      "2026-09-26": "unknown",
+      "2026-09-27": "unknown",
+      "2026-09-28": "unknown",
+      "2026-09-29": "unknown",
+      "2026-09-30": "unknown"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found. Small Itaewon restaurants often stay open through the holiday for the expat crowd, but call ahead to confirm.",
+      "verified": false
+    },
     "location": {
       "address": "211 Itaewon-ro, Yongsan-gu, Seoul",
       "addressKo": "서울 용산구 이태원로 211",
@@ -229,7 +533,15 @@
       "neighborhood": "Itaewon",
       "lat": 37.534879,
       "lng": 126.997322,
-      "nearestStation": { "name": "Itaewon", "nameKo": "이태원역", "lines": ["6"], "exit": "Exit 1", "walkMin": 6 }
+      "nearestStation": {
+        "name": "Itaewon",
+        "nameKo": "이태원역",
+        "lines": [
+          "6"
+        ],
+        "exit": "Exit 1",
+        "walkMin": 6
+      }
     },
     "links": {
       "naverMap": "https://map.naver.com/p/search/%EB%9D%BC%EB%B3%B4%EC%B9%B4%20%EC%9D%B4%ED%83%9C%EC%9B%90",
@@ -238,12 +550,26 @@
       "phone": "+82-2-790-5907"
     },
     "images": [
-      { "url": "https://img02.restaurantguru.com/cc78-Restaurant-LA-BOCCA-food.jpg", "source": "https://restaurantguru.com/La-Bocca-Seoul", "credit": "Restaurant Guru", "alt": "Dish at La Bocca Itaewon" },
-      { "url": "https://img02.restaurantguru.com/c68c-Restaurant-LA-BOCCA-interior.jpg", "source": "https://restaurantguru.com/La-Bocca-Seoul", "credit": "Restaurant Guru", "alt": "La Bocca interior" }
+      {
+        "url": "https://img02.restaurantguru.com/cc78-Restaurant-LA-BOCCA-food.jpg",
+        "source": "https://restaurantguru.com/La-Bocca-Seoul",
+        "credit": "Restaurant Guru",
+        "alt": "Dish at La Bocca Itaewon"
+      },
+      {
+        "url": "https://img02.restaurantguru.com/c68c-Restaurant-LA-BOCCA-interior.jpg",
+        "source": "https://restaurantguru.com/La-Bocca-Seoul",
+        "credit": "Restaurant Guru",
+        "alt": "La Bocca interior"
+      }
     ],
     "duration": "1-1.5 h",
     "bestTime": "Weekday lunch",
-    "goodFor": ["Family of 5", "Quick bite", "First-timers"],
+    "goodFor": [
+      "Family of 5",
+      "Quick bite",
+      "First-timers"
+    ],
     "sources": [
       "https://www.tripadvisor.com/Restaurant_Review-g294197-d7748282-Reviews-La_Bocca-Seoul.html"
     ],
@@ -255,14 +581,36 @@
     "nameKo": "기러기둥지",
     "category": "food",
     "subcategory": "Wine bistro",
-    "cuisine": ["Modern / fusion"],
-    "tags": ["wine", "reservation-needed", "hidden-gem", "instagrammable", "indoor"],
-    "vibes": ["cozy", "retro", "romantic"],
+    "cuisine": [
+      "Modern / fusion"
+    ],
+    "tags": [
+      "wine",
+      "reservation-needed",
+      "hidden-gem",
+      "instagrammable",
+      "indoor"
+    ],
+    "vibes": [
+      "cozy",
+      "retro",
+      "romantic"
+    ],
     "summary": "A vintage, craftsman's-house wine bistro in Seongsu pairing curated bottles with beef tartare and cheese plates.",
     "description": "Nest of Goose is a small wine bistro in Seongsu built around a cozy, antique-filled interior that reviewers describe as one of the neighborhood's hidden jewels. The kitchen keeps things simple and well executed — beef tartare, cheese plates and shareable small dishes designed to go with the wine list rather than steal the show. Every table is required to order at least one bottle, so it suits a relaxed, unhurried evening rather than a quick meal. It's an easy pairing with an afternoon of Seongsu gallery- and café-hopping.",
-    "highlights": ["Beef tartare", "Curated cheese plate", "Bottle-focused wine list"],
-    "tips": ["Reserve ahead — it's a small room and each table orders at least one bottle of wine.", "Best after 7pm once the room fills with candlelight atmosphere.", "5-minute walk from Seongsu Station Exit 4 — easy to pair with Seongsu café-hopping."],
-    "badges": { "hiddenGem": true },
+    "highlights": [
+      "Beef tartare",
+      "Curated cheese plate",
+      "Bottle-focused wine list"
+    ],
+    "tips": [
+      "Reserve ahead — it's a small room and each table orders at least one bottle of wine.",
+      "Best after 7pm once the room fills with candlelight atmosphere.",
+      "5-minute walk from Seongsu Station Exit 4 — easy to pair with Seongsu café-hopping."
+    ],
+    "badges": {
+      "hiddenGem": true
+    },
     "ratings": {
       "tripadvisor": {
         "score": 4.8,
@@ -271,16 +619,51 @@
       }
     },
     "reviews": [
-      { "source": "TripAdvisor", "text": "One visitor called it a jewel in Seongsu-dong, praising the cozy vintage atmosphere and curated wine list.", "paraphrased": true, "lang": "en", "url": "https://www.tripadvisor.com/ShowUserReviews-g294197-d19085900-r830900207-Nest_of_Goose-Seoul.html" },
-      { "source": "Blog", "text": "Restaurant Guru lists it among Seongsu's top-rated wine bistros, calling out the beef tartare and antique-filled design.", "paraphrased": true, "lang": "en", "url": "https://restaurantguru.com/Nest-of-Goose-Seongsu-Seoul" }
+      {
+        "source": "TripAdvisor",
+        "text": "One visitor called it a jewel in Seongsu-dong, praising the cozy vintage atmosphere and curated wine list.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g294197-d19085900-r830900207-Nest_of_Goose-Seoul.html"
+      },
+      {
+        "source": "Blog",
+        "text": "Restaurant Guru lists it among Seongsu's top-rated wine bistros, calling out the beef tartare and antique-filled design.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://restaurantguru.com/Nest-of-Goose-Seongsu-Seoul"
+      }
     ],
-    "price": { "level": 3, "note": "Wine-bottle-minimum per table plus shared small plates" },
-    "hours": { "weekly": { "mon": "16:00-23:00", "tue": "16:00-23:00", "wed": "16:00-23:00", "thu": "16:00-23:00", "fri": "16:00-23:00", "sat": "14:30-23:00", "sun": "14:30-23:00" } },
-    "tripDays": {
-      "2026-09-23": "open", "2026-09-24": "unknown", "2026-09-25": "unknown", "2026-09-26": "unknown",
-      "2026-09-27": "open", "2026-09-28": "open", "2026-09-29": "open", "2026-09-30": "open"
+    "price": {
+      "level": 3,
+      "note": "Wine-bottle-minimum per table plus shared small plates"
     },
-    "chuseok": { "status": "unknown", "note": "No 2026 Chuseok notice found. Small independent wine bars often close on Chuseok day (25th) — call ahead.", "verified": false },
+    "hours": {
+      "weekly": {
+        "mon": "16:00-23:00",
+        "tue": "16:00-23:00",
+        "wed": "16:00-23:00",
+        "thu": "16:00-23:00",
+        "fri": "16:00-23:00",
+        "sat": "14:30-23:00",
+        "sun": "14:30-23:00"
+      }
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "unknown",
+      "2026-09-25": "unknown",
+      "2026-09-26": "unknown",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found. Small independent wine bars often close on Chuseok day (25th) — call ahead.",
+      "verified": false
+    },
     "location": {
       "address": "Seongsu-dong, Seongdong-gu, Seoul (324m from Seongsu Station Exit 4)",
       "addressKo": "서울 성동구 성수동",
@@ -288,7 +671,15 @@
       "neighborhood": "Seongsu",
       "lat": 37.5447,
       "lng": 127.0559,
-      "nearestStation": { "name": "Seongsu", "nameKo": "성수역", "lines": ["2"], "exit": "Exit 4", "walkMin": 5 }
+      "nearestStation": {
+        "name": "Seongsu",
+        "nameKo": "성수역",
+        "lines": [
+          "2"
+        ],
+        "exit": "Exit 4",
+        "walkMin": 5
+      }
     },
     "links": {
       "naverMap": "https://map.naver.com/p/search/%EA%B8%B0%EB%9F%AC%EA%B8%B0%EB%91%A5%EC%A7%80",
@@ -297,14 +688,36 @@
       "phone": "+82-2-2205-0077"
     },
     "images": [
-      { "url": "https://img02.restaurantguru.com/c7eb-Pub-and-bar-Nest-of-Goose-Seongsu-design.jpg", "source": "https://restaurantguru.com/Nest-of-Goose-Seongsu-Seoul", "credit": "Restaurant Guru", "alt": "Nest of Goose vintage interior" },
-      { "url": "https://img02.restaurantguru.com/c299-Restaurant-Nest-of-Goose-Seongsu-interior.jpg", "source": "https://restaurantguru.com/Nest-of-Goose-Seongsu-Seoul", "credit": "Restaurant Guru", "alt": "Nest of Goose dining room" },
-      { "url": "https://img02.restaurantguru.com/cdcf-Restaurant-Nest-of-Goose-Seongsu-beef-tartare.jpg", "source": "https://restaurantguru.com/Nest-of-Goose-Seongsu-Seoul", "credit": "Restaurant Guru", "alt": "Beef tartare at Nest of Goose" }
+      {
+        "url": "https://img02.restaurantguru.com/c7eb-Pub-and-bar-Nest-of-Goose-Seongsu-design.jpg",
+        "source": "https://restaurantguru.com/Nest-of-Goose-Seongsu-Seoul",
+        "credit": "Restaurant Guru",
+        "alt": "Nest of Goose vintage interior"
+      },
+      {
+        "url": "https://img02.restaurantguru.com/c299-Restaurant-Nest-of-Goose-Seongsu-interior.jpg",
+        "source": "https://restaurantguru.com/Nest-of-Goose-Seongsu-Seoul",
+        "credit": "Restaurant Guru",
+        "alt": "Nest of Goose dining room"
+      },
+      {
+        "url": "https://img02.restaurantguru.com/cdcf-Restaurant-Nest-of-Goose-Seongsu-beef-tartare.jpg",
+        "source": "https://restaurantguru.com/Nest-of-Goose-Seongsu-Seoul",
+        "credit": "Restaurant Guru",
+        "alt": "Beef tartare at Nest of Goose"
+      }
     ],
     "duration": "1.5-2 h",
     "bestTime": "Evening",
-    "goodFor": ["Date", "Parents", "Foodies"],
-    "reservation": { "recommended": true, "how": "Naver or phone reservation" },
+    "goodFor": [
+      "Date",
+      "Parents",
+      "Foodies"
+    ],
+    "reservation": {
+      "recommended": true,
+      "how": "Naver or phone reservation"
+    },
     "sources": [
       "https://www.tripadvisor.com/Restaurant_Review-g294197-d19085900-Reviews-Nest_of_Goose-Seoul.html"
     ],
@@ -316,14 +729,36 @@
     "nameKo": "스와니예",
     "category": "food",
     "subcategory": "French fine dining",
-    "cuisine": ["French", "Modern / fusion"],
-    "tags": ["michelin", "reservation-needed", "english-friendly", "indoor"],
-    "vibes": ["luxe", "minimal", "quiet"],
+    "cuisine": [
+      "French",
+      "Modern / fusion"
+    ],
+    "tags": [
+      "michelin",
+      "reservation-needed",
+      "english-friendly",
+      "indoor"
+    ],
+    "vibes": [
+      "luxe",
+      "minimal",
+      "quiet"
+    ],
     "summary": "Two-Michelin-star tasting menus blending French technique with Korean ingredients in a sleek, monochrome room.",
     "description": "Soigné (스와니예) holds two stars in the MICHELIN Guide South Korea and is run by chef Jun Lee around a horseshoe-shaped open kitchen he calls 'the stage'. The tasting-menu format threads French technique through Korean seasonal produce, served in a calm black-and-white dining room built for slow, attentive meals rather than a big group scene. It is a splurge, reservation-only experience best suited to a special night rather than an everyday dinner. Book weeks ahead — tables for the two-star menu go quickly.",
-    "highlights": ["Seasonal French-Korean tasting menu", "Open horseshoe kitchen counter", "Wine pairing option"],
-    "tips": ["Book through the official reservation system well in advance — it's a two-Michelin-star tasting counter.", "Closed Mondays.", "Allow at least two hours for the full tasting menu."],
-    "badges": { "michelin": "star2" },
+    "highlights": [
+      "Seasonal French-Korean tasting menu",
+      "Open horseshoe kitchen counter",
+      "Wine pairing option"
+    ],
+    "tips": [
+      "Book through the official reservation system well in advance — it's a two-Michelin-star tasting counter.",
+      "Closed Mondays.",
+      "Allow at least two hours for the full tasting menu."
+    ],
+    "badges": {
+      "michelin": "star2"
+    },
     "ratings": {
       "tripadvisor": {
         "score": 4.4,
@@ -332,16 +767,52 @@
       }
     },
     "reviews": [
-      { "source": "TripAdvisor", "text": "Diners describe an elegant, technically precise tasting menu that reinterprets Korean ingredients through a French lens.", "paraphrased": true, "lang": "en", "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d6352912-Reviews-Soigne_Restaurant-Seoul.html" },
-      { "source": "Blog", "text": "A dining blogger described the horseshoe open kitchen as 'the stage', with chef Jun Lee narrating each course.", "paraphrased": true, "lang": "en", "url": "https://www.diningwithmeilin.com/meilinyeo/the-soign-experience-" }
+      {
+        "source": "TripAdvisor",
+        "text": "Diners describe an elegant, technically precise tasting menu that reinterprets Korean ingredients through a French lens.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d6352912-Reviews-Soigne_Restaurant-Seoul.html"
+      },
+      {
+        "source": "Blog",
+        "text": "A dining blogger described the horseshoe open kitchen as 'the stage', with chef Jun Lee narrating each course.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.diningwithmeilin.com/meilinyeo/the-soign-experience-"
+      }
     ],
-    "price": { "level": 4, "note": "Tasting menu, roughly ₩180,000-250,000+ per person with wine pairing" },
-    "hours": { "weekly": { "mon": "closed", "tue": "12:00-15:00,18:00-22:00", "wed": "12:00-15:00,18:00-22:00", "thu": "12:00-15:00,18:00-22:00", "fri": "12:00-15:00,18:00-22:00", "sat": "12:00-15:00,18:00-22:00", "sun": "12:00-15:00,18:00-22:00" }, "lastOrder": "14:00 lunch / 21:00 dinner" },
-    "tripDays": {
-      "2026-09-23": "open", "2026-09-24": "unknown", "2026-09-25": "unknown", "2026-09-26": "unknown",
-      "2026-09-27": "open", "2026-09-28": "closed", "2026-09-29": "open", "2026-09-30": "open"
+    "price": {
+      "level": 4,
+      "note": "Tasting menu, roughly ₩180,000-250,000+ per person with wine pairing"
     },
-    "chuseok": { "status": "unknown", "note": "Regularly closed Mondays (28 Sep). No 2026 Chuseok notice found for 24-26 Sep — fine dining rooms often close over the holiday; call ahead.", "verified": false },
+    "hours": {
+      "weekly": {
+        "mon": "closed",
+        "tue": "12:00-15:00,18:00-22:00",
+        "wed": "12:00-15:00,18:00-22:00",
+        "thu": "12:00-15:00,18:00-22:00",
+        "fri": "12:00-15:00,18:00-22:00",
+        "sat": "12:00-15:00,18:00-22:00",
+        "sun": "12:00-15:00,18:00-22:00"
+      },
+      "lastOrder": "14:00 lunch / 21:00 dinner"
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "unknown",
+      "2026-09-25": "unknown",
+      "2026-09-26": "unknown",
+      "2026-09-27": "open",
+      "2026-09-28": "closed",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "Regularly closed Mondays (28 Sep). No 2026 Chuseok notice found for 24-26 Sep — fine dining rooms often close over the holiday; call ahead.",
+      "verified": false
+    },
     "location": {
       "address": "46 Banpo-daero 39-gil, Seocho-gu, Seoul",
       "addressKo": "서울 서초구 반포대로39길 46",
@@ -349,7 +820,16 @@
       "neighborhood": "Banpo",
       "lat": 37.4985472,
       "lng": 127.0016574,
-      "nearestStation": { "name": "Express Bus Terminal", "nameKo": "고속터미널역", "lines": ["3", "7", "9"], "walkMin": 13 }
+      "nearestStation": {
+        "name": "Express Bus Terminal",
+        "nameKo": "고속터미널역",
+        "lines": [
+          "3",
+          "7",
+          "9"
+        ],
+        "walkMin": 13
+      }
     },
     "links": {
       "naverMap": "https://map.naver.com/p/search/%EC%8A%A4%EC%99%80%EB%8B%88%EC%98%88",
@@ -358,15 +838,42 @@
       "phone": "+82-2-3477-9386"
     },
     "images": [
-      { "url": "https://images.squarespace-cdn.com/content/v1/61ebfbdf13a0822b11d455eb/7c1da736-2d19-4703-a8c6-ad97180041db/CFE3175E-609C-4BBE-853F-AD96601EABC0.jpg", "source": "https://www.diningwithmeilin.com/meilinyeo/the-soign-experience-", "credit": "Dining with Meilin blog", "alt": "Tasting menu course at Soigné" },
-      { "url": "https://images.squarespace-cdn.com/content/v1/61ebfbdf13a0822b11d455eb/0e1bf6cd-6a6b-40ca-9642-7166630cb728/AC010FFF-1024-4499-A791-5646932BD8F4.jpg", "source": "https://www.diningwithmeilin.com/meilinyeo/the-soign-experience-", "credit": "Dining with Meilin blog", "alt": "Soigné dining room" },
-      { "url": "https://images.squarespace-cdn.com/content/v1/61ebfbdf13a0822b11d455eb/309bef50-03a1-4257-94f2-0de7596b9d71/767AA08D-5E2D-4F09-AFBA-906C547A1ECA.jpg", "source": "https://www.diningwithmeilin.com/meilinyeo/the-soign-experience-", "credit": "Dining with Meilin blog", "alt": "Plated course at Soigné" },
-      { "url": "https://images.squarespace-cdn.com/content/v1/61ebfbdf13a0822b11d455eb/65d49c3e-ec05-49ae-93ba-612aa3811630/03646336-85B5-42AD-A1C0-E32DA4C43EB0.jpg", "source": "https://www.diningwithmeilin.com/meilinyeo/the-soign-experience-", "credit": "Dining with Meilin blog", "alt": "Soigné open kitchen counter" }
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/61ebfbdf13a0822b11d455eb/7c1da736-2d19-4703-a8c6-ad97180041db/CFE3175E-609C-4BBE-853F-AD96601EABC0.jpg",
+        "source": "https://www.diningwithmeilin.com/meilinyeo/the-soign-experience-",
+        "credit": "Dining with Meilin blog",
+        "alt": "Tasting menu course at Soigné"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/61ebfbdf13a0822b11d455eb/0e1bf6cd-6a6b-40ca-9642-7166630cb728/AC010FFF-1024-4499-A791-5646932BD8F4.jpg",
+        "source": "https://www.diningwithmeilin.com/meilinyeo/the-soign-experience-",
+        "credit": "Dining with Meilin blog",
+        "alt": "Soigné dining room"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/61ebfbdf13a0822b11d455eb/309bef50-03a1-4257-94f2-0de7596b9d71/767AA08D-5E2D-4F09-AFBA-906C547A1ECA.jpg",
+        "source": "https://www.diningwithmeilin.com/meilinyeo/the-soign-experience-",
+        "credit": "Dining with Meilin blog",
+        "alt": "Plated course at Soigné"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/61ebfbdf13a0822b11d455eb/65d49c3e-ec05-49ae-93ba-612aa3811630/03646336-85B5-42AD-A1C0-E32DA4C43EB0.jpg",
+        "source": "https://www.diningwithmeilin.com/meilinyeo/the-soign-experience-",
+        "credit": "Dining with Meilin blog",
+        "alt": "Soigné open kitchen counter"
+      }
     ],
     "duration": "2-2.5 h",
     "bestTime": "Dinner",
-    "goodFor": ["Celebration", "Date", "Foodies"],
-    "reservation": { "recommended": true, "how": "Official online reservation, weeks ahead" },
+    "goodFor": [
+      "Celebration",
+      "Date",
+      "Foodies"
+    ],
+    "reservation": {
+      "recommended": true,
+      "how": "Official online reservation, weeks ahead"
+    },
     "sources": [
       "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/soigne",
       "https://www.tripadvisor.com/Restaurant_Review-g294197-d6352912-Reviews-Soigne_Restaurant-Seoul.html",
@@ -380,14 +887,35 @@
     "nameKo": "제로 콤플렉스",
     "category": "food",
     "subcategory": "French",
-    "cuisine": ["French", "Modern / fusion"],
-    "tags": ["michelin", "reservation-needed", "indoor"],
-    "vibes": ["minimal", "quiet", "romantic"],
+    "cuisine": [
+      "French",
+      "Modern / fusion"
+    ],
+    "tags": [
+      "michelin",
+      "reservation-needed",
+      "indoor"
+    ],
+    "vibes": [
+      "minimal",
+      "quiet",
+      "romantic"
+    ],
     "summary": "Michelin-recognized French tasting courses from a chef trained at Paris's Le Chateaubriand, in a quiet Yongsan dining room.",
     "description": "Zero Complex is a MICHELIN Guide-listed restaurant led by chef Lee Choong-hoo, who draws on his time at Paris's acclaimed Le Chateaubriand for a French tasting-course menu built around seasonal ingredients. The room near Seobinggo is understated and calm, aimed at guests who want serious cooking without excess formality. It is a good pick for a quieter, food-focused evening rather than a big group celebration, and reviewers rate it highly despite modest review volume. Book ahead as seating is limited.",
-    "highlights": ["Seasonal French tasting course", "Wine pairing", "Chef's counter seating"],
-    "tips": ["Closed Mondays.", "Book ahead through CatchTable — the room is small.", "Better suited to a quieter dinner for two or a small group than a full table of five with young kids."],
-    "badges": { "michelin": "selected" },
+    "highlights": [
+      "Seasonal French tasting course",
+      "Wine pairing",
+      "Chef's counter seating"
+    ],
+    "tips": [
+      "Closed Mondays.",
+      "Book ahead through CatchTable — the room is small.",
+      "Better suited to a quieter dinner for two or a small group than a full table of five with young kids."
+    ],
+    "badges": {
+      "michelin": "selected"
+    },
     "ratings": {
       "tripadvisor": {
         "score": 4.5,
@@ -397,16 +925,58 @@
       }
     },
     "reviews": [
-      { "source": "TripAdvisor", "text": "Diners note the French tasting menu's precision and the calm, unhurried Yongsan dining room.", "paraphrased": true, "lang": "en", "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d9153852-Reviews-ZERO_COMPLEX-Seoul.html" },
-      { "source": "Michelin", "text": "The MICHELIN Guide credits chef Lee Choong-hoo's time at Paris's Le Chateaubriand for Zero Complex's seasonal French tasting menu.", "paraphrased": true, "lang": "en", "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/zero-complex" }
+      {
+        "source": "TripAdvisor",
+        "text": "Diners note the French tasting menu's precision and the calm, unhurried Yongsan dining room.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d9153852-Reviews-ZERO_COMPLEX-Seoul.html"
+      },
+      {
+        "source": "Michelin",
+        "text": "The MICHELIN Guide credits chef Lee Choong-hoo's time at Paris's Le Chateaubriand for Zero Complex's seasonal French tasting menu.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/zero-complex"
+      }
     ],
-    "price": { "level": 4, "note": "Tasting course pricing; a splurge-level French dinner" },
-    "hours": { "weekly": { "mon": "closed", "tue": "12:00-15:30,18:00-22:30", "wed": "12:00-15:30,18:00-22:30", "thu": "12:00-15:30,18:00-22:30", "fri": "12:00-15:30,18:00-22:30", "sat": "12:00-15:30,18:00-22:30", "sun": "12:00-15:30,18:00-22:30" } },
-    "tripDays": {
-      "2026-09-23": "open", "2026-09-24": "unknown", "2026-09-25": "unknown", "2026-09-26": "unknown",
-      "2026-09-27": "open", "2026-09-28": "closed", "2026-09-29": "open", "2026-09-30": "open"
+    "price": {
+      "level": 4,
+      "note": "Tasting course pricing; a splurge-level French dinner",
+      "menuKRW": {
+        "min": 190000,
+        "typical": 270000,
+        "max": 270000,
+        "n": 2,
+        "source": "Kakao Map menu"
+      }
     },
-    "chuseok": { "status": "unknown", "note": "Regularly closed Mondays (28 Sep). No 2026 Chuseok notice found for 24-26 Sep — call ahead as fine-dining rooms often close over the holiday.", "verified": false },
+    "hours": {
+      "weekly": {
+        "mon": "closed",
+        "tue": "12:00-15:30,18:00-22:30",
+        "wed": "12:00-15:30,18:00-22:30",
+        "thu": "12:00-15:30,18:00-22:30",
+        "fri": "12:00-15:30,18:00-22:30",
+        "sat": "12:00-15:30,18:00-22:30",
+        "sun": "12:00-15:30,18:00-22:30"
+      }
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "unknown",
+      "2026-09-25": "unknown",
+      "2026-09-26": "unknown",
+      "2026-09-27": "open",
+      "2026-09-28": "closed",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "Regularly closed Mondays (28 Sep). No 2026 Chuseok notice found for 24-26 Sep — call ahead as fine-dining rooms often close over the holiday.",
+      "verified": false
+    },
     "location": {
       "address": "11-8 Seobinggo-ro 59-gil, Yongsan-gu, Seoul",
       "addressKo": "서울 용산구 서빙고로59길 11-8",
@@ -414,7 +984,14 @@
       "neighborhood": "Seobinggo",
       "lat": 37.5227,
       "lng": 126.9868,
-      "nearestStation": { "name": "Seobinggo", "nameKo": "서빙고역", "lines": ["GJ"], "walkMin": 10 }
+      "nearestStation": {
+        "name": "Seobinggo",
+        "nameKo": "서빙고역",
+        "lines": [
+          "GJ"
+        ],
+        "walkMin": 10
+      }
     },
     "links": {
       "naverMap": "https://map.naver.com/p/search/%EC%A0%9C%EB%A1%9C%EC%BD%A4%ED%94%8C%EB%A0%89%EC%8A%A4",
@@ -423,14 +1000,36 @@
       "phone": "+82-2-532-0876"
     },
     "images": [
-      { "url": "https://img02.restaurantguru.com/c949-Restaurant-Zero-Complex-food.jpg", "source": "https://restaurantguru.com/Zero-Complex-Seoul", "credit": "Restaurant Guru", "alt": "Plated course at Zero Complex" },
-      { "url": "https://img02.restaurantguru.com/cf9d-Zero-Complex-Seoul-dishes-2.jpg", "source": "https://restaurantguru.com/Zero-Complex-Seoul", "credit": "Restaurant Guru", "alt": "Zero Complex tasting course dish" },
-      { "url": "https://img02.restaurantguru.com/c9bc-Zero-Complex-meals-6.jpg", "source": "https://restaurantguru.com/Zero-Complex-Seoul", "credit": "Restaurant Guru", "alt": "Zero Complex course" }
+      {
+        "url": "https://img02.restaurantguru.com/c949-Restaurant-Zero-Complex-food.jpg",
+        "source": "https://restaurantguru.com/Zero-Complex-Seoul",
+        "credit": "Restaurant Guru",
+        "alt": "Plated course at Zero Complex"
+      },
+      {
+        "url": "https://img02.restaurantguru.com/cf9d-Zero-Complex-Seoul-dishes-2.jpg",
+        "source": "https://restaurantguru.com/Zero-Complex-Seoul",
+        "credit": "Restaurant Guru",
+        "alt": "Zero Complex tasting course dish"
+      },
+      {
+        "url": "https://img02.restaurantguru.com/c9bc-Zero-Complex-meals-6.jpg",
+        "source": "https://restaurantguru.com/Zero-Complex-Seoul",
+        "credit": "Restaurant Guru",
+        "alt": "Zero Complex course"
+      }
     ],
     "duration": "1.5-2 h",
     "bestTime": "Dinner",
-    "goodFor": ["Date", "Foodies", "Celebration"],
-    "reservation": { "recommended": true, "how": "CatchTable" },
+    "goodFor": [
+      "Date",
+      "Foodies",
+      "Celebration"
+    ],
+    "reservation": {
+      "recommended": true,
+      "how": "CatchTable"
+    },
     "sources": [
       "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/zero-complex",
       "https://www.tripadvisor.com/Restaurant_Review-g294197-d9153852-Reviews-ZERO_COMPLEX-Seoul.html"
@@ -443,14 +1042,39 @@
     "nameKo": "페 메종",
     "category": "food",
     "subcategory": "French bistro",
-    "cuisine": ["French", "Brunch", "Bakery"],
-    "tags": ["hotel", "english-friendly", "group-friendly", "kid-friendly", "parent-friendly", "indoor"],
-    "vibes": ["classic", "cozy", "luxe"],
+    "cuisine": [
+      "French",
+      "Brunch",
+      "Bakery"
+    ],
+    "tags": [
+      "hotel",
+      "english-friendly",
+      "group-friendly",
+      "kid-friendly",
+      "parent-friendly",
+      "indoor"
+    ],
+    "vibes": [
+      "classic",
+      "cozy",
+      "luxe"
+    ],
     "summary": "A five-star French bistro and boulangerie inside Sofitel Ambassador Seoul, near Seokchon Lake and Jamsil.",
     "description": "Fait Maison is the all-day French bistro and bakery at Sofitel Ambassador Seoul, a short walk from Seokchon Lake and Lotte World in Jamsil. It covers everything from viennoiserie and brunch to bistro classics like French onion soup and quiche, all in a bright, Parisian-styled room that suits a relaxed group meal. Its top-tier TripAdvisor ranking among Seoul restaurants reflects consistent quality and comfortable, hotel-level service. It's an easy, weather-proof stop to pair with a day at Lotte World Tower or a stroll around Seokchon Lake.",
-    "highlights": ["French pastries and viennoiserie", "Weekend brunch", "French onion soup and bistro classics"],
-    "tips": ["Pair with a walk around Seokchon Lake, a 5-minute walk away.", "Popular for weekend brunch — arrive early or book ahead.", "Good rainy-day fallback near Lotte World Tower."],
-    "badges": { "familyFriendly": true },
+    "highlights": [
+      "French pastries and viennoiserie",
+      "Weekend brunch",
+      "French onion soup and bistro classics"
+    ],
+    "tips": [
+      "Pair with a walk around Seokchon Lake, a 5-minute walk away.",
+      "Popular for weekend brunch — arrive early or book ahead.",
+      "Good rainy-day fallback near Lotte World Tower."
+    ],
+    "badges": {
+      "familyFriendly": true
+    },
     "ratings": {
       "tripadvisor": {
         "score": 4.9,
@@ -459,16 +1083,59 @@
       }
     },
     "reviews": [
-      { "source": "TripAdvisor", "text": "Guests rank Fait Maison among the very best in Seoul for its pastries, bistro classics and warm hotel service.", "paraphrased": true, "lang": "en", "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d24181518-Reviews-Fait_Maison-Seoul.html" },
-      { "source": "Press", "text": "Sofitel describes Fait Maison as an all-day French bistro and boulangerie serving viennoiserie, brunch and bistro classics in a Parisian-styled room.", "paraphrased": true, "lang": "en", "url": "https://www.sofitel-seoul.com/en/dining/fait-maison/" }
+      {
+        "source": "TripAdvisor",
+        "text": "Guests rank Fait Maison among the very best in Seoul for its pastries, bistro classics and warm hotel service.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d24181518-Reviews-Fait_Maison-Seoul.html"
+      },
+      {
+        "source": "Press",
+        "text": "Sofitel describes Fait Maison as an all-day French bistro and boulangerie serving viennoiserie, brunch and bistro classics in a Parisian-styled room.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.sofitel-seoul.com/en/dining/fait-maison/"
+      }
     ],
-    "price": { "level": 3, "note": "Bistro mains and brunch sets; bakery items sold separately" },
-    "hours": { "weekly": { "mon": "10:00-22:00", "tue": "10:00-22:00", "wed": "10:00-22:00", "thu": "10:00-22:00", "fri": "10:00-22:00", "sat": "10:00-22:00", "sun": "10:00-22:00" }, "note": "Hotel bistro hours; confirm for brunch service times." },
-    "tripDays": {
-      "2026-09-23": "open", "2026-09-24": "open", "2026-09-25": "open", "2026-09-26": "open",
-      "2026-09-27": "open", "2026-09-28": "open", "2026-09-29": "open", "2026-09-30": "open"
+    "price": {
+      "level": 3,
+      "note": "Bistro mains and brunch sets; bakery items sold separately",
+      "menuKRW": {
+        "min": 412500,
+        "typical": 445500,
+        "max": 478500,
+        "n": 3,
+        "source": "Kakao Map menu"
+      }
     },
-    "chuseok": { "status": "open", "note": "No 2026 Chuseok notice found, but hotel restaurants typically operate through the holiday, often at standard hours.", "verified": false },
+    "hours": {
+      "weekly": {
+        "mon": "10:00-22:00",
+        "tue": "10:00-22:00",
+        "wed": "10:00-22:00",
+        "thu": "10:00-22:00",
+        "fri": "10:00-22:00",
+        "sat": "10:00-22:00",
+        "sun": "10:00-22:00"
+      },
+      "note": "Hotel bistro hours; confirm for brunch service times."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "No 2026 Chuseok notice found, but hotel restaurants typically operate through the holiday, often at standard hours.",
+      "verified": false
+    },
     "location": {
       "address": "Sofitel Ambassador Seoul, 209 Jamsil-ro, Songpa-gu, Seoul",
       "addressKo": "서울 송파구 잠실로 209 소피텔 앰배서더 서울",
@@ -476,7 +1143,15 @@
       "neighborhood": "Jamsil / Seokchon Lake",
       "lat": 37.5139,
       "lng": 127.1023,
-      "nearestStation": { "name": "Jamsil", "nameKo": "잠실역", "lines": ["2", "8"], "walkMin": 10 }
+      "nearestStation": {
+        "name": "Jamsil",
+        "nameKo": "잠실역",
+        "lines": [
+          "2",
+          "8"
+        ],
+        "walkMin": 10
+      }
     },
     "links": {
       "website": "https://www.sofitel-seoul.com/en/dining/fait-maison/",
@@ -485,15 +1160,45 @@
       "tripadvisor": "https://www.tripadvisor.com/Restaurant_Review-g294197-d24181518-Reviews-Fait_Maison-Seoul.html"
     },
     "images": [
-      { "url": "https://www.sofitel-seoul.com/wp-content/uploads/sites/252/2021/12/Sofitel-Ambassador-Seoul-Fait-Maison-877x615.jpg", "source": "https://www.sofitel-seoul.com/en/dining/fait-maison/", "credit": "Official website (Sofitel Ambassador Seoul)", "alt": "Fait Maison dining room" },
-      { "url": "https://www.sofitel-seoul.com/wp-content/uploads/sites/252/2021/12/Sofitel-Ambassador-Seoul-Fait-Maison_02-891x615.jpg", "source": "https://www.sofitel-seoul.com/en/dining/fait-maison/", "credit": "Official website (Sofitel Ambassador Seoul)", "alt": "Fait Maison bistro interior" },
-      { "url": "https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/252/2025/05/28060549/fait_maison_2-829x615.jpg", "source": "https://www.sofitel-seoul.com/en/dining/fait-maison/", "credit": "Official website (Sofitel Ambassador Seoul)", "alt": "Pastries at Fait Maison" },
-      { "url": "https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/252/2025/05/28060558/fait_maison_3-801x615.jpg", "source": "https://www.sofitel-seoul.com/en/dining/fait-maison/", "credit": "Official website (Sofitel Ambassador Seoul)", "alt": "Bistro dish at Fait Maison" },
-      { "url": "https://www.sofitel-seoul.com/wp-content/uploads/sites/252/2025/05/FM_900_ILLUSTRATE.jpg", "source": "https://www.sofitel-seoul.com/en/dining/fait-maison/", "credit": "Official website (Sofitel Ambassador Seoul)", "alt": "Fait Maison bakery spread" }
+      {
+        "url": "https://www.sofitel-seoul.com/wp-content/uploads/sites/252/2021/12/Sofitel-Ambassador-Seoul-Fait-Maison-877x615.jpg",
+        "source": "https://www.sofitel-seoul.com/en/dining/fait-maison/",
+        "credit": "Official website (Sofitel Ambassador Seoul)",
+        "alt": "Fait Maison dining room"
+      },
+      {
+        "url": "https://www.sofitel-seoul.com/wp-content/uploads/sites/252/2021/12/Sofitel-Ambassador-Seoul-Fait-Maison_02-891x615.jpg",
+        "source": "https://www.sofitel-seoul.com/en/dining/fait-maison/",
+        "credit": "Official website (Sofitel Ambassador Seoul)",
+        "alt": "Fait Maison bistro interior"
+      },
+      {
+        "url": "https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/252/2025/05/28060549/fait_maison_2-829x615.jpg",
+        "source": "https://www.sofitel-seoul.com/en/dining/fait-maison/",
+        "credit": "Official website (Sofitel Ambassador Seoul)",
+        "alt": "Pastries at Fait Maison"
+      },
+      {
+        "url": "https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/252/2025/05/28060558/fait_maison_3-801x615.jpg",
+        "source": "https://www.sofitel-seoul.com/en/dining/fait-maison/",
+        "credit": "Official website (Sofitel Ambassador Seoul)",
+        "alt": "Bistro dish at Fait Maison"
+      },
+      {
+        "url": "https://www.sofitel-seoul.com/wp-content/uploads/sites/252/2025/05/FM_900_ILLUSTRATE.jpg",
+        "source": "https://www.sofitel-seoul.com/en/dining/fait-maison/",
+        "credit": "Official website (Sofitel Ambassador Seoul)",
+        "alt": "Fait Maison bakery spread"
+      }
     ],
     "duration": "1-1.5 h",
     "bestTime": "Weekend brunch",
-    "goodFor": ["Family of 5", "Parents", "Rainy day", "Quick bite"],
+    "goodFor": [
+      "Family of 5",
+      "Parents",
+      "Rainy day",
+      "Quick bite"
+    ],
     "sources": [
       "https://www.sofitel-seoul.com/en/dining/fait-maison/",
       "https://www.tripadvisor.com/Restaurant_Review-g294197-d24181518-Reviews-Fait_Maison-Seoul.html"
@@ -506,32 +1211,85 @@
     "nameKo": "마리포사",
     "category": "food",
     "subcategory": "Italian / French",
-    "cuisine": ["Italian", "French", "Modern / fusion"],
-    "tags": ["hotel", "han-river", "view", "group-friendly", "english-friendly", "indoor"],
-    "vibes": ["luxe", "view", "riverside"],
+    "cuisine": [
+      "Italian",
+      "French",
+      "Modern / fusion"
+    ],
+    "tags": [
+      "hotel",
+      "han-river",
+      "view",
+      "group-friendly",
+      "english-friendly",
+      "indoor"
+    ],
+    "vibes": [
+      "luxe",
+      "view",
+      "riverside"
+    ],
     "summary": "Han River-view Italian-French dining at Fairmont Ambassador Seoul, sharing the 29th floor with rooftop bar M29.",
     "description": "Mariposa is the fine-casual Italian-French restaurant on the Fairmont Ambassador Seoul's high floor in Yeouido, sharing its panoramic Han River and skyline views with the M29 rooftop bar next door. The room mixes pasta and French-leaning plates with a terrace side that reviewers single out for river views, especially at sunset. It's a comfortable, modern option for a special dinner without crossing to Gangnam, and works well combined with a walk along Yeouido Hangang Park beforehand. Book a terrace-side table if weather allows.",
-    "highlights": ["Han River-view terrace tables", "Italian-French pasta and mains", "Sunset views over Yeouido"],
-    "tips": ["Ask for terrace seating for the Han River view.", "Pair with sunset for the best light, then head up to M29 bar afterward.", "5-minute walk from Yeouido Station Exit 3."],
-    "badges": { "familyFriendly": true },
+    "highlights": [
+      "Han River-view terrace tables",
+      "Italian-French pasta and mains",
+      "Sunset views over Yeouido"
+    ],
+    "tips": [
+      "Ask for terrace seating for the Han River view.",
+      "Pair with sunset for the best light, then head up to M29 bar afterward.",
+      "5-minute walk from Yeouido Station Exit 3."
+    ],
+    "badges": {
+      "familyFriendly": true
+    },
     "ratings": {
       "tripadvisor": {
-        "score": 5.0,
+        "score": 5,
         "count": 8,
         "url": "https://www.tripadvisor.com/RestaurantsNear-g294197-d3822061-IFC_Mall-Seoul.html"
       }
     },
     "reviews": [
-      { "source": "TripAdvisor", "text": "Reviewers highlight the terrace-side river views, especially recommending it for sunset over the Han River.", "paraphrased": true, "lang": "en", "url": "https://www.tripadvisor.com/RestaurantsNear-g294197-d3822061-IFC_Mall-Seoul.html" },
-      { "source": "Press", "text": "Fairmont describes the 29th-floor venue as combining Mariposa's Italian-French menu with panoramic Han River and skyline views from both indoor seating and an open terrace.", "paraphrased": true, "lang": "en", "url": "https://fairmont-seoul.com/en/dining/m29/" }
+      {
+        "source": "TripAdvisor",
+        "text": "Reviewers highlight the terrace-side river views, especially recommending it for sunset over the Han River.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/RestaurantsNear-g294197-d3822061-IFC_Mall-Seoul.html"
+      },
+      {
+        "source": "Press",
+        "text": "Fairmont describes the 29th-floor venue as combining Mariposa's Italian-French menu with panoramic Han River and skyline views from both indoor seating and an open terrace.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://fairmont-seoul.com/en/dining/m29/"
+      }
     ],
-    "price": { "level": 3, "note": "Italian-French mains, hotel-restaurant pricing" },
-    "hours": { "weekly": {}, "note": "Hotel restaurant hours not fully confirmed online — check Fairmont's site or call ahead." },
-    "tripDays": {
-      "2026-09-23": "open", "2026-09-24": "open", "2026-09-25": "open", "2026-09-26": "open",
-      "2026-09-27": "open", "2026-09-28": "open", "2026-09-29": "open", "2026-09-30": "open"
+    "price": {
+      "level": 3,
+      "note": "Italian-French mains, hotel-restaurant pricing"
     },
-    "chuseok": { "status": "open", "note": "No 2026 Chuseok notice found, but hotel restaurants typically stay open through the holiday.", "verified": false },
+    "hours": {
+      "weekly": {},
+      "note": "Hotel restaurant hours not fully confirmed online — check Fairmont's site or call ahead."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "No 2026 Chuseok notice found, but hotel restaurants typically stay open through the holiday.",
+      "verified": false
+    },
     "location": {
       "address": "Fairmont Ambassador Seoul, 108 Yeoui-daero, Yeongdeungpo-gu, Seoul",
       "addressKo": "서울 영등포구 여의대로 108 페어몬트 앰배서더 서울",
@@ -539,7 +1297,16 @@
       "neighborhood": "Yeouido",
       "lat": 37.525963,
       "lng": 126.928418,
-      "nearestStation": { "name": "Yeouido", "nameKo": "여의도역", "lines": ["5", "9"], "exit": "Exit 3", "walkMin": 5 }
+      "nearestStation": {
+        "name": "Yeouido",
+        "nameKo": "여의도역",
+        "lines": [
+          "5",
+          "9"
+        ],
+        "exit": "Exit 3",
+        "walkMin": 5
+      }
     },
     "links": {
       "website": "https://fairmont-seoul.com/en/dining/m29/",
@@ -547,12 +1314,27 @@
       "googleMaps": "https://www.google.com/maps/search/?api=1&query=Mariposa%20Fairmont%20Ambassador%20Seoul%20Yeouido"
     },
     "images": [
-      { "url": "https://itin-dev.wanderlogstatic.com/freeImage/UkBWum4HjTkyKf4EoLh1lH2PgGbv8iYw", "source": "https://wanderlog.com/place/details/6548146/m29", "credit": "Wanderlog (venue photo)", "alt": "Mariposa / M29 dining room at Fairmont Ambassador Seoul" },
-      { "url": "https://itin-dev.wanderlogstatic.com/freeImage/k1VQo0ilbD8U3LD0ZoCVrvblG9ZlSs0b", "source": "https://wanderlog.com/place/details/6548146/m29", "credit": "Wanderlog (venue photo)", "alt": "Terrace view at Mariposa / M29" }
+      {
+        "url": "https://itin-dev.wanderlogstatic.com/freeImage/UkBWum4HjTkyKf4EoLh1lH2PgGbv8iYw",
+        "source": "https://wanderlog.com/place/details/6548146/m29",
+        "credit": "Wanderlog (venue photo)",
+        "alt": "Mariposa / M29 dining room at Fairmont Ambassador Seoul"
+      },
+      {
+        "url": "https://itin-dev.wanderlogstatic.com/freeImage/k1VQo0ilbD8U3LD0ZoCVrvblG9ZlSs0b",
+        "source": "https://wanderlog.com/place/details/6548146/m29",
+        "credit": "Wanderlog (venue photo)",
+        "alt": "Terrace view at Mariposa / M29"
+      }
     ],
     "duration": "1.5-2 h",
     "bestTime": "Sunset",
-    "goodFor": ["Family of 5", "Parents", "Celebration", "Date"],
+    "goodFor": [
+      "Family of 5",
+      "Parents",
+      "Celebration",
+      "Date"
+    ],
     "sources": [
       "https://fairmont-seoul.com/en/dining/m29/",
       "https://wanderlog.com/place/details/6548146/m29"
@@ -565,14 +1347,37 @@
     "nameKo": "다운타우너 한남",
     "category": "food",
     "subcategory": "Burgers",
-    "cuisine": ["Burgers", "American"],
-    "tags": ["local-favorite", "value", "english-friendly", "group-friendly", "indoor"],
-    "vibes": ["hip", "cozy"],
+    "cuisine": [
+      "Burgers",
+      "American"
+    ],
+    "tags": [
+      "local-favorite",
+      "value",
+      "english-friendly",
+      "group-friendly",
+      "indoor"
+    ],
+    "vibes": [
+      "hip",
+      "cozy"
+    ],
     "summary": "One of Seoul's most-loved smash-style burger joints, with an avocado burger locals rave about, in Hannam-dong.",
     "description": "Downtowner is a Seoul burger institution, and its Hannam main branch remains a favorite for a not-too-fancy, satisfying burger stop. Reviewers repeatedly single out the avocado burger as a highlight, alongside solid classic patties and fries. The space is casual and can get busy at peak lunch and dinner hours, but turnover is quick. It's an easy, kid-and-parent-friendly meal to slot in around a Hannam or Itaewon afternoon.",
-    "highlights": ["Avocado burger", "Classic cheeseburger", "Hand-cut fries"],
-    "tips": ["Expect a queue at peak lunch/dinner — go slightly off-peak.", "Saturday hours are shorter (until 17:00) — check before a weekend visit.", "Good, fast option to combine with Hannam gallery-hopping."],
-    "badges": { "localFavorite": true, "familyFriendly": true },
+    "highlights": [
+      "Avocado burger",
+      "Classic cheeseburger",
+      "Hand-cut fries"
+    ],
+    "tips": [
+      "Expect a queue at peak lunch/dinner — go slightly off-peak.",
+      "Saturday hours are shorter (until 17:00) — check before a weekend visit.",
+      "Good, fast option to combine with Hannam gallery-hopping."
+    ],
+    "badges": {
+      "localFavorite": true,
+      "familyFriendly": true
+    },
     "ratings": {
       "tripadvisor": {
         "score": 4.1,
@@ -581,16 +1386,51 @@
       }
     },
     "reviews": [
-      { "source": "TripAdvisor", "text": "One reviewer called it the best burger they've ever had, praising the avocado burger in particular.", "paraphrased": true, "lang": "en", "url": "https://www.tripadvisor.com/ShowUserReviews-g294197-d12578051-r674165047-Downtowner_Hannam-Seoul.html" },
-      { "source": "TripAdvisor", "text": "Another visitor recommended the avocado burger as their favorite item on the menu.", "paraphrased": true, "lang": "en", "url": "https://www.tripadvisor.com/ShowUserReviews-g294197-d12578051-r635701667-Downtowner_Hannam-Seoul.html" }
+      {
+        "source": "TripAdvisor",
+        "text": "One reviewer called it the best burger they've ever had, praising the avocado burger in particular.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g294197-d12578051-r674165047-Downtowner_Hannam-Seoul.html"
+      },
+      {
+        "source": "TripAdvisor",
+        "text": "Another visitor recommended the avocado burger as their favorite item on the menu.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g294197-d12578051-r635701667-Downtowner_Hannam-Seoul.html"
+      }
     ],
-    "price": { "level": 2, "note": "Burgers and sides, casual pricing" },
-    "hours": { "weekly": { "mon": "11:30-21:30", "tue": "11:30-21:30", "wed": "11:30-21:30", "thu": "11:30-21:30", "fri": "11:30-21:30", "sat": "11:30-17:00", "sun": "11:30-21:30" } },
-    "tripDays": {
-      "2026-09-23": "open", "2026-09-24": "unknown", "2026-09-25": "unknown", "2026-09-26": "short",
-      "2026-09-27": "open", "2026-09-28": "open", "2026-09-29": "open", "2026-09-30": "open"
+    "price": {
+      "level": 2,
+      "note": "Burgers and sides, casual pricing"
     },
-    "chuseok": { "status": "unknown", "note": "No 2026 Chuseok notice found; regular Saturday hours are shortened (until 17:00), which falls on 26 Sep. Independent restaurants often close on Chuseok day (25th) — call ahead.", "verified": false },
+    "hours": {
+      "weekly": {
+        "mon": "11:30-21:30",
+        "tue": "11:30-21:30",
+        "wed": "11:30-21:30",
+        "thu": "11:30-21:30",
+        "fri": "11:30-21:30",
+        "sat": "11:30-17:00",
+        "sun": "11:30-21:30"
+      }
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "unknown",
+      "2026-09-25": "unknown",
+      "2026-09-26": "short",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found; regular Saturday hours are shortened (until 17:00), which falls on 26 Sep. Independent restaurants often close on Chuseok day (25th) — call ahead.",
+      "verified": false
+    },
     "location": {
       "address": "28-4 Itaewon-ro 42-gil, Yongsan-gu, Seoul",
       "addressKo": "서울 용산구 이태원로42길 28-4",
@@ -598,7 +1438,15 @@
       "neighborhood": "Hannam",
       "lat": 37.5358805,
       "lng": 127.0003937,
-      "nearestStation": { "name": "Hangangjin", "nameKo": "한강진역", "lines": ["6"], "exit": "Exit 3", "walkMin": 8 }
+      "nearestStation": {
+        "name": "Hangangjin",
+        "nameKo": "한강진역",
+        "lines": [
+          "6"
+        ],
+        "exit": "Exit 3",
+        "walkMin": 8
+      }
     },
     "links": {
       "naverMap": "https://map.naver.com/p/search/%EB%8B%A4%EC%9A%B4%ED%83%80%EC%9A%B0%EB%84%88%20%ED%95%9C%EB%82%A8",
@@ -607,14 +1455,38 @@
       "phone": "+82-70-8820-3696"
     },
     "images": [
-      { "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/37c1cc91-dd52-48d8-b9c5-a5a252d1732a.jpeg", "source": "https://world.nol.com/en/content/pois/3be65c5e-a140-4ed0-88ad-90cd49b2dd85", "credit": "Triple / NOL World", "alt": "Downtowner Hannam burger" },
-      { "url": "https://itin-dev.wanderlogstatic.com/freeImage/0FLonxzEYQy5cTsshh6awDliGMMvIJLL", "source": "https://wanderlog.com/place/details/787409/downtowner-hannam", "credit": "Wanderlog (venue photo)", "alt": "Downtowner Hannam interior" },
-      { "url": "https://itin-dev.wanderlogstatic.com/freeImage/5E2Edh94KSvyI2kJVO39DsGvltoD1HOM", "source": "https://wanderlog.com/place/details/787409/downtowner-hannam", "credit": "Wanderlog (venue photo)", "alt": "Downtowner Hannam burger and fries" },
-      { "url": "https://itin-dev.wanderlogstatic.com/freeImage/gkiiLCDxCrRuCzPtKEnPGj8s5J5SgPYR", "source": "https://wanderlog.com/place/details/787409/downtowner-hannam", "credit": "Wanderlog (venue photo)", "alt": "Downtowner Hannam dish" }
+      {
+        "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/37c1cc91-dd52-48d8-b9c5-a5a252d1732a.jpeg",
+        "source": "https://world.nol.com/en/content/pois/3be65c5e-a140-4ed0-88ad-90cd49b2dd85",
+        "credit": "Triple / NOL World",
+        "alt": "Downtowner Hannam burger"
+      },
+      {
+        "url": "https://itin-dev.wanderlogstatic.com/freeImage/0FLonxzEYQy5cTsshh6awDliGMMvIJLL",
+        "source": "https://wanderlog.com/place/details/787409/downtowner-hannam",
+        "credit": "Wanderlog (venue photo)",
+        "alt": "Downtowner Hannam interior"
+      },
+      {
+        "url": "https://itin-dev.wanderlogstatic.com/freeImage/5E2Edh94KSvyI2kJVO39DsGvltoD1HOM",
+        "source": "https://wanderlog.com/place/details/787409/downtowner-hannam",
+        "credit": "Wanderlog (venue photo)",
+        "alt": "Downtowner Hannam burger and fries"
+      },
+      {
+        "url": "https://itin-dev.wanderlogstatic.com/freeImage/gkiiLCDxCrRuCzPtKEnPGj8s5J5SgPYR",
+        "source": "https://wanderlog.com/place/details/787409/downtowner-hannam",
+        "credit": "Wanderlog (venue photo)",
+        "alt": "Downtowner Hannam dish"
+      }
     ],
     "duration": "45 min - 1 h",
     "bestTime": "Off-peak lunch",
-    "goodFor": ["Family of 5", "Quick bite", "Kids at heart"],
+    "goodFor": [
+      "Family of 5",
+      "Quick bite",
+      "Kids at heart"
+    ],
     "sources": [
       "https://www.tripadvisor.com/Restaurant_Review-g294197-d12578051-Reviews-Downtowner_Hannam-Seoul.html"
     ],
@@ -626,14 +1498,35 @@
     "nameKo": "길버트버거",
     "category": "food",
     "subcategory": "Burgers",
-    "cuisine": ["Burgers", "American"],
-    "tags": ["local-favorite", "english-friendly", "group-friendly", "indoor"],
-    "vibes": ["cozy", "classic"],
+    "cuisine": [
+      "Burgers",
+      "American"
+    ],
+    "tags": [
+      "local-favorite",
+      "english-friendly",
+      "group-friendly",
+      "indoor"
+    ],
+    "vibes": [
+      "cozy",
+      "classic"
+    ],
     "summary": "Seoul's original gourmet-burger spot since 2008, freshly ground and pressed daily near Garosugil.",
     "description": "Gilbert's Burger & Fries has been serving hand-formed, freshly ground beef patties since 2008, making it one of the pioneers of the Seoul gourmet burger scene, now with several locations including this one near Garosugil. Reviewers rank it consistently high among Seoul's burger spots, with a strong TripAdvisor score across 40+ reviews. Expect thick, juicy burgers with a choice of sizes and toppings, plus solid fries and shakes. It's a relaxed, kid-friendly stop to combine with shopping along Dosan-daero and Garosugil.",
-    "highlights": ["Classic hand-formed cheeseburger", "Hand-cut fries", "Milkshakes"],
-    "tips": ["Popular at lunch — go slightly early or late to skip the wait.", "Good rainy-day option paired with Garosugil boutique browsing."],
-    "badges": { "localFavorite": true, "familyFriendly": true },
+    "highlights": [
+      "Classic hand-formed cheeseburger",
+      "Hand-cut fries",
+      "Milkshakes"
+    ],
+    "tips": [
+      "Popular at lunch — go slightly early or late to skip the wait.",
+      "Good rainy-day option paired with Garosugil boutique browsing."
+    ],
+    "badges": {
+      "localFavorite": true,
+      "familyFriendly": true
+    },
     "ratings": {
       "tripadvisor": {
         "score": 4.5,
@@ -643,16 +1536,44 @@
       }
     },
     "reviews": [
-      { "source": "TripAdvisor", "text": "A reviewer called it the best burger in Seoul, comparing it favorably to other well-known burger spots.", "paraphrased": true, "lang": "en", "url": "https://www.tripadvisor.com/ShowUserReviews-g294197-d7983969-r460800365-Gilbert_Burger-Seoul.html" },
-      { "source": "TripAdvisor", "text": "Another visitor said it was essential for burger lovers visiting Seoul.", "paraphrased": true, "lang": "en", "url": "https://www.tripadvisor.com.sg/ShowUserReviews-g294197-d7983969-r592642025-Gilbert_s_Burger_and_Fries-Seoul.html" }
+      {
+        "source": "TripAdvisor",
+        "text": "A reviewer called it the best burger in Seoul, comparing it favorably to other well-known burger spots.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g294197-d7983969-r460800365-Gilbert_Burger-Seoul.html"
+      },
+      {
+        "source": "TripAdvisor",
+        "text": "Another visitor said it was essential for burger lovers visiting Seoul.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com.sg/ShowUserReviews-g294197-d7983969-r592642025-Gilbert_s_Burger_and_Fries-Seoul.html"
+      }
     ],
-    "price": { "level": 2, "note": "Burgers, fries and shakes, casual pricing" },
-    "hours": { "weekly": {}, "note": "Hours not fully confirmed online — check Naver Map before visiting." },
-    "tripDays": {
-      "2026-09-23": "open", "2026-09-24": "unknown", "2026-09-25": "unknown", "2026-09-26": "unknown",
-      "2026-09-27": "open", "2026-09-28": "open", "2026-09-29": "open", "2026-09-30": "open"
+    "price": {
+      "level": 2,
+      "note": "Burgers, fries and shakes, casual pricing"
     },
-    "chuseok": { "status": "unknown", "note": "No 2026 Chuseok notice found for 24-26 Sep. Call ahead or check Naver Map before visiting during the holiday.", "verified": false },
+    "hours": {
+      "weekly": {},
+      "note": "Hours not fully confirmed online — check Naver Map before visiting."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "unknown",
+      "2026-09-25": "unknown",
+      "2026-09-26": "unknown",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found for 24-26 Sep. Call ahead or check Naver Map before visiting during the holiday.",
+      "verified": false
+    },
     "location": {
       "address": "47 Dosan-daero 15-gil, Gangnam-gu, Seoul",
       "addressKo": "서울 강남구 도산대로15길 47",
@@ -660,7 +1581,15 @@
       "neighborhood": "Sinsa / Garosugil",
       "lat": 37.5212471,
       "lng": 127.0232813,
-      "nearestStation": { "name": "Sinsa", "nameKo": "신사역", "lines": ["3"], "exit": "Exit 8", "walkMin": 9 }
+      "nearestStation": {
+        "name": "Sinsa",
+        "nameKo": "신사역",
+        "lines": [
+          "3"
+        ],
+        "exit": "Exit 8",
+        "walkMin": 9
+      }
     },
     "links": {
       "naverMap": "https://map.naver.com/p/search/%EA%B8%B8%EB%B2%84%ED%8A%B8%EB%B2%84%EA%B1%B0",
@@ -668,13 +1597,32 @@
       "tripadvisor": "https://www.tripadvisor.com/Restaurant_Review-g294197-d7983969-Reviews-Gilbert_s_Burger_and_Fries-Seoul.html"
     },
     "images": [
-      { "url": "https://img02.restaurantguru.com/c33d-Restaurant-Gilberts-Burger-and-Fries-pulled-pork-sandwich.jpg", "source": "https://restaurantguru.com/Gilberts-Burger-and-Fries-Seoul", "credit": "Restaurant Guru", "alt": "Sandwich at Gilbert's Burger & Fries" },
-      { "url": "https://img02.restaurantguru.com/c090-Gilberts-Burger-and-Fries-Seoul-fries.jpg", "source": "https://restaurantguru.com/Gilberts-Burger-and-Fries-Seoul", "credit": "Restaurant Guru", "alt": "Fries at Gilbert's Burger & Fries" },
-      { "url": "https://img02.restaurantguru.com/c3b8-Gilberts-Burger-and-Fries-Seoul-hamburger.jpg", "source": "https://restaurantguru.com/Gilberts-Burger-and-Fries-Seoul", "credit": "Restaurant Guru", "alt": "Hamburger at Gilbert's Burger & Fries" }
+      {
+        "url": "https://img02.restaurantguru.com/c33d-Restaurant-Gilberts-Burger-and-Fries-pulled-pork-sandwich.jpg",
+        "source": "https://restaurantguru.com/Gilberts-Burger-and-Fries-Seoul",
+        "credit": "Restaurant Guru",
+        "alt": "Sandwich at Gilbert's Burger & Fries"
+      },
+      {
+        "url": "https://img02.restaurantguru.com/c090-Gilberts-Burger-and-Fries-Seoul-fries.jpg",
+        "source": "https://restaurantguru.com/Gilberts-Burger-and-Fries-Seoul",
+        "credit": "Restaurant Guru",
+        "alt": "Fries at Gilbert's Burger & Fries"
+      },
+      {
+        "url": "https://img02.restaurantguru.com/c3b8-Gilberts-Burger-and-Fries-Seoul-hamburger.jpg",
+        "source": "https://restaurantguru.com/Gilberts-Burger-and-Fries-Seoul",
+        "credit": "Restaurant Guru",
+        "alt": "Hamburger at Gilbert's Burger & Fries"
+      }
     ],
     "duration": "45 min - 1 h",
     "bestTime": "Off-peak lunch",
-    "goodFor": ["Family of 5", "Quick bite", "Kids at heart"],
+    "goodFor": [
+      "Family of 5",
+      "Quick bite",
+      "Kids at heart"
+    ],
     "sources": [
       "https://www.tripadvisor.com/Restaurant_Review-g294197-d7983969-Reviews-Gilbert_s_Burger_and_Fries-Seoul.html"
     ],
@@ -686,33 +1634,88 @@
     "nameKo": "스페인클럽",
     "category": "food",
     "subcategory": "Spanish",
-    "cuisine": ["Spanish", "Mediterranean"],
-    "tags": ["group-friendly", "english-friendly", "indoor"],
-    "vibes": ["lively", "classic"],
+    "cuisine": [
+      "Spanish",
+      "Mediterranean"
+    ],
+    "tags": [
+      "group-friendly",
+      "english-friendly",
+      "indoor"
+    ],
+    "vibes": [
+      "lively",
+      "classic"
+    ],
     "summary": "Tapas and paella \"better than in Spain\" on Garosugil, with valet parking and a full Spanish wine list.",
     "description": "Spain Club is a long-standing Spanish restaurant on Garosugil offering a full run of tapas — mussels, gambas al ajillo, arancini — alongside paella cooked to order. Reviewers frequently say the paella rivals what they've had in Spain itself, and the room comfortably handles groups sharing several dishes family-style. Valet parking is available, a nice touch given Garosugil's tight streets. It pairs naturally with an afternoon of shopping in Sinsa and Apgujeong.",
-    "highlights": ["Seafood paella", "Gambas al ajillo", "Iberian mussels"],
-    "tips": ["Order paella in advance if the table wants it as a centerpiece — it takes time to cook.", "Valet parking available, useful given limited street parking on Garosugil.", "Closed Mondays."],
-    "badges": { "familyFriendly": true },
+    "highlights": [
+      "Seafood paella",
+      "Gambas al ajillo",
+      "Iberian mussels"
+    ],
+    "tips": [
+      "Order paella in advance if the table wants it as a centerpiece — it takes time to cook.",
+      "Valet parking available, useful given limited street parking on Garosugil.",
+      "Closed Mondays."
+    ],
+    "badges": {
+      "familyFriendly": true
+    },
     "ratings": {
       "tripadvisor": {
-        "score": 4.0,
+        "score": 4,
         "count": 33,
         "rank": "#735 of 19,325 Restaurants in Seoul",
         "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d4034971-Reviews-Spain_Club-Seoul.html"
       }
     },
     "reviews": [
-      { "source": "TripAdvisor", "text": "A visitor called the tapas and paella exceptional, saying it was better than what they'd had in Spain.", "paraphrased": true, "lang": "en", "url": "https://www.tripadvisor.com/ShowUserReviews-g294197-d4034971-r561143465-Spain_Club-Seoul.html" },
-      { "source": "Blog", "text": "My Guide Seoul describes it as an authentic Spanish spot on Garosugil serving everything from classic tapas to rich paella, with valet parking for diners.", "paraphrased": true, "lang": "en", "url": "https://www.myguideseoul.com/restaurants/spain-club" }
+      {
+        "source": "TripAdvisor",
+        "text": "A visitor called the tapas and paella exceptional, saying it was better than what they'd had in Spain.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g294197-d4034971-r561143465-Spain_Club-Seoul.html"
+      },
+      {
+        "source": "Blog",
+        "text": "My Guide Seoul describes it as an authentic Spanish spot on Garosugil serving everything from classic tapas to rich paella, with valet parking for diners.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.myguideseoul.com/restaurants/spain-club"
+      }
     ],
-    "price": { "level": 3, "note": "Tapas and paella, shareable pricing for groups" },
-    "hours": { "weekly": { "mon": "closed", "tue": "12:00-23:00", "wed": "12:00-23:00", "thu": "12:00-23:00", "fri": "12:00-23:00", "sat": "12:00-23:00", "sun": "12:00-22:00" } },
-    "tripDays": {
-      "2026-09-23": "open", "2026-09-24": "unknown", "2026-09-25": "unknown", "2026-09-26": "unknown",
-      "2026-09-27": "open", "2026-09-28": "closed", "2026-09-29": "open", "2026-09-30": "open"
+    "price": {
+      "level": 3,
+      "note": "Tapas and paella, shareable pricing for groups"
     },
-    "chuseok": { "status": "unknown", "note": "Regularly closed Mondays (28 Sep). No 2026 Chuseok notice found for 24-26 Sep — call ahead.", "verified": false },
+    "hours": {
+      "weekly": {
+        "mon": "closed",
+        "tue": "12:00-23:00",
+        "wed": "12:00-23:00",
+        "thu": "12:00-23:00",
+        "fri": "12:00-23:00",
+        "sat": "12:00-23:00",
+        "sun": "12:00-22:00"
+      }
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "unknown",
+      "2026-09-25": "unknown",
+      "2026-09-26": "unknown",
+      "2026-09-27": "open",
+      "2026-09-28": "closed",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "Regularly closed Mondays (28 Sep). No 2026 Chuseok notice found for 24-26 Sep — call ahead.",
+      "verified": false
+    },
     "location": {
       "address": "26 Apgujeong-ro 10-gil, Gangnam-gu, Seoul",
       "addressKo": "서울 강남구 압구정로10길 26",
@@ -720,7 +1723,15 @@
       "neighborhood": "Sinsa / Garosugil",
       "lat": 37.5218853,
       "lng": 127.0218708,
-      "nearestStation": { "name": "Sinsa", "nameKo": "신사역", "lines": ["3"], "exit": "Exit 8", "walkMin": 8 }
+      "nearestStation": {
+        "name": "Sinsa",
+        "nameKo": "신사역",
+        "lines": [
+          "3"
+        ],
+        "exit": "Exit 8",
+        "walkMin": 8
+      }
     },
     "links": {
       "naverMap": "https://map.naver.com/p/search/%EC%8A%A4%ED%8E%98%EC%9D%B8%ED%81%B4%EB%9F%BD",
@@ -728,15 +1739,42 @@
       "tripadvisor": "https://www.tripadvisor.com/Restaurant_Review-g294197-d4034971-Reviews-Spain_Club-Seoul.html"
     },
     "images": [
-      { "url": "https://img02.restaurantguru.com/cec6-Restaurant-Spain-Club-mussels.jpg", "source": "https://restaurantguru.com/Spain-Club-Seoul", "credit": "Restaurant Guru", "alt": "Mussels at Spain Club" },
-      { "url": "https://img02.restaurantguru.com/c90d-Spain-Club-Seoul-paella.jpg", "source": "https://restaurantguru.com/Spain-Club-Seoul", "credit": "Restaurant Guru", "alt": "Paella at Spain Club" },
-      { "url": "https://img02.restaurantguru.com/c6f8-Restaurant-Spain-Club-interior-2.jpg", "source": "https://restaurantguru.com/Spain-Club-Seoul", "credit": "Restaurant Guru", "alt": "Spain Club interior" },
-      { "url": "https://images.myguide-cdn.com/seoul/companies/spain-club/large/spain-club-99652.jpg", "source": "https://www.myguideseoul.com/restaurants/spain-club", "credit": "My Guide Seoul", "alt": "Spain Club restaurant" }
+      {
+        "url": "https://img02.restaurantguru.com/cec6-Restaurant-Spain-Club-mussels.jpg",
+        "source": "https://restaurantguru.com/Spain-Club-Seoul",
+        "credit": "Restaurant Guru",
+        "alt": "Mussels at Spain Club"
+      },
+      {
+        "url": "https://img02.restaurantguru.com/c90d-Spain-Club-Seoul-paella.jpg",
+        "source": "https://restaurantguru.com/Spain-Club-Seoul",
+        "credit": "Restaurant Guru",
+        "alt": "Paella at Spain Club"
+      },
+      {
+        "url": "https://img02.restaurantguru.com/c6f8-Restaurant-Spain-Club-interior-2.jpg",
+        "source": "https://restaurantguru.com/Spain-Club-Seoul",
+        "credit": "Restaurant Guru",
+        "alt": "Spain Club interior"
+      },
+      {
+        "url": "https://images.myguide-cdn.com/seoul/companies/spain-club/large/spain-club-99652.jpg",
+        "source": "https://www.myguideseoul.com/restaurants/spain-club",
+        "credit": "My Guide Seoul",
+        "alt": "Spain Club restaurant"
+      }
     ],
     "duration": "1.5-2 h",
     "bestTime": "Dinner",
-    "goodFor": ["Family of 5", "Parents", "Celebration"],
-    "reservation": { "recommended": true, "how": "Phone reservation, especially for paella" },
+    "goodFor": [
+      "Family of 5",
+      "Parents",
+      "Celebration"
+    ],
+    "reservation": {
+      "recommended": true,
+      "how": "Phone reservation, especially for paella"
+    },
     "sources": [
       "https://www.tripadvisor.com/Restaurant_Review-g294197-d4034971-Reviews-Spain_Club-Seoul.html"
     ],
@@ -748,14 +1786,36 @@
     "nameKo": "퀸스파크 청담점",
     "category": "food",
     "subcategory": "Brunch",
-    "cuisine": ["Brunch", "Bakery", "Mediterranean"],
-    "tags": ["group-friendly", "english-friendly", "indoor", "instagrammable"],
-    "vibes": ["trendy", "design", "cozy"],
+    "cuisine": [
+      "Brunch",
+      "Bakery",
+      "Mediterranean"
+    ],
+    "tags": [
+      "group-friendly",
+      "english-friendly",
+      "indoor",
+      "instagrammable"
+    ],
+    "vibes": [
+      "trendy",
+      "design",
+      "cozy"
+    ],
     "summary": "A British-leaning organic bakery-brunch spot in Cheongdam, serving all-day brunch until 5pm.",
     "description": "Queens Park Cheongdam is a European-style bakery and brunch restaurant known for its own bread and pastries, plus an all-day brunch menu that runs until 5pm — a relaxed, low-effort option that suits a slow morning or long lunch. The Cheongdam branch draws a design-conscious local crowd, with a bright, photogenic dining room. It's a comfortable pick after a Chuseok morning walk or before an afternoon in Apgujeong Rodeo, without needing a dinner-level reservation push.",
-    "highlights": ["All-day brunch menu (until 5pm)", "Fresh-baked bread and pastries", "European-style café dishes"],
-    "tips": ["Brunch is served until 5pm, so it works well for a late, relaxed start to the day.", "Popular on weekends — arrive before noon to avoid a wait."],
-    "badges": { "familyFriendly": true },
+    "highlights": [
+      "All-day brunch menu (until 5pm)",
+      "Fresh-baked bread and pastries",
+      "European-style café dishes"
+    ],
+    "tips": [
+      "Brunch is served until 5pm, so it works well for a late, relaxed start to the day.",
+      "Popular on weekends — arrive before noon to avoid a wait."
+    ],
+    "badges": {
+      "familyFriendly": true
+    },
     "ratings": {
       "tripadvisor": {
         "score": 4.1,
@@ -763,16 +1823,51 @@
       }
     },
     "reviews": [
-      { "source": "TripAdvisor", "text": "Reviewers describe it as a trendy, upscale brunch and bakery spot in Cheongdam with a bright, design-forward room.", "paraphrased": true, "lang": "en", "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d4034045-Reviews-Queens_Park_Cheongdam-Seoul.html" },
-      { "source": "Blog", "text": "A Seoul lifestyle blog calls it a hidden brunch gem in Cheongdam, noting the own-baked bread and all-day brunch service.", "paraphrased": true, "lang": "en", "url": "https://www.lemon8-app.com/viiviiannang/7231930063250375170?region=sg" }
+      {
+        "source": "TripAdvisor",
+        "text": "Reviewers describe it as a trendy, upscale brunch and bakery spot in Cheongdam with a bright, design-forward room.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d4034045-Reviews-Queens_Park_Cheongdam-Seoul.html"
+      },
+      {
+        "source": "Blog",
+        "text": "A Seoul lifestyle blog calls it a hidden brunch gem in Cheongdam, noting the own-baked bread and all-day brunch service.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.lemon8-app.com/viiviiannang/7231930063250375170?region=sg"
+      }
     ],
-    "price": { "level": 2, "note": "Brunch mains and bakery items, café-level pricing" },
-    "hours": { "weekly": {}, "note": "Brunch served until 5pm; exact opening time not fully confirmed online." },
-    "tripDays": {
-      "2026-09-23": "open", "2026-09-24": "unknown", "2026-09-25": "unknown", "2026-09-26": "unknown",
-      "2026-09-27": "open", "2026-09-28": "open", "2026-09-29": "open", "2026-09-30": "open"
+    "price": {
+      "level": 2,
+      "note": "Brunch mains and bakery items, café-level pricing",
+      "menuKRW": {
+        "min": 5000,
+        "typical": 38000,
+        "max": 39000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
-    "chuseok": { "status": "unknown", "note": "No 2026 Chuseok notice found for 24-26 Sep. Cafés and bakeries sometimes stay open through the holiday — call ahead to confirm.", "verified": false },
+    "hours": {
+      "weekly": {},
+      "note": "Brunch served until 5pm; exact opening time not fully confirmed online."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "unknown",
+      "2026-09-25": "unknown",
+      "2026-09-26": "unknown",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found for 24-26 Sep. Cafés and bakeries sometimes stay open through the holiday — call ahead to confirm.",
+      "verified": false
+    },
     "location": {
       "address": "22 Apgujeong-ro 60-gil, Gangnam-gu, Seoul",
       "addressKo": "서울 강남구 압구정로60길 22",
@@ -780,7 +1875,15 @@
       "neighborhood": "Cheongdam",
       "lat": 37.5259835,
       "lng": 127.0416103,
-      "nearestStation": { "name": "Apgujeong Rodeo", "nameKo": "압구정로데오역", "lines": ["SUIN"], "exit": "Exit 4", "walkMin": 7 }
+      "nearestStation": {
+        "name": "Apgujeong Rodeo",
+        "nameKo": "압구정로데오역",
+        "lines": [
+          "SUIN"
+        ],
+        "exit": "Exit 4",
+        "walkMin": 7
+      }
     },
     "links": {
       "naverMap": "https://map.naver.com/p/search/%ED%80%B8%EC%8A%A4%ED%8C%8C%ED%81%AC%20%EC%B2%AD%EB%8B%B4%EC%A0%90",
@@ -788,14 +1891,38 @@
       "tripadvisor": "https://www.tripadvisor.com/Restaurant_Review-g294197-d4034045-Reviews-Queens_Park_Cheongdam-Seoul.html"
     },
     "images": [
-      { "url": "https://img02.restaurantguru.com/c276-food-Queens-Park-2.jpg", "source": "https://restaurantguru.com/Queens-Park-Cheongdam-Seoul", "credit": "Restaurant Guru", "alt": "Brunch dish at Queens Park Cheongdam" },
-      { "url": "https://img02.restaurantguru.com/cde1-Restaurant-Queens-Park-meals.jpg", "source": "https://restaurantguru.com/Queens-Park-Cheongdam-Seoul", "credit": "Restaurant Guru", "alt": "Queens Park Cheongdam dish" },
-      { "url": "https://img02.restaurantguru.com/cb4a-Queens-Park-meals-2.jpg", "source": "https://restaurantguru.com/Queens-Park-Cheongdam-Seoul", "credit": "Restaurant Guru", "alt": "Queens Park Cheongdam meal" },
-      { "url": "https://img02.restaurantguru.com/c857-seafood-Queens-Park.jpg", "source": "https://restaurantguru.com/Queens-Park-Cheongdam-Seoul", "credit": "Restaurant Guru", "alt": "Seafood dish at Queens Park Cheongdam" }
+      {
+        "url": "https://img02.restaurantguru.com/c276-food-Queens-Park-2.jpg",
+        "source": "https://restaurantguru.com/Queens-Park-Cheongdam-Seoul",
+        "credit": "Restaurant Guru",
+        "alt": "Brunch dish at Queens Park Cheongdam"
+      },
+      {
+        "url": "https://img02.restaurantguru.com/cde1-Restaurant-Queens-Park-meals.jpg",
+        "source": "https://restaurantguru.com/Queens-Park-Cheongdam-Seoul",
+        "credit": "Restaurant Guru",
+        "alt": "Queens Park Cheongdam dish"
+      },
+      {
+        "url": "https://img02.restaurantguru.com/cb4a-Queens-Park-meals-2.jpg",
+        "source": "https://restaurantguru.com/Queens-Park-Cheongdam-Seoul",
+        "credit": "Restaurant Guru",
+        "alt": "Queens Park Cheongdam meal"
+      },
+      {
+        "url": "https://img02.restaurantguru.com/c857-seafood-Queens-Park.jpg",
+        "source": "https://restaurantguru.com/Queens-Park-Cheongdam-Seoul",
+        "credit": "Restaurant Guru",
+        "alt": "Seafood dish at Queens Park Cheongdam"
+      }
     ],
     "duration": "1-1.5 h",
     "bestTime": "Late brunch",
-    "goodFor": ["Family of 5", "Parents", "Photos"],
+    "goodFor": [
+      "Family of 5",
+      "Parents",
+      "Photos"
+    ],
     "sources": [
       "https://www.tripadvisor.com/Restaurant_Review-g294197-d4034045-Reviews-Queens_Park_Cheongdam-Seoul.html"
     ],
@@ -807,13 +1934,37 @@
     "nameKo": "루프탑 클라우드",
     "category": "bar",
     "subcategory": "Rooftop bar",
-    "tags": ["rooftop", "view", "night-view", "cocktails", "hotel", "group-friendly", "english-friendly"],
-    "vibes": ["view", "rooftop", "trendy", "design"],
+    "tags": [
+      "rooftop",
+      "view",
+      "night-view",
+      "cocktails",
+      "hotel",
+      "group-friendly",
+      "english-friendly"
+    ],
+    "vibes": [
+      "view",
+      "rooftop",
+      "trendy",
+      "design"
+    ],
     "summary": "A 1920s-speakeasy-styled rooftop bar on the 21st floor of AC Hotel Gangnam with 360-degree views to N Seoul Tower.",
     "description": "Rooftop KLOUD sits on the 21st floor of AC Hotel by Marriott Seoul Gangnam, directly by Yeoksam Station, blending a prohibition-era speakeasy interior with an open-air terrace that looks out to N Seoul Tower and the Gangnam skyline. It has been ranked among the world's best rooftop bars by international guides, and the crowd skews toward relaxed cocktail sipping rather than a loud club scene. Drinks run pricier than average, but reviewers say the views and attentive bartenders justify it. It's an easy after-dinner stop since it's right by a Line 2 station.",
-    "highlights": ["360-degree skyline and N Seoul Tower views", "Artisanal cocktails", "Indoor speakeasy lounge plus open terrace"],
-    "tips": ["Go right at sunset for the best light before the city lights come on.", "Directly above Yeoksam Station — easy to combine with a Gangnam dinner.", "Hotel guests get a bill discount; drinks run around ₩22,000."],
-    "badges": { "futuristic": true, "familyFriendly": true },
+    "highlights": [
+      "360-degree skyline and N Seoul Tower views",
+      "Artisanal cocktails",
+      "Indoor speakeasy lounge plus open terrace"
+    ],
+    "tips": [
+      "Go right at sunset for the best light before the city lights come on.",
+      "Directly above Yeoksam Station — easy to combine with a Gangnam dinner.",
+      "Hotel guests get a bill discount; drinks run around ₩22,000."
+    ],
+    "badges": {
+      "futuristic": true,
+      "familyFriendly": true
+    },
     "ratings": {
       "tripadvisor": {
         "score": 3.9,
@@ -823,16 +1974,55 @@
       }
     },
     "reviews": [
-      { "source": "TripAdvisor", "text": "Visitors say the view alone is worth it, calling the panorama over Gangnam and N Seoul Tower excellent.", "paraphrased": true, "lang": "en", "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d12703505-Reviews-Kloud-Seoul.html" },
-      { "source": "Blog", "text": "A local guide highlights the chic 1920s speakeasy interior alongside an open terrace with 360-degree skyline views.", "paraphrased": true, "lang": "en", "url": "https://thesmartlocal.kr/rooftop-kloud/" }
+      {
+        "source": "TripAdvisor",
+        "text": "Visitors say the view alone is worth it, calling the panorama over Gangnam and N Seoul Tower excellent.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d12703505-Reviews-Kloud-Seoul.html"
+      },
+      {
+        "source": "Blog",
+        "text": "A local guide highlights the chic 1920s speakeasy interior alongside an open terrace with 360-degree skyline views.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://thesmartlocal.kr/rooftop-kloud/"
+      }
     ],
-    "price": { "level": 3, "perPersonKRW": [22000, 40000], "note": "Cocktails around ₩22,000 each" },
-    "hours": { "weekly": { "mon": "18:00-01:00", "tue": "18:00-01:00", "wed": "18:00-01:00", "thu": "18:00-01:00", "fri": "18:00-01:00", "sat": "18:00-01:00", "sun": "18:00-01:00" } },
-    "tripDays": {
-      "2026-09-23": "open", "2026-09-24": "open", "2026-09-25": "unknown", "2026-09-26": "open",
-      "2026-09-27": "open", "2026-09-28": "open", "2026-09-29": "open", "2026-09-30": "open"
+    "price": {
+      "level": 3,
+      "perPersonKRW": [
+        22000,
+        40000
+      ],
+      "note": "Cocktails around ₩22,000 each"
     },
-    "chuseok": { "status": "open", "note": "No 2026 Chuseok notice found, but hotel rooftop bars typically stay open through the holiday.", "verified": false },
+    "hours": {
+      "weekly": {
+        "mon": "18:00-01:00",
+        "tue": "18:00-01:00",
+        "wed": "18:00-01:00",
+        "thu": "18:00-01:00",
+        "fri": "18:00-01:00",
+        "sat": "18:00-01:00",
+        "sun": "18:00-01:00"
+      }
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "unknown",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "No 2026 Chuseok notice found, but hotel rooftop bars typically stay open through the holiday.",
+      "verified": false
+    },
     "location": {
       "address": "AC Hotel by Marriott Seoul Gangnam, 10 Teheran-ro 25-gil, Gangnam-gu, Seoul",
       "addressKo": "서울 강남구 테헤란로25길 10 AC호텔 서울 강남",
@@ -840,7 +2030,14 @@
       "neighborhood": "Yeoksam",
       "lat": 37.5017824,
       "lng": 127.0345001,
-      "nearestStation": { "name": "Yeoksam", "nameKo": "역삼역", "lines": ["2"], "walkMin": 3 }
+      "nearestStation": {
+        "name": "Yeoksam",
+        "nameKo": "역삼역",
+        "lines": [
+          "2"
+        ],
+        "walkMin": 3
+      }
     },
     "links": {
       "website": "https://www.marriott.com/en-us/dining/restaurant-bar/selag-ac-hotel-seoul-gangnam/6791127-rooftop-bar-kloud.mi",
@@ -849,15 +2046,45 @@
       "tripadvisor": "https://www.tripadvisor.com/Restaurant_Review-g294197-d12703505-Reviews-Kloud-Seoul.html"
     },
     "images": [
-      { "url": "https://thesmartlocal.kr/wp-content/uploads/2023/03/image9-6-e1679040848463.jpg", "source": "https://thesmartlocal.kr/rooftop-kloud/", "credit": "The Smart Local Korea", "alt": "Rooftop KLOUD terrace view" },
-      { "url": "https://thesmartlocal.kr/wp-content/uploads/2023/03/279319832_188800663479735_545864555036531851_n-e1679040994856.jpg", "source": "https://thesmartlocal.kr/rooftop-kloud/", "credit": "The Smart Local Korea", "alt": "Rooftop KLOUD cocktails" },
-      { "url": "https://thesmartlocal.kr/wp-content/uploads/2023/03/image1-12.jpg", "source": "https://thesmartlocal.kr/rooftop-kloud/", "credit": "The Smart Local Korea", "alt": "Rooftop KLOUD speakeasy interior" },
-      { "url": "https://thesmartlocal.kr/wp-content/uploads/2023/03/image6-7.jpg", "source": "https://thesmartlocal.kr/rooftop-kloud/", "credit": "The Smart Local Korea", "alt": "Rooftop KLOUD bar counter" },
-      { "url": "https://thesmartlocal.kr/wp-content/uploads/2023/03/image7-7-e1679041103400.jpg", "source": "https://thesmartlocal.kr/rooftop-kloud/", "credit": "The Smart Local Korea", "alt": "Rooftop KLOUD skyline view at night" }
+      {
+        "url": "https://thesmartlocal.kr/wp-content/uploads/2023/03/image9-6-e1679040848463.jpg",
+        "source": "https://thesmartlocal.kr/rooftop-kloud/",
+        "credit": "The Smart Local Korea",
+        "alt": "Rooftop KLOUD terrace view"
+      },
+      {
+        "url": "https://thesmartlocal.kr/wp-content/uploads/2023/03/279319832_188800663479735_545864555036531851_n-e1679040994856.jpg",
+        "source": "https://thesmartlocal.kr/rooftop-kloud/",
+        "credit": "The Smart Local Korea",
+        "alt": "Rooftop KLOUD cocktails"
+      },
+      {
+        "url": "https://thesmartlocal.kr/wp-content/uploads/2023/03/image1-12.jpg",
+        "source": "https://thesmartlocal.kr/rooftop-kloud/",
+        "credit": "The Smart Local Korea",
+        "alt": "Rooftop KLOUD speakeasy interior"
+      },
+      {
+        "url": "https://thesmartlocal.kr/wp-content/uploads/2023/03/image6-7.jpg",
+        "source": "https://thesmartlocal.kr/rooftop-kloud/",
+        "credit": "The Smart Local Korea",
+        "alt": "Rooftop KLOUD bar counter"
+      },
+      {
+        "url": "https://thesmartlocal.kr/wp-content/uploads/2023/03/image7-7-e1679041103400.jpg",
+        "source": "https://thesmartlocal.kr/rooftop-kloud/",
+        "credit": "The Smart Local Korea",
+        "alt": "Rooftop KLOUD skyline view at night"
+      }
     ],
     "duration": "1.5-2 h",
     "bestTime": "Sunset",
-    "goodFor": ["Night out", "Parents", "Date", "Photos"],
+    "goodFor": [
+      "Night out",
+      "Parents",
+      "Date",
+      "Photos"
+    ],
     "sources": [
       "https://thesmartlocal.kr/rooftop-kloud/",
       "https://www.tripadvisor.com/Restaurant_Review-g294197-d12703505-Reviews-Kloud-Seoul.html",
@@ -871,13 +2098,33 @@
     "nameKo": "플로팅",
     "category": "bar",
     "subcategory": "Rooftop bar",
-    "tags": ["rooftop", "view", "night-view", "hotel", "cocktails", "group-friendly"],
-    "vibes": ["view", "rooftop", "trendy"],
+    "tags": [
+      "rooftop",
+      "view",
+      "night-view",
+      "hotel",
+      "cocktails",
+      "group-friendly"
+    ],
+    "vibes": [
+      "view",
+      "rooftop",
+      "trendy"
+    ],
     "summary": "L7 Myeongdong's rooftop bar with one of the best straight-on views of N Seoul Tower in the city.",
     "description": "Floating is the rooftop bar on the 21st floor of L7 Myeongdong, prized for a direct, unobstructed view of N Seoul Tower that reviewers rank among the best in Seoul. The bar mixes indoor lounge seating with an open terrace, serving cocktails and light bites for a relaxed evening rather than a dance-floor scene. Its central Myeongdong location makes it an easy add-on to a shopping day or dinner in the area. Best enjoyed as the sun sets and the tower lights come on.",
-    "highlights": ["Direct N Seoul Tower view", "Rooftop terrace and indoor lounge", "Cocktail and light bites menu"],
-    "tips": ["Arrive for sunset to see the transition from daylight to tower lights.", "Central Myeongdong location — easy to pair with shopping or dinner nearby."],
-    "badges": { "familyFriendly": true },
+    "highlights": [
+      "Direct N Seoul Tower view",
+      "Rooftop terrace and indoor lounge",
+      "Cocktail and light bites menu"
+    ],
+    "tips": [
+      "Arrive for sunset to see the transition from daylight to tower lights.",
+      "Central Myeongdong location — easy to pair with shopping or dinner nearby."
+    ],
+    "badges": {
+      "familyFriendly": true
+    },
     "ratings": {
       "tripadvisor": {
         "score": 3.8,
@@ -886,16 +2133,59 @@
       }
     },
     "reviews": [
-      { "source": "TripAdvisor", "text": "A guest called it the best rooftop service in Seoul, highlighting the direct view of N Seoul Tower.", "paraphrased": true, "lang": "en", "url": "https://www.tripadvisor.com/ShowUserReviews-g294197-d8522933-r434783342-L7_Hotel_Myeongdong-Seoul.html" },
-      { "source": "Blog", "text": "Time Out Seoul lists Floating among the city's best rooftop bars for its direct, unobstructed sightline to N Seoul Tower.", "paraphrased": true, "lang": "en", "url": "https://www.timeout.com/seoul/bars/floating-bar" }
+      {
+        "source": "TripAdvisor",
+        "text": "A guest called it the best rooftop service in Seoul, highlighting the direct view of N Seoul Tower.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g294197-d8522933-r434783342-L7_Hotel_Myeongdong-Seoul.html"
+      },
+      {
+        "source": "Blog",
+        "text": "Time Out Seoul lists Floating among the city's best rooftop bars for its direct, unobstructed sightline to N Seoul Tower.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.timeout.com/seoul/bars/floating-bar"
+      }
     ],
-    "price": { "level": 3, "note": "Cocktails and light bites, hotel rooftop pricing" },
-    "hours": { "weekly": { "mon": "18:00-00:00", "tue": "18:00-00:00", "wed": "18:00-00:00", "thu": "18:00-00:00", "fri": "18:00-01:00", "sat": "18:00-01:00", "sun": "18:00-00:00" }, "note": "Approximate hotel rooftop bar hours; confirm ahead." },
-    "tripDays": {
-      "2026-09-23": "open", "2026-09-24": "open", "2026-09-25": "unknown", "2026-09-26": "open",
-      "2026-09-27": "open", "2026-09-28": "open", "2026-09-29": "open", "2026-09-30": "open"
+    "price": {
+      "level": 3,
+      "note": "Cocktails and light bites, hotel rooftop pricing",
+      "menuKRW": {
+        "min": 22000,
+        "typical": 29000,
+        "max": 38000,
+        "n": 5,
+        "source": "Kakao Map menu"
+      }
     },
-    "chuseok": { "status": "open", "note": "No 2026 Chuseok notice found, but hotel rooftop bars typically stay open through the holiday.", "verified": false },
+    "hours": {
+      "weekly": {
+        "mon": "18:00-00:00",
+        "tue": "18:00-00:00",
+        "wed": "18:00-00:00",
+        "thu": "18:00-00:00",
+        "fri": "18:00-01:00",
+        "sat": "18:00-01:00",
+        "sun": "18:00-00:00"
+      },
+      "note": "Approximate hotel rooftop bar hours; confirm ahead."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "unknown",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "No 2026 Chuseok notice found, but hotel rooftop bars typically stay open through the holiday.",
+      "verified": false
+    },
     "location": {
       "address": "L7 Myeongdong, 137 Toegye-ro, Jung-gu, Seoul",
       "addressKo": "서울 중구 퇴계로 137 L7 명동",
@@ -903,7 +2193,14 @@
       "neighborhood": "Myeongdong",
       "lat": 37.5617173,
       "lng": 126.987815,
-      "nearestStation": { "name": "Myeongdong", "nameKo": "명동역", "lines": ["4"], "walkMin": 6 }
+      "nearestStation": {
+        "name": "Myeongdong",
+        "nameKo": "명동역",
+        "lines": [
+          "4"
+        ],
+        "walkMin": 6
+      }
     },
     "links": {
       "naverMap": "https://map.naver.com/p/search/%ED%94%8C%EB%A1%9C%ED%8C%85%20%EB%A9%85%EB%8F%99",
@@ -911,13 +2208,33 @@
       "tripadvisor": "https://www.tripadvisor.com/Restaurant_Review-g294197-d13422172-Reviews-Roof_top_Bar_Floating_L7_Myeongdong-Seoul.html"
     },
     "images": [
-      { "url": "https://media.timeout.com/images/106209082/750/422/image.jpg", "source": "https://www.timeout.com/seoul/bars/floating-bar", "credit": "Time Out Seoul / L7 Hotels by Lotte", "alt": "Floating rooftop bar terrace with N Seoul Tower view" },
-      { "url": "https://media.timeout.com/images/106209083/750/422/image.jpg", "source": "https://www.timeout.com/seoul/bars/floating-bar", "credit": "Time Out Seoul / L7 Hotels by Lotte", "alt": "Floating rooftop bar seating" },
-      { "url": "https://media.timeout.com/images/106209084/750/422/image.jpg", "source": "https://www.timeout.com/seoul/bars/floating-bar", "credit": "Time Out Seoul / L7 Hotels by Lotte", "alt": "Floating rooftop bar at night" }
+      {
+        "url": "https://media.timeout.com/images/106209082/750/422/image.jpg",
+        "source": "https://www.timeout.com/seoul/bars/floating-bar",
+        "credit": "Time Out Seoul / L7 Hotels by Lotte",
+        "alt": "Floating rooftop bar terrace with N Seoul Tower view"
+      },
+      {
+        "url": "https://media.timeout.com/images/106209083/750/422/image.jpg",
+        "source": "https://www.timeout.com/seoul/bars/floating-bar",
+        "credit": "Time Out Seoul / L7 Hotels by Lotte",
+        "alt": "Floating rooftop bar seating"
+      },
+      {
+        "url": "https://media.timeout.com/images/106209084/750/422/image.jpg",
+        "source": "https://www.timeout.com/seoul/bars/floating-bar",
+        "credit": "Time Out Seoul / L7 Hotels by Lotte",
+        "alt": "Floating rooftop bar at night"
+      }
     ],
     "duration": "1.5-2 h",
     "bestTime": "Sunset",
-    "goodFor": ["Night out", "Parents", "Photos", "Date"],
+    "goodFor": [
+      "Night out",
+      "Parents",
+      "Photos",
+      "Date"
+    ],
     "sources": [
       "https://www.timeout.com/seoul/bars/floating-bar",
       "https://www.tripadvisor.com/Restaurant_Review-g294197-d13422172-Reviews-Roof_top_Bar_Floating_L7_Myeongdong-Seoul.html"
@@ -930,13 +2247,34 @@
     "nameKo": "플랫나인",
     "category": "bar",
     "subcategory": "Jazz bar",
-    "tags": ["live-music", "cocktails", "whisky", "wine", "reservation-needed", "english-friendly"],
-    "vibes": ["romantic", "luxe", "quiet"],
+    "tags": [
+      "live-music",
+      "cocktails",
+      "whisky",
+      "wine",
+      "reservation-needed",
+      "english-friendly"
+    ],
+    "vibes": [
+      "romantic",
+      "luxe",
+      "quiet"
+    ],
     "summary": "A dark, moody jazz bar near Gangnam Station with nightly live jazz, European course dining and a whisky-forward menu.",
     "description": "Flat Nine is a jazz bar and dining room a short walk from Gangnam Station in Seocho, offering nightly live jazz alongside European-style course dining, wine and a curated whisky and cocktail list. The atmosphere is dark, romantic and date-appropriate rather than a loud club, which reviewers specifically call out as a strength. It's the kind of quiet, sophisticated evening spot that suits parents who want music and good drinks without shouting over a crowd. Groups of five or more, and front-row seats, require a bottle order — book ahead.",
-    "highlights": ["Nightly live jazz performances", "Curated whisky and cocktail list", "European course dining"],
-    "tips": ["Book ahead — tables (especially front rows) require a bottle order, and weekends fill fast.", "5 minutes from Gangnam Station — an easy stop after a Gangnam dinner.", "Go for the music as much as the drinks; it's a listening room, not a loud bar."],
-    "badges": { "familyFriendly": true },
+    "highlights": [
+      "Nightly live jazz performances",
+      "Curated whisky and cocktail list",
+      "European course dining"
+    ],
+    "tips": [
+      "Book ahead — tables (especially front rows) require a bottle order, and weekends fill fast.",
+      "5 minutes from Gangnam Station — an easy stop after a Gangnam dinner.",
+      "Go for the music as much as the drinks; it's a listening room, not a loud bar."
+    ],
+    "badges": {
+      "familyFriendly": true
+    },
     "ratings": {
       "tripadvisor": {
         "score": 4.6,
@@ -946,16 +2284,59 @@
       }
     },
     "reviews": [
-      { "source": "TripAdvisor", "text": "Visitors praise the live jazz and mood, with one noting the big screen and good atmosphere for enjoying the music.", "paraphrased": true, "lang": "en", "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d34488396-Reviews-Flatnine_Jazz_Bar-Seoul.html" },
-      { "source": "Press", "text": "CatchTable describes Flat Nine as a full-service jazz dining bar with nightly live performances, European course dining and a curated whisky and cocktail list.", "paraphrased": true, "lang": "en", "url": "https://www.catchtable.net/shop/flatnine_jazzbar" }
+      {
+        "source": "TripAdvisor",
+        "text": "Visitors praise the live jazz and mood, with one noting the big screen and good atmosphere for enjoying the music.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d34488396-Reviews-Flatnine_Jazz_Bar-Seoul.html"
+      },
+      {
+        "source": "Press",
+        "text": "CatchTable describes Flat Nine as a full-service jazz dining bar with nightly live performances, European course dining and a curated whisky and cocktail list.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.catchtable.net/shop/flatnine_jazzbar"
+      }
     ],
-    "price": { "level": 3, "note": "Cocktails, wine and whisky; bottle minimum for front-row seats or groups of 5+" },
-    "hours": { "weekly": { "mon": "18:00-01:00", "tue": "18:00-01:00", "wed": "18:00-01:00", "thu": "18:00-01:00", "fri": "18:00-02:00", "sat": "18:00-02:00", "sun": "18:00-01:00" }, "note": "Approximate; confirm show times when booking." },
-    "tripDays": {
-      "2026-09-23": "open", "2026-09-24": "unknown", "2026-09-25": "unknown", "2026-09-26": "unknown",
-      "2026-09-27": "open", "2026-09-28": "open", "2026-09-29": "open", "2026-09-30": "open"
+    "price": {
+      "level": 3,
+      "note": "Cocktails, wine and whisky; bottle minimum for front-row seats or groups of 5+",
+      "menuKRW": {
+        "min": 22000,
+        "typical": 26000,
+        "max": 43000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
-    "chuseok": { "status": "unknown", "note": "No 2026 Chuseok notice found for 24-26 Sep. Call ahead or check CatchTable before the holiday.", "verified": false },
+    "hours": {
+      "weekly": {
+        "mon": "18:00-01:00",
+        "tue": "18:00-01:00",
+        "wed": "18:00-01:00",
+        "thu": "18:00-01:00",
+        "fri": "18:00-02:00",
+        "sat": "18:00-02:00",
+        "sun": "18:00-01:00"
+      },
+      "note": "Approximate; confirm show times when booking."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "unknown",
+      "2026-09-25": "unknown",
+      "2026-09-26": "unknown",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found for 24-26 Sep. Call ahead or check CatchTable before the holiday.",
+      "verified": false
+    },
     "location": {
       "address": "5F, 10 Gangnam-daero 65-gil, Seocho-gu, Seoul",
       "addressKo": "서울 서초구 강남대로65길 10 5층",
@@ -963,7 +2344,15 @@
       "neighborhood": "Seocho / Gangnam Station",
       "lat": 37.5004541,
       "lng": 127.0249174,
-      "nearestStation": { "name": "Gangnam", "nameKo": "강남역", "lines": ["2", "SB"], "walkMin": 5 }
+      "nearestStation": {
+        "name": "Gangnam",
+        "nameKo": "강남역",
+        "lines": [
+          "2",
+          "SB"
+        ],
+        "walkMin": 5
+      }
     },
     "links": {
       "naverMap": "https://map.naver.com/p/search/%ED%94%8C%EB%9E%AB%EB%82%98%EC%9D%B8",
@@ -973,14 +2362,36 @@
       "reservation": "https://www.catchtable.net/shop/flatnine_jazzbar"
     },
     "images": [
-      { "url": "https://itin-dev.wanderlogstatic.com/freeImage/as8Ot61aPThZLl0w3erUCMzRAxz4dZLF", "source": "https://wanderlog.com/place/details/8327301/%ED%94%8C%EB%A0%9B%EB%82%98%EC%9D%B8", "credit": "Wanderlog (venue photo)", "alt": "Flat Nine jazz bar interior" },
-      { "url": "https://itin-dev.wanderlogstatic.com/freeImage/pCquYV2DLRiTzaty8X84LxjBYxDaNcwZ", "source": "https://wanderlog.com/place/details/8327301/%ED%94%8C%EB%A0%9B%EB%82%98%EC%9D%B8", "credit": "Wanderlog (venue photo)", "alt": "Flat Nine live jazz stage" },
-      { "url": "https://itin-dev.wanderlogstatic.com/freeImage/9zE1uDsvzPSdSJxst3eBBXYQbUn3r1J7", "source": "https://wanderlog.com/place/details/8327301/%ED%94%8C%EB%A0%9B%EB%82%98%EC%9D%B8", "credit": "Wanderlog (venue photo)", "alt": "Flat Nine cocktails and table setting" }
+      {
+        "url": "https://itin-dev.wanderlogstatic.com/freeImage/as8Ot61aPThZLl0w3erUCMzRAxz4dZLF",
+        "source": "https://wanderlog.com/place/details/8327301/%ED%94%8C%EB%A0%9B%EB%82%98%EC%9D%B8",
+        "credit": "Wanderlog (venue photo)",
+        "alt": "Flat Nine jazz bar interior"
+      },
+      {
+        "url": "https://itin-dev.wanderlogstatic.com/freeImage/pCquYV2DLRiTzaty8X84LxjBYxDaNcwZ",
+        "source": "https://wanderlog.com/place/details/8327301/%ED%94%8C%EB%A0%9B%EB%82%98%EC%9D%B8",
+        "credit": "Wanderlog (venue photo)",
+        "alt": "Flat Nine live jazz stage"
+      },
+      {
+        "url": "https://itin-dev.wanderlogstatic.com/freeImage/9zE1uDsvzPSdSJxst3eBBXYQbUn3r1J7",
+        "source": "https://wanderlog.com/place/details/8327301/%ED%94%8C%EB%A0%9B%EB%82%98%EC%9D%B8",
+        "credit": "Wanderlog (venue photo)",
+        "alt": "Flat Nine cocktails and table setting"
+      }
     ],
     "duration": "1.5-2 h",
     "bestTime": "Evening show",
-    "goodFor": ["Date", "Parents", "Night out"],
-    "reservation": { "recommended": true, "how": "CatchTable, especially for weekends" },
+    "goodFor": [
+      "Date",
+      "Parents",
+      "Night out"
+    ],
+    "reservation": {
+      "recommended": true,
+      "how": "CatchTable, especially for weekends"
+    },
     "sources": [
       "https://www.tripadvisor.com/Restaurant_Review-g294197-d34488396-Reviews-Flatnine_Jazz_Bar-Seoul.html",
       "https://www.catchtable.net/shop/flatnine_jazzbar"
@@ -993,13 +2404,35 @@
     "nameKo": "1914 라운지 앤 바",
     "category": "bar",
     "subcategory": "Hotel lounge bar",
-    "tags": ["live-music", "whisky", "cocktails", "hotel", "view", "english-friendly", "group-friendly"],
-    "vibes": ["luxe", "view", "classic"],
+    "tags": [
+      "live-music",
+      "whisky",
+      "cocktails",
+      "hotel",
+      "view",
+      "english-friendly",
+      "group-friendly"
+    ],
+    "vibes": [
+      "luxe",
+      "view",
+      "classic"
+    ],
     "summary": "A 24th-floor hotel lounge at Josun Palace with 30-foot windows, live jazz piano and a deep whisky and champagne list.",
     "description": "1914 Lounge & Bar occupies the 24th floor of the Josun Palace hotel in Gangnam, with floor-to-ceiling windows overlooking the city and a circular stage built around a grand piano for live jazz performances. The menu runs from signature cocktails and vintage champagnes to whiskies and seasonal shaved-ice desserts, giving the room a broad appeal beyond just drinks. It's a polished, quiet option for parents who want a sophisticated evening with a view and live music rather than a crowded bar scene. A modest cover charge applies at the bar.",
-    "highlights": ["Live jazz piano on a circular stage", "City-view floor-to-ceiling windows", "Whisky and vintage champagne list"],
-    "tips": ["A cover charge (around ₩10,000) applies at the bar seating.", "Go for sunset to see the room transition from daylight to skyline lights.", "Shaved-ice desserts are a lighter option if not everyone wants a full cocktail."],
-    "badges": { "familyFriendly": true },
+    "highlights": [
+      "Live jazz piano on a circular stage",
+      "City-view floor-to-ceiling windows",
+      "Whisky and vintage champagne list"
+    ],
+    "tips": [
+      "A cover charge (around ₩10,000) applies at the bar seating.",
+      "Go for sunset to see the room transition from daylight to skyline lights.",
+      "Shaved-ice desserts are a lighter option if not everyone wants a full cocktail."
+    ],
+    "badges": {
+      "familyFriendly": true
+    },
     "ratings": {
       "tripadvisor": {
         "score": 4.3,
@@ -1007,16 +2440,52 @@
       }
     },
     "reviews": [
-      { "source": "Blog", "text": "The venue is described as an intimate 24th-floor lounge with 30-foot-tall glass windows overlooking the city.", "paraphrased": true, "lang": "en", "url": "https://www.forbestravelguide.com/hotels/seoul-south-korea/josun-palace-a-luxury-collection-hotel-seoul-gangnam" },
-      { "source": "Press", "text": "The lounge is built around a circular stage with a grand piano for live jazz, alongside signature cocktails, vintage champagnes, whiskies and seasonal shaved-ice desserts.", "paraphrased": true, "lang": "en", "url": "https://mindtrip.ai/restaurant/seoul-south-korea/1914-lounge-bar/re-HOpkA0jo" }
+      {
+        "source": "Blog",
+        "text": "The venue is described as an intimate 24th-floor lounge with 30-foot-tall glass windows overlooking the city.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.forbestravelguide.com/hotels/seoul-south-korea/josun-palace-a-luxury-collection-hotel-seoul-gangnam"
+      },
+      {
+        "source": "Press",
+        "text": "The lounge is built around a circular stage with a grand piano for live jazz, alongside signature cocktails, vintage champagnes, whiskies and seasonal shaved-ice desserts.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://mindtrip.ai/restaurant/seoul-south-korea/1914-lounge-bar/re-HOpkA0jo"
+      }
     ],
-    "price": { "level": 3, "note": "Cocktails, whisky and champagne; approx ₩10,000 cover at the bar" },
-    "hours": { "weekly": { "mon": "17:00-01:00", "tue": "17:00-01:00", "wed": "17:00-01:00", "thu": "17:00-01:00", "fri": "17:00-01:00", "sat": "17:00-01:00", "sun": "17:00-01:00" }, "note": "Approximate hotel lounge hours; confirm ahead." },
-    "tripDays": {
-      "2026-09-23": "open", "2026-09-24": "open", "2026-09-25": "unknown", "2026-09-26": "open",
-      "2026-09-27": "open", "2026-09-28": "open", "2026-09-29": "open", "2026-09-30": "open"
+    "price": {
+      "level": 3,
+      "note": "Cocktails, whisky and champagne; approx ₩10,000 cover at the bar"
     },
-    "chuseok": { "status": "open", "note": "No 2026 Chuseok notice found, but hotel lounges typically stay open through the holiday.", "verified": false },
+    "hours": {
+      "weekly": {
+        "mon": "17:00-01:00",
+        "tue": "17:00-01:00",
+        "wed": "17:00-01:00",
+        "thu": "17:00-01:00",
+        "fri": "17:00-01:00",
+        "sat": "17:00-01:00",
+        "sun": "17:00-01:00"
+      },
+      "note": "Approximate hotel lounge hours; confirm ahead."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "unknown",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "No 2026 Chuseok notice found, but hotel lounges typically stay open through the holiday.",
+      "verified": false
+    },
     "location": {
       "address": "24F, Josun Palace, 231 Teheran-ro, Gangnam-gu, Seoul",
       "addressKo": "서울 강남구 테헤란로 231 조선팰리스 24층",
@@ -1024,7 +2493,15 @@
       "neighborhood": "Yeoksam / Seolleung",
       "lat": 37.503382,
       "lng": 127.0416,
-      "nearestStation": { "name": "Seolleung", "nameKo": "선릉역", "lines": ["2", "SUIN"], "walkMin": 8 }
+      "nearestStation": {
+        "name": "Seolleung",
+        "nameKo": "선릉역",
+        "lines": [
+          "2",
+          "SUIN"
+        ],
+        "walkMin": 8
+      }
     },
     "links": {
       "website": "https://www.marriott.com/en-us/dining/restaurant-bar/sellc-josun-palace-a-luxury-collection-hotel-seoul-gangnam/6736495-1914-lounge-bar.mi",
@@ -1034,12 +2511,27 @@
       "phone": "+82-2-727-7640"
     },
     "images": [
-      { "url": "https://secure.s.forbestravelguide.com/img/properties/josun-palace-a-luxury-collection-hotel-seoul-gangnam/josun-palace-a-luxury-collection-hotel-seoul-gangnam-1914-Lounge-Bar.jpg", "source": "https://www.forbestravelguide.com/hotels/seoul-south-korea/josun-palace-a-luxury-collection-hotel-seoul-gangnam", "credit": "Forbes Travel Guide", "alt": "1914 Lounge & Bar interior at Josun Palace" },
-      { "url": "https://secure.s.forbestravelguide.com/img/properties/josun-palace-a-luxury-collection-hotel-seoul-gangnam/josun-palace-a-luxury-collection-hotel-grand-masters-bay.jpg", "source": "https://www.forbestravelguide.com/hotels/seoul-south-korea/josun-palace-a-luxury-collection-hotel-seoul-gangnam", "credit": "Forbes Travel Guide", "alt": "Josun Palace hotel exterior" }
+      {
+        "url": "https://secure.s.forbestravelguide.com/img/properties/josun-palace-a-luxury-collection-hotel-seoul-gangnam/josun-palace-a-luxury-collection-hotel-seoul-gangnam-1914-Lounge-Bar.jpg",
+        "source": "https://www.forbestravelguide.com/hotels/seoul-south-korea/josun-palace-a-luxury-collection-hotel-seoul-gangnam",
+        "credit": "Forbes Travel Guide",
+        "alt": "1914 Lounge & Bar interior at Josun Palace"
+      },
+      {
+        "url": "https://secure.s.forbestravelguide.com/img/properties/josun-palace-a-luxury-collection-hotel-seoul-gangnam/josun-palace-a-luxury-collection-hotel-grand-masters-bay.jpg",
+        "source": "https://www.forbestravelguide.com/hotels/seoul-south-korea/josun-palace-a-luxury-collection-hotel-seoul-gangnam",
+        "credit": "Forbes Travel Guide",
+        "alt": "Josun Palace hotel exterior"
+      }
     ],
     "duration": "1.5-2 h",
     "bestTime": "Sunset into evening",
-    "goodFor": ["Parents", "Date", "Night out", "Celebration"],
+    "goodFor": [
+      "Parents",
+      "Date",
+      "Night out",
+      "Celebration"
+    ],
     "sources": [
       "https://www.forbestravelguide.com/hotels/seoul-south-korea/josun-palace-a-luxury-collection-hotel-seoul-gangnam",
       "https://www.tripadvisor.com/Restaurant_Review-g294197-d23418253-Reviews-1914_Lounge_Bar-Seoul.html"
@@ -1052,13 +2544,35 @@
     "nameKo": "서울브루어리 성수",
     "category": "bar",
     "subcategory": "Craft beer brewpub",
-    "tags": ["craft-beer", "group-friendly", "english-friendly", "instagrammable", "indoor", "outdoor"],
-    "vibes": ["design", "minimal", "hip"],
+    "tags": [
+      "craft-beer",
+      "group-friendly",
+      "english-friendly",
+      "instagrammable",
+      "indoor",
+      "outdoor"
+    ],
+    "vibes": [
+      "design",
+      "minimal",
+      "hip"
+    ],
     "summary": "A five-floor, MUJI-clean brewery complex in Seongsu with a full lineup of house-brewed beers and a beer garden.",
     "description": "Seoul Brewery's flagship Seongsu taproom is a modern, minimalist multi-floor complex — one writer compared it to what MUJI would design if it built a craft-beer brewery. Spread across a basement brewery, taprooms, a dining floor and a culture hall, it showcases the full house lineup from choco porter to a hazy Pale Blue DOT IPA, with flight sets for sampling. The design-forward space and easy self-serve taproom feel make it a comfortable, low-effort stop for parents and adult kids alike. It pairs naturally with an afternoon exploring Seongsu's galleries and design shops.",
-    "highlights": ["Flight sets of house-brewed beers", "Multi-floor brewery with taproom and dining", "Wood-fired pizza"],
-    "tips": ["Try a flight to sample several beers before committing to a full pint.", "Open daily noon to midnight — good for an afternoon or evening stop.", "Multiple floors mean it can absorb a group of five even on a busy night."],
-    "badges": { "familyFriendly": true, "futuristic": true },
+    "highlights": [
+      "Flight sets of house-brewed beers",
+      "Multi-floor brewery with taproom and dining",
+      "Wood-fired pizza"
+    ],
+    "tips": [
+      "Try a flight to sample several beers before committing to a full pint.",
+      "Open daily noon to midnight — good for an afternoon or evening stop.",
+      "Multiple floors mean it can absorb a group of five even on a busy night."
+    ],
+    "badges": {
+      "familyFriendly": true,
+      "futuristic": true
+    },
     "ratings": {
       "tripadvisor": {
         "score": 4.8,
@@ -1072,16 +2586,58 @@
       }
     },
     "reviews": [
-      { "source": "Blog", "text": "One review described the space as modern and minimalist, comparing its wood, glass and light-filled design to a MUJI-built brewery.", "paraphrased": true, "lang": "en", "url": "https://seoulshopper.com/blogs/cafe/seoul-brewery-seongsu-store" },
-      { "source": "Google", "text": "The venue holds a 4.8 rating from over 700 Google reviews, among the highest for any brewery in the city.", "paraphrased": true, "lang": "en", "url": "https://www.google.com/maps/search/?api=1&query=Seoul%20Brewery%20Seongsu" }
+      {
+        "source": "Blog",
+        "text": "One review described the space as modern and minimalist, comparing its wood, glass and light-filled design to a MUJI-built brewery.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://seoulshopper.com/blogs/cafe/seoul-brewery-seongsu-store"
+      },
+      {
+        "source": "Google",
+        "text": "The venue holds a 4.8 rating from over 700 Google reviews, among the highest for any brewery in the city.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.google.com/maps/search/?api=1&query=Seoul%20Brewery%20Seongsu"
+      }
     ],
-    "price": { "level": 2, "note": "Craft beer flights and pints, casual brewpub pricing" },
-    "hours": { "weekly": { "mon": "12:00-24:00", "tue": "12:00-24:00", "wed": "12:00-24:00", "thu": "12:00-24:00", "fri": "12:00-24:00", "sat": "12:00-24:00", "sun": "12:00-24:00" } },
-    "tripDays": {
-      "2026-09-23": "open", "2026-09-24": "open", "2026-09-25": "unknown", "2026-09-26": "open",
-      "2026-09-27": "open", "2026-09-28": "open", "2026-09-29": "open", "2026-09-30": "open"
+    "price": {
+      "level": 2,
+      "note": "Craft beer flights and pints, casual brewpub pricing",
+      "menuKRW": {
+        "min": 8500,
+        "typical": 9000,
+        "max": 9500,
+        "n": 3,
+        "source": "Kakao Map menu"
+      }
     },
-    "chuseok": { "status": "open", "note": "Listed as open daily with no holiday closure found; no 2026 Chuseok notice confirmed for 25 Sep specifically — call ahead if visiting on Chuseok day itself.", "verified": false },
+    "hours": {
+      "weekly": {
+        "mon": "12:00-24:00",
+        "tue": "12:00-24:00",
+        "wed": "12:00-24:00",
+        "thu": "12:00-24:00",
+        "fri": "12:00-24:00",
+        "sat": "12:00-24:00",
+        "sun": "12:00-24:00"
+      }
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "unknown",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "Listed as open daily with no holiday closure found; no 2026 Chuseok notice confirmed for 25 Sep specifically — call ahead if visiting on Chuseok day itself.",
+      "verified": false
+    },
     "location": {
       "address": "28-12 Yeonmujang-gil, Seongdong-gu, Seoul",
       "addressKo": "서울 성동구 연무장길 28-12",
@@ -1089,7 +2645,14 @@
       "neighborhood": "Seongsu",
       "lat": 37.5430229,
       "lng": 127.0523126,
-      "nearestStation": { "name": "Seongsu", "nameKo": "성수역", "lines": ["2"], "walkMin": 10 }
+      "nearestStation": {
+        "name": "Seongsu",
+        "nameKo": "성수역",
+        "lines": [
+          "2"
+        ],
+        "walkMin": 10
+      }
     },
     "links": {
       "naverMap": "https://map.naver.com/p/search/%EC%84%9C%EC%9A%B8%EB%B8%8C%EB%A3%A8%EC%96%B4%EB%A6%AC%20%EC%84%B1%EC%88%98",
@@ -1097,15 +2660,45 @@
       "tripadvisor": "https://www.tripadvisor.com/Restaurant_Review-g294197-d25451232-Reviews-Seoul_Brewery_Seongsu-Seoul.html"
     },
     "images": [
-      { "url": "https://cdn.shopify.com/s/files/1/0609/9376/5551/files/seoul-brewery-seoul4.jpg?v=1747114545", "source": "https://seoulshopper.com/blogs/cafe/seoul-brewery-seongsu-store", "credit": "Seoul Shopper blog", "alt": "Seoul Brewery Seongsu taproom" },
-      { "url": "https://cdn.shopify.com/s/files/1/0609/9376/5551/files/seoul-brewery-seongsu-craft-beer_3.jpg?v=1704951244", "source": "https://seoulshopper.com/blogs/cafe/seoul-brewery-seongsu-store", "credit": "Seoul Shopper blog", "alt": "Seoul Brewery Seongsu beer flight" },
-      { "url": "https://cdn.shopify.com/s/files/1/0609/9376/5551/files/seoul-brewery-seongsu-craft-beer_16.jpg?v=1704951257", "source": "https://seoulshopper.com/blogs/cafe/seoul-brewery-seongsu-store", "credit": "Seoul Shopper blog", "alt": "Seoul Brewery Seongsu interior" },
-      { "url": "https://cdn.shopify.com/s/files/1/0609/9376/5551/files/seoul-brewery-seoul3.jpg?v=1747114545", "source": "https://seoulshopper.com/blogs/cafe/seoul-brewery-seongsu-store", "credit": "Seoul Shopper blog", "alt": "Seoul Brewery Seongsu dining floor" },
-      { "url": "https://cdn.shopify.com/s/files/1/0609/9376/5551/files/seoul-brewery-seongsu-craft-beer_5.jpg?v=1704951700", "source": "https://seoulshopper.com/blogs/cafe/seoul-brewery-seongsu-store", "credit": "Seoul Shopper blog", "alt": "Seoul Brewery Seongsu pizza and beer" }
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0609/9376/5551/files/seoul-brewery-seoul4.jpg?v=1747114545",
+        "source": "https://seoulshopper.com/blogs/cafe/seoul-brewery-seongsu-store",
+        "credit": "Seoul Shopper blog",
+        "alt": "Seoul Brewery Seongsu taproom"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0609/9376/5551/files/seoul-brewery-seongsu-craft-beer_3.jpg?v=1704951244",
+        "source": "https://seoulshopper.com/blogs/cafe/seoul-brewery-seongsu-store",
+        "credit": "Seoul Shopper blog",
+        "alt": "Seoul Brewery Seongsu beer flight"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0609/9376/5551/files/seoul-brewery-seongsu-craft-beer_16.jpg?v=1704951257",
+        "source": "https://seoulshopper.com/blogs/cafe/seoul-brewery-seongsu-store",
+        "credit": "Seoul Shopper blog",
+        "alt": "Seoul Brewery Seongsu interior"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0609/9376/5551/files/seoul-brewery-seoul3.jpg?v=1747114545",
+        "source": "https://seoulshopper.com/blogs/cafe/seoul-brewery-seongsu-store",
+        "credit": "Seoul Shopper blog",
+        "alt": "Seoul Brewery Seongsu dining floor"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0609/9376/5551/files/seoul-brewery-seongsu-craft-beer_5.jpg?v=1704951700",
+        "source": "https://seoulshopper.com/blogs/cafe/seoul-brewery-seongsu-store",
+        "credit": "Seoul Shopper blog",
+        "alt": "Seoul Brewery Seongsu pizza and beer"
+      }
     ],
     "duration": "1.5-2 h",
     "bestTime": "Afternoon or evening",
-    "goodFor": ["Family of 5", "Parents", "Relaxing", "Foodies"],
+    "goodFor": [
+      "Family of 5",
+      "Parents",
+      "Relaxing",
+      "Foodies"
+    ],
     "sources": [
       "https://seoulshopper.com/blogs/cafe/seoul-brewery-seongsu-store",
       "https://www.tripadvisor.com/Restaurant_Review-g294197-d25451232-Reviews-Seoul_Brewery_Seongsu-Seoul.html",
@@ -1119,13 +2712,34 @@
     "nameKo": "파인앤코",
     "category": "bar",
     "subcategory": "Cocktail speakeasy",
-    "tags": ["cocktails", "asias-50-best", "hidden-gem", "english-friendly", "late-night"],
-    "vibes": ["design", "hip", "trendy"],
+    "tags": [
+      "cocktails",
+      "asias-50-best",
+      "hidden-gem",
+      "english-friendly",
+      "late-night"
+    ],
+    "vibes": [
+      "design",
+      "hip",
+      "trendy"
+    ],
     "summary": "A creative speakeasy down an Apgujeong back alley, ranked among Asia's 50 Best Bars, known for its kimchi cocktail.",
     "description": "Pine & Co is a basement speakeasy tucked down a quiet Apgujeong alley, ranked No. 50 on Asia's 50 Best Bars 2024 for its playful, ingredient-driven cocktails. Signature drinks lean into Korean pantry staples — a kimchi cocktail and one featuring edible ants have both become talking points — served in a stylish, intimate underground room. It's a quieter, conversation-friendly speakeasy rather than a loud late-night scene, which suits an adult crowd looking for a well-made drink. Reservations are recommended given the small footprint.",
-    "highlights": ["Kimchi cocktail", "Creative Korean-ingredient drinks", "Intimate speakeasy interior"],
-    "tips": ["Reserve ahead — it's a small underground room near Apgujeong Rodeo.", "5-minute walk from Apgujeong Rodeo Station Exit 5.", "Go early evening for a calmer, more conversational atmosphere."],
-    "badges": { "asias50best": true, "hiddenGem": true },
+    "highlights": [
+      "Kimchi cocktail",
+      "Creative Korean-ingredient drinks",
+      "Intimate speakeasy interior"
+    ],
+    "tips": [
+      "Reserve ahead — it's a small underground room near Apgujeong Rodeo.",
+      "5-minute walk from Apgujeong Rodeo Station Exit 5.",
+      "Go early evening for a calmer, more conversational atmosphere."
+    ],
+    "badges": {
+      "asias50best": true,
+      "hiddenGem": true
+    },
     "ratings": {
       "tripadvisor": {
         "score": 4.3,
@@ -1134,16 +2748,58 @@
       }
     },
     "reviews": [
-      { "source": "Press", "text": "Asia's 50 Best Bars ranked Pine & Co No. 50 in 2024, citing its creative, ingredient-driven cocktail menu.", "paraphrased": true, "lang": "en", "url": "https://www.theworlds50best.com/bars/asia/the-list/pine-co.html" },
-      { "source": "Blog", "text": "A visiting writer described it as one of Seoul's newest speakeasies, tucked down a dark Apgujeong alley with seriously creative cocktails including a kimchi cocktail and one with edible ants.", "paraphrased": true, "lang": "en", "url": "https://middleclass.sg/treats/pine-and-co-bar-seoul/" }
+      {
+        "source": "Press",
+        "text": "Asia's 50 Best Bars ranked Pine & Co No. 50 in 2024, citing its creative, ingredient-driven cocktail menu.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.theworlds50best.com/bars/asia/the-list/pine-co.html"
+      },
+      {
+        "source": "Blog",
+        "text": "A visiting writer described it as one of Seoul's newest speakeasies, tucked down a dark Apgujeong alley with seriously creative cocktails including a kimchi cocktail and one with edible ants.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://middleclass.sg/treats/pine-and-co-bar-seoul/"
+      }
     ],
-    "price": { "level": 3, "note": "Creative cocktails, speakeasy pricing" },
-    "hours": { "weekly": { "mon": "19:00-02:00", "tue": "19:00-02:00", "wed": "19:00-02:00", "thu": "19:00-02:00", "fri": "19:00-02:00", "sat": "19:00-02:00", "sun": "19:00-02:00" } },
-    "tripDays": {
-      "2026-09-23": "open", "2026-09-24": "unknown", "2026-09-25": "unknown", "2026-09-26": "unknown",
-      "2026-09-27": "open", "2026-09-28": "open", "2026-09-29": "open", "2026-09-30": "open"
+    "price": {
+      "level": 3,
+      "note": "Creative cocktails, speakeasy pricing",
+      "menuKRW": {
+        "min": 20000,
+        "typical": 25000,
+        "max": 25000,
+        "n": 2,
+        "source": "Kakao Map menu"
+      }
     },
-    "chuseok": { "status": "unknown", "note": "No 2026 Chuseok notice found for 24-26 Sep. Small independent bars sometimes close on Chuseok day — call ahead.", "verified": false },
+    "hours": {
+      "weekly": {
+        "mon": "19:00-02:00",
+        "tue": "19:00-02:00",
+        "wed": "19:00-02:00",
+        "thu": "19:00-02:00",
+        "fri": "19:00-02:00",
+        "sat": "19:00-02:00",
+        "sun": "19:00-02:00"
+      }
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "unknown",
+      "2026-09-25": "unknown",
+      "2026-09-26": "unknown",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found for 24-26 Sep. Small independent bars sometimes close on Chuseok day — call ahead.",
+      "verified": false
+    },
     "location": {
       "address": "B1, 33 Seolleung-ro 157-gil, Gangnam-gu, Seoul",
       "addressKo": "서울 강남구 선릉로157길 33 지하1층",
@@ -1151,7 +2807,15 @@
       "neighborhood": "Apgujeong",
       "lat": 37.5262811,
       "lng": 127.0370892,
-      "nearestStation": { "name": "Apgujeong Rodeo", "nameKo": "압구정로데오역", "lines": ["SUIN"], "exit": "Exit 5", "walkMin": 5 }
+      "nearestStation": {
+        "name": "Apgujeong Rodeo",
+        "nameKo": "압구정로데오역",
+        "lines": [
+          "SUIN"
+        ],
+        "exit": "Exit 5",
+        "walkMin": 5
+      }
     },
     "links": {
       "naverMap": "https://map.naver.com/p/search/%ED%8C%8C%EC%9D%B8%EC%95%A4%EC%BD%94",
@@ -1159,15 +2823,42 @@
       "reservation": "https://autoreserve.com/en/restaurants/EVMFEQuSv7bfkQxv4dhg"
     },
     "images": [
-      { "url": "https://cdn.tatlerasia.com/tatlerasia/i/2024/11/19151440-interior-pineco-4-pineandco-seoul_cover_1200x1600.jpg", "source": "https://www.tatlerasia.com/dining/pine-co", "credit": "Tatler Asia", "alt": "Pine & Co speakeasy interior" },
-      { "url": "https://cdn.tatlerasia.com/tatlerasia/i/2024/11/19151444-nuruk-pineco-1-pineandco-seoul_cover_1227x1600.jpeg", "source": "https://www.tatlerasia.com/dining/pine-co", "credit": "Tatler Asia", "alt": "Signature cocktail at Pine & Co" },
-      { "url": "https://cdn.tatlerasia.com/tatlerasia/i/2024/11/19151438-interior-pineco-2-pineandco-seoul_cover_1600x1200.jpg", "source": "https://www.tatlerasia.com/dining/pine-co", "credit": "Tatler Asia", "alt": "Pine & Co bar counter" },
-      { "url": "https://cdn.tatlerasia.com/tatlerasia/i/2024/11/19151445-interior-pineco-1-pineandco-seoul_cover_1600x1200.jpg", "source": "https://www.tatlerasia.com/dining/pine-co", "credit": "Tatler Asia", "alt": "Pine & Co seating area" }
+      {
+        "url": "https://cdn.tatlerasia.com/tatlerasia/i/2024/11/19151440-interior-pineco-4-pineandco-seoul_cover_1200x1600.jpg",
+        "source": "https://www.tatlerasia.com/dining/pine-co",
+        "credit": "Tatler Asia",
+        "alt": "Pine & Co speakeasy interior"
+      },
+      {
+        "url": "https://cdn.tatlerasia.com/tatlerasia/i/2024/11/19151444-nuruk-pineco-1-pineandco-seoul_cover_1227x1600.jpeg",
+        "source": "https://www.tatlerasia.com/dining/pine-co",
+        "credit": "Tatler Asia",
+        "alt": "Signature cocktail at Pine & Co"
+      },
+      {
+        "url": "https://cdn.tatlerasia.com/tatlerasia/i/2024/11/19151438-interior-pineco-2-pineandco-seoul_cover_1600x1200.jpg",
+        "source": "https://www.tatlerasia.com/dining/pine-co",
+        "credit": "Tatler Asia",
+        "alt": "Pine & Co bar counter"
+      },
+      {
+        "url": "https://cdn.tatlerasia.com/tatlerasia/i/2024/11/19151445-interior-pineco-1-pineandco-seoul_cover_1600x1200.jpg",
+        "source": "https://www.tatlerasia.com/dining/pine-co",
+        "credit": "Tatler Asia",
+        "alt": "Pine & Co seating area"
+      }
     ],
     "duration": "1.5-2 h",
     "bestTime": "Early evening",
-    "goodFor": ["Date", "Night out", "Parents"],
-    "reservation": { "recommended": true, "how": "Online reservation via Autoreserve" },
+    "goodFor": [
+      "Date",
+      "Night out",
+      "Parents"
+    ],
+    "reservation": {
+      "recommended": true,
+      "how": "Online reservation via Autoreserve"
+    },
     "sources": [
       "https://www.theworlds50best.com/bars/asia/the-list/pine-co.html",
       "https://middleclass.sg/treats/pine-and-co-bar-seoul/",
@@ -1181,32 +2872,85 @@
     "nameKo": "비노",
     "category": "bar",
     "subcategory": "Wine bar",
-    "tags": ["wine", "reservation-needed", "hidden-gem", "english-friendly"],
-    "vibes": ["cozy", "romantic", "quiet"],
+    "tags": [
+      "wine",
+      "reservation-needed",
+      "hidden-gem",
+      "english-friendly"
+    ],
+    "vibes": [
+      "cozy",
+      "romantic",
+      "quiet"
+    ],
     "summary": "An intimate Gangnam wine bar by day-restaurant, night-wine-bar concept from a chef-and-sommelier duo.",
     "description": "Vinho takes its name from chef Seong-Bin and sommelier Jin-Ho, who run it as a restaurant by day and a globally sourced wine bar by night in a quiet Gangnam side street. The small room keeps things intimate, pairing seasonal small plates with a rotating list from producers around the world. It's a low-key, relaxed option for a couple's evening or a small group who want good wine over a loud scene. Weekend closures mean it's best planned for a weeknight visit.",
-    "highlights": ["Rotating global wine list", "Seasonal small plates", "Intimate, low-key room"],
-    "tips": ["Open weeknights only (Mon-Fri evenings) — closed Saturday and Sunday.", "Small room — reserve ahead for a group."],
-    "badges": { "hiddenGem": true },
+    "highlights": [
+      "Rotating global wine list",
+      "Seasonal small plates",
+      "Intimate, low-key room"
+    ],
+    "tips": [
+      "Open weeknights only (Mon-Fri evenings) — closed Saturday and Sunday.",
+      "Small room — reserve ahead for a group."
+    ],
+    "badges": {
+      "hiddenGem": true
+    },
     "ratings": {
       "tripadvisor": {
-        "score": 5.0,
+        "score": 5,
         "count": 5,
         "rank": "#696 of 23,678 Restaurants in Seoul",
         "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d25413243-Reviews-Vinho-Seoul.html"
       }
     },
     "reviews": [
-      { "source": "TripAdvisor", "text": "Reviewers rate Vinho a perfect score, praising the intimate setting and thoughtfully paired wine list.", "paraphrased": true, "lang": "en", "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d25413243-Reviews-Vinho-Seoul.html" },
-      { "source": "Blog", "text": "Foodle notes the restaurant transforms into an intimate wine bar by night, run by chef Seong-Bin and sommelier Jin-Ho.", "paraphrased": true, "lang": "en", "url": "https://foodle.pro/restaurants/seoul/vinho" }
+      {
+        "source": "TripAdvisor",
+        "text": "Reviewers rate Vinho a perfect score, praising the intimate setting and thoughtfully paired wine list.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d25413243-Reviews-Vinho-Seoul.html"
+      },
+      {
+        "source": "Blog",
+        "text": "Foodle notes the restaurant transforms into an intimate wine bar by night, run by chef Seong-Bin and sommelier Jin-Ho.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://foodle.pro/restaurants/seoul/vinho"
+      }
     ],
-    "price": { "level": 3, "note": "Wine by the glass or bottle plus small plates" },
-    "hours": { "weekly": { "mon": "18:00-23:30", "tue": "18:00-23:30", "wed": "18:00-23:30", "thu": "18:00-23:30", "fri": "18:00-23:30", "sat": "closed", "sun": "closed" } },
-    "tripDays": {
-      "2026-09-23": "open", "2026-09-24": "unknown", "2026-09-25": "unknown", "2026-09-26": "closed",
-      "2026-09-27": "closed", "2026-09-28": "open", "2026-09-29": "open", "2026-09-30": "open"
+    "price": {
+      "level": 3,
+      "note": "Wine by the glass or bottle plus small plates"
     },
-    "chuseok": { "status": "unknown", "note": "Regularly closed weekends (26-27 Sep fall on its normal Sat/Sun closure). No 2026 Chuseok notice found for 24-25 Sep — call ahead.", "verified": false },
+    "hours": {
+      "weekly": {
+        "mon": "18:00-23:30",
+        "tue": "18:00-23:30",
+        "wed": "18:00-23:30",
+        "thu": "18:00-23:30",
+        "fri": "18:00-23:30",
+        "sat": "closed",
+        "sun": "closed"
+      }
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "unknown",
+      "2026-09-25": "unknown",
+      "2026-09-26": "closed",
+      "2026-09-27": "closed",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "Regularly closed weekends (26-27 Sep fall on its normal Sat/Sun closure). No 2026 Chuseok notice found for 24-25 Sep — call ahead.",
+      "verified": false
+    },
     "location": {
       "address": "38 Hakdong-ro 43-gil, Gangnam-gu, Seoul",
       "addressKo": "서울 강남구 학동로43길 38",
@@ -1214,7 +2958,14 @@
       "neighborhood": "Nonhyeon",
       "lat": 37.5183946,
       "lng": 127.0380018,
-      "nearestStation": { "name": "Eonju", "nameKo": "언주역", "lines": ["3"], "walkMin": 6 }
+      "nearestStation": {
+        "name": "Eonju",
+        "nameKo": "언주역",
+        "lines": [
+          "3"
+        ],
+        "walkMin": 6
+      }
     },
     "links": {
       "naverMap": "https://map.naver.com/p/search/%EB%B9%84%EB%85%B8%20%EA%B0%95%EB%82%A8",
@@ -1223,14 +2974,36 @@
       "phone": "+82-10-9677-2302"
     },
     "images": [
-      { "url": "https://foodle.pro/restaurants-images/2024-04-15-18-11-39-a722617144b60befd265ee3020f14ef0.jpg", "source": "https://foodle.pro/restaurants/seoul/vinho", "credit": "Foodle", "alt": "Vinho wine bar" },
-      { "url": "https://foodle.pro/meals-images/2024-04-15-18-09-52-bc3d42cc08eb5386abcc670927bc9415.jpg", "source": "https://foodle.pro/restaurants/seoul/vinho", "credit": "Foodle", "alt": "Dish at Vinho" },
-      { "url": "https://foodle.pro/meals-images/2024-04-15-18-09-53-60888abc7f6fcb9844c17efe366038f9.jpg", "source": "https://foodle.pro/restaurants/seoul/vinho", "credit": "Foodle", "alt": "Small plate at Vinho" }
+      {
+        "url": "https://foodle.pro/restaurants-images/2024-04-15-18-11-39-a722617144b60befd265ee3020f14ef0.jpg",
+        "source": "https://foodle.pro/restaurants/seoul/vinho",
+        "credit": "Foodle",
+        "alt": "Vinho wine bar"
+      },
+      {
+        "url": "https://foodle.pro/meals-images/2024-04-15-18-09-52-bc3d42cc08eb5386abcc670927bc9415.jpg",
+        "source": "https://foodle.pro/restaurants/seoul/vinho",
+        "credit": "Foodle",
+        "alt": "Dish at Vinho"
+      },
+      {
+        "url": "https://foodle.pro/meals-images/2024-04-15-18-09-53-60888abc7f6fcb9844c17efe366038f9.jpg",
+        "source": "https://foodle.pro/restaurants/seoul/vinho",
+        "credit": "Foodle",
+        "alt": "Small plate at Vinho"
+      }
     ],
     "duration": "1.5-2 h",
     "bestTime": "Weeknight evening",
-    "goodFor": ["Date", "Parents", "Relaxing"],
-    "reservation": { "recommended": true, "how": "Phone reservation" },
+    "goodFor": [
+      "Date",
+      "Parents",
+      "Relaxing"
+    ],
+    "reservation": {
+      "recommended": true,
+      "how": "Phone reservation"
+    },
     "sources": [
       "https://www.tripadvisor.com/Restaurant_Review-g294197-d25413243-Reviews-Vinho-Seoul.html",
       "https://foodle.pro/restaurants/seoul/vinho"
@@ -1243,13 +3016,35 @@
     "nameKo": "37그릴앤바",
     "category": "bar",
     "subcategory": "Whisky lounge",
-    "tags": ["whisky", "view", "han-river", "hotel", "cocktails", "english-friendly", "group-friendly"],
-    "vibes": ["luxe", "view", "classic"],
+    "tags": [
+      "whisky",
+      "view",
+      "han-river",
+      "hotel",
+      "cocktails",
+      "english-friendly",
+      "group-friendly"
+    ],
+    "vibes": [
+      "luxe",
+      "view",
+      "classic"
+    ],
     "summary": "A 37th-floor whisky and cigar lounge at Conrad Seoul with 180-degree Han River views and 250+ whiskies.",
     "description": "37 Grill & Bar sits on the top floor of Conrad Seoul in Yeouido, combining a classic whisky-and-cigar-lounge feel with 180-degree views over the Han River and city skyline. The whisky list runs past 250 bottles, including rare selections and SMWS bottlings, alongside seasonal signature cocktails, making it a natural fit for parents who enjoy a proper spirits menu in a refined setting. It carries one of the strongest TripAdvisor track records of any bar in this list, with over 250 reviews. Come for the view at golden hour and stay for the whisky.",
-    "highlights": ["180-degree Han River and skyline views", "250+ whisky selection including rare bottlings", "Seasonal signature cocktails"],
-    "tips": ["Book a window table for sunset over the Han River.", "Smart-casual dress recommended for this hotel lounge.", "Connected to IFC Mall — easy to combine with Yeouido shopping."],
-    "badges": { "familyFriendly": true },
+    "highlights": [
+      "180-degree Han River and skyline views",
+      "250+ whisky selection including rare bottlings",
+      "Seasonal signature cocktails"
+    ],
+    "tips": [
+      "Book a window table for sunset over the Han River.",
+      "Smart-casual dress recommended for this hotel lounge.",
+      "Connected to IFC Mall — easy to combine with Yeouido shopping."
+    ],
+    "badges": {
+      "familyFriendly": true
+    },
     "ratings": {
       "tripadvisor": {
         "score": 4.7,
@@ -1259,16 +3054,59 @@
       }
     },
     "reviews": [
-      { "source": "TripAdvisor", "text": "A reviewer called the attention to detail superb, highlighting the whisky selection and river views from the 37th floor.", "paraphrased": true, "lang": "en", "url": "https://www.tripadvisor.com/ShowUserReviews-g294197-d3477158-r1030146715-Conrad_Seoul-Seoul.html" },
-      { "source": "Press", "text": "Conrad Seoul describes it as a classic whisky and cigar lounge on the 37th floor with 180-degree views and over 250 whiskies including rare and SMWS bottlings.", "paraphrased": true, "lang": "en", "url": "https://www.conradseoul.co.kr/hub/en/dine/37grillAndBar.do" }
+      {
+        "source": "TripAdvisor",
+        "text": "A reviewer called the attention to detail superb, highlighting the whisky selection and river views from the 37th floor.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g294197-d3477158-r1030146715-Conrad_Seoul-Seoul.html"
+      },
+      {
+        "source": "Press",
+        "text": "Conrad Seoul describes it as a classic whisky and cigar lounge on the 37th floor with 180-degree views and over 250 whiskies including rare and SMWS bottlings.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.conradseoul.co.kr/hub/en/dine/37grillAndBar.do"
+      }
     ],
-    "price": { "level": 4, "note": "Whisky, cocktails and light bites; premium hotel-lounge pricing" },
-    "hours": { "weekly": { "mon": "17:00-01:00", "tue": "17:00-01:00", "wed": "17:00-01:00", "thu": "17:00-01:00", "fri": "17:00-01:00", "sat": "17:00-01:00", "sun": "17:00-01:00" }, "note": "Approximate hotel lounge hours; confirm ahead." },
-    "tripDays": {
-      "2026-09-23": "open", "2026-09-24": "open", "2026-09-25": "unknown", "2026-09-26": "open",
-      "2026-09-27": "open", "2026-09-28": "open", "2026-09-29": "open", "2026-09-30": "open"
+    "price": {
+      "level": 4,
+      "note": "Whisky, cocktails and light bites; premium hotel-lounge pricing",
+      "menuKRW": {
+        "min": 3000,
+        "typical": 45000,
+        "max": 69000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
-    "chuseok": { "status": "open", "note": "No 2026 Chuseok notice found, but hotel bars typically stay open through the holiday.", "verified": false },
+    "hours": {
+      "weekly": {
+        "mon": "17:00-01:00",
+        "tue": "17:00-01:00",
+        "wed": "17:00-01:00",
+        "thu": "17:00-01:00",
+        "fri": "17:00-01:00",
+        "sat": "17:00-01:00",
+        "sun": "17:00-01:00"
+      },
+      "note": "Approximate hotel lounge hours; confirm ahead."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "unknown",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "No 2026 Chuseok notice found, but hotel bars typically stay open through the holiday.",
+      "verified": false
+    },
     "location": {
       "address": "37F, Conrad Seoul, 10 Gukjegeumyung-ro, Yeongdeungpo-gu, Seoul",
       "addressKo": "서울 영등포구 국제금융로 10 콘래드서울 37층",
@@ -1276,7 +3114,15 @@
       "neighborhood": "Yeouido",
       "lat": 37.5253892,
       "lng": 126.9266335,
-      "nearestStation": { "name": "Yeouido", "nameKo": "여의도역", "lines": ["5", "9"], "walkMin": 5 }
+      "nearestStation": {
+        "name": "Yeouido",
+        "nameKo": "여의도역",
+        "lines": [
+          "5",
+          "9"
+        ],
+        "walkMin": 5
+      }
     },
     "links": {
       "website": "https://www.conradseoul.co.kr/hub/en/dine/37grillAndBar.do",
@@ -1285,13 +3131,33 @@
       "tripadvisor": "https://www.tripadvisor.com/Restaurant_Review-g294197-d4562449-Reviews-37_Grill_Bar-Seoul.html"
     },
     "images": [
-      { "url": "https://www.conradseoul.co.kr/revolution/content/fileImage.do?fileId=31950&cntntsSn=31941", "source": "https://www.conradseoul.co.kr/hub/en/dine/37grillAndBar.do", "credit": "Official website (Conrad Seoul)", "alt": "37 Grill & Bar whisky lounge" },
-      { "url": "https://www.conradseoul.co.kr/revolution/content/fileImage.do?fileId=31951&cntntsSn=31941", "source": "https://www.conradseoul.co.kr/hub/en/dine/37grillAndBar.do", "credit": "Official website (Conrad Seoul)", "alt": "37 Grill & Bar river view seating" },
-      { "url": "https://www.conradseoul.co.kr/revolution/content/fileImage.do?fileId=31952&cntntsSn=31941", "source": "https://www.conradseoul.co.kr/hub/en/dine/37grillAndBar.do", "credit": "Official website (Conrad Seoul)", "alt": "37 Grill & Bar whisky selection" }
+      {
+        "url": "https://www.conradseoul.co.kr/revolution/content/fileImage.do?fileId=31950&cntntsSn=31941",
+        "source": "https://www.conradseoul.co.kr/hub/en/dine/37grillAndBar.do",
+        "credit": "Official website (Conrad Seoul)",
+        "alt": "37 Grill & Bar whisky lounge"
+      },
+      {
+        "url": "https://www.conradseoul.co.kr/revolution/content/fileImage.do?fileId=31951&cntntsSn=31941",
+        "source": "https://www.conradseoul.co.kr/hub/en/dine/37grillAndBar.do",
+        "credit": "Official website (Conrad Seoul)",
+        "alt": "37 Grill & Bar river view seating"
+      },
+      {
+        "url": "https://www.conradseoul.co.kr/revolution/content/fileImage.do?fileId=31952&cntntsSn=31941",
+        "source": "https://www.conradseoul.co.kr/hub/en/dine/37grillAndBar.do",
+        "credit": "Official website (Conrad Seoul)",
+        "alt": "37 Grill & Bar whisky selection"
+      }
     ],
     "duration": "1.5-2 h",
     "bestTime": "Golden hour / sunset",
-    "goodFor": ["Parents", "Celebration", "Night out", "Date"],
+    "goodFor": [
+      "Parents",
+      "Celebration",
+      "Night out",
+      "Date"
+    ],
     "sources": [
       "https://www.conradseoul.co.kr/hub/en/dine/37grillAndBar.do",
       "https://www.tripadvisor.com/Restaurant_Review-g294197-d4562449-Reviews-37_Grill_Bar-Seoul.html"
@@ -1304,13 +3170,30 @@
     "nameKo": "크래프트비어칸",
     "category": "bar",
     "subcategory": "Craft beer bar",
-    "tags": ["craft-beer", "english-friendly", "indoor", "local-favorite"],
-    "vibes": ["cozy", "hip"],
+    "tags": [
+      "craft-beer",
+      "english-friendly",
+      "indoor",
+      "local-favorite"
+    ],
+    "vibes": [
+      "cozy",
+      "hip"
+    ],
     "summary": "A snug basement craft beer bar in Yeonhui-dong with a rotating tap list and simple pub food.",
     "description": "Craft Beer Khan is a comfortable basement bar in the quieter Yeonhui-dong neighborhood, pouring around eight rotating taps mixing Korean microbrews with imports, mostly from the US. It's a relaxed, unpretentious pick for a low-key evening beer with pizza or fried chicken rather than a design-forward showcase bar. It sits a little further from the usual Gangnam/Seocho loop, so it suits pairing with a visit to nearby Yeonnam-dong or Hongdae. Reviewers rate it among the better-reviewed craft beer spots in the city.",
-    "highlights": ["Rotating craft beer taps", "Pizza and fried chicken pub food", "Cozy basement seating"],
-    "tips": ["A bit further from Seocho/Gangnam — best combined with a Yeonnam-dong or Hongdae outing.", "Small space — go early for a seat on busy nights."],
-    "badges": { "localFavorite": true },
+    "highlights": [
+      "Rotating craft beer taps",
+      "Pizza and fried chicken pub food",
+      "Cozy basement seating"
+    ],
+    "tips": [
+      "A bit further from Seocho/Gangnam — best combined with a Yeonnam-dong or Hongdae outing.",
+      "Small space — go early for a seat on busy nights."
+    ],
+    "badges": {
+      "localFavorite": true
+    },
     "ratings": {
       "tripadvisor": {
         "score": 4.7,
@@ -1319,16 +3202,51 @@
       }
     },
     "reviews": [
-      { "source": "TripAdvisor", "text": "Regulars describe it as a comfortable, tucked-away basement bar with a good rotating tap selection and simple pub food.", "paraphrased": true, "lang": "en", "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d7107955-Reviews-Craft_Beer_Khan-Seoul.html" },
-      { "source": "Blog", "text": "My Best Seoul describes it as a comfortable basement bar with a small, rotating selection of about eight craft beers on tap plus pizza and fried chicken.", "paraphrased": true, "lang": "en", "url": "https://mybestseoul.com/craft-beer/" }
+      {
+        "source": "TripAdvisor",
+        "text": "Regulars describe it as a comfortable, tucked-away basement bar with a good rotating tap selection and simple pub food.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g294197-d7107955-Reviews-Craft_Beer_Khan-Seoul.html"
+      },
+      {
+        "source": "Blog",
+        "text": "My Best Seoul describes it as a comfortable basement bar with a small, rotating selection of about eight craft beers on tap plus pizza and fried chicken.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://mybestseoul.com/craft-beer/"
+      }
     ],
-    "price": { "level": 2, "note": "Craft beer pints and pub food, casual pricing" },
-    "hours": { "weekly": {}, "note": "Hours not fully confirmed online — check Naver Map before visiting." },
-    "tripDays": {
-      "2026-09-23": "open", "2026-09-24": "unknown", "2026-09-25": "unknown", "2026-09-26": "unknown",
-      "2026-09-27": "open", "2026-09-28": "open", "2026-09-29": "open", "2026-09-30": "open"
+    "price": {
+      "level": 2,
+      "note": "Craft beer pints and pub food, casual pricing",
+      "menuKRW": {
+        "min": 13000,
+        "typical": 16000,
+        "max": 16000,
+        "n": 2,
+        "source": "Kakao Map menu"
+      }
     },
-    "chuseok": { "status": "unknown", "note": "No 2026 Chuseok notice found for 24-26 Sep. Small independent bars sometimes close on Chuseok day — call ahead.", "verified": false },
+    "hours": {
+      "weekly": {},
+      "note": "Hours not fully confirmed online — check Naver Map before visiting."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "unknown",
+      "2026-09-25": "unknown",
+      "2026-09-26": "unknown",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found for 24-26 Sep. Small independent bars sometimes close on Chuseok day — call ahead.",
+      "verified": false
+    },
     "location": {
       "address": "7 Yeonhui-ro 11-gil, Seodaemun-gu, Seoul",
       "addressKo": "서울 서대문구 연희로11길 7",
@@ -1336,7 +3254,16 @@
       "neighborhood": "Yeonhui-dong",
       "lat": 37.5669753,
       "lng": 126.9304595,
-      "nearestStation": { "name": "Hongik Univ.", "nameKo": "홍대입구역", "lines": ["2", "GJ", "AREX"], "walkMin": 20 }
+      "nearestStation": {
+        "name": "Hongik Univ.",
+        "nameKo": "홍대입구역",
+        "lines": [
+          "2",
+          "GJ",
+          "AREX"
+        ],
+        "walkMin": 20
+      }
     },
     "links": {
       "naverMap": "https://map.naver.com/p/search/%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8%EB%B9%84%EC%96%B4%EC%B9%B8",
@@ -1344,14 +3271,37 @@
       "tripadvisor": "https://www.tripadvisor.com/Restaurant_Review-g294197-d7107955-Reviews-Craft_Beer_Khan-Seoul.html"
     },
     "images": [
-      { "url": "https://mybestseoul.com/wp-content/uploads/2024/06/AF1QipMKpcDITSnz3XnHQtzOoKoiIDiEwitF6tTLH9m3w427-h240-k-no.jpg", "source": "https://mybestseoul.com/craft-beer/", "credit": "My Best Seoul blog (Google user photo)", "alt": "Craft Beer Khan exterior" },
-      { "url": "https://itin-dev.wanderlogstatic.com/freeImage/tBPoRVdiQHu1lo9R499nk1qTREbNPO7g", "source": "https://wanderlog.com/place/details/3075148/craft-beer-khan", "credit": "Wanderlog (venue photo)", "alt": "Craft Beer Khan interior" },
-      { "url": "https://itin-dev.wanderlogstatic.com/freeImage/YvfSdJ9quRMElMaqPu4qS5OIK7smM7ns", "source": "https://wanderlog.com/place/details/3075148/craft-beer-khan", "credit": "Wanderlog (venue photo)", "alt": "Craft Beer Khan taps" },
-      { "url": "https://itin-dev.wanderlogstatic.com/freeImage/Glg1LQyb50F0DCWM8Iiug4UkFlwcfk6w", "source": "https://wanderlog.com/place/details/3075148/craft-beer-khan", "credit": "Wanderlog (venue photo)", "alt": "Craft Beer Khan seating" }
+      {
+        "url": "https://mybestseoul.com/wp-content/uploads/2024/06/AF1QipMKpcDITSnz3XnHQtzOoKoiIDiEwitF6tTLH9m3w427-h240-k-no.jpg",
+        "source": "https://mybestseoul.com/craft-beer/",
+        "credit": "My Best Seoul blog (Google user photo)",
+        "alt": "Craft Beer Khan exterior"
+      },
+      {
+        "url": "https://itin-dev.wanderlogstatic.com/freeImage/tBPoRVdiQHu1lo9R499nk1qTREbNPO7g",
+        "source": "https://wanderlog.com/place/details/3075148/craft-beer-khan",
+        "credit": "Wanderlog (venue photo)",
+        "alt": "Craft Beer Khan interior"
+      },
+      {
+        "url": "https://itin-dev.wanderlogstatic.com/freeImage/YvfSdJ9quRMElMaqPu4qS5OIK7smM7ns",
+        "source": "https://wanderlog.com/place/details/3075148/craft-beer-khan",
+        "credit": "Wanderlog (venue photo)",
+        "alt": "Craft Beer Khan taps"
+      },
+      {
+        "url": "https://itin-dev.wanderlogstatic.com/freeImage/Glg1LQyb50F0DCWM8Iiug4UkFlwcfk6w",
+        "source": "https://wanderlog.com/place/details/3075148/craft-beer-khan",
+        "credit": "Wanderlog (venue photo)",
+        "alt": "Craft Beer Khan seating"
+      }
     ],
     "duration": "1-1.5 h",
     "bestTime": "Evening",
-    "goodFor": ["Relaxing", "Foodies"],
+    "goodFor": [
+      "Relaxing",
+      "Foodies"
+    ],
     "sources": [
       "https://www.tripadvisor.com/Restaurant_Review-g294197-d7107955-Reviews-Craft_Beer_Khan-Seoul.html"
     ],

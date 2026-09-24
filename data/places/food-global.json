@@ -306,7 +306,14 @@
         169000,
         209000
       ],
-      "note": "Weekday lunch ₩169,000; weekday dinner ₩199,000; weekend lunch ₩205,000; weekend dinner ₩209,000"
+      "note": "Weekday lunch ₩169,000; weekday dinner ₩199,000; weekend lunch ₩205,000; weekend dinner ₩209,000",
+      "menuKRW": {
+        "min": 2500,
+        "typical": 199000,
+        "max": 199000,
+        "n": 2,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -526,7 +533,14 @@
         109000,
         219000
       ],
-      "note": "Express lunch ₩109,000; weekday lunch ₩179,000; dinner ₩199,000–205,000; festive-season ₩185,000–219,000"
+      "note": "Express lunch ₩109,000; weekday lunch ₩179,000; dinner ₩199,000–205,000; festive-season ₩185,000–219,000",
+      "menuKRW": {
+        "min": 77000,
+        "typical": 185000,
+        "max": 189000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -739,7 +753,14 @@
         175000,
         205000
       ],
-      "note": "Weekday lunch ₩175,000; weekday dinner ₩198,000; weekend lunch & dinner ₩205,000; breakfast ₩80,000"
+      "note": "Weekday lunch ₩175,000; weekday dinner ₩198,000; weekend lunch & dinner ₩205,000; breakfast ₩80,000",
+      "menuKRW": {
+        "min": 40000,
+        "typical": 88000,
+        "max": 205000,
+        "n": 5,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -959,7 +980,14 @@
         178000,
         208000
       ],
-      "note": "Lunch ₩178,000 weekday / ₩204,000 weekend & holiday; dinner ₩198,000 / ₩208,000; children ₩90,000–100,000"
+      "note": "Lunch ₩178,000 weekday / ₩204,000 weekend & holiday; dinner ₩198,000 / ₩208,000; children ₩90,000–100,000",
+      "menuKRW": {
+        "min": 45000,
+        "typical": 90000,
+        "max": 178000,
+        "n": 3,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -1162,7 +1190,14 @@
         140000,
         320000
       ],
-      "note": "Lunch Delights ₩140,000; Essence lunch ₩190,000; Essence dinner ₩280,000; Taste of Harmony ₩320,000"
+      "note": "Lunch Delights ₩140,000; Essence lunch ₩190,000; Essence dinner ₩280,000; Taste of Harmony ₩320,000",
+      "menuKRW": {
+        "min": 30000,
+        "typical": 115000,
+        "max": 370000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -1364,7 +1399,14 @@
         200000,
         500000
       ],
-      "note": "Lunch courses ₩200,000–250,000; dinner courses ₩230,000–500,000; Golden Harmony ₩370,000"
+      "note": "Lunch courses ₩200,000–250,000; dinner courses ₩230,000–500,000; Golden Harmony ₩370,000",
+      "menuKRW": {
+        "min": 200000,
+        "typical": 250000,
+        "max": 300000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -1577,7 +1619,14 @@
         180000,
         320000
       ],
-      "note": "Lunch Déjeuner ₩180,000; dinner Tradition ₩280,000; Esprit ₩320,000"
+      "note": "Lunch Déjeuner ₩180,000; dinner Tradition ₩280,000; Esprit ₩320,000",
+      "menuKRW": {
+        "min": 180000,
+        "typical": 280000,
+        "max": 320000,
+        "n": 3,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -1798,7 +1847,14 @@
         135000,
         275000
       ],
-      "note": "Courses ₩135,000 (Fun) to ₩275,000 (Must Try); à la carte available"
+      "note": "Courses ₩135,000 (Fun) to ₩275,000 (Must Try); à la carte available",
+      "menuKRW": {
+        "min": 70000,
+        "typical": 135000,
+        "max": 225000,
+        "n": 7,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -2223,7 +2279,14 @@
         10000,
         17500
       ],
-      "note": "Udon ₩10,000–12,000; set meals ₩15,500–17,500"
+      "note": "Udon ₩10,000–12,000; set meals ₩15,500–17,500",
+      "menuKRW": {
+        "min": 15500,
+        "typical": 16500,
+        "max": 17500,
+        "n": 3,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -2426,7 +2489,14 @@
         16000,
         25000
       ],
-      "note": "Katsu ₩16,000–21,000; sets for two ₩41,800–46,800"
+      "note": "Katsu ₩16,000–21,000; sets for two ₩41,800–46,800",
+      "menuKRW": {
+        "min": 16000,
+        "typical": 28000,
+        "max": 46800,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -2836,7 +2906,14 @@
         9500,
         16500
       ],
-      "note": "Ramen ₩9,500–12,000; rice bowl ₩4,500"
+      "note": "Ramen ₩9,500–12,000; rice bowl ₩4,500",
+      "menuKRW": {
+        "min": 9500,
+        "typical": 10500,
+        "max": 11500,
+        "n": 3,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -3036,7 +3113,14 @@
     ],
     "price": {
       "level": 3,
-      "note": "Omakase price varies (not published on Naver); à la carte skewers from ₩4,000; one drink per person required"
+      "note": "Omakase price varies (not published on Naver); à la carte skewers from ₩4,000; one drink per person required",
+      "menuKRW": {
+        "min": 10000,
+        "typical": 35000,
+        "max": 45000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -3242,7 +3326,14 @@
     ],
     "price": {
       "level": 2,
-      "note": "Shared plates ₩20,000–37,600 (menbosha ₩26,400; crab-meat stir-fry ₩32,000); jjamppong ₩12,000"
+      "note": "Shared plates ₩20,000–37,600 (menbosha ₩26,400; crab-meat stir-fry ₩32,000); jjamppong ₩12,000",
+      "menuKRW": {
+        "min": 21600,
+        "typical": 26400,
+        "max": 32000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -3649,7 +3740,14 @@
     ],
     "price": {
       "level": 2,
-      "note": "Priced per broth and per plate; sides from ₩3,100 (enoki) to ₩5,900 (fried pork)"
+      "note": "Priced per broth and per plate; sides from ₩3,100 (enoki) to ₩5,900 (fried pork)",
+      "menuKRW": {
+        "min": 10900,
+        "typical": 13900,
+        "max": 14500,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -3871,7 +3969,14 @@
     ],
     "price": {
       "level": 2,
-      "note": "Noodles ₩11,000; dim sum ₩9,000–9,800; guobaorou ₩19,000; laziji ₩18,800"
+      "note": "Noodles ₩11,000; dim sum ₩9,000–9,800; guobaorou ₩19,000; laziji ₩18,800",
+      "menuKRW": {
+        "min": 11000,
+        "typical": 12800,
+        "max": 12800,
+        "n": 2,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -4072,7 +4177,14 @@
     ],
     "price": {
       "level": 1,
-      "note": "Dumplings ₩8,500–9,500 per plate"
+      "note": "Dumplings ₩8,500–9,500 per plate",
+      "menuKRW": {
+        "min": 8500,
+        "typical": 9500,
+        "max": 9500,
+        "n": 2,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -4279,7 +4391,14 @@
     ],
     "price": {
       "level": 2,
-      "note": "Bao ₩12,000–12,500; noodles ₩16,000–17,000"
+      "note": "Bao ₩12,000–12,500; noodles ₩16,000–17,000",
+      "menuKRW": {
+        "min": 11500,
+        "typical": 12000,
+        "max": 15000,
+        "n": 3,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -4470,7 +4589,14 @@
     ],
     "price": {
       "level": 2,
-      "note": "Dishes ₩8,900–34,900; kai kolae ₩31,900 (pre-order)"
+      "note": "Dishes ₩8,900–34,900; kai kolae ₩31,900 (pre-order)",
+      "menuKRW": {
+        "min": 9900,
+        "typical": 19900,
+        "max": 30900,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -4677,7 +4803,14 @@
     ],
     "price": {
       "level": 2,
-      "note": "Pho ₩13,000–18,000; bún chả ₩15,000; noodles ₩19,000"
+      "note": "Pho ₩13,000–18,000; bún chả ₩15,000; noodles ₩19,000",
+      "menuKRW": {
+        "min": 13000,
+        "typical": 18000,
+        "max": 26000,
+        "n": 3,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -4879,7 +5012,14 @@
     ],
     "price": {
       "level": 2,
-      "note": "Curries ₩13,000–14,000 incl. naan or rice; tandoori chicken half ₩11,000 / full ₩20,000; naan ₩2,500"
+      "note": "Curries ₩13,000–14,000 incl. naan or rice; tandoori chicken half ₩11,000 / full ₩20,000; naan ₩2,500",
+      "menuKRW": {
+        "min": 3900,
+        "typical": 12000,
+        "max": 14000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -5305,7 +5445,14 @@
         45000,
         109000
       ],
-      "note": "Lunch pasta course ₩45,000; lunch steak ₩85,000; dinner steak course ₩109,000"
+      "note": "Lunch pasta course ₩45,000; lunch steak ₩85,000; dinner steak course ₩109,000",
+      "menuKRW": {
+        "min": 5000,
+        "typical": 27000,
+        "max": 99000,
+        "n": 5,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -5498,7 +5645,14 @@
     ],
     "price": {
       "level": 4,
-      "note": "Lunch and dinner courses; prices vary seasonally (not published on Naver)"
+      "note": "Lunch and dinner courses; prices vary seasonally (not published on Naver)",
+      "menuKRW": {
+        "min": 5000,
+        "typical": 160000,
+        "max": 250000,
+        "n": 3,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -5696,7 +5850,14 @@
     ],
     "price": {
       "level": 3,
-      "note": "Starters ₩19,000–28,000; pasta from ₩31,000 (carbonara); mains ₩30,000+"
+      "note": "Starters ₩19,000–28,000; pasta from ₩31,000 (carbonara); mains ₩30,000+",
+      "menuKRW": {
+        "min": 21000,
+        "typical": 26000,
+        "max": 39000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -5896,7 +6057,14 @@
     ],
     "price": {
       "level": 3,
-      "note": "Dishes ₩24,000–150,000; dinner course for two ₩150,000; corkage ₩50,000"
+      "note": "Dishes ₩24,000–150,000; dinner course for two ₩150,000; corkage ₩50,000",
+      "menuKRW": {
+        "min": 1000,
+        "typical": 29000,
+        "max": 32000,
+        "n": 5,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -6103,7 +6271,14 @@
         150000,
         220000
       ],
-      "note": "Lunch tasting ₩150,000; dinner tasting ₩220,000"
+      "note": "Lunch tasting ₩150,000; dinner tasting ₩220,000",
+      "menuKRW": {
+        "min": 100000,
+        "typical": 220000,
+        "max": 240000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -6304,7 +6479,14 @@
         220000,
         290000
       ],
-      "note": "Essence ₩220,000; Selection ₩260,000; Chef’s tasting ₩290,000 (vegetarian versions same price)"
+      "note": "Essence ₩220,000; Selection ₩260,000; Chef’s tasting ₩290,000 (vegetarian versions same price)",
+      "menuKRW": {
+        "min": 260000,
+        "typical": 290000,
+        "max": 290000,
+        "n": 2,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -6519,7 +6701,14 @@
         95000,
         150000
       ],
-      "note": "Lunch ₩95,000; dinner ₩150,000"
+      "note": "Lunch ₩95,000; dinner ₩150,000",
+      "menuKRW": {
+        "min": 10000,
+        "typical": 18000,
+        "max": 18000,
+        "n": 2,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -6712,7 +6901,14 @@
     ],
     "price": {
       "level": 2,
-      "note": "Pizzas ₩12,000–28,000"
+      "note": "Pizzas ₩12,000–28,000",
+      "menuKRW": {
+        "min": 8200,
+        "typical": 15700,
+        "max": 19600,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -7117,7 +7313,14 @@
         130000,
         248000
       ],
-      "note": "Lunch course ₩130,000 pp; Cheongdam W course ₩248,000 pp; porterhouse 1 kg ₩370,000"
+      "note": "Lunch course ₩130,000 pp; Cheongdam W course ₩248,000 pp; porterhouse 1 kg ₩370,000",
+      "menuKRW": {
+        "min": 20000,
+        "typical": 230000,
+        "max": 340000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -7322,7 +7525,14 @@
     ],
     "price": {
       "level": 3,
-      "note": "Plates ₩24,000–33,000; steaks priced separately"
+      "note": "Plates ₩24,000–33,000; steaks priced separately",
+      "menuKRW": {
+        "min": 29000,
+        "typical": 53000,
+        "max": 180000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -7524,7 +7734,14 @@
     ],
     "price": {
       "level": 2,
-      "note": "Burgers ₩9,800–12,500; sets with fries ₩15,400"
+      "note": "Burgers ₩9,800–12,500; sets with fries ₩15,400",
+      "menuKRW": {
+        "min": 8800,
+        "typical": 12800,
+        "max": 14700,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -7711,7 +7928,14 @@
     ],
     "price": {
       "level": 2,
-      "note": "Burgers ₩14,400–17,900; fries ₩9,400 (regular); hot dogs ₩9,900–11,400"
+      "note": "Burgers ₩14,400–17,900; fries ₩9,400 (regular); hot dogs ₩9,900–11,400",
+      "menuKRW": {
+        "min": 9400,
+        "typical": 15900,
+        "max": 17900,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -8101,7 +8325,14 @@
     ],
     "price": {
       "level": 2,
-      "note": "Dishes ₩12,900–18,900"
+      "note": "Dishes ₩12,900–18,900",
+      "menuKRW": {
+        "min": 9900,
+        "typical": 13900,
+        "max": 15900,
+        "n": 3,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -8495,7 +8726,14 @@
     ],
     "price": {
       "level": 2,
-      "note": "Lunch plates ₩15,900; kebabs ₩22,500–26,500; bread & dips set ₩22,000"
+      "note": "Lunch plates ₩15,900; kebabs ₩22,500–26,500; bread & dips set ₩22,000",
+      "menuKRW": {
+        "min": 14900,
+        "typical": 20000,
+        "max": 21000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -8695,7 +8933,14 @@
     ],
     "price": {
       "level": 1,
-      "note": "Soups & noodles ₩10,900–12,500; plov ₩12,500; shashlik extra"
+      "note": "Soups & noodles ₩10,900–12,500; plov ₩12,500; shashlik extra",
+      "menuKRW": {
+        "min": 7000,
+        "typical": 9000,
+        "max": 15000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -8894,7 +9139,14 @@
     ],
     "price": {
       "level": 2,
-      "note": "Brunch plates ₩19,000–23,000; coffee ₩5,500–6,500"
+      "note": "Brunch plates ₩19,000–23,000; coffee ₩5,500–6,500",
+      "menuKRW": {
+        "min": 4000,
+        "typical": 22000,
+        "max": 23000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -9098,7 +9350,14 @@
     ],
     "price": {
       "level": 2,
-      "note": "Dishes ₩11,000–19,000; morning set ₩17,000"
+      "note": "Dishes ₩11,000–19,000; morning set ₩17,000",
+      "menuKRW": {
+        "min": 19000,
+        "typical": 28000,
+        "max": 68000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -9501,7 +9760,14 @@
         75000,
         150000
       ],
-      "note": "Lunch omakase ₩75,000; dinner omakase ₩150,000"
+      "note": "Lunch omakase ₩75,000; dinner omakase ₩150,000",
+      "menuKRW": {
+        "min": 70000,
+        "typical": 75000,
+        "max": 140000,
+        "n": 3,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -9700,7 +9966,14 @@
     ],
     "price": {
       "level": 2,
-      "note": "Menu prices not listed on Naver; see menu board in store"
+      "note": "Menu prices not listed on Naver; see menu board in store",
+      "menuKRW": {
+        "min": 11900,
+        "typical": 12900,
+        "max": 28000,
+        "n": 3,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -9901,7 +10174,14 @@
     ],
     "price": {
       "level": 2,
-      "note": "Dishes ₩6,500–21,000"
+      "note": "Dishes ₩6,500–21,000",
+      "menuKRW": {
+        "min": 8000,
+        "typical": 22000,
+        "max": 23000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {

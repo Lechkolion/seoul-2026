@@ -2064,3 +2064,8 @@
   flex-wrap: wrap;
   gap: 4px 16px;
 }
+
+.card__pricex {
+  color: var(--text-3);
+  font-size: 13px;
+}

@@ -2,7 +2,7 @@ import { memo } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import type { Place } from '../lib/types';
 import { CATEGORY_LABEL } from '../lib/trip';
-import { priceLabel } from '../lib/place-utils';
+import { priceLabel, priceShort } from '../lib/place-utils';
 import type { NavState } from '../lib/nav';
 import { Img } from './Img';
 import { ChuseokFlag, RatingChip, SaveButton, TimeChip } from './bits';
@@ -53,6 +53,7 @@ function CardBase({ place, variant = 'grid', eager }: Props) {
           <RatingChip place={place} />
           <span className="card__price" aria-label={`Price level ${place.price.level} of 4`}>
             {priceLabel(place.price.level)}
+            {priceShort(place) ? <span className="card__pricex"> · {priceShort(place)}</span> : null}
           </span>
           {variant === 'row' && <TimeChip place={place} />}
         </div>

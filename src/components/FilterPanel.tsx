@@ -68,6 +68,11 @@ export function FilterPanel({ initial, places, fuse, onApply, onClose }: Props) 
         <fieldset className="fgroup">
           <legend>Chuseok &amp; trip day</legend>
           <label className="switch">
+            <input type="checkbox" checked={f.modern} onChange={(e) => set({ modern: e.target.checked })} />
+            <span className="switch__track" aria-hidden="true" />
+            <span>Modern only — hide palaces, temples &amp; hanok</span>
+          </label>
+          <label className="switch">
             <input type="checkbox" checked={f.chuseok} onChange={(e) => set({ chuseok: e.target.checked })} />
             <span className="switch__track" aria-hidden="true" />
             <span>

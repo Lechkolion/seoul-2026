@@ -498,6 +498,17 @@ export function PlaceDetail({ onClose }: { onClose: () => void }) {
                       <span className="muted">{PRICE_HINT[place.price.level]}</span>
                       {place.price.note && <span>· {place.price.note}</span>}
                     </p>
+                    {place.price.perPersonKRW && place.price.perPersonKRW[0] > 0 && (
+                      <p className="small">
+                        About <b>₩{place.price.perPersonKRW[0].toLocaleString()}{place.price.perPersonKRW[1] !== place.price.perPersonKRW[0] ? `–${place.price.perPersonKRW[1].toLocaleString()}` : ''}</b> per person
+                      </p>
+                    )}
+                    {place.price.menuKRW && place.price.menuKRW.n >= 4 && (
+                      <p className="small">
+                        Menu ₩{place.price.menuKRW.min.toLocaleString()}–{place.price.menuKRW.max.toLocaleString()} · typical item <b>₩{place.price.menuKRW.typical.toLocaleString()}</b>{' '}
+                        <span className="muted">({place.price.menuKRW.n} items, {place.price.menuKRW.source})</span>
+                      </p>
+                    )}
                     {place.duration && <p className="small">Plan {place.duration}{place.bestTime ? ` · Best: ${place.bestTime}` : ''}</p>}
                     {place.reservation && (
                       <p className="small">

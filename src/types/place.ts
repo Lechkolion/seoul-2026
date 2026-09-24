@@ -96,6 +96,7 @@ export interface PlaceInput {
   price: {
     level: 1 | 2 | 3 | 4; // ₩ <15k, ₩₩ 15–40k, ₩₩₩ 40–100k, ₩₩₩₩ 100k+ per person (food/bar); for sights: admission
     perPersonKRW?: [number, number];
+    menuKRW?: { min: number; typical: number; max: number; n: number; source: string }; // item prices from the venue's Kakao Map menu
     note?: string; // e.g. "Free", "Adults ₩34,000", "Lunch course ₩180,000"
   };
   hours: {

@@ -88,7 +88,14 @@
         320000,
         420000
       ],
-      "note": "Lunch ₩320,000; dinner ₩420,000 per person, drinks extra (Naver menu, 2026)"
+      "note": "Lunch ₩320,000; dinner ₩420,000 per person, drinks extra (Naver menu, 2026)",
+      "menuKRW": {
+        "min": 5000,
+        "typical": 220000,
+        "max": 420000,
+        "n": 6,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -482,7 +489,14 @@
         230000,
         330000
       ],
-      "note": "Lunch ₩230,000; dinner ₩330,000 per person (Naver menu, 2026)"
+      "note": "Lunch ₩230,000; dinner ₩330,000 per person (Naver menu, 2026)",
+      "menuKRW": {
+        "min": 5000,
+        "typical": 100000,
+        "max": 270000,
+        "n": 5,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "note": "Break 15:00–17:30 (Naver).",
@@ -675,7 +689,14 @@
         250000,
         380000
       ],
-      "note": "Lunch La Yeon course ₩250,000; dinner Shilla course ₩380,000 (Naver menu, 2026)"
+      "note": "Lunch La Yeon course ₩250,000; dinner Shilla course ₩380,000 (Naver menu, 2026)",
+      "menuKRW": {
+        "min": 2000,
+        "typical": 170000,
+        "max": 380000,
+        "n": 5,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "note": "Break 14:30–17:30.",
@@ -877,7 +898,14 @@
         170000,
         280000
       ],
-      "note": "Lunch ₩170,000; dinner ₩280,000 per person (Naver menu, 2026)"
+      "note": "Lunch ₩170,000; dinner ₩280,000 per person (Naver menu, 2026)",
+      "menuKRW": {
+        "min": 45000,
+        "typical": 170000,
+        "max": 280000,
+        "n": 6,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -1084,7 +1112,14 @@
         250000,
         370000
       ],
-      "note": "Lunch ₩250,000; dinner ₩370,000 per person (Naver menu, 2026)"
+      "note": "Lunch ₩250,000; dinner ₩370,000 per person (Naver menu, 2026)",
+      "menuKRW": {
+        "min": 250000,
+        "typical": 370000,
+        "max": 370000,
+        "n": 2,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -1447,7 +1482,14 @@
         240000,
         380000
       ],
-      "note": "Lunch ₩240,000; dinner ₩380,000 per person (Naver menu, 2026)"
+      "note": "Lunch ₩240,000; dinner ₩380,000 per person (Naver menu, 2026)",
+      "menuKRW": {
+        "min": 230000,
+        "typical": 360000,
+        "max": 430000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -1861,7 +1903,14 @@
         100000,
         380000
       ],
-      "note": "2F: hanwoo platter 200 g ₩100,000 or 300 g ₩130,000; casual tasting ₩165,000. 3F private room: lunch ₩230,000, dinner ₩280,000. B1 omakase ₩380,000 (Naver menu, 2026)."
+      "note": "2F: hanwoo platter 200 g ₩100,000 or 300 g ₩130,000; casual tasting ₩165,000. 3F private room: lunch ₩230,000, dinner ₩280,000. B1 omakase ₩380,000 (Naver menu, 2026).",
+      "menuKRW": {
+        "min": 165000,
+        "typical": 250000,
+        "max": 380000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -2081,7 +2130,14 @@
         55000,
         150000
       ],
-      "note": "Weekday lunch set ₩55,000. Marinated galbi ₩65,000 per portion; hanwoo saeng-galbi ₩130,000; special-cuts platter ₩178,000; galbi-tang ₩22,000 (Naver menu, 2026)."
+      "note": "Weekday lunch set ₩55,000. Marinated galbi ₩65,000 per portion; hanwoo saeng-galbi ₩130,000; special-cuts platter ₩178,000; galbi-tang ₩22,000 (Naver menu, 2026).",
+      "menuKRW": {
+        "min": 4000,
+        "typical": 28000,
+        "max": 65000,
+        "n": 3,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -2295,7 +2351,14 @@
         59000,
         200000
       ],
-      "note": "Lunch sets ₩35,000–69,000. Seolhwa ribeye ₩95,000 per 100 g; saeng-galbi 200 g ₩160,000; marinated hanwoo galbi 200 g ₩73,000 (Naver menu, 2026)."
+      "note": "Lunch sets ₩35,000–69,000. Seolhwa ribeye ₩95,000 per 100 g; saeng-galbi 200 g ₩160,000; marinated hanwoo galbi 200 g ₩73,000 (Naver menu, 2026).",
+      "menuKRW": {
+        "min": 16000,
+        "typical": 46000,
+        "max": 160000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -2499,7 +2562,14 @@
         50000,
         80000
       ],
-      "note": "U-dae-galbi ₩35,000 per 280 g serving (2-serving minimum); hangjeong-sal ₩18,000; naengmyeon ₩8,000 (Naver menu, 2026)"
+      "note": "U-dae-galbi ₩35,000 per 280 g serving (2-serving minimum); hangjeong-sal ₩18,000; naengmyeon ₩8,000 (Naver menu, 2026)",
+      "menuKRW": {
+        "min": 18000,
+        "typical": 35000,
+        "max": 35000,
+        "n": 2,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "lastOrder": "21:00",
@@ -2703,7 +2773,14 @@
         60000,
         100000
       ],
-      "note": "Hanwoo sirloin ₩49,000 per 170 g; special cuts ₩62,000; kkakdugi fried rice ₩6,000 (Naver menu, 2026)"
+      "note": "Hanwoo sirloin ₩49,000 per 170 g; special cuts ₩62,000; kkakdugi fried rice ₩6,000 (Naver menu, 2026)",
+      "menuKRW": {
+        "min": 6000,
+        "typical": 29000,
+        "max": 49000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "lastOrder": "21:00",
@@ -2905,7 +2982,14 @@
         20000,
         60000
       ],
-      "note": "Galbitang ₩20,000; Seoul naengmyeon ₩14,000; lunch set bulgogi ₩39,000 / galbi ₩49,000 (Naver menu, 2026)"
+      "note": "Galbitang ₩20,000; Seoul naengmyeon ₩14,000; lunch set bulgogi ₩39,000 / galbi ₩49,000 (Naver menu, 2026)",
+      "menuKRW": {
+        "min": 18000,
+        "typical": 28000,
+        "max": 30000,
+        "n": 3,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -3103,7 +3187,14 @@
         30000,
         60000
       ],
-      "note": "Marinated pork ₩24,000; LA galbi ₩33,000; hanwoo cuts ₩43,000–52,000 (Naver menu, 2026)"
+      "note": "Marinated pork ₩24,000; LA galbi ₩33,000; hanwoo cuts ₩43,000–52,000 (Naver menu, 2026)",
+      "menuKRW": {
+        "min": 19000,
+        "typical": 45000,
+        "max": 56000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "lastOrder": "21:15",
@@ -3304,7 +3395,14 @@
         35000,
         55000
       ],
-      "note": "Bon-samgyeop ₩19,000 / 150 g; snowflake neck ₩23,000; kimchi jjigae ₩8,000 (Naver menu, 2026)"
+      "note": "Bon-samgyeop ₩19,000 / 150 g; snowflake neck ₩23,000; kimchi jjigae ₩8,000 (Naver menu, 2026)",
+      "menuKRW": {
+        "min": 8000,
+        "typical": 19000,
+        "max": 23000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "note": "Open daily; queue forms well before opening.",
@@ -3511,7 +3609,14 @@
         18000,
         50000
       ],
-      "note": "All naengmyeon ₩18,000; bulgogi extra (Naver menu, 2026)"
+      "note": "All naengmyeon ₩18,000; bulgogi extra (Naver menu, 2026)",
+      "menuKRW": {
+        "min": 3000,
+        "typical": 25000,
+        "max": 78000,
+        "n": 5,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -3712,7 +3817,14 @@
         16000,
         35000
       ],
-      "note": "Naengmyeon ₩16,000; hoe-naengmyeon ₩20,000; nokdu-jeon ₩13,000 (Naver menu, 2026)"
+      "note": "Naengmyeon ₩16,000; hoe-naengmyeon ₩20,000; nokdu-jeon ₩13,000 (Naver menu, 2026)",
+      "menuKRW": {
+        "min": 13000,
+        "typical": 45000,
+        "max": 85000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "note": "Kakao and Naver show 11:00–22:00 daily outside the holiday.",
@@ -3903,7 +4015,14 @@
         15000,
         30000
       ],
-      "note": "Naengmyeon / bibim / onmyeon ₩15,000; plate mandu ₩15,000 (Naver menu, 2026)"
+      "note": "Naengmyeon / bibim / onmyeon ₩15,000; plate mandu ₩15,000 (Naver menu, 2026)",
+      "menuKRW": {
+        "min": 15000,
+        "typical": 30000,
+        "max": 30000,
+        "n": 2,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -4109,7 +4228,14 @@
         12000,
         20000
       ],
-      "note": "Kalguksu ₩12,000; mandu ₩13,000; kongguksu (Apr–Oct) ₩13,000 (Naver menu, 2026)"
+      "note": "Kalguksu ₩12,000; mandu ₩13,000; kongguksu (Apr–Oct) ₩13,000 (Naver menu, 2026)",
+      "menuKRW": {
+        "min": 12000,
+        "typical": 13000,
+        "max": 25000,
+        "n": 3,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "lastOrder": "20:30",
@@ -4309,7 +4435,14 @@
         18000,
         30000
       ],
-      "note": "Gomtang ₩18,000 / ₩25,000 / ₩30,000; suyuk from ₩40,000 (Naver menu, 2026)"
+      "note": "Gomtang ₩18,000 / ₩25,000 / ₩30,000; suyuk from ₩40,000 (Naver menu, 2026)",
+      "menuKRW": {
+        "min": 18000,
+        "typical": 30000,
+        "max": 40000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -4510,7 +4643,14 @@
         20000,
         31000
       ],
-      "note": "Samgyetang ₩20,000; black chicken ₩25,000; wild-ginseng versions to ₩31,000 (Naver menu, 2026)"
+      "note": "Samgyetang ₩20,000; black chicken ₩25,000; wild-ginseng versions to ₩31,000 (Naver menu, 2026)",
+      "menuKRW": {
+        "min": 20000,
+        "typical": 26000,
+        "max": 31000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "lastOrder": "21:00",
@@ -4699,7 +4839,14 @@
         14000,
         26000
       ],
-      "note": "Dwaeji gomtang ₩14,000 / large ₩19,000; kimchi mandu ₩7,000 (Naver menu, 2026)"
+      "note": "Dwaeji gomtang ₩14,000 / large ₩19,000; kimchi mandu ₩7,000 (Naver menu, 2026)",
+      "menuKRW": {
+        "min": 7000,
+        "typical": 19000,
+        "max": 20000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -4896,7 +5043,14 @@
         13000,
         25000
       ],
-      "note": "Kalguksu ₩13,000; wang mandu ₩13,000; bossam from ₩44,000 (Naver menu, 2026)"
+      "note": "Kalguksu ₩13,000; wang mandu ₩13,000; bossam from ₩44,000 (Naver menu, 2026)",
+      "menuKRW": {
+        "min": 13000,
+        "typical": 16000,
+        "max": 16000,
+        "n": 2,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "lastOrder": "20:30",
@@ -5283,7 +5437,14 @@
         30000,
         45000
       ],
-      "note": "Kkot-samgyeop / moksal ₩18,000 per 150 g; hanwoo chadol ₩25,000; doenjang jjigae ₩9,000 (Naver menu, 2026)"
+      "note": "Kkot-samgyeop / moksal ₩18,000 per 150 g; hanwoo chadol ₩25,000; doenjang jjigae ₩9,000 (Naver menu, 2026)",
+      "menuKRW": {
+        "min": 3000,
+        "typical": 18000,
+        "max": 19000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "note": "Chuseok day 25 Sep: 12:00–23:00 (owner-set on Naver).",
@@ -5478,7 +5639,14 @@
         15000,
         25000
       ],
-      "note": "Seolleongtang ₩15,000; suyuk ₩52,000 (Naver menu, 2026)"
+      "note": "Seolleongtang ₩15,000; suyuk ₩52,000 (Naver menu, 2026)",
+      "menuKRW": {
+        "min": 15000,
+        "typical": 52000,
+        "max": 52000,
+        "n": 2,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "note": "Open 24 hours with a 15:00–17:00 break (Naver/Kakao).",
@@ -5673,7 +5841,14 @@
         11000,
         20000
       ],
-      "note": "Gukbap ₩11,000 / ₩13,000; jeongsik ₩17,000; modum suyuk ₩39,000 (Naver menu, 2026)"
+      "note": "Gukbap ₩11,000 / ₩13,000; jeongsik ₩17,000; modum suyuk ₩39,000 (Naver menu, 2026)",
+      "menuKRW": {
+        "min": 11000,
+        "typical": 13000,
+        "max": 17000,
+        "n": 3,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -5858,7 +6033,14 @@
         40000,
         60000
       ],
-      "note": "Hanwoo chadol samhap ₩32,000; samhap shabu ₩38,000 (Naver menu, 2026)"
+      "note": "Hanwoo chadol samhap ₩32,000; samhap shabu ₩38,000 (Naver menu, 2026)",
+      "menuKRW": {
+        "min": 32000,
+        "typical": 59000,
+        "max": 129000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "note": "Break 15:00–17:00.",
@@ -6040,7 +6222,14 @@
         15000,
         30000
       ],
-      "note": "Manduguk ₩15,000; ojingeo sundae ₩28,000; mandu jeongol from ₩48,000 (Naver menu, 2026)"
+      "note": "Manduguk ₩15,000; ojingeo sundae ₩28,000; mandu jeongol from ₩48,000 (Naver menu, 2026)",
+      "menuKRW": {
+        "min": 13000,
+        "typical": 15000,
+        "max": 28000,
+        "n": 3,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -6783,7 +6972,14 @@
         10000,
         30000
       ],
-      "note": "Bulgogi jeongol ₩15,000 / hanwoo ₩17,000; lunch yangji-tang ₩10,000; tripe gukbap ₩12,000 (Naver menu, 2026)"
+      "note": "Bulgogi jeongol ₩15,000 / hanwoo ₩17,000; lunch yangji-tang ₩10,000; tripe gukbap ₩12,000 (Naver menu, 2026)",
+      "menuKRW": {
+        "min": 10000,
+        "typical": 25000,
+        "max": 45000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -6958,7 +7154,14 @@
     ],
     "price": {
       "level": 2,
-      "note": "Noodles and soups; menu prices not captured — expect mid-teens ₩ per bowl"
+      "note": "Noodles and soups; menu prices not captured — expect mid-teens ₩ per bowl",
+      "menuKRW": {
+        "min": 12000,
+        "typical": 50000,
+        "max": 88000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "lastOrder": "20:50",
@@ -7139,7 +7342,14 @@
         10000,
         25000
       ],
-      "note": "Yukgaejang, kimchi-jjigae, budae-jjigae, sundubu all ₩10,000 (Naver menu, 2026)"
+      "note": "Yukgaejang, kimchi-jjigae, budae-jjigae, sundubu all ₩10,000 (Naver menu, 2026)",
+      "menuKRW": {
+        "min": 3000,
+        "typical": 28000,
+        "max": 39000,
+        "n": 5,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "note": "Break 15:30–16:30.",
@@ -7545,7 +7755,14 @@
         45000,
         70000
       ],
-      "note": "Naver menu (2026): ganjang gejang 2 female crabs ₩92,000 (medium) / ₩114,000 (large); yangnyeom ₩96,000–120,000; roe bibimbap ₩28,000"
+      "note": "Naver menu (2026): ganjang gejang 2 female crabs ₩92,000 (medium) / ₩114,000 (large); yangnyeom ₩96,000–120,000; roe bibimbap ₩28,000",
+      "menuKRW": {
+        "min": 4000,
+        "typical": 70000,
+        "max": 136000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -7742,7 +7959,14 @@
     ],
     "price": {
       "level": 3,
-      "note": "Crab set meals at market price; abalone-jang set ₩29,000; shrimp-jang set ₩25,000; crab-roe makguksu ₩19,000 (Naver menu, 2026)"
+      "note": "Crab set meals at market price; abalone-jang set ₩29,000; shrimp-jang set ₩25,000; crab-roe makguksu ₩19,000 (Naver menu, 2026)",
+      "menuKRW": {
+        "min": 19000,
+        "typical": 29000,
+        "max": 29000,
+        "n": 2,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "lastOrder": "20:30",
@@ -7943,7 +8167,14 @@
     ],
     "price": {
       "level": 2,
-      "note": "Shared platters; per-person cost typically moderate (menu prices not captured — check on arrival)"
+      "note": "Shared platters; per-person cost typically moderate (menu prices not captured — check on arrival)",
+      "menuKRW": {
+        "min": 3000,
+        "typical": 42000,
+        "max": 44000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -8132,7 +8363,14 @@
         15000,
         25000
       ],
-      "note": "Jokbal medium ₩45,000 / large ₩50,000 / extra-large ₩55,000 per platter (Naver menu, 2026)"
+      "note": "Jokbal medium ₩45,000 / large ₩50,000 / extra-large ₩55,000 per platter (Naver menu, 2026)",
+      "menuKRW": {
+        "min": 45000,
+        "typical": 50000,
+        "max": 55000,
+        "n": 3,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -8322,7 +8560,14 @@
         11000,
         30000
       ],
-      "note": "Yukhoe 200 g ₩23,000; yukhoe bibimbap ₩11,000 / large ₩16,000 (Naver menu, 2026)"
+      "note": "Yukhoe 200 g ₩23,000; yukhoe bibimbap ₩11,000 / large ₩16,000 (Naver menu, 2026)",
+      "menuKRW": {
+        "min": 11000,
+        "typical": 38000,
+        "max": 40000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "lastOrder": "21:00",
@@ -8514,7 +8759,14 @@
         6000,
         15000
       ],
-      "note": "Nokdu bindaetteok ₩6,000; meat patty ₩4,000; shrimp/meat bindaetteok ₩12,000 (Naver menu, 2026)"
+      "note": "Nokdu bindaetteok ₩6,000; meat patty ₩4,000; shrimp/meat bindaetteok ₩12,000 (Naver menu, 2026)",
+      "menuKRW": {
+        "min": 4000,
+        "typical": 21000,
+        "max": 29000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "lastOrder": "20:30",
@@ -8703,7 +8955,14 @@
         15000,
         25000
       ],
-      "note": "Whole chickens about ₩21,000–26,000 (brand menu on Naver, 2026)"
+      "note": "Whole chickens about ₩21,000–26,000 (brand menu on Naver, 2026)",
+      "menuKRW": {
+        "min": 20000,
+        "typical": 23000,
+        "max": 23000,
+        "n": 2,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "lastOrder": "22:00",

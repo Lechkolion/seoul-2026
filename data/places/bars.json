@@ -623,6 +623,11 @@
           "친절해요"
         ],
         "url": "https://m.place.naver.com/restaurant/1528889568/home"
+      },
+      "kakao": {
+        "score": 4.5,
+        "count": 33,
+        "url": "https://place.map.kakao.com/1975800167"
       }
     },
     "reviews": [
@@ -792,6 +797,11 @@
           "음식이 맛있어요"
         ],
         "url": "https://m.place.naver.com/restaurant/1463431077/home"
+      },
+      "kakao": {
+        "score": 4.4,
+        "count": 66,
+        "url": "https://place.map.kakao.com/41133866"
       }
     },
     "reviews": [
@@ -1005,7 +1015,14 @@
     ],
     "price": {
       "level": 4,
-      "note": "Five-star hotel bar pricing"
+      "note": "Five-star hotel bar pricing",
+      "menuKRW": {
+        "min": 26000,
+        "typical": 29000,
+        "max": 30000,
+        "n": 3,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -1370,7 +1387,14 @@
     ],
     "price": {
       "level": 3,
-      "note": "Cocktail-bar pricing"
+      "note": "Cocktail-bar pricing",
+      "menuKRW": {
+        "min": 23000,
+        "typical": 30000,
+        "max": 40000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -1806,7 +1830,14 @@
     ],
     "price": {
       "level": 3,
-      "note": "Signature cocktails about ₩32,000–33,000 (DiningCode menu listing). Snack and share plates ₩99,000–100,000; signature dinner course ₩169,000. A music charge of about ₩10,000 pp is reported during live sets."
+      "note": "Signature cocktails about ₩32,000–33,000 (DiningCode menu listing). Snack and share plates ₩99,000–100,000; signature dinner course ₩169,000. A music charge of about ₩10,000 pp is reported during live sets.",
+      "menuKRW": {
+        "min": 10000,
+        "typical": 22000,
+        "max": 50000,
+        "n": 6,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -2017,7 +2048,14 @@
         28000,
         38000
       ],
-      "note": "Per cocktail: Summer Spritz ₩28,000, Herb of Grace ₩29,000, San Martini ₩38,000; Glen Grant 12 ₩31,000 (DiningCode menu listing). Expect about ₩40,000+ per person once snacks are added."
+      "note": "Per cocktail: Summer Spritz ₩28,000, Herb of Grace ₩29,000, San Martini ₩38,000; Glen Grant 12 ₩31,000 (DiningCode menu listing). Expect about ₩40,000+ per person once snacks are added.",
+      "menuKRW": {
+        "min": 18000,
+        "typical": 32000,
+        "max": 70000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -2218,7 +2256,14 @@
     ],
     "price": {
       "level": 1,
-      "note": "Among the cheapest nights out in central Seoul: draft beer plus shared snacks"
+      "note": "Among the cheapest nights out in central Seoul: draft beer plus shared snacks",
+      "menuKRW": {
+        "min": 13000,
+        "typical": 16000,
+        "max": 17000,
+        "n": 3,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -2405,7 +2450,14 @@
     ],
     "price": {
       "level": 2,
-      "note": "Mid-priced cocktails and snacks"
+      "note": "Mid-priced cocktails and snacks",
+      "menuKRW": {
+        "min": 17000,
+        "typical": 18000,
+        "max": 19000,
+        "n": 3,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -2776,7 +2828,14 @@
     ],
     "price": {
       "level": 2,
-      "note": "Chicken to share plus beer"
+      "note": "Chicken to share plus beer",
+      "menuKRW": {
+        "min": 2200,
+        "typical": 21000,
+        "max": 23000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -3375,7 +3434,14 @@
     ],
     "price": {
       "level": 2,
-      "note": "Entry ₩15,000 Sun–Fri, ₩20,000 Sat (club FAQ, as of Jan 2025) plus one drink each; drinks about ₩8,000–12,000 (DiningCode)."
+      "note": "Entry ₩15,000 Sun–Fri, ₩20,000 Sat (club FAQ, as of Jan 2025) plus one drink each; drinks about ₩8,000–12,000 (DiningCode).",
+      "menuKRW": {
+        "min": 5000,
+        "typical": 11000,
+        "max": 12000,
+        "n": 3,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -3591,7 +3657,14 @@
         25000,
         60000
       ],
-      "note": "Zodiac cocktails ₩17,000–19,000; mains ₩19,000–58,000; courses ₩18,000–50,000 (DiningCode menu)"
+      "note": "Zodiac cocktails ₩17,000–19,000; mains ₩19,000–58,000; courses ₩18,000–50,000 (DiningCode menu)",
+      "menuKRW": {
+        "min": 18000,
+        "typical": 40000,
+        "max": 45000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -3777,7 +3850,14 @@
         22000,
         50000
       ],
-      "note": "Cocktails ₩22,000–25,000 (DiningCode menu)"
+      "note": "Cocktails ₩22,000–25,000 (DiningCode menu)",
+      "menuKRW": {
+        "min": 22000,
+        "typical": 23000,
+        "max": 25000,
+        "n": 3,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -4131,7 +4211,14 @@
         15000,
         30000
       ],
-      "note": "Signature chicken ₩19,900; other anju ₩9,000–28,000 (DiningCode menu)"
+      "note": "Signature chicken ₩19,900; other anju ₩9,000–28,000 (DiningCode menu)",
+      "menuKRW": {
+        "min": 12000,
+        "typical": 26000,
+        "max": 28000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -4663,7 +4750,14 @@
     ],
     "price": {
       "level": 3,
-      "note": "Craft cocktails plus BBQ plates"
+      "note": "Craft cocktails plus BBQ plates",
+      "menuKRW": {
+        "min": 12000,
+        "typical": 16000,
+        "max": 18000,
+        "n": 3,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -5388,7 +5482,14 @@
     ],
     "price": {
       "level": 3,
-      "note": "Shared plates plus wine by the bottle"
+      "note": "Shared plates plus wine by the bottle",
+      "menuKRW": {
+        "min": 4000,
+        "typical": 18000,
+        "max": 20000,
+        "n": 3,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -5562,7 +5663,14 @@
     ],
     "price": {
       "level": 2,
-      "note": "Draft craft beer; no food served"
+      "note": "Draft craft beer; no food served",
+      "menuKRW": {
+        "min": 7000,
+        "typical": 8000,
+        "max": 8000,
+        "n": 2,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -5923,7 +6031,14 @@
         30000,
         70000
       ],
-      "note": "Plates ₩18,000–55,000 (DiningCode menu) plus wine"
+      "note": "Plates ₩18,000–55,000 (DiningCode menu) plus wine",
+      "menuKRW": {
+        "min": 24000,
+        "typical": 28000,
+        "max": 29000,
+        "n": 4,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {
@@ -6098,7 +6213,14 @@
     ],
     "price": {
       "level": 3,
-      "note": "Wine by the glass or bottle"
+      "note": "Wine by the glass or bottle",
+      "menuKRW": {
+        "min": 15000,
+        "typical": 29000,
+        "max": 29000,
+        "n": 2,
+        "source": "Kakao Map menu"
+      }
     },
     "hours": {
       "weekly": {

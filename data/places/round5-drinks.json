@@ -1,0 +1,4920 @@
+[
+  {
+    "id": "crossby",
+    "name": "Crossby",
+    "nameKo": "크로스비",
+    "category": "bar",
+    "subcategory": "Wine bar",
+    "tags": [
+      "wine",
+      "live-music",
+      "outdoor",
+      "reservation-needed",
+      "parent-friendly"
+    ],
+    "vibes": [
+      "cozy",
+      "classic",
+      "romantic"
+    ],
+    "summary": "Terrace wine bar on Yangjae-cheon's café strip with live jazz sets and easy bistro plates.",
+    "description": "Crossby sits along the Yangjae-cheon stream promenade, a quiet, leafy strip popular with Seocho locals rather than tourists. Inside it feels like a book-lined jazz lounge — warm lighting, a curated wine list, and a small stage for live jazz/live-band sets on select nights. The kitchen keeps it simple with pastas, risottos and a well-loved tteokbokki with seafood. Ask for the terrace on a mild evening and you can watch the stream path while you sip.",
+    "highlights": [
+      "Live jazz/live-band nights (check Instagram for schedule)",
+      "Bacon tomato or myeongnan (pollock roe) rosé pasta",
+      "Seafood tteokbokki — a house specialty",
+      "Streamside terrace seating"
+    ],
+    "tips": [
+      "Book via CatchTable, especially for evenings with live music — it fills up.",
+      "A short taxi or 13-min walk from Yangjae Station (Line 3/Sinbundang).",
+      "Weeknights are calmer for conversation; weekends lean lively."
+    ],
+    "badges": {
+      "localFavorite": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.3,
+        "count": 47,
+        "url": "https://place.map.kakao.com/15615201"
+      },
+      "google": {
+        "score": 4.4,
+        "url": "https://www.google.com/maps/place/%ED%81%AC%EB%A1%9C%EC%8A%A4%EB%B9%84/data=!3m1!4b1!4m4!3m3!1s0x357ca6cac6c5d691:0x645b86184da6b104!16s%2Fg%2F1tfb_zfq!20s8Q99F2HR%2B295PQQF?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D",
+        "count": 241
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "Regulars describe it as cozy and classic, a favorite for dates and anniversaries, with live jazz performances a highlight.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Google",
+        "text": "Rated 4.4 from 241 Google reviews.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 2,
+      "perPersonKRW": [
+        25000,
+        45000
+      ],
+      "note": "Pastas ₩18,000–19,000; seafood tteokbokki ₩22,000; wine by the glass from ~₩12,000"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "17:00-01:00",
+        "tue": "17:00-01:00",
+        "wed": "17:00-01:00",
+        "thu": "17:00-01:00",
+        "fri": "17:00-01:00",
+        "sat": "17:00-01:00",
+        "sun": "17:00-01:00"
+      },
+      "note": "Hours approximate from Kakao status (open evenings, closes ~1am); confirm live-music nights on Instagram."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found; independently run wine bar — call ahead for 24–26 Sep.",
+      "verified": false
+    },
+    "location": {
+      "address": "115 Yangjaecheon-ro, Seocho-gu, Seoul (1F)",
+      "addressKo": "서울 서초구 양재천로 115 1층",
+      "district": "Seocho-gu",
+      "neighborhood": "Yangjae",
+      "lat": 37.4800783,
+      "lng": 127.0426615,
+      "nearestStation": {
+        "name": "Yangjae",
+        "nameKo": "양재역",
+        "lines": [
+          "3",
+          "SB"
+        ],
+        "exit": "Exit 8",
+        "walkMin": 13
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%ED%81%AC%EB%A1%9C%EC%8A%A4%EB%B9%84",
+      "kakaoMap": "https://place.map.kakao.com/15615201",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%ED%81%AC%EB%A1%9C%EC%8A%A4%EB%B9%84%20%EC%84%9C%EC%9A%B8%20%EC%84%9C%EC%B4%88%EA%B5%AC%20%EC%96%91%EC%9E%AC%EC%B2%9C%EB%A1%9C%20115%201%EC%B8%B5",
+      "phone": "+82-2-576-7754"
+    },
+    "images": [
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/9c93dd788e821c6bfa525b7c10d77aa83ca1fee9?original",
+        "source": "https://place.map.kakao.com/15615201",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Crossby — main view"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/e1e7c2f76c9b6046e97a3b61ea4973ede995a93a?original",
+        "source": "https://place.map.kakao.com/15615201",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Crossby photo 2"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/c231a2217680d6c00d9842d2f39de3847efa4fec?original",
+        "source": "https://place.map.kakao.com/15615201",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Crossby photo 3"
+      },
+      {
+        "url": "https://postfiles.pstatic.net/MjAyNjA5MDJfMjE0/MDAxNzg4MzE2MjY5OTk5.DRzszIPo53oq18M1P_nB2peDP1KCU3hX9gop1F8uDN4g.fIpQu9GC_-_76iVZUneJFyymVJi-9mjONqOXC7vFqh4g.JPEG/SE-5FD13EB4-B239-47E8-9C3C-C7AA7C153D29.jpg?type=w580",
+        "source": "https://place.map.kakao.com/15615201",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Crossby photo 4"
+      },
+      {
+        "url": "https://postfiles.pstatic.net/MjAyNjA5MDJfOTkg/MDAxNzg4MzE2MjczNTQ4.vVd-DUoP7zkcjgzvQ_6rul5xRAL5JYxTvJVpJOZ4Ifog.E-eFTCoDhC2sbp9RK4AF4bJo7r5RKhQugZxxOl803m4g.JPEG/SE-48CAA151-B082-4541-B165-9D8D0D7BCFA2.jpg?type=w580",
+        "source": "https://place.map.kakao.com/15615201",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Crossby photo 5"
+      }
+    ],
+    "duration": "1.5-2.5 h",
+    "bestTime": "Evening, live-music nights",
+    "goodFor": [
+      "Parents",
+      "Date",
+      "Night out",
+      "Relaxing"
+    ],
+    "sources": [
+      "https://place.map.kakao.com/15615201",
+      "https://www.google.com/maps/place/%ED%81%AC%EB%A1%9C%EC%8A%A4%EB%B9%84/data=!3m1!4b1!4m4!3m3!1s0x357ca6cac6c5d691:0x645b86184da6b104!16s%2Fg%2F1tfb_zfq!20s8Q99F2HR%2B295PQQF?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "gwaenchana-sadang-iya",
+    "name": "Gwaenchana Sadang-iya",
+    "nameKo": "괜찮아사당이야",
+    "category": "bar",
+    "subcategory": "Wine bar",
+    "tags": [
+      "wine",
+      "private-room",
+      "reservation-needed",
+      "parent-friendly"
+    ],
+    "vibes": [
+      "cozy",
+      "romantic",
+      "quiet"
+    ],
+    "summary": "Hand-carved Iberico ham sliced tableside at a warm, photogenic wine bar near Sadang.",
+    "description": "Tucked into a quiet street on the Seocho/Sadang border, this wine bar built its name (a playful \"it's okay, Sadang\" pun) on Bellota-grade Iberico ham carved by hand at the table, paired with truffle-cream gnocchi and a well-chosen glass-pour wine list. The dining room is intimate and warmly lit with a private room available — good for a small group wanting a quieter conversation over wine rather than a loud bar scene.",
+    "highlights": [
+      "Hand-carved Iberico Bellota ham",
+      "Truffle cream gnocchi",
+      "Private room for small groups",
+      "Curated by-the-glass wine list"
+    ],
+    "tips": [
+      "Ask staff for a wine recommendation — reviewers say every suggestion landed well.",
+      "No on-site parking; use nearby public lots.",
+      "About a 6-min walk from Sadang Station Exit 11 (Lines 2/4)."
+    ],
+    "badges": {
+      "localFavorite": true,
+      "hiddenGem": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.5,
+        "count": 41,
+        "url": "https://place.map.kakao.com/1238821837"
+      },
+      "google": {
+        "score": 4.7,
+        "url": "https://www.google.com/maps/place/%EA%B4%9C%EC%B0%AE%EC%95%84+%EC%82%AC%EB%8B%B9%EC%9D%B4%EC%95%BC/data=!3m1!4b1!4m4!3m3!1s0x357ca108423045d3:0x9354fcaa616f082a!16s%2Fg%2F11flf98b2c!20s8Q98FXGP%2BQ4VX974?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D",
+        "count": 54
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "Visitors call the mood cozy, quiet and romantic — a go-to for anniversaries and blind dates — with service consistently praised as friendly.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Google",
+        "text": "Rated 4.7 from 54 Google reviews.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 2,
+      "perPersonKRW": [
+        30000,
+        55000
+      ],
+      "note": "Truffle cream gnocchi ₩18,000; hand-carved Iberico ham ₩29,000; salami ₩10,000; wine at market price"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "18:00-01:00",
+        "tue": "18:00-01:00",
+        "wed": "18:00-01:00",
+        "thu": "18:00-01:00",
+        "fri": "18:00-01:00",
+        "sat": "18:00-01:00",
+        "sun": "18:00-01:00"
+      },
+      "note": "Hours approximate from Kakao status (open evenings, closes ~1am)."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found; independently run wine bar — call ahead for 24–26 Sep.",
+      "verified": false
+    },
+    "location": {
+      "address": "3 Cheongdugot-gil, Seocho-gu, Seoul (1F)",
+      "addressKo": "서울 서초구 청두곶길 3 1층",
+      "district": "Seocho-gu",
+      "neighborhood": "Bangbae / Sadang border",
+      "lat": 37.4769832,
+      "lng": 126.9853267,
+      "nearestStation": {
+        "name": "Sadang",
+        "nameKo": "사당역",
+        "lines": [
+          "2",
+          "4"
+        ],
+        "exit": "Exit 11",
+        "walkMin": 6
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%EA%B4%9C%EC%B0%AE%EC%95%84%EC%82%AC%EB%8B%B9%EC%9D%B4%EC%95%BC",
+      "kakaoMap": "https://place.map.kakao.com/1238821837",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EA%B4%9C%EC%B0%AE%EC%95%84%EC%82%AC%EB%8B%B9%EC%9D%B4%EC%95%BC%20%EC%84%9C%EC%9A%B8%20%EC%84%9C%EC%B4%88%EA%B5%AC%20%EC%B2%AD%EB%91%90%EA%B3%B6%EA%B8%B8%203%201%EC%B8%B5",
+      "phone": "+82-70-4038-8878"
+    },
+    "images": [
+      {
+        "url": "https://t1.kakaocdn.net/fiy_reboot/place/AF4566C6869A4C04A11A11DCB5F9F756",
+        "source": "https://place.map.kakao.com/1238821837",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Gwaenchana Sadang-iya — main view"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/62aff173cd6c78a92fac7092bb185f27023ad611?original",
+        "source": "https://place.map.kakao.com/1238821837",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Gwaenchana Sadang-iya photo 2"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/5caad7ac0254da3e7ba6705e29dc33de48aee726?original",
+        "source": "https://place.map.kakao.com/1238821837",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Gwaenchana Sadang-iya photo 3"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/6378eea5c5d9aaa7699ce8f8fefd73a3cbf82355?original",
+        "source": "https://place.map.kakao.com/1238821837",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Gwaenchana Sadang-iya photo 4"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/febc2e95149976053174e69a53ce529cf4f94245?original",
+        "source": "https://place.map.kakao.com/1238821837",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Gwaenchana Sadang-iya photo 5"
+      }
+    ],
+    "duration": "1.5-2 h",
+    "bestTime": "Weeknight evening",
+    "goodFor": [
+      "Parents",
+      "Date",
+      "Night out",
+      "Relaxing"
+    ],
+    "sources": [
+      "https://place.map.kakao.com/1238821837",
+      "https://www.google.com/maps/place/%EA%B4%9C%EC%B0%AE%EC%95%84+%EC%82%AC%EB%8B%B9%EC%9D%B4%EC%95%BC/data=!3m1!4b1!4m4!3m3!1s0x357ca108423045d3:0x9354fcaa616f082a!16s%2Fg%2F11flf98b2c!20s8Q98FXGP%2BQ4VX974?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "terrace-wine-restaurant",
+    "name": "Terrace Wine & Restaurant",
+    "nameKo": "테라스 와인&레스토랑",
+    "category": "bar",
+    "subcategory": "Wine bar & restaurant",
+    "tags": [
+      "wine",
+      "outdoor",
+      "group-friendly",
+      "reservation-needed",
+      "parent-friendly"
+    ],
+    "vibes": [
+      "classic",
+      "cozy"
+    ],
+    "summary": "Mediterranean-toned wine bar with a real terrace on the Yangjae-cheon café strip, open from lunch.",
+    "description": "On the same leafy Yangjae-cheon promenade as several of the area's best wine bars, this two-storey spot leans into an \"exotic,\" almost European terrace mood with wood beams, warm lamps and a proper outdoor seating area. It runs from lunch through late — useful if the family wants a relaxed daytime glass of wine with pasta rather than only a nightcap. The kitchen turns out pastas and a reliably good filet steak alongside a solid wine-by-the-glass list.",
+    "highlights": [
+      "Myeongnan (pollock roe) oil pasta with scallops",
+      "Filet steak with roasted vegetables",
+      "Real outdoor terrace seating",
+      "Open from lunch, not just evenings"
+    ],
+    "tips": [
+      "No on-site parking — use the public lot nearby.",
+      "Private room available for a family group of 5.",
+      "A 14-min walk from Yangjae Citizen's Forest Station, or easier by taxi."
+    ],
+    "badges": {
+      "familyFriendly": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.2,
+        "count": 33,
+        "url": "https://place.map.kakao.com/24891765"
+      },
+      "google": {
+        "score": 4,
+        "url": "https://www.google.com/maps/place/%ED%85%8C%EB%9D%BC%EC%8A%A4+%EC%99%80%EC%9D%B8%EB%B0%94%26%EB%A0%88%EC%8A%A4%ED%86%A0%EB%9E%91/data=!3m1!4b1!4m4!3m3!1s0x357ca70000b9b2ef:0x5128a01a5f729ef!16s%2Fg%2F11vx39_8kd!20s8Q99F2GR%2BV7GVMR3?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D",
+        "count": 1
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "Reviewers call the mood cozy and vintage with a touch of \"exotic\" European flair, popular for dates.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "One diner said the oil and tomato pastas were both solid and the armchairs made it worth lingering.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 2,
+      "perPersonKRW": [
+        30000,
+        55000
+      ],
+      "note": "Pastas ₩19,000–20,000; filet steak ₩49,000; wine by the glass available"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "12:00-01:00",
+        "tue": "12:00-01:00",
+        "wed": "12:00-01:00",
+        "thu": "12:00-01:00",
+        "fri": "12:00-01:00",
+        "sat": "12:00-01:00",
+        "sun": "12:00-01:00"
+      },
+      "note": "Opens from noon (confirmed on Kakao); last order likely ~1h before close."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found; independently run restaurant-bar — call ahead for 24–26 Sep.",
+      "verified": false
+    },
+    "location": {
+      "address": "109-2 Yangjaecheon-ro, Seocho-gu, Seoul (Twin Bldg 2, 1F)",
+      "addressKo": "서울 서초구 양재천로 109-2 트윈빌딩2 1층",
+      "district": "Seocho-gu",
+      "neighborhood": "Yangjae",
+      "lat": 37.4784301,
+      "lng": 127.041213,
+      "nearestStation": {
+        "name": "Yangjae Citizen's Forest",
+        "nameKo": "양재시민의숲역",
+        "lines": [
+          "SB"
+        ],
+        "exit": "Exit 2",
+        "walkMin": 14
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%ED%85%8C%EB%9D%BC%EC%8A%A4%20%EC%99%80%EC%9D%B8%26%EB%A0%88%EC%8A%A4%ED%86%A0%EB%9E%91",
+      "kakaoMap": "https://place.map.kakao.com/24891765",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%ED%85%8C%EB%9D%BC%EC%8A%A4%20%EC%99%80%EC%9D%B8%26%EB%A0%88%EC%8A%A4%ED%86%A0%EB%9E%91%20%EC%84%9C%EC%9A%B8%20%EC%84%9C%EC%B4%88%EA%B5%AC%20%EC%96%91%EC%9E%AC%EC%B2%9C%EB%A1%9C%20109-2%20%ED%8A%B8%EC%9C%88%EB%B9%8C%EB%94%A92%201%EC%B8%B5",
+      "phone": "+82-2-579-4477"
+    },
+    "images": [
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/1c3637623915b836416339cfc7bddf1b50e33d09?original",
+        "source": "https://place.map.kakao.com/24891765",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Terrace Wine & Restaurant — main view"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/221f09ad5b95385292a4c19e30f90bcd8e4a219b?original",
+        "source": "https://place.map.kakao.com/24891765",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Terrace Wine & Restaurant photo 2"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/fec8cec34196ce97b28e03f8146418c725fecaf1?original",
+        "source": "https://place.map.kakao.com/24891765",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Terrace Wine & Restaurant photo 3"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/4eb4e734ea32e7743e3ce5024a97efb91b0dacb9?original",
+        "source": "https://place.map.kakao.com/24891765",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Terrace Wine & Restaurant photo 4"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/706b13a6dfec7d417d27d6fef763036f89a38831?original",
+        "source": "https://place.map.kakao.com/24891765",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Terrace Wine & Restaurant photo 5"
+      }
+    ],
+    "duration": "1.5-2.5 h",
+    "bestTime": "Early evening",
+    "goodFor": [
+      "Parents",
+      "Date",
+      "Night out",
+      "Relaxing"
+    ],
+    "sources": [
+      "https://place.map.kakao.com/24891765",
+      "https://www.google.com/maps/place/%ED%85%8C%EB%9D%BC%EC%8A%A4+%EC%99%80%EC%9D%B8%EB%B0%94%26%EB%A0%88%EC%8A%A4%ED%86%A0%EB%9E%91/data=!3m1!4b1!4m4!3m3!1s0x357ca70000b9b2ef:0x5128a01a5f729ef!16s%2Fg%2F11vx39_8kd!20s8Q99F2GR%2BV7GVMR3?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "lp-bar-zeppelin",
+    "name": "LP Bar Zeppelin",
+    "nameKo": "LP바 제플린",
+    "category": "bar",
+    "subcategory": "LP / whisky bar",
+    "tags": [
+      "whisky",
+      "craft-beer",
+      "live-music",
+      "group-friendly",
+      "parent-friendly"
+    ],
+    "vibes": [
+      "retro",
+      "cozy",
+      "classic"
+    ],
+    "summary": "A 30,000-record LP bar near Sinnonhyeon run by a DJ-owner of 28 years — take requests, sip a Guinness or highball.",
+    "description": "Steps from Sinnonhyeon Station, Zeppelin is a proper LP bar: the owner is a 28-year veteran DJ who spins requests from a collection of roughly 30,000 vinyl records and music videos on a big screen. It skews toward an older, music-loving crowd — exactly the relaxed, nostalgic vibe that suits a 50-something couple who grew up on vinyl. Order the certified Guinness master-poured draft or a whisky highball, plus the melon-and-jamón plate, and settle in for a set.",
+    "highlights": [
+      "Request a song from ~30,000 LPs",
+      "Guinness Master-poured draft (certified fresh line)",
+      "Melon-and-jamón sharing plate",
+      "Group seating for a party of 5"
+    ],
+    "tips": [
+      "It's more mainstream/crowd-pleasing than a hardcore audiophile bar — good for a first LP-bar experience.",
+      "Snack refills (the free rice-cracker starter) are famously generous.",
+      "A 3-min walk from Sinnonhyeon Station Exit 9."
+    ],
+    "badges": {
+      "localFavorite": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 3.8,
+        "count": 43,
+        "url": "https://place.map.kakao.com/19667086"
+      },
+      "google": {
+        "score": 4.3,
+        "url": "https://www.google.com/maps/place/LP%EB%B0%94+%EC%A0%9C%ED%94%8C%EB%A6%B0+%EA%B0%95%EB%82%A8/data=!3m1!4b1!4m4!3m3!1s0x357ca15f4480dff3:0xbb89099281eddf6d!16s%2Fg%2F11ddysx5td!20s8Q99G23F%2B75P636G?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D",
+        "count": 321
+      }
+    },
+    "reviews": [
+      {
+        "source": "Google",
+        "text": "Rated 4.3 from 321 Google reviews.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "One long-time visitor called it more accessible than a niche audiophile spot — great music and lighting, though song requests are capped at two.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 2,
+      "perPersonKRW": [
+        25000,
+        40000
+      ],
+      "note": "Guinness draft ₩15,000; melon & jamón plate ₩20,000; sharing platter ₩38,000; Guinness 6-glass set ₩99,000"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "19:00-01:00",
+        "tue": "19:00-01:00",
+        "wed": "19:00-01:00",
+        "thu": "19:00-01:00",
+        "fri": "19:00-01:00",
+        "sat": "19:00-01:00",
+        "sun": "19:00-01:00"
+      },
+      "note": "Hours approximate from Kakao status (closes ~1am)."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found; call ahead for 24–26 Sep.",
+      "verified": false
+    },
+    "location": {
+      "address": "8 Sapyeong-daero 56-gil, Seocho-gu, Seoul (Yangjeong Bldg, B1)",
+      "addressKo": "서울 서초구 사평대로56길 8 양정빌딩 지하1층",
+      "district": "Seocho-gu",
+      "neighborhood": "Sinnonhyeon",
+      "lat": 37.5032175,
+      "lng": 127.0228966,
+      "nearestStation": {
+        "name": "Sinnonhyeon",
+        "nameKo": "신논현역",
+        "lines": [
+          "9",
+          "SB"
+        ],
+        "exit": "Exit 9",
+        "walkMin": 3
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/LP%EB%B0%94%20%EC%A0%9C%ED%94%8C%EB%A6%B0",
+      "kakaoMap": "https://place.map.kakao.com/19667086",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=LP%EB%B0%94%20%EC%A0%9C%ED%94%8C%EB%A6%B0%20%EC%84%9C%EC%9A%B8%20%EC%84%9C%EC%B4%88%EA%B5%AC%20%EC%82%AC%ED%8F%89%EB%8C%80%EB%A1%9C56%EA%B8%B8%208%20%EC%96%91%EC%A0%95%EB%B9%8C%EB%94%A9%20%EC%A7%80%ED%95%981%EC%B8%B5",
+      "phone": "+82-2-532-9727"
+    },
+    "images": [
+      {
+        "url": "https://t1.kakaocdn.net/mystore/45B7A96C6E7F4EB4B55D20C3749B1FB2",
+        "source": "https://place.map.kakao.com/19667086",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "LP Bar Zeppelin — main view"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/1AC585CCC8844CD6A8E382EBBF7C3EC2",
+        "source": "https://place.map.kakao.com/19667086",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "LP Bar Zeppelin photo 2"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/7FCCA4638BA244EFA3C3F40E9E60C234",
+        "source": "https://place.map.kakao.com/19667086",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "LP Bar Zeppelin photo 3"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/D891A64AF70F46A487EB7E55BD178D44",
+        "source": "https://place.map.kakao.com/19667086",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "LP Bar Zeppelin photo 4"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/91C1EFAA76754732BBBAC205ABFD58C4",
+        "source": "https://place.map.kakao.com/19667086",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "LP Bar Zeppelin photo 5"
+      }
+    ],
+    "duration": "1.5-2.5 h",
+    "bestTime": "Evening",
+    "goodFor": [
+      "Parents",
+      "Date",
+      "Night out",
+      "Relaxing"
+    ],
+    "sources": [
+      "https://place.map.kakao.com/19667086",
+      "https://www.google.com/maps/place/LP%EB%B0%94+%EC%A0%9C%ED%94%8C%EB%A6%B0+%EA%B0%95%EB%82%A8/data=!3m1!4b1!4m4!3m3!1s0x357ca15f4480dff3:0xbb89099281eddf6d!16s%2Fg%2F11ddysx5td!20s8Q99G23F%2B75P636G?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "highball-garden-sinsa",
+    "name": "Highball Garden",
+    "nameKo": "하이볼가든",
+    "category": "bar",
+    "subcategory": "Izakaya highball bar",
+    "tags": [
+      "whisky",
+      "cocktails",
+      "outdoor",
+      "parent-friendly"
+    ],
+    "vibes": [
+      "cozy",
+      "hip"
+    ],
+    "summary": "Izakaya-style highball specialist between Sinsa and Apgujeong — a different whisky-and-soda combo poured daily.",
+    "description": "A dedicated highball bar just off the Sinsa/Apgujeong border, with soft bar lighting and a terrace. The bartenders rotate \"today's highball\" using a different whisky paired with soda or ginger ale, plus fruitier pisco, yuzu and wasabi riffs for the more adventurous. It's a relaxed, conversational bar — closer to a Tokyo izakaya than a loud cocktail club — and a good easy introduction to whisky highballs for guests who don't want a full cocktail menu.",
+    "highlights": [
+      "Today's Highball — a different whisky pairing daily",
+      "Pisco highball with grape, pineapple & coconut water",
+      "Wasabi and yuzu-tea highball riffs",
+      "Terrace seating"
+    ],
+    "tips": [
+      "Ask the bartender for \"오늘의 하이볼\" (today's highball) for the freshest pour.",
+      "A 9-min walk from Apgujeong Station Exit 4.",
+      "Good for whisky drinkers who find neat pours too strong."
+    ],
+    "badges": {
+      "localFavorite": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.4,
+        "count": 63,
+        "url": "https://place.map.kakao.com/26550205"
+      },
+      "google": {
+        "score": 4.5,
+        "url": "https://www.google.com/maps/place/%ED%95%98%EC%9D%B4%EB%B3%BC%EA%B0%80%EB%93%A0/data=!3m1!4b1!4m4!3m3!1s0x357ca3c2ea80a0c3:0x715640b0dfacf455!16s%2Fg%2F11g0w42phx!20s8Q99G2FF%2B4XW47PF?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D",
+        "count": 158
+      }
+    },
+    "reviews": [
+      {
+        "source": "Google",
+        "text": "Rated 4.5 from 158 Google reviews.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "A blogger called it a \"whisky lover's playground,\" praising the interior, lighting and music alongside the varied highball menu.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 2,
+      "perPersonKRW": [
+        25000,
+        40000
+      ],
+      "note": "Today's highball ₩15,000; specialty highballs at market price"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "18:00-02:00",
+        "tue": "18:00-02:00",
+        "wed": "18:00-02:00",
+        "thu": "18:00-02:00",
+        "fri": "18:00-02:00",
+        "sat": "18:00-02:00",
+        "sun": "18:00-02:00"
+      },
+      "note": "Hours approximate from Kakao status (open until ~2am)."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found; call ahead for 24–26 Sep.",
+      "verified": false
+    },
+    "location": {
+      "address": "39 Nonhyeon-ro 161-gil, Gangnam-gu, Seoul (B1, Unit 101)",
+      "addressKo": "서울 강남구 논현로161길 39 지하 1층 101호",
+      "district": "Gangnam-gu",
+      "neighborhood": "Sinsa / Apgujeong",
+      "lat": 37.5231675,
+      "lng": 127.025319,
+      "nearestStation": {
+        "name": "Apgujeong",
+        "nameKo": "압구정역",
+        "lines": [
+          "3"
+        ],
+        "exit": "Exit 4",
+        "walkMin": 9
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%ED%95%98%EC%9D%B4%EB%B3%BC%EA%B0%80%EB%93%A0",
+      "kakaoMap": "https://place.map.kakao.com/26550205",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%ED%95%98%EC%9D%B4%EB%B3%BC%EA%B0%80%EB%93%A0%20%EC%84%9C%EC%9A%B8%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EB%85%BC%ED%98%84%EB%A1%9C161%EA%B8%B8%2039%20%EC%A7%80%ED%95%98%201%EC%B8%B5%20101%ED%98%B8",
+      "phone": "+82-70-8886-4636"
+    },
+    "images": [
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/91c42b2db01e0c10dec7b2260f532f8aaff993c8?original",
+        "source": "https://place.map.kakao.com/26550205",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Highball Garden — main view"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/64b1927d9617e1a46c0d8fbcf7995b5a060b13cf?original",
+        "source": "https://place.map.kakao.com/26550205",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Highball Garden photo 2"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/93c12bff1521be6f350581938f575de6ca287535?original",
+        "source": "https://place.map.kakao.com/26550205",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Highball Garden photo 3"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/aa830f5086ae681615f30688327693bf76f94221?original",
+        "source": "https://place.map.kakao.com/26550205",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Highball Garden photo 4"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/a91132dd3789592fd6ea0f9a208fb72856b20b35?original",
+        "source": "https://place.map.kakao.com/26550205",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Highball Garden photo 5"
+      }
+    ],
+    "duration": "1.5-2 h",
+    "bestTime": "Evening",
+    "goodFor": [
+      "Parents",
+      "Date",
+      "Night out",
+      "Relaxing"
+    ],
+    "sources": [
+      "https://place.map.kakao.com/26550205",
+      "https://www.google.com/maps/place/%ED%95%98%EC%9D%B4%EB%B3%BC%EA%B0%80%EB%93%A0/data=!3m1!4b1!4m4!3m3!1s0x357ca3c2ea80a0c3:0x715640b0dfacf455!16s%2Fg%2F11g0w42phx!20s8Q99G2FF%2B4XW47PF?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "barcode-plus",
+    "name": "Barcode Plus",
+    "nameKo": "바코드플러스",
+    "category": "bar",
+    "subcategory": "Wine bar",
+    "tags": [
+      "wine",
+      "value",
+      "private-room",
+      "parent-friendly",
+      "group-friendly"
+    ],
+    "vibes": [
+      "classic",
+      "quiet"
+    ],
+    "summary": "Twenty-year-old Yeoksam wine bar built on value pours, hand-carved jamón and a quiet, grown-up room.",
+    "description": "A veteran wine bar (20 years running) near Yeoksam Station that built its reputation on affordable, well-matched wine and food rather than flash. The room is classic and hushed — closer to a private lounge than a buzzy bar — with a lunch set from ₩9,900 and evening wine-and-cheese/jamón pairings. It suits a relaxed conversation over wine rather than a loud night out, and staff are known for genuinely helping guests pick a bottle they'll like.",
+    "highlights": [
+      "Value wine set with cheese or fruit",
+      "Hand-carved Bellota Iberico ham with melon",
+      "Lunch set from ₩9,900",
+      "Quiet private-feel seating, good for groups"
+    ],
+    "tips": [
+      "Closed Mondays; open from 11:40 the rest of the week.",
+      "Closed on Chuseok day itself (25 Sep 2026) per the venue's own notice.",
+      "A 6-min walk from Yeoksam Station Exit 3."
+    ],
+    "badges": {
+      "valueForMoney": true,
+      "localFavorite": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 5,
+        "count": 37,
+        "url": "https://place.map.kakao.com/1862318770"
+      },
+      "google": {
+        "score": 4.4,
+        "url": "https://www.google.com/maps/place/%EB%B0%94%EC%BD%94%EB%93%9C%ED%94%8C%EB%9F%AC%EC%8A%A4/data=!3m1!4b1!4m4!3m3!1s0x357ca15679f19ae7:0xe7ebf84d142f3900!16s%2Fg%2F1tg660jn!20s8Q99F2XM%2B6PH38R3?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D",
+        "count": 102
+      }
+    },
+    "reviews": [
+      {
+        "source": "Google",
+        "text": "Rated 4.4 from 102 Google reviews.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "A regular praised the friendly owner and generous pours, calling the food \"genuinely delicious\" and the wine great value.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 2,
+      "perPersonKRW": [
+        25000,
+        45000
+      ],
+      "note": "Wine set with snacks ₩69,000 (for two); hand-carved jamón & melon ₩30,000; lunch set from ₩9,900; side dishes/steak from ₩20,000"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "closed",
+        "tue": "11:40-23:00",
+        "wed": "11:40-23:00",
+        "thu": "11:40-23:00",
+        "fri": "11:40-23:00",
+        "sat": "11:40-23:00",
+        "sun": "11:40-23:00"
+      }
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "closed",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "closed",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "partial",
+      "note": "Confirmed closed on Chuseok day (25 Sep) via the venue's own Kakao notice; open 24 & 26 Sep; regular Monday closure also applies to 28 Sep.",
+      "verified": true,
+      "source": "https://place.map.kakao.com/1862318770"
+    },
+    "location": {
+      "address": "47 Nonhyeon-ro 85-gil, Gangnam-gu, Seoul (2F)",
+      "addressKo": "서울 강남구 논현로85길 47 2층",
+      "district": "Gangnam-gu",
+      "neighborhood": "Yeoksam",
+      "lat": 37.4980211,
+      "lng": 127.0343702,
+      "nearestStation": {
+        "name": "Yeoksam",
+        "nameKo": "역삼역",
+        "lines": [
+          "2"
+        ],
+        "exit": "Exit 3",
+        "walkMin": 6
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%EB%B0%94%EC%BD%94%EB%93%9C%ED%94%8C%EB%9F%AC%EC%8A%A4",
+      "kakaoMap": "https://place.map.kakao.com/1862318770",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EB%B0%94%EC%BD%94%EB%93%9C%ED%94%8C%EB%9F%AC%EC%8A%A4%20%EC%84%9C%EC%9A%B8%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EB%85%BC%ED%98%84%EB%A1%9C85%EA%B8%B8%2047%202%EC%B8%B5",
+      "phone": "+82-502-5553-8572"
+    },
+    "images": [
+      {
+        "url": "https://t1.kakaocdn.net/mystore/DD1E5141A63746A8AF8B7F384DEC61F1",
+        "source": "https://place.map.kakao.com/1862318770",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Barcode Plus — main view"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/BE20DAEC3FCC4057910AC29C14E35E7C",
+        "source": "https://place.map.kakao.com/1862318770",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Barcode Plus photo 2"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/4371E272C9504789ADEBAC55055C1EA5",
+        "source": "https://place.map.kakao.com/1862318770",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Barcode Plus photo 3"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/58A77FD1B8D64E91A6376E928E25B46C",
+        "source": "https://place.map.kakao.com/1862318770",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Barcode Plus photo 4"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/25DF6156D8404932988AC55033B2AC9B",
+        "source": "https://place.map.kakao.com/1862318770",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Barcode Plus photo 5"
+      }
+    ],
+    "duration": "1.5-2 h",
+    "bestTime": "Evening or a quiet weekday lunch",
+    "goodFor": [
+      "Parents",
+      "Date",
+      "Night out",
+      "Relaxing"
+    ],
+    "sources": [
+      "https://place.map.kakao.com/1862318770",
+      "https://www.google.com/maps/place/%EB%B0%94%EC%BD%94%EB%93%9C%ED%94%8C%EB%9F%AC%EC%8A%A4/data=!3m1!4b1!4m4!3m3!1s0x357ca15679f19ae7:0xe7ebf84d142f3900!16s%2Fg%2F1tg660jn!20s8Q99F2XM%2B6PH38R3?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "olivier-weissbach",
+    "name": "Olivier by Syoten",
+    "nameKo": "올리버바이쇼텐",
+    "category": "bar",
+    "subcategory": "Seafood izakaya & wine bar",
+    "tags": [
+      "wine",
+      "group-friendly",
+      "reservation-needed",
+      "parent-friendly"
+    ],
+    "vibes": [
+      "trendy",
+      "cozy"
+    ],
+    "summary": "Apgujeong Rodeo izakaya-wine bar built around sashimi platters, mackerel-potato maki and natural wine.",
+    "description": "A sleek, European-toned seafood izakaya just off Apgujeong Rodeo, pairing fresh sashimi platters, grilled lamb chops and a famous mackerel-and-potato maki with a well-curated wine list. It reads more like a stylish wine-and-seafood dining room than a loud bar, which makes it an easy pick for parents who want good food alongside their glass of wine. Reviewers consistently single out the food quality as much as the atmosphere.",
+    "highlights": [
+      "Sashimi platter (chef's selection)",
+      "Mackerel & potato maki — the house signature",
+      "Wagyu gyukatsu (breaded beef cutlet)",
+      "Grilled lamb chops with black garlic sauce"
+    ],
+    "tips": [
+      "Corkage fee applies if bringing your own bottle.",
+      "No parking on-site — use nearby public lots.",
+      "A 5-min walk from Apgujeong Rodeo Station Exit 5."
+    ],
+    "badges": {
+      "localFavorite": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.3,
+        "count": 71,
+        "url": "https://place.map.kakao.com/816322884"
+      },
+      "google": {
+        "score": 4.6,
+        "url": "https://www.google.com/maps/place/%EC%98%AC%EB%A6%AC%EB%B2%84%EB%B0%94%EC%9D%B4%EC%87%BC%ED%85%90+-+OliverBySyoten/data=!3m1!4b1!4m4!3m3!1s0x357ca3d8cc3a7533:0xce25e9bc38b3a0bd!16s%2Fg%2F11syx74n_x!20s8Q99G2GQ%2BF38582F?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D",
+        "count": 59
+      }
+    },
+    "reviews": [
+      {
+        "source": "Google",
+        "text": "Rated 4.6 from 59 Google reviews.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "Diners rave that \"everything on the menu is delicious,\" recommending the lamb chops and abalone-intestine pasta alongside a good bottle of wine.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 3,
+      "perPersonKRW": [
+        45000,
+        80000
+      ],
+      "note": "Sashimi platter, mackerel maki, gyukatsu and lamb chops at market/seasonal price — expect ₩30,000–50,000 per dish, plus wine"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "17:30-01:00",
+        "tue": "17:30-01:00",
+        "wed": "17:30-01:00",
+        "thu": "17:30-01:00",
+        "fri": "17:30-01:00",
+        "sat": "17:30-01:00",
+        "sun": "17:30-01:00"
+      },
+      "note": "Hours approximate from Kakao status (open evenings, closes ~1am)."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found; call ahead for 24–26 Sep.",
+      "verified": false
+    },
+    "location": {
+      "address": "25 Seolleung-ro 157-gil, Gangnam-gu, Seoul (2F)",
+      "addressKo": "서울 강남구 선릉로157길 25 2층",
+      "district": "Gangnam-gu",
+      "neighborhood": "Apgujeong Rodeo",
+      "lat": 37.5261642,
+      "lng": 127.0377129,
+      "nearestStation": {
+        "name": "Apgujeong Rodeo",
+        "nameKo": "압구정로데오역",
+        "lines": [
+          "SUIN"
+        ],
+        "exit": "Exit 5",
+        "walkMin": 5
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%EC%98%AC%EB%A6%AC%EB%B2%84%EB%B0%94%EC%9D%B4%EC%87%BC%ED%85%90",
+      "kakaoMap": "https://place.map.kakao.com/816322884",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EC%98%AC%EB%A6%AC%EB%B2%84%EB%B0%94%EC%9D%B4%EC%87%BC%ED%85%90%20%EC%84%9C%EC%9A%B8%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EC%84%A0%EB%A6%89%EB%A1%9C157%EA%B8%B8%2025%202%EC%B8%B5",
+      "phone": "+82-70-4204-8088"
+    },
+    "images": [
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/e3828741983f210ff5a77d2878e42ced9ae82fbc?original",
+        "source": "https://place.map.kakao.com/816322884",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Olivier by Syoten — main view"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/E5CF9ADCCC774F9B988752E778134B77",
+        "source": "https://place.map.kakao.com/816322884",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Olivier by Syoten photo 2"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/5E95208DDDA1479095E40BC359A7A695",
+        "source": "https://place.map.kakao.com/816322884",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Olivier by Syoten photo 3"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/2112E6C6F3C94E3487BE2CE4CED79C3A",
+        "source": "https://place.map.kakao.com/816322884",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Olivier by Syoten photo 4"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/34D794D4465E476DB7958F75140924C4",
+        "source": "https://place.map.kakao.com/816322884",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Olivier by Syoten photo 5"
+      }
+    ],
+    "duration": "1.5-2.5 h",
+    "bestTime": "Dinner",
+    "goodFor": [
+      "Parents",
+      "Date",
+      "Night out",
+      "Relaxing"
+    ],
+    "sources": [
+      "https://place.map.kakao.com/816322884",
+      "https://www.google.com/maps/place/%EC%98%AC%EB%A6%AC%EB%B2%84%EB%B0%94%EC%9D%B4%EC%87%BC%ED%85%90+-+OliverBySyoten/data=!3m1!4b1!4m4!3m3!1s0x357ca3d8cc3a7533:0xce25e9bc38b3a0bd!16s%2Fg%2F11syx74n_x!20s8Q99G2GQ%2BF38582F?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "jangsaeng-health-center",
+    "name": "Jangsaeng Health Center",
+    "nameKo": "장생건강원",
+    "category": "bar",
+    "subcategory": "Concept cocktail bar",
+    "tags": [
+      "cocktails",
+      "late-night",
+      "group-friendly",
+      "parent-friendly",
+      "hidden-gem"
+    ],
+    "vibes": [
+      "retro",
+      "hip",
+      "cozy"
+    ],
+    "summary": "A former Korean herbal-tonic shop in Yeongdong Market reborn as a nostalgic, open-year-round cocktail bar.",
+    "description": "Jangsaeng (\"longevity\") was once literally a geongangwon — a traditional Korean herbal tonic shop — inside Yeongdong Market near Nonhyeon Station, and the new owners kept the old apothecary bones while turning it into a cocktail bar. The concept plays on that history: a \"naengmyeon cocktail\" and other tongue-in-cheek riffs on Korean comfort food alongside proper cocktails, served in a warmly lit room with market-worn charm. It's open every day of the year, which makes it a reliable pick even around the Chuseok holiday.",
+    "highlights": [
+      "Concept cocktails riffing on Korean comfort food",
+      "Seasonal fruit & cheese platter",
+      "Braised pork belly (dongpa-yuk style) and kimchi",
+      "Truffle fries"
+    ],
+    "tips": [
+      "Open 365 days a year — a safe bet if other bars close for Chuseok.",
+      "Sits inside old Yeongdong Market — half the fun is the walk in past shuttered market stalls at night.",
+      "A 5-min walk from Nonhyeon Station Exit 3."
+    ],
+    "badges": {
+      "hiddenGem": true,
+      "localFavorite": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.5,
+        "count": 108,
+        "url": "https://place.map.kakao.com/16706093"
+      },
+      "google": {
+        "score": 4.8,
+        "url": "https://www.google.com/maps/place/%EC%9E%A5%EC%83%9D%EA%B1%B4%EA%B0%95%EC%9B%90/data=!3m1!4b1!4m4!3m3!1s0x357ca3028a921331:0x2d1c9ba1d8f09208!16s%2Fg%2F11h54m30cq!20s8Q99G25F%2BPQQH8JG?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D",
+        "count": 379
+      }
+    },
+    "reviews": [
+      {
+        "source": "Google",
+        "text": "Rated 4.8 from 379 Google reviews.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "A first-time visitor called the concept, taste and service outstanding, saying they'd bring out-of-town friends here without hesitation.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 2,
+      "perPersonKRW": [
+        25000,
+        45000
+      ],
+      "note": "Seasonal fruit & cheese platter ₩28,000; braised pork belly & kimchi ₩25,000; truffle fries ₩15,000; cocktails from ~₩18,000"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "19:00-04:00",
+        "tue": "19:00-04:00",
+        "wed": "19:00-04:00",
+        "thu": "19:00-04:00",
+        "fri": "19:00-04:00",
+        "sat": "19:00-04:00",
+        "sun": "19:00-04:00"
+      },
+      "note": "Open every day, no regular closing day per venue notice (\"연중무휴\")."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "Venue states it is open 365 days a year with no regular closures (\"연중무휴\"), so expected open through Chuseok — no separate 2026 holiday notice seen, call to reconfirm.",
+      "verified": false
+    },
+    "location": {
+      "address": "23 Gangnam-daero 124-gil, Gangnam-gu, Seoul (1F, Units 102-103)",
+      "addressKo": "서울 강남구 강남대로124길 23 1층 102,103호",
+      "district": "Gangnam-gu",
+      "neighborhood": "Nonhyeon (Yeongdong Market)",
+      "lat": 37.5093752,
+      "lng": 127.024509,
+      "nearestStation": {
+        "name": "Nonhyeon",
+        "nameKo": "논현역",
+        "lines": [
+          "7",
+          "SB"
+        ],
+        "exit": "Exit 3",
+        "walkMin": 5
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%EC%9E%A5%EC%83%9D%EA%B1%B4%EA%B0%95%EC%9B%90",
+      "kakaoMap": "https://place.map.kakao.com/16706093",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EC%9E%A5%EC%83%9D%EA%B1%B4%EA%B0%95%EC%9B%90%20%EC%84%9C%EC%9A%B8%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EA%B0%95%EB%82%A8%EB%8C%80%EB%A1%9C124%EA%B8%B8%2023%201%EC%B8%B5%20102%2C103%ED%98%B8",
+      "phone": "+82-10-2278-5968"
+    },
+    "images": [
+      {
+        "url": "https://t1.kakaocdn.net/fiy_reboot/place/6C4E96CAFC514B078A9DF13D98C55486",
+        "source": "https://place.map.kakao.com/16706093",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Jangsaeng Health Center — main view"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/C8C13909A2A2480C8FA65778131977A8",
+        "source": "https://place.map.kakao.com/16706093",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Jangsaeng Health Center photo 2"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/344528AA6A404F90BE81D4C58F8EB70E",
+        "source": "https://place.map.kakao.com/16706093",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Jangsaeng Health Center photo 3"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/141EDC2FD3D7425C8A80844F15D61ECC",
+        "source": "https://place.map.kakao.com/16706093",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Jangsaeng Health Center photo 4"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/6BC8D7A0995C47E4B3C9F26CC7298E16",
+        "source": "https://place.map.kakao.com/16706093",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Jangsaeng Health Center photo 5"
+      }
+    ],
+    "duration": "1.5-2.5 h",
+    "bestTime": "Evening, any day",
+    "goodFor": [
+      "Parents",
+      "Date",
+      "Night out",
+      "Relaxing"
+    ],
+    "sources": [
+      "https://place.map.kakao.com/16706093",
+      "https://www.google.com/maps/place/%EC%9E%A5%EC%83%9D%EA%B1%B4%EA%B0%95%EC%9B%90/data=!3m1!4b1!4m4!3m3!1s0x357ca3028a921331:0x2d1c9ba1d8f09208!16s%2Fg%2F11h54m30cq!20s8Q99G25F%2BPQQH8JG?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "komoru",
+    "name": "Komoru",
+    "nameKo": "코모루",
+    "category": "bar",
+    "subcategory": "Japanese-style wine & sake bar",
+    "tags": [
+      "wine",
+      "reservation-needed",
+      "parent-friendly"
+    ],
+    "vibes": [
+      "quiet",
+      "cozy",
+      "minimal"
+    ],
+    "summary": "A hushed, Japanese-toned wine-and-small-plates counter between Sinsa and Apgujeong Rodeo.",
+    "description": "Komoru is a quiet counter-style bar blending Japanese izakaya small plates with natural wine, tucked into a basement between Sinsa and Apgujeong Rodeo. Scallop-and-uni cream, mackerel sushi and yakitori-style skewers pair with a tightly edited wine list in a calm, dim room built for conversation rather than a loud night out — a good fit for parents who want an intimate dinner-and-wine pairing.",
+    "highlights": [
+      "Scallop & sea urchin cream",
+      "Mackerel pressed sushi (saba boshizushi)",
+      "Two-person sashimi set",
+      "Grilled chicken thigh (seseri) yakiniku-style"
+    ],
+    "tips": [
+      "Corkage fee applies for outside bottles.",
+      "Closing days are announced via Instagram (@komoru.official) — check ahead.",
+      "A 10-min walk from Apgujeong Station Exit 4."
+    ],
+    "badges": {
+      "hiddenGem": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.9,
+        "count": 30,
+        "url": "https://place.map.kakao.com/2000551090"
+      },
+      "google": {
+        "score": 4.4,
+        "url": "https://www.google.com/maps/place/%EC%BD%94%EB%AA%A8%EB%A3%A8/data=!3m1!4b1!4m4!3m3!1s0x357ca32690bbd7b3:0xa4977fbc9e278c3!16s%2Fg%2F11t6wrxk3t!20s8Q99G2FF%2B2P5J33C?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D",
+        "count": 7
+      }
+    },
+    "reviews": [
+      {
+        "source": "Google",
+        "text": "Rated 4.4 from 7 Google reviews.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "Visitors describe a quiet, Japanese-inflected mood good for dates and drinks with friends, with savory, slightly salty flavors.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 2,
+      "perPersonKRW": [
+        35000,
+        60000
+      ],
+      "note": "Scallop & uni cream ₩25,000; mackerel pressed sushi ₩27,000; two-person sashimi set ₩42,000; seseri yakiniku ₩20,000"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "18:00-01:00",
+        "tue": "18:00-01:00",
+        "wed": "18:00-01:00",
+        "thu": "18:00-01:00",
+        "fri": "18:00-01:00",
+        "sat": "18:00-01:00",
+        "sun": "18:00-01:00"
+      },
+      "note": "Closing days vary and are posted on Instagram; hours approximate."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found; closing days are announced via Instagram — check @komoru.official before visiting 24–26 Sep.",
+      "verified": false
+    },
+    "location": {
+      "address": "49 Nonhyeon-ro 161-gil, Gangnam-gu, Seoul (B1, Unit B01)",
+      "addressKo": "서울 강남구 논현로161길 49 지하1층 B01호",
+      "district": "Gangnam-gu",
+      "neighborhood": "Sinsa",
+      "lat": 37.5225627,
+      "lng": 127.0243688,
+      "nearestStation": {
+        "name": "Apgujeong",
+        "nameKo": "압구정역",
+        "lines": [
+          "3"
+        ],
+        "exit": "Exit 4",
+        "walkMin": 10
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%EC%BD%94%EB%AA%A8%EB%A3%A8",
+      "kakaoMap": "https://place.map.kakao.com/2000551090",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EC%BD%94%EB%AA%A8%EB%A3%A8%20%EC%84%9C%EC%9A%B8%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EB%85%BC%ED%98%84%EB%A1%9C161%EA%B8%B8%2049%20%EC%A7%80%ED%95%981%EC%B8%B5%20B01%ED%98%B8",
+      "phone": "+82-10-5688-4454"
+    },
+    "images": [
+      {
+        "url": "https://t1.kakaocdn.net/mystore/0F91F045D2914709A2278BD5806B0380",
+        "source": "https://place.map.kakao.com/2000551090",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Komoru — main view"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/4B66EBC2C1904150A61FB7BB154E51B8",
+        "source": "https://place.map.kakao.com/2000551090",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Komoru photo 2"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/8EA30867E12A4429ACCD40A2745FAFBC",
+        "source": "https://place.map.kakao.com/2000551090",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Komoru photo 3"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/9E11701C48D44C81B2281DE5BB4B5AA1",
+        "source": "https://place.map.kakao.com/2000551090",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Komoru photo 4"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/CC2D4DB69B784C82B09BD7B42C4CB506",
+        "source": "https://place.map.kakao.com/2000551090",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Komoru photo 5"
+      }
+    ],
+    "duration": "1.5-2 h",
+    "bestTime": "Evening",
+    "goodFor": [
+      "Parents",
+      "Date",
+      "Night out",
+      "Relaxing"
+    ],
+    "sources": [
+      "https://place.map.kakao.com/2000551090",
+      "https://www.google.com/maps/place/%EC%BD%94%EB%AA%A8%EB%A3%A8/data=!3m1!4b1!4m4!3m3!1s0x357ca32690bbd7b3:0xa4977fbc9e278c3!16s%2Fg%2F11t6wrxk3t!20s8Q99G2FF%2B2P5J33C?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "bar-ticent",
+    "name": "Bar Ticent",
+    "nameKo": "바티센트",
+    "category": "bar",
+    "subcategory": "Cocktail bar",
+    "tags": [
+      "cocktails",
+      "private-room",
+      "reservation-needed",
+      "parent-friendly"
+    ],
+    "vibes": [
+      "luxe",
+      "quiet",
+      "classic"
+    ],
+    "summary": "An elegant, tea-inflected cocktail bar near Apgujeong Rodeo with a private room and unhurried service.",
+    "description": "Bar Ticent blends Korean and East Asian tea traditions into its cocktail menu — think a gyokuro (shaded green tea) martini or an \"Oriental Car\" built around tea liqueurs — served in a refined, quiet room with a private room option. It's a polished, adult space built for a slow conversation over a well-made drink rather than a loud scene, which suits parents looking for an elegant nightcap.",
+    "highlights": [
+      "Oriental Car — the signature tea-based cocktail",
+      "Gyokuro Martini",
+      "Sencha Sonic",
+      "Private room for a small group"
+    ],
+    "tips": [
+      "Reserve ahead, especially for the private room.",
+      "A 4-min walk from Apgujeong Rodeo Station Exit 3.",
+      "Good option for a refined nightcap after dinner in Apgujeong."
+    ],
+    "badges": {
+      "localFavorite": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.6,
+        "count": 42,
+        "url": "https://place.map.kakao.com/689545350"
+      },
+      "google": {
+        "score": 4.7,
+        "url": "https://www.google.com/maps/place/%EB%B0%94%ED%8B%B0%EC%84%BC%ED%8A%B8/data=!3m1!4b1!4m4!3m3!1s0x357ca53de008ab2d:0xe4ca4d98e794688e!16s%2Fg%2F11hyjk6j7_!20s8Q99G2GR%2BMMMMC7G?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D",
+        "count": 211
+      }
+    },
+    "reviews": [
+      {
+        "source": "Google",
+        "text": "Rated 4.7 from 211 Google reviews.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "Visitors describe an upscale, calm and private mood, ideal for dates, anniversaries and quiet solo drinks.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 2,
+      "perPersonKRW": [
+        30000,
+        50000
+      ],
+      "note": "Signature cocktails (Oriental Car, Sencha Sonic, Gyokuro Martini, Lullaby) each ₩25,000"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "19:00-03:00",
+        "tue": "19:00-03:00",
+        "wed": "19:00-03:00",
+        "thu": "19:00-03:00",
+        "fri": "19:00-03:00",
+        "sat": "19:00-03:00",
+        "sun": "19:00-03:00"
+      },
+      "note": "Hours approximate from Kakao status (open until ~3am)."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found; call ahead for 24–26 Sep.",
+      "verified": false
+    },
+    "location": {
+      "address": "16 Seolleung-ro 162-gil, Gangnam-gu, Seoul (1F)",
+      "addressKo": "서울 강남구 선릉로162길 16 1층",
+      "district": "Gangnam-gu",
+      "neighborhood": "Apgujeong Rodeo",
+      "lat": 37.5267052,
+      "lng": 127.0416965,
+      "nearestStation": {
+        "name": "Apgujeong Rodeo",
+        "nameKo": "압구정로데오역",
+        "lines": [
+          "SUIN"
+        ],
+        "exit": "Exit 3",
+        "walkMin": 4
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%EB%B0%94%ED%8B%B0%EC%84%BC%ED%8A%B8",
+      "kakaoMap": "https://place.map.kakao.com/689545350",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EB%B0%94%ED%8B%B0%EC%84%BC%ED%8A%B8%20%EC%84%9C%EC%9A%B8%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EC%84%A0%EB%A6%89%EB%A1%9C162%EA%B8%B8%2016%201%EC%B8%B5",
+      "phone": "+82-2-6052-6579"
+    },
+    "images": [
+      {
+        "url": "https://t1.kakaocdn.net/mystore/C5C0326D0CF749639A222AC278C58CCA",
+        "source": "https://place.map.kakao.com/689545350",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Bar Ticent — main view"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/06E8181487CF4550A2D11641A9DD3C4D",
+        "source": "https://place.map.kakao.com/689545350",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Bar Ticent photo 2"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/297CD080672544139CD1B7F475E5EF7F",
+        "source": "https://place.map.kakao.com/689545350",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Bar Ticent photo 3"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/AD1C805807914085B2828264015746BA",
+        "source": "https://place.map.kakao.com/689545350",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Bar Ticent photo 4"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/E3CDDE5887E74C0C8C41EE0E2302516A",
+        "source": "https://place.map.kakao.com/689545350",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Bar Ticent photo 5"
+      }
+    ],
+    "duration": "1.5-2 h",
+    "bestTime": "Late evening",
+    "goodFor": [
+      "Parents",
+      "Date",
+      "Night out",
+      "Relaxing"
+    ],
+    "sources": [
+      "https://place.map.kakao.com/689545350",
+      "https://www.google.com/maps/place/%EB%B0%94%ED%8B%B0%EC%84%BC%ED%8A%B8/data=!3m1!4b1!4m4!3m3!1s0x357ca53de008ab2d:0xe4ca4d98e794688e!16s%2Fg%2F11hyjk6j7_!20s8Q99G2GR%2BMMMMC7G?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "mixology-cheongdam",
+    "name": "Mixology",
+    "nameKo": "믹솔로지",
+    "category": "bar",
+    "subcategory": "Cocktail bar",
+    "tags": [
+      "cocktails",
+      "private-room",
+      "parent-friendly"
+    ],
+    "vibes": [
+      "luxe",
+      "cozy"
+    ],
+    "summary": "Vintage sofas and art-forward cocktails in a plush Cheongdam basement bar.",
+    "description": "A moody, art-directed cocktail bar in Cheongdam with vintage sofas, warm lamplight and cocktails treated like small works of craft. It draws a well-dressed, date-night crowd but stays comfortable rather than clubby, with a private room for a quieter table. A relaxed choice for an elegant after-dinner drink in the Cheongdam/Apgujeong area.",
+    "highlights": [
+      "Blanc de Blanc signature cocktail",
+      "Vintage-sofa lounge seating",
+      "Private room available",
+      "Cheongdam basement setting"
+    ],
+    "tips": [
+      "A longer walk (~12 min) from Apgujeong Rodeo Station — easiest by taxi from Cheongdam.",
+      "Good for an after-dinner cocktail following a Cheongdam restaurant."
+    ],
+    "badges": {
+      "localFavorite": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.8,
+        "count": 33,
+        "url": "https://place.map.kakao.com/27455200"
+      },
+      "google": {
+        "score": 4.7,
+        "url": "https://www.google.com/maps/place/%EB%AF%B9%EC%86%94%EB%A1%9C%EC%A7%80/data=!3m1!4b1!4m4!3m3!1s0x357ca47805df94eb:0x4e259be5794ce73!16s%2Fg%2F1hm3hql0c!20s8Q99G2CR%2BRFPF5Q4?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D",
+        "count": 171
+      }
+    },
+    "reviews": [
+      {
+        "source": "Google",
+        "text": "Rated 4.7 from 171 Google reviews.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "Reviewers call it a luxe, cozy and private space for dates, with cocktails described as sweet, refreshing and creamy.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 3,
+      "perPersonKRW": [
+        35000,
+        60000
+      ],
+      "note": "Signature cocktail (Blanc de Blanc) ₩25,000; other cocktails similarly priced"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "19:00-02:00",
+        "tue": "19:00-02:00",
+        "wed": "19:00-02:00",
+        "thu": "19:00-02:00",
+        "fri": "19:00-02:00",
+        "sat": "19:00-02:00",
+        "sun": "19:00-02:00"
+      },
+      "note": "Hours approximate from Kakao status (open until ~2am)."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found; call ahead for 24–26 Sep.",
+      "verified": false
+    },
+    "location": {
+      "address": "18 Dosan-daero 58-gil, Gangnam-gu, Seoul (B1)",
+      "addressKo": "서울 강남구 도산대로58길 18 지하1층",
+      "district": "Gangnam-gu",
+      "neighborhood": "Cheongdam",
+      "lat": 37.5220425,
+      "lng": 127.0412015,
+      "nearestStation": {
+        "name": "Apgujeong Rodeo",
+        "nameKo": "압구정로데오역",
+        "lines": [
+          "SUIN"
+        ],
+        "exit": "Exit 4",
+        "walkMin": 12
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%EB%AF%B9%EC%86%94%EB%A1%9C%EC%A7%80",
+      "kakaoMap": "https://place.map.kakao.com/27455200",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EB%AF%B9%EC%86%94%EB%A1%9C%EC%A7%80%20%EC%84%9C%EC%9A%B8%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EB%8F%84%EC%82%B0%EB%8C%80%EB%A1%9C58%EA%B8%B8%2018%20%EC%A7%80%ED%95%981%EC%B8%B5",
+      "phone": "+82-2-511-8214"
+    },
+    "images": [
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/c4f27a992a945ae12cf4aed8e1e90af3176d86be?original",
+        "source": "https://place.map.kakao.com/27455200",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Mixology — main view"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/f6bf80dde900b5f4e6d5c3ef1e61c38c26aee0ba674e9efaa9d73a1de2747da3",
+        "source": "https://place.map.kakao.com/27455200",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Mixology photo 2"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/7dde38ee667ae761ecd383028a46f7ae92caf80e00f4a02af4d41a17f2c4f1cc",
+        "source": "https://place.map.kakao.com/27455200",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Mixology photo 3"
+      },
+      {
+        "url": "https://postfiles.pstatic.net/MjAyNjA4MjhfMjcw/MDAxNzg3ODY1MDY0OTA3.yKYBCeQJQvSOre3zNz75gyo6Ol6vFW01uGCof_Lc7kcg.iQpfatYGvgGmGPGZmse0OpzdjwS1WZwMlQYIRIEwVy4g.JPEG/IMG%EF%BC%BF0440.jpg?type=w580",
+        "source": "https://place.map.kakao.com/27455200",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Mixology photo 4"
+      },
+      {
+        "url": "https://postfiles.pstatic.net/MjAyNjA4MjhfNjAg/MDAxNzg3ODY1MDYyODE1.CicICG1GameUf_nOmzVa1Uth-WaN22CpGiMWzryY840g.dVzCICqQBYmauT0uVHE_ymK2FteWXREayKP_wk36fgAg.JPEG/IMG%EF%BC%BF0196.jpg?type=w275",
+        "source": "https://place.map.kakao.com/27455200",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Mixology photo 5"
+      }
+    ],
+    "duration": "1.5-2 h",
+    "bestTime": "Late evening",
+    "goodFor": [
+      "Parents",
+      "Date",
+      "Night out",
+      "Relaxing"
+    ],
+    "sources": [
+      "https://place.map.kakao.com/27455200",
+      "https://www.google.com/maps/place/%EB%AF%B9%EC%86%94%EB%A1%9C%EC%A7%80/data=!3m1!4b1!4m4!3m3!1s0x357ca47805df94eb:0x4e259be5794ce73!16s%2Fg%2F1hm3hql0c!20s8Q99G2CR%2BRFPF5Q4?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "vino615",
+    "name": "Vino615",
+    "nameKo": "비노615",
+    "category": "bar",
+    "subcategory": "Wine bar (wine omakase)",
+    "tags": [
+      "wine",
+      "reservation-needed",
+      "parent-friendly"
+    ],
+    "vibes": [
+      "classic",
+      "quiet"
+    ],
+    "summary": "A wine-omakase counter in an old Apgujeong shopping arcade — let the host build your flight, glass by glass.",
+    "description": "Vino615 runs a \"wine omakase\" format tucked into a low-key Apgujeong shopping-arcade corridor: rather than picking bottles yourself, the host builds a personalized flight of wines by the glass to match your taste and the evening's food. The setting is unglamorous from outside — a classic arcade shopfront — which is part of its charm as a neighborhood find that locals rate highly.",
+    "highlights": [
+      "Wine omakase — a curated glass-by-glass flight",
+      "By-the-glass wine sales to explore before buying a bottle",
+      "Quiet, low-key arcade setting"
+    ],
+    "tips": [
+      "Opens at 18:00 — reserve ahead for the omakase format.",
+      "A 4-min walk from Apgujeong Station Exit 1.",
+      "Good for wine-curious parents who don't want to commit to a full bottle."
+    ],
+    "badges": {
+      "hiddenGem": true,
+      "localFavorite": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 5,
+        "count": 35,
+        "url": "https://place.map.kakao.com/568611913"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "Rated 5.0 across 35 Kakao reviews, with visitors highlighting the wine-omakase format and glass-pour selection.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "Tagged repeatedly for its wine omakase, wine-shop-style glass pours and Apgujeong-local following.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 2,
+      "perPersonKRW": [
+        40000,
+        70000
+      ],
+      "note": "Wine omakase flight and glass pours priced by selection — no fixed menu; ask staff for a per-person budget"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "18:00-01:00",
+        "tue": "18:00-01:00",
+        "wed": "18:00-01:00",
+        "thu": "18:00-01:00",
+        "fri": "18:00-01:00",
+        "sat": "18:00-01:00",
+        "sun": "18:00-01:00"
+      },
+      "note": "Opens 18:00 (confirmed on Kakao); closing time approximate."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found; call ahead for 24–26 Sep.",
+      "verified": false
+    },
+    "location": {
+      "address": "214 Apgujeong-ro, Gangnam-gu, Seoul (Hyundai Jonghap Sangga Bldg, 1F arcade)",
+      "addressKo": "서울 강남구 압구정로 214 현대종합상가빌딩 1층 복도상가",
+      "district": "Gangnam-gu",
+      "neighborhood": "Apgujeong",
+      "lat": 37.5279255,
+      "lng": 127.0308921,
+      "nearestStation": {
+        "name": "Apgujeong",
+        "nameKo": "압구정역",
+        "lines": [
+          "3"
+        ],
+        "exit": "Exit 1",
+        "walkMin": 4
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%EB%B9%84%EB%85%B8615",
+      "kakaoMap": "https://place.map.kakao.com/568611913",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EB%B9%84%EB%85%B8615%20%EC%84%9C%EC%9A%B8%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EC%95%95%EA%B5%AC%EC%A0%95%EB%A1%9C%20214%20%ED%98%84%EB%8C%80%EC%A2%85%ED%95%A9%EC%83%81%EA%B0%80%EB%B9%8C%EB%94%A9%201%EC%B8%B5%20%EB%B3%B5%EB%8F%84%EC%83%81%EA%B0%80",
+      "phone": "+82-10-8876-8600"
+    },
+    "images": [
+      {
+        "url": "https://t1.kakaocdn.net/mystore/3C6A2C509D3C4E568AA4219909877D13",
+        "source": "https://place.map.kakao.com/568611913",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Vino615 — main view"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/9367229C10BF455F940103A918F0E446",
+        "source": "https://place.map.kakao.com/568611913",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Vino615 photo 2"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/57B7607960744BBDB2AE2949ED4A943A",
+        "source": "https://place.map.kakao.com/568611913",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Vino615 photo 3"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/C3556A48C58140CA942EB441AD873355",
+        "source": "https://place.map.kakao.com/568611913",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Vino615 photo 4"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/69FB7A084DF345FC87B72D89335D05ED",
+        "source": "https://place.map.kakao.com/568611913",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Vino615 photo 5"
+      }
+    ],
+    "duration": "1.5-2 h",
+    "bestTime": "Evening",
+    "goodFor": [
+      "Parents",
+      "Date",
+      "Night out",
+      "Relaxing"
+    ],
+    "sources": [
+      "https://place.map.kakao.com/568611913"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "jeongtti",
+    "name": "Jeongtti",
+    "nameKo": "정띠",
+    "category": "bar",
+    "subcategory": "French wine bistro",
+    "tags": [
+      "wine",
+      "group-friendly",
+      "reservation-needed",
+      "parent-friendly"
+    ],
+    "vibes": [
+      "cozy",
+      "classic"
+    ],
+    "summary": "A softly-lit French wine bistro in Jamsil's Samjeon-dong, open from lunch through late-night wine.",
+    "description": "A relaxed French-leaning wine bistro in Jamsil's Samjeon-dong backstreets, serving ratatouille with grilled seafood, duck breast steak and a Wellington (pre-order only) alongside a considered wine list. It reads as a proper bistro rather than a bar — good for a sit-down dinner that naturally continues into wine — and is well liked for group dinners and celebrations.",
+    "highlights": [
+      "Ratatouille with grilled seafood",
+      "Duck breast steak",
+      "Beef Wellington (24h advance order, dinner only)",
+      "Crème brûlée for dessert"
+    ],
+    "tips": [
+      "Order the Wellington a day ahead if you want it.",
+      "A 7-min walk from Jamsil-saenae Station Exit 2.",
+      "Good pick for a celebratory group dinner near Jamsil/Lotte World."
+    ],
+    "badges": {
+      "localFavorite": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.3,
+        "count": 30,
+        "url": "https://place.map.kakao.com/372707754"
+      },
+      "google": {
+        "score": 4.7,
+        "url": "https://www.google.com/maps/place/%EC%A0%95%EB%9D%A0/data=!3m1!4b1!4m4!3m3!1s0x357ca5ae48fe02f7:0x876b6426c7a15f7b!16s%2Fg%2F11rfc5wq43!20s8Q99G35P%2B6GRFX74?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D",
+        "count": 50
+      }
+    },
+    "reviews": [
+      {
+        "source": "Google",
+        "text": "Rated 4.7 from 50 Google reviews.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "Reviewers call the mood cozy and casual, good for anniversaries and group meals, with savory, umami-rich cooking.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 3,
+      "perPersonKRW": [
+        40000,
+        75000
+      ],
+      "note": "Ratatouille with grilled seafood ₩32,000; duck breast steak ₩33,000; Wellington (advance order) ₩80,000; crème brûlée ₩9,000"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "12:00-24:00",
+        "tue": "12:00-24:00",
+        "wed": "12:00-24:00",
+        "thu": "12:00-24:00",
+        "fri": "12:00-24:00",
+        "sat": "12:00-24:00",
+        "sun": "12:00-24:00"
+      },
+      "note": "Opens noon (confirmed on Kakao); closing time approximate for a wine bistro."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found; call ahead for 24–26 Sep.",
+      "verified": false
+    },
+    "location": {
+      "address": "36 Samjeon-ro 13-gil, Songpa-gu, Seoul (1F)",
+      "addressKo": "서울 송파구 삼전로13길 36 1층",
+      "district": "Songpa-gu",
+      "neighborhood": "Jamsil (Samjeon-dong)",
+      "lat": 37.5075264,
+      "lng": 127.0883895,
+      "nearestStation": {
+        "name": "Jamsil-saenae",
+        "nameKo": "잠실새내역",
+        "lines": [
+          "2"
+        ],
+        "exit": "Exit 2",
+        "walkMin": 7
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%EC%A0%95%EB%9D%A0",
+      "kakaoMap": "https://place.map.kakao.com/372707754",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EC%A0%95%EB%9D%A0%20%EC%84%9C%EC%9A%B8%20%EC%86%A1%ED%8C%8C%EA%B5%AC%20%EC%82%BC%EC%A0%84%EB%A1%9C13%EA%B8%B8%2036%201%EC%B8%B5",
+      "phone": "+82-502-5552-3095"
+    },
+    "images": [
+      {
+        "url": "https://t1.kakaocdn.net/fiy_reboot/place/CE157FF4D71E41888A409FA9CFA53504",
+        "source": "https://place.map.kakao.com/372707754",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Jeongtti — main view"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/6355CBCD17454C25956B95FA53769D97",
+        "source": "https://place.map.kakao.com/372707754",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Jeongtti photo 2"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/B556EA1718DD45108BCF5CA6B9B506E0",
+        "source": "https://place.map.kakao.com/372707754",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Jeongtti photo 3"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/6D80FA95D7FA4C64BEEA441F48117559",
+        "source": "https://place.map.kakao.com/372707754",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Jeongtti photo 4"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/2309B6AFF1AC40B4AFEE4C2BE6C48CE9",
+        "source": "https://place.map.kakao.com/372707754",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Jeongtti photo 5"
+      }
+    ],
+    "duration": "2-2.5 h",
+    "bestTime": "Dinner",
+    "goodFor": [
+      "Parents",
+      "Date",
+      "Night out",
+      "Relaxing"
+    ],
+    "sources": [
+      "https://place.map.kakao.com/372707754",
+      "https://www.google.com/maps/place/%EC%A0%95%EB%9D%A0/data=!3m1!4b1!4m4!3m3!1s0x357ca5ae48fe02f7:0x876b6426c7a15f7b!16s%2Fg%2F11rfc5wq43!20s8Q99G35P%2B6GRFX74?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "boogie-woogie-itaewon",
+    "name": "Boogie Woogie",
+    "nameKo": "부기우기",
+    "category": "bar",
+    "subcategory": "Jazz & cocktail bar",
+    "tags": [
+      "live-music",
+      "cocktails",
+      "wine",
+      "rooftop",
+      "group-friendly",
+      "parent-friendly"
+    ],
+    "vibes": [
+      "hip",
+      "lively",
+      "cozy"
+    ],
+    "summary": "Itaewon jazz-and-cocktail bar with a rooftop and live band sets — one of the neighborhood's best-loved live venues.",
+    "description": "A longtime Itaewon (Gyeongridan-gil) favorite pairing jazz and soul-leaning live bands with well-made cocktails and wine, plus a rooftop for fresh air between sets. It draws an easy, music-loving crowd of all ages rather than a young-club scene, making it a comfortable pick for parents who want a proper night out with live music.",
+    "highlights": [
+      "Live jazz/soul band performances",
+      "Rooftop seating",
+      "Full cocktail and wine list",
+      "Bar-counter seating for watching the band"
+    ],
+    "tips": [
+      "Check the live-music schedule on Instagram before going — sets are the main draw.",
+      "Opens 17:30 — arrive early on show nights for a seat.",
+      "A 10-min walk from Noksapyeong Station Exit 2."
+    ],
+    "badges": {
+      "localFavorite": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.2,
+        "count": 133,
+        "url": "https://place.map.kakao.com/615124608"
+      },
+      "google": {
+        "score": 4.4,
+        "url": "https://www.google.com/maps/place/%EB%B6%80%EA%B8%B0%EC%9A%B0%EA%B8%B0+Boogie+Woogie/data=!3m1!4b1!4m4!3m3!1s0x357c9fbfa6d98963:0xa45a435ec8e31df7!16s%2Fg%2F119tb5hfg!20s8Q98GXQQ%2BMJCJ7Q4?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D",
+        "count": 206
+      }
+    },
+    "reviews": [
+      {
+        "source": "Google",
+        "text": "Rated 4.4 from 206 Google reviews.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "Reviewers describe a cozy, hip mood built around live jazz, popular for dates, anniversaries and nights out with friends.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 2,
+      "perPersonKRW": [
+        30000,
+        50000
+      ],
+      "note": "Cocktails and wine priced individually — expect ₩15,000–25,000 per drink; no cover charge confirmed but check on live-music nights"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "17:30-03:00",
+        "tue": "17:30-03:00",
+        "wed": "17:30-03:00",
+        "thu": "17:30-03:00",
+        "fri": "17:30-03:00",
+        "sat": "17:30-03:00",
+        "sun": "17:30-03:00"
+      },
+      "note": "Opens 17:30 (confirmed on Kakao); closing time approximate for a live-music bar."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found; call ahead for 24–26 Sep.",
+      "verified": false
+    },
+    "location": {
+      "address": "21 Hoenamu-ro, Yongsan-gu, Seoul (2F)",
+      "addressKo": "서울 용산구 회나무로 21 2층",
+      "district": "Yongsan-gu",
+      "neighborhood": "Itaewon (Gyeongridan-gil)",
+      "lat": 37.5393091,
+      "lng": 126.9893478,
+      "nearestStation": {
+        "name": "Noksapyeong",
+        "nameKo": "녹사평역",
+        "lines": [
+          "6"
+        ],
+        "exit": "Exit 2",
+        "walkMin": 10
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%EB%B6%80%EA%B8%B0%EC%9A%B0%EA%B8%B0",
+      "kakaoMap": "https://place.map.kakao.com/615124608",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EB%B6%80%EA%B8%B0%EC%9A%B0%EA%B8%B0%20%EC%84%9C%EC%9A%B8%20%EC%9A%A9%EC%82%B0%EA%B5%AC%20%ED%9A%8C%EB%82%98%EB%AC%B4%EB%A1%9C%2021%202%EC%B8%B5",
+      "phone": "+82-10-2396-3050"
+    },
+    "images": [
+      {
+        "url": "https://t1.kakaocdn.net/mystore/E060773B30664189B8447A6024497DFF",
+        "source": "https://place.map.kakao.com/615124608",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Boogie Woogie — main view"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/83C12B2BAC2C4B9486E9ACC61C645AA7",
+        "source": "https://place.map.kakao.com/615124608",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Boogie Woogie photo 2"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/D1D7652B4D214C60B3012CC056D67FF6",
+        "source": "https://place.map.kakao.com/615124608",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Boogie Woogie photo 3"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/4cc545d0297cb2f72e0cafaf61da1694c806f9ae?original",
+        "source": "https://place.map.kakao.com/615124608",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Boogie Woogie photo 4"
+      },
+      {
+        "url": "https://postfiles.pstatic.net/MjAyNjA4MTdfMTgz/MDAxNzg2OTY4ODM5MzMx.c7LKW_ye9YiN7l_5Y916JFdXZMoeZmCUanwLw8fw2psg.t08HPoH_CA0jXMDX6JzhnT5j1n_5Jc2tiB196qGn_asg.JPEG/IMG%EF%BC%BF2100.jpg?type=w773",
+        "source": "https://place.map.kakao.com/615124608",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Boogie Woogie photo 5"
+      }
+    ],
+    "duration": "2-3 h",
+    "bestTime": "Evening, live-music nights",
+    "goodFor": [
+      "Parents",
+      "Date",
+      "Night out",
+      "Relaxing"
+    ],
+    "sources": [
+      "https://place.map.kakao.com/615124608",
+      "https://www.google.com/maps/place/%EB%B6%80%EA%B8%B0%EC%9A%B0%EA%B8%B0+Boogie+Woogie/data=!3m1!4b1!4m4!3m3!1s0x357c9fbfa6d98963:0xa45a435ec8e31df7!16s%2Fg%2F119tb5hfg!20s8Q98GXQQ%2BMJCJ7Q4?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "roxy-itaewon",
+    "name": "Roxy",
+    "nameKo": "록시",
+    "category": "bar",
+    "subcategory": "LP & jazz cocktail bar",
+    "tags": [
+      "live-music",
+      "cocktails",
+      "parent-friendly"
+    ],
+    "vibes": [
+      "retro",
+      "cozy"
+    ],
+    "summary": "A basement LP-and-jazz cocktail bar in Gyeongridan-gil for a relaxed, music-first night.",
+    "description": "A snug basement bar on Itaewon's Gyeongridan-gil built around vinyl and a jazz-leaning soundtrack, with simple, well-made cocktails. It's a low-key, conversational alternative to the area's louder bars — good for winding down with a highball or classic cocktail while good music plays.",
+    "highlights": [
+      "LP/jazz soundtrack",
+      "Classic cocktails (Long Island Tea, Godfather)",
+      "Basement, low-key seating"
+    ],
+    "tips": [
+      "An 8-min walk from Noksapyeong Station Exit 2, in the same cluster as Boogie Woogie.",
+      "Good as a quieter second stop after a livelier bar."
+    ],
+    "badges": {
+      "localFavorite": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.6,
+        "count": 37,
+        "url": "https://place.map.kakao.com/24662024"
+      },
+      "google": {
+        "score": 4.2,
+        "url": "https://www.google.com/maps/place/%EB%A1%9D%EC%8B%9C/data=!3m1!4b1!4m4!3m3!1s0x357ca248c0330f53:0xdf30e9c1d36856a!16s%2Fg%2F11g8w9g46g!20s8Q98GXQQ%2BF4Q6XC3?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D",
+        "count": 60
+      }
+    },
+    "reviews": [
+      {
+        "source": "Google",
+        "text": "Rated 4.2 from 60 Google reviews.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "Rated 4.6 across 37 Kakao reviews, tagged as an LP bar with a good atmosphere and jazz soundtrack.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 2,
+      "perPersonKRW": [
+        20000,
+        35000
+      ],
+      "note": "Long Island Tea ₩10,000; Peach Crush ₩10,000; Godfather ₩12,000; Red Rock (beer) ₩6,000"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "19:00-03:00",
+        "tue": "19:00-03:00",
+        "wed": "19:00-03:00",
+        "thu": "19:00-03:00",
+        "fri": "19:00-03:00",
+        "sat": "19:00-03:00",
+        "sun": "19:00-03:00"
+      },
+      "note": "Hours approximate from Kakao status (open until ~3am)."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found; call ahead for 24–26 Sep.",
+      "verified": false
+    },
+    "location": {
+      "address": "9 Hoenamu-ro, Yongsan-gu, Seoul (B1)",
+      "addressKo": "서울 용산구 회나무로 9 지하1층",
+      "district": "Yongsan-gu",
+      "neighborhood": "Itaewon (Gyeongridan-gil)",
+      "lat": 37.5386412,
+      "lng": 126.9878369,
+      "nearestStation": {
+        "name": "Noksapyeong",
+        "nameKo": "녹사평역",
+        "lines": [
+          "6"
+        ],
+        "exit": "Exit 2",
+        "walkMin": 8
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%EB%A1%9D%EC%8B%9C",
+      "kakaoMap": "https://place.map.kakao.com/24662024",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EB%A1%9D%EC%8B%9C%20%EC%84%9C%EC%9A%B8%20%EC%9A%A9%EC%82%B0%EA%B5%AC%20%ED%9A%8C%EB%82%98%EB%AC%B4%EB%A1%9C%209%20%EC%A7%80%ED%95%981%EC%B8%B5",
+      "phone": "+82-70-8836-1916"
+    },
+    "images": [
+      {
+        "url": "https://t1.kakaocdn.net/mystore/9A4F5357D986456598CD4E57CCA6D507",
+        "source": "https://place.map.kakao.com/24662024",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Roxy — main view"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/FF50EB407E724EB68B916C27B566F220",
+        "source": "https://place.map.kakao.com/24662024",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Roxy photo 2"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/2CD44AD64EA447929B884ACBC77E1F23",
+        "source": "https://place.map.kakao.com/24662024",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Roxy photo 3"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/140560bf3b9ab9bc70b0c96ecb6a2b6583710d74?original",
+        "source": "https://place.map.kakao.com/24662024",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Roxy photo 4"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/46516fa52df0fd81beb4b9cf94789ce3762fb46c?original",
+        "source": "https://place.map.kakao.com/24662024",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Roxy photo 5"
+      }
+    ],
+    "duration": "1.5-2 h",
+    "bestTime": "Evening",
+    "goodFor": [
+      "Parents",
+      "Date",
+      "Night out",
+      "Relaxing"
+    ],
+    "sources": [
+      "https://place.map.kakao.com/24662024",
+      "https://www.google.com/maps/place/%EB%A1%9D%EC%8B%9C/data=!3m1!4b1!4m4!3m3!1s0x357ca248c0330f53:0xdf30e9c1d36856a!16s%2Fg%2F11g8w9g46g!20s8Q98GXQQ%2BF4Q6XC3?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "rogi-hannam",
+    "name": "Rogi",
+    "nameKo": "로기",
+    "category": "bar",
+    "subcategory": "Wine bar & wood-fired dining",
+    "tags": [
+      "wine",
+      "private-room",
+      "reservation-needed",
+      "parent-friendly"
+    ],
+    "vibes": [
+      "luxe",
+      "cozy",
+      "romantic"
+    ],
+    "summary": "Wood-fired course dining and natural wine in Hannam, from a team with a \"Culinary Class Wars\" (흑백요리사) connection.",
+    "description": "Rogi pairs a wood-fire-driven kitchen with a serious wine list in a warm, upscale Hannam dining room, with a private room for a quieter group table. Its lunch and chef's dinner courses are built around smoky, wood-fired flavors — the kitchen has been linked in local coverage to the popular chef competition show 흑백요리사 (Culinary Class Wars) — making it feel more like a special-occasion wine dinner than a casual bar stop.",
+    "highlights": [
+      "Chef's wood-fired dinner course",
+      "Lunch course",
+      "Amberjack (wood-fired fish)",
+      "Wood-fired beef rib"
+    ],
+    "tips": [
+      "Reserve ahead, especially for the course dinner.",
+      "A 5-min walk from Hangangjin Station Exit 3.",
+      "Good for a celebratory dinner-and-wine night rather than a quick drink."
+    ],
+    "badges": {
+      "localFavorite": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.3,
+        "count": 31,
+        "url": "https://place.map.kakao.com/1636890934"
+      },
+      "google": {
+        "score": 4.9,
+        "url": "https://www.google.com/maps/place/%EB%A1%9C%EA%B8%B0+%ED%95%9C%EB%82%A8/data=!3m1!4b1!4m4!3m3!1s0x357ca38836930853:0x6ff0f8ce14c7ecfd!16s%2Fg%2F11t7tr0xl2!20s8Q99G2Q3%2B62FP6GG?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D",
+        "count": 141
+      }
+    },
+    "reviews": [
+      {
+        "source": "Google",
+        "text": "Rated 4.9 from 141 Google reviews.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "Reviewers describe an upscale, quiet, cozy mood — good for anniversaries and year-end dinners — with smoky, umami-rich cooking.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 4,
+      "perPersonKRW": [
+        80000,
+        150000
+      ],
+      "note": "Chef's dinner course ₩135,000; lunch course ₩69,000; wood-fired amberjack ₩28,000; wood-fired beef rib ₩88,000"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "17:00-01:00",
+        "tue": "17:00-01:00",
+        "wed": "17:00-01:00",
+        "thu": "17:00-01:00",
+        "fri": "17:00-01:00",
+        "sat": "17:00-01:00",
+        "sun": "17:00-01:00"
+      },
+      "note": "Opens 17:00 (confirmed on Kakao); closing time approximate."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found; call ahead for 24–26 Sep.",
+      "verified": false
+    },
+    "location": {
+      "address": "32 Hannam-daero 27ga-gil, Yongsan-gu, Seoul (Unit 201)",
+      "addressKo": "서울 용산구 한남대로27가길 32 1층 201호",
+      "district": "Yongsan-gu",
+      "neighborhood": "Hannam",
+      "lat": 37.5381041,
+      "lng": 127.0025662,
+      "nearestStation": {
+        "name": "Hangangjin",
+        "nameKo": "한강진역",
+        "lines": [
+          "6"
+        ],
+        "exit": "Exit 3",
+        "walkMin": 5
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%EB%A1%9C%EA%B8%B0",
+      "kakaoMap": "https://place.map.kakao.com/1636890934",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EB%A1%9C%EA%B8%B0%20%EC%84%9C%EC%9A%B8%20%EC%9A%A9%EC%82%B0%EA%B5%AC%20%ED%95%9C%EB%82%A8%EB%8C%80%EB%A1%9C27%EA%B0%80%EA%B8%B8%2032%201%EC%B8%B5%20201%ED%98%B8",
+      "phone": "+82-10-5490-4895"
+    },
+    "images": [
+      {
+        "url": "https://t1.kakaocdn.net/mystore/9C00B90477644F22AA56E625C5750677",
+        "source": "https://place.map.kakao.com/1636890934",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Rogi — main view"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/5A316729C756482BAF547B2B4B16C6A5",
+        "source": "https://place.map.kakao.com/1636890934",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Rogi photo 2"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/4F35D5C8DA7446A9AD49D6C81C85CC77",
+        "source": "https://place.map.kakao.com/1636890934",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Rogi photo 3"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/E60E4C75B69A42AE8C1D6DB0119E2197",
+        "source": "https://place.map.kakao.com/1636890934",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Rogi photo 4"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/e16fb351470d1c18439de4a5770d5b3d8dd63112?original",
+        "source": "https://place.map.kakao.com/1636890934",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Rogi photo 5"
+      }
+    ],
+    "duration": "2-2.5 h",
+    "bestTime": "Dinner",
+    "goodFor": [
+      "Parents",
+      "Date",
+      "Night out",
+      "Relaxing"
+    ],
+    "reservation": {
+      "recommended": true
+    },
+    "sources": [
+      "https://place.map.kakao.com/1636890934",
+      "https://www.google.com/maps/place/%EB%A1%9C%EA%B8%B0+%ED%95%9C%EB%82%A8/data=!3m1!4b1!4m4!3m3!1s0x357ca38836930853:0x6ff0f8ce14c7ecfd!16s%2Fg%2F11t7tr0xl2!20s8Q99G2Q3%2B62FP6GG?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "sukhee-euljiro",
+    "name": "Sukhee",
+    "nameKo": "숙희",
+    "category": "bar",
+    "subcategory": "Cocktail bar",
+    "tags": [
+      "cocktails",
+      "whisky",
+      "group-friendly",
+      "parent-friendly"
+    ],
+    "vibes": [
+      "classic",
+      "quiet",
+      "hip"
+    ],
+    "summary": "A hidden, antique-toned cocktail bar down a Euljiro alley with a distinctly Korean spin on classic drinks.",
+    "description": "Sukhee sits down a quiet alley near Chungmuro, steps from the Euljiro bar cluster, in an antique-furnished room that leans classic and Korean rather than the neighborhood's more industrial \"hip-jiro\" look. Cocktails riff on Korean flavors and history, served by attentive staff in a hushed, grown-up setting well suited to a quiet conversation over drinks.",
+    "highlights": [
+      "Korean-inspired classic cocktails",
+      "Antique interior with group seating",
+      "Quiet, low-key Euljiro alley setting"
+    ],
+    "tips": [
+      "A 4-min walk from Chungmuro Station Exit 1 (Lines 3/4).",
+      "Good as a calmer alternative to Euljiro's louder hip-jiro bars."
+    ],
+    "badges": {
+      "hiddenGem": true,
+      "localFavorite": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.4,
+        "count": 111,
+        "url": "https://place.map.kakao.com/1457176666"
+      },
+      "google": {
+        "score": 4.6,
+        "url": "https://www.google.com/maps/place/bar+%EC%88%99%ED%9D%AC(sookhee%2F%E7%86%9F%E5%96%9C)/data=!3m1!4b1!4m4!3m3!1s0x357ca3b169c98003:0xe1a91c1ca6b21499!16s%2Fg%2F11h2nn0llz!20s8Q98HX6W%2BMX5295H?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D",
+        "count": 350
+      }
+    },
+    "reviews": [
+      {
+        "source": "Google",
+        "text": "Rated 4.6 from 350 Google reviews.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "Visitors describe a distinctly Korean, upscale and quiet mood, good for dates and unhurried conversation.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 2,
+      "perPersonKRW": [
+        30000,
+        50000
+      ],
+      "note": "Cocktails priced individually at market rate — expect ₩18,000–25,000 per drink"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "18:00-02:00",
+        "tue": "18:00-02:00",
+        "wed": "18:00-02:00",
+        "thu": "18:00-02:00",
+        "fri": "18:00-02:00",
+        "sat": "18:00-02:00",
+        "sun": "18:00-02:00"
+      },
+      "note": "Hours approximate from Kakao status (open until ~2am)."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found; call ahead for 24–26 Sep.",
+      "verified": false
+    },
+    "location": {
+      "address": "3 Toegye-ro 44-gil, Jung-gu, Seoul (1F)",
+      "addressKo": "서울 중구 퇴계로44길 3 1층",
+      "district": "Jung-gu",
+      "neighborhood": "Euljiro (Chungmuro)",
+      "lat": 37.5616552,
+      "lng": 126.99745,
+      "nearestStation": {
+        "name": "Chungmuro",
+        "nameKo": "충무로역",
+        "lines": [
+          "3",
+          "4"
+        ],
+        "exit": "Exit 1",
+        "walkMin": 4
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%EC%88%99%ED%9D%AC",
+      "kakaoMap": "https://place.map.kakao.com/1457176666",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EC%88%99%ED%9D%AC%20%EC%84%9C%EC%9A%B8%20%EC%A4%91%EA%B5%AC%20%ED%87%B4%EA%B3%84%EB%A1%9C44%EA%B8%B8%203%201%EC%B8%B5",
+      "phone": "+82-70-8838-7950"
+    },
+    "images": [
+      {
+        "url": "https://t1.kakaocdn.net/fiy_reboot/place/34A2048303A8418DA4CA3808EDE821C3",
+        "source": "https://place.map.kakao.com/1457176666",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Sukhee — main view"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/f52730754ce42124af542f97d5f9df5cf1f4c5bd?original",
+        "source": "https://place.map.kakao.com/1457176666",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Sukhee photo 2"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/a13cdfc0470e55aa6a709b360b61d0ced71846ec?original",
+        "source": "https://place.map.kakao.com/1457176666",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Sukhee photo 3"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/3d273ce2cf0e1b17ff53eef6292e047f5085ab52?original",
+        "source": "https://place.map.kakao.com/1457176666",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Sukhee photo 4"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/c78891d462fd15de3a2461d1d08ddf7ba7f7fb48?original",
+        "source": "https://place.map.kakao.com/1457176666",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Sukhee photo 5"
+      }
+    ],
+    "duration": "1.5-2 h",
+    "bestTime": "Evening",
+    "goodFor": [
+      "Parents",
+      "Date",
+      "Night out",
+      "Relaxing"
+    ],
+    "sources": [
+      "https://place.map.kakao.com/1457176666",
+      "https://www.google.com/maps/place/bar+%EC%88%99%ED%9D%AC(sookhee%2F%E7%86%9F%E5%96%9C)/data=!3m1!4b1!4m4!3m3!1s0x357ca3b169c98003:0xe1a91c1ca6b21499!16s%2Fg%2F11h2nn0llz!20s8Q98HX6W%2BMX5295H?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "un-ordinary-euljiro",
+    "name": "Un-ordinary",
+    "nameKo": "언오디너리",
+    "category": "bar",
+    "subcategory": "Wine bar & dining",
+    "tags": [
+      "wine",
+      "private-room",
+      "outdoor",
+      "group-friendly",
+      "parent-friendly"
+    ],
+    "vibes": [
+      "hip",
+      "cozy",
+      "retro"
+    ],
+    "summary": "A stylish \"hip-jiro\" wine-dining room with a terrace, seasonal ceviche and a solid steak — right in Euljiro's bar cluster.",
+    "description": "One of the sharper wine-and-dining rooms in Euljiro's \"hip-jiro\" bar district, Un-ordinary combines vintage furniture with a real wine list and a kitchen serious enough for lunch service, not just late drinks. Seasonal ceviche and a well-reviewed filet steak headline the menu, and there's a terrace for outdoor seating plus a private room for a group table.",
+    "highlights": [
+      "Seasonal ceviche",
+      "Filet steak",
+      "Terrace seating",
+      "Private room for groups"
+    ],
+    "tips": [
+      "Confirmed closed on Chuseok day (25 Sep 2026) per the venue's own notice.",
+      "A 3-min walk from Euljiro 3-ga Station Exit 11.",
+      "Also does lunch — good for a relaxed midday wine stop."
+    ],
+    "badges": {
+      "localFavorite": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.7,
+        "count": 159,
+        "url": "https://place.map.kakao.com/1881237539"
+      },
+      "google": {
+        "score": 4.9,
+        "url": "https://www.google.com/maps/place/%EC%96%B8%EC%98%A4%EB%94%94%EB%84%88%EB%A6%AC+%2F+Unordinary+Seoul/data=!3m1!4b1!4m4!3m3!1s0x357ca31be6c671ef:0xfea96249049743c3!16s%2Fg%2F11rq5ybj13!20s8Q98HX8R%2B58QQFHC?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D",
+        "count": 55
+      }
+    },
+    "reviews": [
+      {
+        "source": "Google",
+        "text": "Rated 4.9 from 55 Google reviews.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "Reviewers call it vintage and hip with savory, fresh flavors, good for dates and lunch alike.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 3,
+      "perPersonKRW": [
+        40000,
+        70000
+      ],
+      "note": "Seasonal ceviche ₩28,900; filet steak ₩43,900; dessert ₩6,900; wine by glass/bottle"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "12:00-01:00",
+        "tue": "12:00-01:00",
+        "wed": "12:00-01:00",
+        "thu": "12:00-01:00",
+        "fri": "12:00-01:00",
+        "sat": "12:00-01:00",
+        "sun": "12:00-01:00"
+      },
+      "note": "Serves lunch and dinner (confirmed on Kakao); closing time approximate."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "closed",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "partial",
+      "note": "Confirmed closed on Chuseok day (25 Sep) via the venue's own Kakao notice (\"추석당일 휴무\"); open 24 & 26 Sep as normal.",
+      "verified": true,
+      "source": "https://place.map.kakao.com/1881237539"
+    },
+    "location": {
+      "address": "48-17 Supyo-ro, Jung-gu, Seoul (2F)",
+      "addressKo": "서울 중구 수표로 48-17 2층",
+      "district": "Jung-gu",
+      "neighborhood": "Euljiro (Hip-jiro)",
+      "lat": 37.5633112,
+      "lng": 126.9911021,
+      "nearestStation": {
+        "name": "Euljiro 3-ga",
+        "nameKo": "을지로3가역",
+        "lines": [
+          "2",
+          "3"
+        ],
+        "exit": "Exit 11",
+        "walkMin": 3
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%EC%96%B8%EC%98%A4%EB%94%94%EB%84%88%EB%A6%AC",
+      "kakaoMap": "https://place.map.kakao.com/1881237539",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EC%96%B8%EC%98%A4%EB%94%94%EB%84%88%EB%A6%AC%20%EC%84%9C%EC%9A%B8%20%EC%A4%91%EA%B5%AC%20%EC%88%98%ED%91%9C%EB%A1%9C%2048-17%202%EC%B8%B5",
+      "phone": "+82-10-9974-4817"
+    },
+    "images": [
+      {
+        "url": "https://t1.kakaocdn.net/mystore/5E5021E6A1B44BE79C93A1B31C0EB6AE",
+        "source": "https://place.map.kakao.com/1881237539",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Un-ordinary — main view"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/ABFCBBB5AEC54BB08289174CB7B9D478",
+        "source": "https://place.map.kakao.com/1881237539",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Un-ordinary photo 2"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/C005FE65C634415E999A6685E14ABDDB",
+        "source": "https://place.map.kakao.com/1881237539",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Un-ordinary photo 3"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/6B2ADCFD850D4A619FB0CE1B2927006D",
+        "source": "https://place.map.kakao.com/1881237539",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Un-ordinary photo 4"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/B35954D2AA044B14B79D33DF8A1AA976",
+        "source": "https://place.map.kakao.com/1881237539",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Un-ordinary photo 5"
+      }
+    ],
+    "duration": "1.5-2.5 h",
+    "bestTime": "Dinner",
+    "goodFor": [
+      "Parents",
+      "Date",
+      "Night out",
+      "Relaxing"
+    ],
+    "sources": [
+      "https://place.map.kakao.com/1881237539",
+      "https://www.google.com/maps/place/%EC%96%B8%EC%98%A4%EB%94%94%EB%84%88%EB%A6%AC+%2F+Unordinary+Seoul/data=!3m1!4b1!4m4!3m3!1s0x357ca31be6c671ef:0xfea96249049743c3!16s%2Fg%2F11rq5ybj13!20s8Q98HX8R%2B58QQFHC?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "deumeu-euljiro",
+    "name": "Deumeu",
+    "nameKo": "드므",
+    "category": "bar",
+    "subcategory": "Wine bar",
+    "tags": [
+      "wine",
+      "outdoor",
+      "group-friendly",
+      "parent-friendly"
+    ],
+    "vibes": [
+      "hip",
+      "cozy"
+    ],
+    "summary": "A terrace wine bar in the heart of Euljiro's bar alley, known for its sweet-potato brûlée dessert.",
+    "description": "Deumeu is one of the anchor wine bars in Euljiro's dense \"hip-jiro\" bar cluster, with a terrace for the neighborhood's signature open-air night-market feel. The kitchen serves pasta and bruschetta alongside a well-priced wine list, and its sweet-potato brûlée with ice cream has become something of a local favorite dessert order.",
+    "highlights": [
+      "Sweet-potato brûlée with ice cream",
+      "Smoky ragu pasta",
+      "Salami garlic-oil pasta",
+      "Terrace seating in the Euljiro alley scene"
+    ],
+    "tips": [
+      "A 3-min walk from Euljiro 3-ga Station Exit 9.",
+      "Part of a dense strip of wine bars — easy to bar-hop after dinner."
+    ],
+    "badges": {
+      "localFavorite": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.3,
+        "count": 91,
+        "url": "https://place.map.kakao.com/1207500030"
+      },
+      "google": {
+        "score": 4.8,
+        "url": "https://www.google.com/maps/place/%EB%93%9C%EB%AF%80/data=!3m1!4b1!4m4!3m3!1s0x357ca38338d62de1:0x26a7b044cf2a89df!16s%2Fg%2F11pxjq89jx!20s8Q98HX8R%2B5HQWJ84?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D",
+        "count": 16
+      }
+    },
+    "reviews": [
+      {
+        "source": "Google",
+        "text": "Rated 4.8 from 16 Google reviews.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "Rated 4.3 across 91 Kakao reviews; visitors call the mood cozy and hip, good for a second stop or a small get-together.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 2,
+      "perPersonKRW": [
+        30000,
+        50000
+      ],
+      "note": "Sweet-potato brûlée & ice cream ₩10,500; smoky ragu pasta ₩16,500; salami garlic-oil pasta ₩15,500; classic lasagna ₩18,000"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "17:00-01:00",
+        "tue": "17:00-01:00",
+        "wed": "17:00-01:00",
+        "thu": "17:00-01:00",
+        "fri": "17:00-01:00",
+        "sat": "17:00-01:00",
+        "sun": "17:00-01:00"
+      },
+      "note": "Opens 17:00 (confirmed on Kakao); closing time approximate."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found; call ahead for 24–26 Sep.",
+      "verified": false
+    },
+    "location": {
+      "address": "24 Chungmuro 5-gil, Jung-gu, Seoul (4F)",
+      "addressKo": "서울 중구 충무로5길 24 4층",
+      "district": "Jung-gu",
+      "neighborhood": "Euljiro (Hip-jiro)",
+      "lat": 37.5654732,
+      "lng": 126.9914857,
+      "nearestStation": {
+        "name": "Euljiro 3-ga",
+        "nameKo": "을지로3가역",
+        "lines": [
+          "2",
+          "3"
+        ],
+        "exit": "Exit 9",
+        "walkMin": 3
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%EB%93%9C%EB%AF%80",
+      "kakaoMap": "https://place.map.kakao.com/1207500030",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EB%93%9C%EB%AF%80%20%EC%84%9C%EC%9A%B8%20%EC%A4%91%EA%B5%AC%20%EC%B6%A9%EB%AC%B4%EB%A1%9C5%EA%B8%B8%2024%204%EC%B8%B5",
+      "phone": "+82-2-2276-1201"
+    },
+    "images": [
+      {
+        "url": "https://t1.kakaocdn.net/mystore/26E552A5F2D84EECB57727C1FE3136B9",
+        "source": "https://place.map.kakao.com/1207500030",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Deumeu — main view"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/3D8DA3B68E274B0F8FE489784F32EC25",
+        "source": "https://place.map.kakao.com/1207500030",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Deumeu photo 2"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/9F4B439658274A3A923F693AD083582C",
+        "source": "https://place.map.kakao.com/1207500030",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Deumeu photo 3"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/BF9976E03E5443B5A9A7C3967952D604",
+        "source": "https://place.map.kakao.com/1207500030",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Deumeu photo 4"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/31F4548B3F9F4C91ACADFE06C6872DCC",
+        "source": "https://place.map.kakao.com/1207500030",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Deumeu photo 5"
+      }
+    ],
+    "duration": "1.5-2 h",
+    "bestTime": "Evening",
+    "goodFor": [
+      "Parents",
+      "Date",
+      "Night out",
+      "Relaxing"
+    ],
+    "sources": [
+      "https://place.map.kakao.com/1207500030",
+      "https://www.google.com/maps/place/%EB%93%9C%EB%AF%80/data=!3m1!4b1!4m4!3m3!1s0x357ca38338d62de1:0x26a7b044cf2a89df!16s%2Fg%2F11pxjq89jx!20s8Q98HX8R%2B5HQWJ84?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "yoontaku-euljiro",
+    "name": "Yoontaku",
+    "nameKo": "윤타쿠",
+    "category": "bar",
+    "subcategory": "Cocktail bar",
+    "tags": [
+      "cocktails",
+      "group-friendly",
+      "parent-friendly"
+    ],
+    "vibes": [
+      "hip",
+      "cozy",
+      "retro"
+    ],
+    "summary": "A snug, Japanese-toned cocktail bar in Euljiro with a devoted local following.",
+    "description": "A small, warmly lit cocktail bar in the heart of Euljiro's hip-jiro cluster with a Japanese-inflected, homey feel, popular for solo drinks and low-key dates. It punches above its size in reputation, drawing consistently high praise from locals for both drinks and hospitality.",
+    "highlights": [
+      "Curated cocktail menu",
+      "Bar-counter seating for watching the bartender work",
+      "Cozy Japanese-toned interior"
+    ],
+    "tips": [
+      "A 4-min walk from Euljiro 3-ga Station Exit 8.",
+      "Small room — go early or expect a short wait on weekend nights."
+    ],
+    "badges": {
+      "hiddenGem": true,
+      "localFavorite": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.9,
+        "count": 54,
+        "url": "https://place.map.kakao.com/956172492"
+      },
+      "google": {
+        "score": 5,
+        "url": "https://www.google.com/maps/place/%EC%9C%A4%ED%83%80%EC%BF%A0/data=!3m1!4b1!4m4!3m3!1s0x357ca397262e61df:0xa5b9f6e88fa4f0d2!16s%2Fg%2F11ym_k51c4!20s8Q98HX8V%2B3RWQ5G3?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D",
+        "count": 5
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "Rated 4.9 across 54 Kakao reviews, with visitors describing a cute, Japanese-toned, cozy atmosphere good for dates.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Google",
+        "text": "Rated 5.0 from 5 Google reviews.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 2,
+      "perPersonKRW": [
+        25000,
+        40000
+      ],
+      "note": "Cocktails priced individually at market rate — expect ₩15,000–22,000 per drink"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "17:00-01:00",
+        "tue": "17:00-01:00",
+        "wed": "17:00-01:00",
+        "thu": "17:00-01:00",
+        "fri": "17:00-01:00",
+        "sat": "17:00-01:00",
+        "sun": "17:00-01:00"
+      },
+      "note": "Opens 17:00 (confirmed on Kakao); closing time approximate."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found; call ahead for 24–26 Sep.",
+      "verified": false
+    },
+    "location": {
+      "address": "25-2 Euljiro 18-gil, Jung-gu, Seoul (4F, Unit 502)",
+      "addressKo": "서울 중구 을지로18길 25-2 4층 502호",
+      "district": "Jung-gu",
+      "neighborhood": "Euljiro (Hip-jiro)",
+      "lat": 37.5662111,
+      "lng": 126.9947354,
+      "nearestStation": {
+        "name": "Euljiro 3-ga",
+        "nameKo": "을지로3가역",
+        "lines": [
+          "2",
+          "3"
+        ],
+        "exit": "Exit 8",
+        "walkMin": 4
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%EC%9C%A4%ED%83%80%EC%BF%A0",
+      "kakaoMap": "https://place.map.kakao.com/956172492",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EC%9C%A4%ED%83%80%EC%BF%A0%20%EC%84%9C%EC%9A%B8%20%EC%A4%91%EA%B5%AC%20%EC%9D%84%EC%A7%80%EB%A1%9C18%EA%B8%B8%2025-2%204%EC%B8%B5%20502%ED%98%B8",
+      "phone": "+82-503-7154-5552"
+    },
+    "images": [
+      {
+        "url": "https://t1.kakaocdn.net/mystore/24B4EED2576D4A448A5505CA99FFDF56",
+        "source": "https://place.map.kakao.com/956172492",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Yoontaku — main view"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/557DED3B7DF04433B68555E04FD5D8B2",
+        "source": "https://place.map.kakao.com/956172492",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Yoontaku photo 2"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/CF6EBB9EDB1A4748B2A468907311C115",
+        "source": "https://place.map.kakao.com/956172492",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Yoontaku photo 3"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/C5B7B0E8A00A4B369B69F7407BDD6FFF",
+        "source": "https://place.map.kakao.com/956172492",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Yoontaku photo 4"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/51D1B3AF72974532ABD2496FC67102DE",
+        "source": "https://place.map.kakao.com/956172492",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Yoontaku photo 5"
+      }
+    ],
+    "duration": "1-1.5 h",
+    "bestTime": "Early evening",
+    "goodFor": [
+      "Parents",
+      "Date",
+      "Night out",
+      "Relaxing"
+    ],
+    "sources": [
+      "https://place.map.kakao.com/956172492",
+      "https://www.google.com/maps/place/%EC%9C%A4%ED%83%80%EC%BF%A0/data=!3m1!4b1!4m4!3m3!1s0x357ca397262e61df:0xa5b9f6e88fa4f0d2!16s%2Fg%2F11ym_k51c4!20s8Q98HX8V%2B3RWQ5G3?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "dungji-banpo",
+    "name": "Dungji",
+    "nameKo": "둥지",
+    "category": "cafe",
+    "subcategory": "Rooftop café",
+    "cuisine": [
+      "Coffee",
+      "Tea"
+    ],
+    "tags": [
+      "rooftop",
+      "outdoor",
+      "parent-friendly"
+    ],
+    "vibes": [
+      "cozy",
+      "quiet"
+    ],
+    "summary": "A hushed rooftop café near Nonhyeon Station built for slow mornings and open-air coffee.",
+    "description": "Dungji (\"nest\") lives up to its name — a calm, plant-filled café near Nonhyeon Station with a rooftop terrace that feels like a hideaway above the street noise. It's a small, quiet spot popular with locals for a relaxed coffee or afternoon tea rather than a photo-op crowd, with simple lattes and pastries.",
+    "highlights": [
+      "Rooftop terrace seating",
+      "House lattes (vanilla, hazelnut mocha)",
+      "Quiet, plant-filled interior"
+    ],
+    "tips": [
+      "Closed Mondays.",
+      "A 5-min walk from Nonhyeon Station Exit 5.",
+      "Best on a mild afternoon for the rooftop."
+    ],
+    "badges": {
+      "hiddenGem": true,
+      "localFavorite": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.9,
+        "count": 33,
+        "url": "https://place.map.kakao.com/1513626328"
+      },
+      "google": {
+        "score": 4.5,
+        "url": "https://www.google.com/maps/place/%EB%91%A5%EC%A7%80%EC%BB%A4%ED%94%BCdoongzi/data=!3m1!4b1!4m4!3m3!1s0x357ca3000a38799d:0x763f459baf4fef76!16s%2Fg%2F11ltp_m8v5!20s8Q99G259%2BRQR35QF?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D",
+        "count": 6
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "Rated 4.9 across 33 Kakao reviews; visitors describe a cozy, quiet, healing rooftop mood, popular for dates.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Google",
+        "text": "Rated 4.5 from 6 Google reviews.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "perPersonKRW": [
+        4000,
+        9000
+      ],
+      "note": "Americano ₩3,500; café latte ₩4,500; vanilla latte ₩4,700; hazelnut mocha ₩4,800"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "closed",
+        "tue": "11:00-21:00",
+        "wed": "11:00-21:00",
+        "thu": "11:00-21:00",
+        "fri": "11:00-21:00",
+        "sat": "11:00-21:00",
+        "sun": "11:00-21:00"
+      }
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "closed",
+      "2026-09-25": "closed",
+      "2026-09-26": "closed",
+      "2026-09-27": "open",
+      "2026-09-28": "closed",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "closed",
+      "note": "Venue notice states closed for the Chuseok holiday (\"추석연휴 휴무\"); regular Monday closure also applies to 28 Sep.",
+      "verified": true,
+      "source": "https://place.map.kakao.com/1513626328"
+    },
+    "location": {
+      "address": "13 Juheung 16-gil, Seocho-gu, Seoul (Dungji Bldg, 1F)",
+      "addressKo": "서울 서초구 주흥16길 13 둥지빌딩 1층",
+      "district": "Seocho-gu",
+      "neighborhood": "Banpo / Nonhyeon border",
+      "lat": 37.5095521,
+      "lng": 127.0194804,
+      "nearestStation": {
+        "name": "Nonhyeon",
+        "nameKo": "논현역",
+        "lines": [
+          "7",
+          "SB"
+        ],
+        "exit": "Exit 5",
+        "walkMin": 5
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%EB%91%A5%EC%A7%80",
+      "kakaoMap": "https://place.map.kakao.com/1513626328",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EB%91%A5%EC%A7%80%20%EC%84%9C%EC%9A%B8%20%EC%84%9C%EC%B4%88%EA%B5%AC%20%EC%A3%BC%ED%9D%A516%EA%B8%B8%2013%20%EB%91%A5%EC%A7%80%EB%B9%8C%EB%94%A9%201%EC%B8%B5",
+      "phone": "+82-70-8845-7548"
+    },
+    "images": [
+      {
+        "url": "https://t1.kakaocdn.net/mystore/5332691C8CC44AB38E6CF01551D6A8DE",
+        "source": "https://place.map.kakao.com/1513626328",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Dungji — main view"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/01346A4C4AD84127B9721E91EC035B07",
+        "source": "https://place.map.kakao.com/1513626328",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Dungji photo 2"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/3FA4E9F926BB46B8B8F17BAD286A8AA4",
+        "source": "https://place.map.kakao.com/1513626328",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Dungji photo 3"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/A73A14DDD5B447D8BC9802B68CDAE2AE",
+        "source": "https://place.map.kakao.com/1513626328",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Dungji photo 4"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/deb88b20eaf4e316c27249ec0c82d5f39964ec04?original",
+        "source": "https://place.map.kakao.com/1513626328",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Dungji photo 5"
+      }
+    ],
+    "duration": "1-1.5 h",
+    "bestTime": "Afternoon",
+    "goodFor": [
+      "Family of 5",
+      "Parents",
+      "Relaxing",
+      "Rainy day"
+    ],
+    "sources": [
+      "https://place.map.kakao.com/1513626328",
+      "https://www.google.com/maps/place/%EB%91%A5%EC%A7%80%EC%BB%A4%ED%94%BCdoongzi/data=!3m1!4b1!4m4!3m3!1s0x357ca3000a38799d:0x763f459baf4fef76!16s%2Fg%2F11ltp_m8v5!20s8Q99G259%2BRQR35QF?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "pino-seocho",
+    "name": "Pino",
+    "nameKo": "피노",
+    "category": "cafe",
+    "subcategory": "Café & dessert",
+    "cuisine": [
+      "Coffee",
+      "Dessert"
+    ],
+    "tags": [
+      "instagrammable",
+      "parent-friendly"
+    ],
+    "vibes": [
+      "cozy",
+      "retro"
+    ],
+    "summary": "A vintage-toned dessert café near Sinnonhyeon with financiers and a well-loved Basque cheesecake.",
+    "description": "A warmly lit, slightly vintage café near Sinnonhyeon Station in Seocho, popular for its financiers, croffles and Basque burnt cheesecake. The mood is soft and conversational — dim lamps, a board-game shelf, pet-friendly seating — making it a comfortable, unhurried stop for coffee and cake rather than a queue-out-the-door spot.",
+    "highlights": [
+      "Basque burnt cheesecake",
+      "Classic croffle",
+      "Forest latte (숲라떼)",
+      "Pet-friendly seating"
+    ],
+    "tips": [
+      "Closed on Chuseok day (25 Sep 2026) per venue notice.",
+      "A 4-min walk from Sinnonhyeon Station Exit 1.",
+      "Board games available for a lazy afternoon."
+    ],
+    "badges": {
+      "localFavorite": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.1,
+        "count": 40,
+        "url": "https://place.map.kakao.com/1841263441"
+      },
+      "google": {
+        "score": 4.5,
+        "url": "https://www.google.com/maps/place/%ED%94%BC%EB%85%B8/data=!3m1!4b1!4m4!3m3!1s0x357ca3e48145df37:0x8e631ef82ff105ef!16s%2Fg%2F11sc4403rl!20s8Q99G24F%2B93G2CXC?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D",
+        "count": 11
+      }
+    },
+    "reviews": [
+      {
+        "source": "Google",
+        "text": "Rated 4.5 from 11 Google reviews.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "Visitors describe a cozy, calm mood with soft lighting, good for chatting over coffee and cake.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "perPersonKRW": [
+        6000,
+        13000
+      ],
+      "note": "Forest latte ₩6,000; classic croffle ₩6,500; Basque cheesecake ₩6,500; strawberry latte ₩6,500"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "11:00-22:00",
+        "tue": "11:00-22:00",
+        "wed": "11:00-22:00",
+        "thu": "11:00-22:00",
+        "fri": "11:00-22:00",
+        "sat": "11:00-22:00",
+        "sun": "11:00-22:00"
+      },
+      "note": "Hours approximate; venue posts a \"closed today\" style status that suggests one closed weekday — check Instagram."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "closed",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "partial",
+      "note": "Venue notice states closed on Chuseok day itself (\"추석당일 휴무\"); likely open 24 & 26 Sep.",
+      "verified": true,
+      "source": "https://place.map.kakao.com/1841263441"
+    },
+    "location": {
+      "address": "39-1 Sapyeong-daero 57-gil, Seocho-gu, Seoul (1F)",
+      "addressKo": "서울 서초구 사평대로57길 39-1 1층",
+      "district": "Seocho-gu",
+      "neighborhood": "Sinnonhyeon",
+      "lat": 37.5053143,
+      "lng": 127.0231185,
+      "nearestStation": {
+        "name": "Sinnonhyeon",
+        "nameKo": "신논현역",
+        "lines": [
+          "9",
+          "SB"
+        ],
+        "exit": "Exit 1",
+        "walkMin": 4
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%ED%94%BC%EB%85%B8",
+      "kakaoMap": "https://place.map.kakao.com/1841263441",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%ED%94%BC%EB%85%B8%20%EC%84%9C%EC%9A%B8%20%EC%84%9C%EC%B4%88%EA%B5%AC%20%EC%82%AC%ED%8F%89%EB%8C%80%EB%A1%9C57%EA%B8%B8%2039-1%201%EC%B8%B5",
+      "phone": "+82-507-0177-1994"
+    },
+    "images": [
+      {
+        "url": "https://t1.kakaocdn.net/mystore/94EDDAE3758343D9BCBC26D90BC74898",
+        "source": "https://place.map.kakao.com/1841263441",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Pino — main view"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/1DEFABE9BB504F9D885409F318EE2EC8",
+        "source": "https://place.map.kakao.com/1841263441",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Pino photo 2"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/FF78009F5CFC44A4BEB5D71E09DE86BD",
+        "source": "https://place.map.kakao.com/1841263441",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Pino photo 3"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/109AF6A21D5E4654BD87A5D855EA1C6E",
+        "source": "https://place.map.kakao.com/1841263441",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Pino photo 4"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/466C36AB4E084447A94909E555FFE9DD",
+        "source": "https://place.map.kakao.com/1841263441",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Pino photo 5"
+      }
+    ],
+    "duration": "1-1.5 h",
+    "bestTime": "Afternoon",
+    "goodFor": [
+      "Family of 5",
+      "Parents",
+      "Relaxing",
+      "Rainy day"
+    ],
+    "sources": [
+      "https://place.map.kakao.com/1841263441",
+      "https://www.google.com/maps/place/%ED%94%BC%EB%85%B8/data=!3m1!4b1!4m4!3m3!1s0x357ca3e48145df37:0x8e631ef82ff105ef!16s%2Fg%2F11sc4403rl!20s8Q99G24F%2B93G2CXC?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "tteolstyent-jamsil",
+    "name": "Thirsty Ant",
+    "nameKo": "떨스티앤트",
+    "category": "cafe",
+    "subcategory": "Rooftop dessert café",
+    "cuisine": [
+      "Dessert",
+      "Coffee"
+    ],
+    "tags": [
+      "rooftop",
+      "view",
+      "outdoor",
+      "instagrammable",
+      "parent-friendly"
+    ],
+    "vibes": [
+      "view",
+      "rooftop",
+      "quiet"
+    ],
+    "summary": "A no-kids rooftop café in Songridan-gil with a Lotte World Tower view over soft-serve monaka and iced tea.",
+    "description": "On the 9th floor of an office building in Jamsil's Songridan-gil, Thirsty Ant is a quiet, adults-oriented rooftop café that frames a close-up view of Lotte World Tower. It skews calmer and more scenic than the neighborhood's cafe-cluster crowd, with soft-serve monaka, iced fruit teas and terrace seating — a nice, unhurried stop before or after Lotte World / Seoul Sky.",
+    "highlights": [
+      "Lotte World Tower rooftop view",
+      "Ice cream monaka",
+      "Signature \"Thirsty Ant\" salty/sweet iced drinks",
+      "Terrace seating (no-kids-zone)"
+    ],
+    "tips": [
+      "No-kids-zone — best for the adults in the group to enjoy the view without little ones.",
+      "Open during the Chuseok holiday per venue notice — a reliable pick on 24–26 Sep.",
+      "A 5-min walk from Seokchon Station Exit 1."
+    ],
+    "badges": {
+      "localFavorite": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.6,
+        "count": 30,
+        "url": "https://place.map.kakao.com/1276610364"
+      },
+      "google": {
+        "score": 4.9,
+        "url": "https://www.google.com/maps/place/Thirsty+Ant/data=!3m1!4b1!4m4!3m3!1s0x357ca55233bcf565:0xda8cd7e5f27e5c86!16s%2Fg%2F11vkpdjtrg!20s8Q99G445%2BH365V95?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D",
+        "count": 14
+      }
+    },
+    "reviews": [
+      {
+        "source": "Google",
+        "text": "Rated 4.9 from 14 Google reviews.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "Rated 4.6 across 30 Kakao reviews; visitors describe a quiet, healing rooftop atmosphere with the Lotte Tower view as the highlight.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "perPersonKRW": [
+        6000,
+        12000
+      ],
+      "note": "Thirsty Ant Salty / Sweet drinks ₩7,900 each; ice cream monaka ₩6,000; Americano ₩5,900"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "11:00-21:00",
+        "tue": "11:00-21:00",
+        "wed": "11:00-21:00",
+        "thu": "11:00-21:00",
+        "fri": "11:00-21:00",
+        "sat": "11:00-21:00",
+        "sun": "11:00-21:00"
+      }
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "Venue notice explicitly states it operates through the Chuseok holiday (\"추석 연휴 영업\").",
+      "verified": true,
+      "source": "https://place.map.kakao.com/1276610364"
+    },
+    "location": {
+      "address": "7-15 Baekjegobun-ro 41-gil, Songpa-gu, Seoul (Good People Office Bldg, 9F)",
+      "addressKo": "서울 송파구 백제고분로41길 7-15 굿피플오피스 9층",
+      "district": "Songpa-gu",
+      "neighborhood": "Jamsil (Songridan-gil)",
+      "lat": 37.5080377,
+      "lng": 127.107148,
+      "nearestStation": {
+        "name": "Seokchon",
+        "nameKo": "석촌역",
+        "lines": [
+          "8"
+        ],
+        "exit": "Exit 1",
+        "walkMin": 5
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%EB%96%A8%EC%8A%A4%ED%8B%B0%EC%95%A4%ED%8A%B8",
+      "kakaoMap": "https://place.map.kakao.com/1276610364",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EB%96%A8%EC%8A%A4%ED%8B%B0%EC%95%A4%ED%8A%B8%20%EC%84%9C%EC%9A%B8%20%EC%86%A1%ED%8C%8C%EA%B5%AC%20%EB%B0%B1%EC%A0%9C%EA%B3%A0%EB%B6%84%EB%A1%9C41%EA%B8%B8%207-15%20%EA%B5%BF%ED%94%BC%ED%94%8C%EC%98%A4%ED%94%BC%EC%8A%A4%209%EC%B8%B5",
+      "phone": "+82-502-5550-0623"
+    },
+    "images": [
+      {
+        "url": "https://t1.kakaocdn.net/mystore/CA3CBC50EF3346CF86DF1FE40FB7F206",
+        "source": "https://place.map.kakao.com/1276610364",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Thirsty Ant — main view"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/8529A84EA0E74E10BDB9C9F98308735A",
+        "source": "https://place.map.kakao.com/1276610364",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Thirsty Ant photo 2"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/506FA4199464486F961109573AC6B693",
+        "source": "https://place.map.kakao.com/1276610364",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Thirsty Ant photo 3"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/2040B2A3521D46468F2540C10EDA0DFE",
+        "source": "https://place.map.kakao.com/1276610364",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Thirsty Ant photo 4"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/A1519143A23340E8A4D0C6A132E50EC7",
+        "source": "https://place.map.kakao.com/1276610364",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Thirsty Ant photo 5"
+      }
+    ],
+    "duration": "1-1.5 h",
+    "bestTime": "Late afternoon for the tower view",
+    "goodFor": [
+      "Family of 5",
+      "Parents",
+      "Relaxing",
+      "Rainy day"
+    ],
+    "sources": [
+      "https://place.map.kakao.com/1276610364",
+      "https://www.google.com/maps/place/Thirsty+Ant/data=!3m1!4b1!4m4!3m3!1s0x357ca55233bcf565:0xda8cd7e5f27e5c86!16s%2Fg%2F11vkpdjtrg!20s8Q99G445%2BH365V95?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "flingk-apgujeong",
+    "name": "Flingk",
+    "nameKo": "플링크 압구정점",
+    "category": "cafe",
+    "subcategory": "Bakery café",
+    "cuisine": [
+      "Bakery",
+      "Coffee"
+    ],
+    "tags": [
+      "instagrammable",
+      "parent-friendly"
+    ],
+    "vibes": [
+      "minimal",
+      "trendy"
+    ],
+    "summary": "A modern, spacious bakery café near Apgujeong Rodeo famous for butter-rich croissants.",
+    "description": "A modern, uncluttered bakery café off Apgujeong Rodeo, known locally for its butter-forward croissants and hand-drip coffee program. The room reads bright, open and design-forward, with reviewers noting a calm, modern mood good for a relaxed coffee break rather than a rushed takeaway.",
+    "highlights": [
+      "Butter croissant",
+      "Hand-drip coffee",
+      "Bright, modern, spacious interior",
+      "Terrace seating"
+    ],
+    "tips": [
+      "Closed on Chuseok day (25 Sep 2026) per venue notice.",
+      "A 6-min walk from Apgujeong Station Exit 1.",
+      "Croissants sell out by afternoon on busy days — go earlier."
+    ],
+    "badges": {
+      "localFavorite": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.2,
+        "count": 64,
+        "url": "https://place.map.kakao.com/63830056"
+      },
+      "google": {
+        "score": 4.9,
+        "url": "https://www.google.com/maps/place/%ED%94%8C%EB%A7%81%ED%81%AC+%EC%95%95%EA%B5%AC%EC%A0%95+Flink+Apgujung/data=!3m1!4b1!4m4!3m3!1s0x357ca3fe95b2c9c5:0xa96adb87e9c3b1c9!16s%2Fg%2F11rgbykf1w!20s8Q99G2HJ%2B3MWJPXG?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Google",
+        "text": "Rated 4.9 from Google reviewers.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "Reviewers describe a spacious, modern, calm mood with buttery, sweet pastries, good for friends, family or a solo coffee.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "perPersonKRW": [
+        6000,
+        12000
+      ],
+      "note": "Coffee from ₩6,000; hand-drip coffee ₩6,500 (+₩500 iced)"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "08:00-21:00",
+        "tue": "08:00-21:00",
+        "wed": "08:00-21:00",
+        "thu": "08:00-21:00",
+        "fri": "08:00-21:00",
+        "sat": "08:00-21:00",
+        "sun": "08:00-21:00"
+      }
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "closed",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "partial",
+      "note": "Venue notice states closed on Chuseok day itself (\"추석 당일 휴무\"); likely open 24 & 26 Sep.",
+      "verified": true,
+      "source": "https://place.map.kakao.com/63830056"
+    },
+    "location": {
+      "address": "23 Eonju-ro 173-gil, Gangnam-gu, Seoul (1F)",
+      "addressKo": "서울 강남구 언주로173길 23 1층",
+      "district": "Gangnam-gu",
+      "neighborhood": "Apgujeong",
+      "lat": 37.5279241,
+      "lng": 127.0316511,
+      "nearestStation": {
+        "name": "Apgujeong",
+        "nameKo": "압구정역",
+        "lines": [
+          "3"
+        ],
+        "exit": "Exit 1",
+        "walkMin": 6
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%ED%94%8C%EB%A7%81%ED%81%AC%20%EC%95%95%EA%B5%AC%EC%A0%95%EC%A0%90",
+      "kakaoMap": "https://place.map.kakao.com/63830056",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%ED%94%8C%EB%A7%81%ED%81%AC%20%EC%95%95%EA%B5%AC%EC%A0%95%EC%A0%90%20%EC%84%9C%EC%9A%B8%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EC%96%B8%EC%A3%BC%EB%A1%9C173%EA%B8%B8%2023%201%EC%B8%B5",
+      "phone": "+82-2-540-0301"
+    },
+    "images": [
+      {
+        "url": "https://t1.kakaocdn.net/mystore/15FFCB883C5340BD9684E2BE5B2A6A35",
+        "source": "https://place.map.kakao.com/63830056",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Flingk — main view"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/16EAC266C21A45EF90ACA4DCAC1A7B6A",
+        "source": "https://place.map.kakao.com/63830056",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Flingk photo 2"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/DF216EBDE2A24182A85EB6AF0DD10171",
+        "source": "https://place.map.kakao.com/63830056",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Flingk photo 3"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/B88AFDA41C244711930CF6818D281726",
+        "source": "https://place.map.kakao.com/63830056",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Flingk photo 4"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/DE55E2DC6D864535A17B3593587A7A42",
+        "source": "https://place.map.kakao.com/63830056",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Flingk photo 5"
+      }
+    ],
+    "duration": "45 min - 1 h",
+    "bestTime": "Morning",
+    "goodFor": [
+      "Family of 5",
+      "Parents",
+      "Relaxing",
+      "Rainy day"
+    ],
+    "sources": [
+      "https://place.map.kakao.com/63830056",
+      "https://www.google.com/maps/place/%ED%94%8C%EB%A7%81%ED%81%AC+%EC%95%95%EA%B5%AC%EC%A0%95+Flink+Apgujung/data=!3m1!4b1!4m4!3m3!1s0x357ca3fe95b2c9c5:0xa96adb87e9c3b1c9!16s%2Fg%2F11rgbykf1w!20s8Q99G2HJ%2B3MWJPXG?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "selected-nicks-gangnam",
+    "name": "Selected Nick's",
+    "nameKo": "셀렉티드닉스",
+    "category": "cafe",
+    "subcategory": "Large multi-floor café",
+    "cuisine": [
+      "Dessert",
+      "Coffee"
+    ],
+    "tags": [
+      "instagrammable",
+      "rooftop",
+      "group-friendly",
+      "late-night",
+      "parent-friendly",
+      "kid-friendly"
+    ],
+    "vibes": [
+      "design",
+      "lively",
+      "trendy"
+    ],
+    "summary": "A sprawling multi-floor café steps from Gangnam Station, each level styled differently, with a rooftop terrace.",
+    "description": "One of Gangnam's best-known large-format cafés, Selected Nick's occupies a basement-through-8th-floor building right outside Gangnam Station, with each level designed around a different theme — gallery-like art walls, a plant-filled floor, a rooftop terrace with skyline views. It's open late as a study/hangout café, and the tiramisu selection (several flavors) is the house signature. Easy for a group of 5 to spread out and find a table even at different times.",
+    "highlights": [
+      "Multi-flavor tiramisu (pistachio, classic, banana)",
+      "Rooftop terrace with city views",
+      "Gallery- and plant-themed floors",
+      "Late-night café hours"
+    ],
+    "tips": [
+      "Extremely central — literally at Gangnam Station Exit 4, easiest big-cafe stop after dinner.",
+      "Go up to the rooftop floor for the best view; lower floors get crowded.",
+      "Popular with students studying late — expect a lively, buzzy room."
+    ],
+    "badges": {
+      "localFavorite": true,
+      "familyFriendly": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.1,
+        "count": 324,
+        "url": "https://place.map.kakao.com/1466542951"
+      },
+      "google": {
+        "score": 4.9,
+        "url": "https://www.google.com/maps/place/%EC%85%80%EB%A0%89%ED%8B%B0%EB%93%9C%EB%8B%89%EC%8A%A4+(Selected+Nick's)+%EA%B0%95%EB%82%A8%EC%97%AD%EC%A0%90+%5B%E3%82%BB%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%89%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9%5D%EF%BD%9C%E9%9F%93%E5%9B%BD%E3%82%AB%E3%83%95%E3%82%A7+%7C+%E6%B1%9F%E5%8D%97%E9%A7%85%E3%82%AB%E3%83%95%E3%82%A7/data=!3m1!4b1!4m4!3m3!1s0x357ca12e31aaa053:0xeb409b8dd099d9a0!16s%2Fg%2F11vzs25q7v!20s8Q99F2WJ%2BF8HQFMC?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D",
+        "count": 1668
+      }
+    },
+    "reviews": [
+      {
+        "source": "Google",
+        "text": "Rated 4.9 from 1,668 Google reviews.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "Visitors describe a spacious, relaxed mood with a rooftop view, good for dates, studying and enjoying dessert with friends.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "perPersonKRW": [
+        8000,
+        15000
+      ],
+      "note": "Tiramisu (pistachio) ₩8,800; tiramisu (classic/banana/choco-banana) ₩7,800 each; coffee from ~₩6,000"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "08:00-24:00",
+        "tue": "08:00-24:00",
+        "wed": "08:00-24:00",
+        "thu": "08:00-24:00",
+        "fri": "08:00-24:00",
+        "sat": "08:00-24:00",
+        "sun": "08:00-24:00"
+      },
+      "note": "Tagged as a late-night café (\"심야카페\"); exact closing time may run later on weekends."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found; large café chains often stay open — call ahead for 24–26 Sep.",
+      "verified": false
+    },
+    "location": {
+      "address": "37 Teheran-ro 4-gil, Gangnam-gu, Seoul (B1, 1F-3F, 8F)",
+      "addressKo": "서울 강남구 테헤란로4길 37 지하1층,1-3,8층",
+      "district": "Gangnam-gu",
+      "neighborhood": "Gangnam Station",
+      "lat": 37.4968409,
+      "lng": 127.0302269,
+      "nearestStation": {
+        "name": "Gangnam",
+        "nameKo": "강남역",
+        "lines": [
+          "2",
+          "SB"
+        ],
+        "exit": "Exit 4",
+        "walkMin": 3
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%EC%85%80%EB%A0%89%ED%8B%B0%EB%93%9C%EB%8B%89%EC%8A%A4",
+      "kakaoMap": "https://place.map.kakao.com/1466542951",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EC%85%80%EB%A0%89%ED%8B%B0%EB%93%9C%EB%8B%89%EC%8A%A4%20%EC%84%9C%EC%9A%B8%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%ED%85%8C%ED%97%A4%EB%9E%80%EB%A1%9C4%EA%B8%B8%2037%20%EC%A7%80%ED%95%981%EC%B8%B5%2C1-3%2C8%EC%B8%B5",
+      "phone": "+82-70-5176-7947"
+    },
+    "images": [
+      {
+        "url": "https://t1.kakaocdn.net/local/kakaomapPhoto/review/ab36d7583eabba41c8d4ab573227f5d2936ec78a?original",
+        "source": "https://place.map.kakao.com/1466542951",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Selected Nick's — main view"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/local/kakaomapPhoto/review/94a2134281855fb945f96c1172506105e2bd1bb6?original",
+        "source": "https://place.map.kakao.com/1466542951",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Selected Nick's photo 2"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/local/kakaomapPhoto/review/5f4a1c91984c4863647414048db35f4ed56d9539?original",
+        "source": "https://place.map.kakao.com/1466542951",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Selected Nick's photo 3"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/local/kakaomapPhoto/review/a3b353c2fc86a0bd30fe3d13666f080bbb04fe45?original",
+        "source": "https://place.map.kakao.com/1466542951",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Selected Nick's photo 4"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/local/kakaomapPhoto/review/80fb24eb0292fa67778fc2a8515216b6568d17fe?original",
+        "source": "https://place.map.kakao.com/1466542951",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Selected Nick's photo 5"
+      }
+    ],
+    "duration": "1-1.5 h",
+    "bestTime": "Late afternoon on the rooftop floor",
+    "goodFor": [
+      "Family of 5",
+      "Parents",
+      "Relaxing",
+      "Rainy day"
+    ],
+    "sources": [
+      "https://place.map.kakao.com/1466542951",
+      "https://www.google.com/maps/place/%EC%85%80%EB%A0%89%ED%8B%B0%EB%93%9C%EB%8B%89%EC%8A%A4+(Selected+Nick's)+%EA%B0%95%EB%82%A8%EC%97%AD%EC%A0%90+%5B%E3%82%BB%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%89%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9%5D%EF%BD%9C%E9%9F%93%E5%9B%BD%E3%82%AB%E3%83%95%E3%82%A7+%7C+%E6%B1%9F%E5%8D%97%E9%A7%85%E3%82%AB%E3%83%95%E3%82%A7/data=!3m1!4b1!4m4!3m3!1s0x357ca12e31aaa053:0xeb409b8dd099d9a0!16s%2Fg%2F11vzs25q7v!20s8Q99F2WJ%2BF8HQFMC?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "standard-bread-dosan",
+    "name": "Standard Bread Dosan",
+    "nameKo": "스탠다드브레드 도산",
+    "category": "cafe",
+    "subcategory": "Bakery café",
+    "cuisine": [
+      "Bakery",
+      "Brunch",
+      "Coffee"
+    ],
+    "tags": [
+      "instagrammable",
+      "group-friendly",
+      "parent-friendly"
+    ],
+    "vibes": [
+      "design",
+      "trendy"
+    ],
+    "summary": "A four-floor European-style bakery café near Dosan Park, famous for cream-brûlée French toast.",
+    "description": "A big, design-forward bakery café spanning four floors near Dosan Park, with a European-bistro look — arched windows, warm wood, a real terrace. It's one of Apgujeong/Sinsa's most talked-about brunch-and-bakery stops, built for a leisurely brunch or afternoon coffee with room to spread out as a group.",
+    "highlights": [
+      "Crème brûlée French toast",
+      "Fresh-baked bread and pastry counter",
+      "Terrace seating",
+      "Four floors of seating"
+    ],
+    "tips": [
+      "Very popular — go before noon on weekends to skip the wait.",
+      "A 6-min walk from Apgujeong Rodeo Station Exit 5.",
+      "Good for a relaxed family brunch before an afternoon in Apgujeong."
+    ],
+    "badges": {
+      "localFavorite": true,
+      "familyFriendly": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.1,
+        "count": 92,
+        "url": "https://place.map.kakao.com/1147953240"
+      },
+      "google": {
+        "score": 4.9,
+        "url": "https://www.google.com/maps/place/%EC%8A%A4%ED%83%A0%EB%8B%A4%EB%93%9C%EB%B8%8C%EB%A0%88%EB%93%9C+%EB%8F%84%EC%82%B0/data=!3m1!4b1!4m4!3m3!1s0x357ca30034911e8d:0xdc8a76fe96feb4cb!16s%2Fg%2F11w4fnj7t9!20s8Q99G2FQ%2BJ86HXW5?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D",
+        "count": 959
+      }
+    },
+    "reviews": [
+      {
+        "source": "Google",
+        "text": "Rated 4.9 from 959 Google reviews.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "Visitors describe a European, spacious, sweet-toned mood, popular for brunch and dates.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 2,
+      "perPersonKRW": [
+        10000,
+        18000
+      ],
+      "note": "Crème brûlée French toast ₩13,000; Earl Grey milk tea ₩6,300; matcha latte ₩7,000; hot chocolate ₩7,000"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "09:00-21:00",
+        "tue": "09:00-21:00",
+        "wed": "09:00-21:00",
+        "thu": "09:00-21:00",
+        "fri": "09:00-21:00",
+        "sat": "09:00-21:00",
+        "sun": "09:00-21:00"
+      }
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found; call ahead for 24–26 Sep.",
+      "verified": false
+    },
+    "location": {
+      "address": "13 Dosan-daero 53-gil, Gangnam-gu, Seoul (1F-4F)",
+      "addressKo": "서울 강남구 도산대로53길 13 1-4층",
+      "district": "Gangnam-gu",
+      "neighborhood": "Apgujeong (Dosan Park)",
+      "lat": 37.5240416,
+      "lng": 127.0382485,
+      "nearestStation": {
+        "name": "Apgujeong Rodeo",
+        "nameKo": "압구정로데오역",
+        "lines": [
+          "SUIN"
+        ],
+        "exit": "Exit 5",
+        "walkMin": 6
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%EC%8A%A4%ED%83%A0%EB%8B%A4%EB%93%9C%EB%B8%8C%EB%A0%88%EB%93%9C%20%EB%8F%84%EC%82%B0",
+      "kakaoMap": "https://place.map.kakao.com/1147953240",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EC%8A%A4%ED%83%A0%EB%8B%A4%EB%93%9C%EB%B8%8C%EB%A0%88%EB%93%9C%20%EB%8F%84%EC%82%B0%20%EC%84%9C%EC%9A%B8%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EB%8F%84%EC%82%B0%EB%8C%80%EB%A1%9C53%EA%B8%B8%2013%201-4%EC%B8%B5"
+    },
+    "images": [
+      {
+        "url": "https://t1.kakaocdn.net/local/kakaomapPhoto/review/bbd81a770bdf3816eac76ec98f7186c29e971ad9?original",
+        "source": "https://place.map.kakao.com/1147953240",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Standard Bread Dosan — main view"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/local/kakaomapPhoto/review/4387a666f1b3da89bc501a0b3e85a158bfd6f86b?original",
+        "source": "https://place.map.kakao.com/1147953240",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Standard Bread Dosan photo 2"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/ace78f93c4de067f0777554ce2e3b1ffcec273d9?original",
+        "source": "https://place.map.kakao.com/1147953240",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Standard Bread Dosan photo 3"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/719b6f2bb4fbcaa39dc57f7de010502913c5b242?original",
+        "source": "https://place.map.kakao.com/1147953240",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Standard Bread Dosan photo 4"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/3901887fda0bab151a748a28fef2be2f5d9965e9?original",
+        "source": "https://place.map.kakao.com/1147953240",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Standard Bread Dosan photo 5"
+      }
+    ],
+    "duration": "1-1.5 h",
+    "bestTime": "Weekday morning",
+    "goodFor": [
+      "Family of 5",
+      "Parents",
+      "Relaxing",
+      "Rainy day"
+    ],
+    "sources": [
+      "https://place.map.kakao.com/1147953240",
+      "https://www.google.com/maps/place/%EC%8A%A4%ED%83%A0%EB%8B%A4%EB%93%9C%EB%B8%8C%EB%A0%88%EB%93%9C+%EB%8F%84%EC%82%B0/data=!3m1!4b1!4m4!3m3!1s0x357ca30034911e8d:0xdc8a76fe96feb4cb!16s%2Fg%2F11w4fnj7t9!20s8Q99G2FQ%2BJ86HXW5?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "cresstaun-apgujeong",
+    "name": "Cresstaun",
+    "nameKo": "크레스타운 압구정점",
+    "category": "cafe",
+    "subcategory": "Bakery café",
+    "cuisine": [
+      "Bakery",
+      "Coffee"
+    ],
+    "tags": [
+      "instagrammable",
+      "parent-friendly"
+    ],
+    "vibes": [
+      "cozy",
+      "trendy"
+    ],
+    "summary": "A calm, pet-friendly Apgujeong Rodeo bakery café known for its aeinspanner (whipped-cream cold brew).",
+    "description": "A relaxed, softly lit bakery café near Apgujeong Rodeo Station with a loyal local following for its aeinspanner (whipped-cream-topped cold brew) and pastries. The interior stays quiet and unhurried, and it opens early, which makes it a good easy breakfast/coffee stop before a day out in Apgujeong.",
+    "highlights": [
+      "Aeinspanner (Vienna-style cold brew)",
+      "Fresh bakery pastries",
+      "Pet-friendly seating",
+      "Terrace seating"
+    ],
+    "tips": [
+      "Opens at 7am — a good early coffee stop.",
+      "A 5-min walk from Apgujeong Rodeo Station Exit 6."
+    ],
+    "badges": {
+      "localFavorite": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.5,
+        "count": 50,
+        "url": "https://place.map.kakao.com/307030782"
+      },
+      "google": {
+        "score": 4.7,
+        "url": "https://www.google.com/maps/place/%ED%81%AC%EB%A0%88%EC%8A%A4%ED%83%80%EC%9A%B4+Crestown+Coffee+Apgujeong+cafe/data=!3m1!4b1!4m4!3m3!1s0x357ca3152f89ca79:0x3b3fc09a3f31109!16s%2Fg%2F11sd8dq7dn!20s8Q99G2HP%2B6P5C422?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D",
+        "count": 86
+      }
+    },
+    "reviews": [
+      {
+        "source": "Google",
+        "text": "Rated 4.7 from 86 Google reviews.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "Visitors describe a cozy, calm, quiet mood, good for chatting over coffee or a light meal.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "perPersonKRW": [
+        6000,
+        12000
+      ],
+      "note": "Aeinspanner ₩5,800; other drinks and pastries similarly priced"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "07:00-22:00",
+        "tue": "07:00-22:00",
+        "wed": "07:00-22:00",
+        "thu": "07:00-22:00",
+        "fri": "07:00-22:00",
+        "sat": "07:00-22:00",
+        "sun": "07:00-22:00"
+      }
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found; call ahead for 24–26 Sep.",
+      "verified": false
+    },
+    "location": {
+      "address": "5-2 Apgujeong-ro 46-gil, Gangnam-gu, Seoul (1F, Units 104-105)",
+      "addressKo": "서울 강남구 압구정로46길 5-2 1층 104, 105호",
+      "district": "Gangnam-gu",
+      "neighborhood": "Apgujeong Rodeo",
+      "lat": 37.525811,
+      "lng": 127.0358969,
+      "nearestStation": {
+        "name": "Apgujeong Rodeo",
+        "nameKo": "압구정로데오역",
+        "lines": [
+          "SUIN"
+        ],
+        "exit": "Exit 6",
+        "walkMin": 5
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%ED%81%AC%EB%A0%88%EC%8A%A4%ED%83%80%EC%9A%B4%20%EC%95%95%EA%B5%AC%EC%A0%95%EC%A0%90",
+      "kakaoMap": "https://place.map.kakao.com/307030782",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%ED%81%AC%EB%A0%88%EC%8A%A4%ED%83%80%EC%9A%B4%20%EC%95%95%EA%B5%AC%EC%A0%95%EC%A0%90%20%EC%84%9C%EC%9A%B8%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EC%95%95%EA%B5%AC%EC%A0%95%EB%A1%9C46%EA%B8%B8%205-2%201%EC%B8%B5%20104%2C%20105%ED%98%B8",
+      "phone": "+82-2-511-3323"
+    },
+    "images": [
+      {
+        "url": "https://t1.kakaocdn.net/mystore/A83CD394200F4CFF86A5629E6860A6ED",
+        "source": "https://place.map.kakao.com/307030782",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Cresstaun — main view"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/AEF9DE2700FB4209B5C41465018414EF",
+        "source": "https://place.map.kakao.com/307030782",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Cresstaun photo 2"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/74E02591757949B2B5B250B79D1FD4AF",
+        "source": "https://place.map.kakao.com/307030782",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Cresstaun photo 3"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/69B47E54E45845388926C2938860775A",
+        "source": "https://place.map.kakao.com/307030782",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Cresstaun photo 4"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/FD70466F847849208281E9EF8EA2729B",
+        "source": "https://place.map.kakao.com/307030782",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Cresstaun photo 5"
+      }
+    ],
+    "duration": "45 min - 1 h",
+    "bestTime": "Morning",
+    "goodFor": [
+      "Family of 5",
+      "Parents",
+      "Relaxing",
+      "Rainy day"
+    ],
+    "sources": [
+      "https://place.map.kakao.com/307030782",
+      "https://www.google.com/maps/place/%ED%81%AC%EB%A0%88%EC%8A%A4%ED%83%80%EC%9A%B4+Crestown+Coffee+Apgujeong+cafe/data=!3m1!4b1!4m4!3m3!1s0x357ca3152f89ca79:0x3b3fc09a3f31109!16s%2Fg%2F11sd8dq7dn!20s8Q99G2HP%2B6P5C422?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "hanip-bagel-seongsu",
+    "name": "Hanip Bagel",
+    "nameKo": "한입베이글",
+    "category": "cafe",
+    "subcategory": "Bakery café (bagels)",
+    "cuisine": [
+      "Bakery",
+      "Coffee"
+    ],
+    "tags": [
+      "instagrammable",
+      "value",
+      "outdoor",
+      "parent-friendly"
+    ],
+    "vibes": [
+      "cozy",
+      "trendy"
+    ],
+    "summary": "Bite-sized artisan bagels and a garden patio near Seoul Forest — a Seongsu bakery favorite.",
+    "description": "A clean, bright bagel bakery near Seoul Forest known for its \"one-bite\" mini bagels in flavors like salt, jambon-beurre and honey cream cheese — an easy way to sample several flavors without committing to one full-size bagel. There's an outdoor garden patio, making it a pleasant stop for a light bite on the way to or from Seoul Forest park.",
+    "highlights": [
+      "One-bite mini bagels (salt, jambon-beurre, honey cream cheese, corn cream cheese)",
+      "Garden patio seating",
+      "Good picnic-grab before Seoul Forest"
+    ],
+    "tips": [
+      "A 5-min walk from Seoul Forest Station Exit 2.",
+      "Bagels are small — order a few flavors to share.",
+      "Good combined with a walk in Seoul Forest park nearby."
+    ],
+    "badges": {
+      "valueForMoney": true,
+      "localFavorite": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.5,
+        "count": 144,
+        "url": "https://place.map.kakao.com/1830377088"
+      },
+      "google": {
+        "score": 4.7,
+        "url": "https://www.google.com/maps/place/%ED%95%9C%EC%9E%85%EB%B2%A0%EC%9D%B4%EA%B8%80+%EC%84%B1%EC%88%98%EC%A0%90/data=!3m1!4b1!4m4!3m3!1s0x357ca5d23d06dbcb:0xb19df7b936465daf!16s%2Fg%2F11vzq8q0kq!20s8Q99G2RW%2BHF5QJFF?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D",
+        "count": 95
+      }
+    },
+    "reviews": [
+      {
+        "source": "Google",
+        "text": "Rated 4.7 from 95 Google reviews.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "Visitors describe a clean, warm, cute mood, good for a picnic bite, brunch or a date.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "perPersonKRW": [
+        4000,
+        9000
+      ],
+      "note": "Salt mini bagel ₩1,800; jambon-beurre mini bagel ₩3,500; honey cream cheese ₩2,500; corn cream cheese ₩2,500"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "10:00-20:00",
+        "tue": "10:00-20:00",
+        "wed": "10:00-20:00",
+        "thu": "10:00-20:00",
+        "fri": "10:00-20:00",
+        "sat": "10:00-20:00",
+        "sun": "10:00-20:00"
+      }
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found; call ahead for 24–26 Sep.",
+      "verified": false
+    },
+    "location": {
+      "address": "317 Ttukseom-ro, Seongdong-gu, Seoul (1F)",
+      "addressKo": "서울 성동구 뚝섬로 317 1층",
+      "district": "Seongdong-gu",
+      "neighborhood": "Seongsu (Seoul Forest)",
+      "lat": 37.5421253,
+      "lng": 127.0427207,
+      "nearestStation": {
+        "name": "Seoul Forest",
+        "nameKo": "서울숲역",
+        "lines": [
+          "SUIN"
+        ],
+        "exit": "Exit 2",
+        "walkMin": 5
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%ED%95%9C%EC%9E%85%EB%B2%A0%EC%9D%B4%EA%B8%80",
+      "kakaoMap": "https://place.map.kakao.com/1830377088",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%ED%95%9C%EC%9E%85%EB%B2%A0%EC%9D%B4%EA%B8%80%20%EC%84%9C%EC%9A%B8%20%EC%84%B1%EB%8F%99%EA%B5%AC%20%EB%9A%9D%EC%84%AC%EB%A1%9C%20317%201%EC%B8%B5",
+      "phone": "+82-507-1327-0124"
+    },
+    "images": [
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/ed480739e0b32ca79743f573263f2f9d404347e9?original",
+        "source": "https://place.map.kakao.com/1830377088",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Hanip Bagel — main view"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/1440a5b5e3ec8472fb38f09816067ceab7956f82?original",
+        "source": "https://place.map.kakao.com/1830377088",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Hanip Bagel photo 2"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/61f48a94fcd15c4b33b75cf92fdbfdecbfe98789?original",
+        "source": "https://place.map.kakao.com/1830377088",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Hanip Bagel photo 3"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/f7b37dc0bc20510088cc01389c779f6d88ce0de5?original",
+        "source": "https://place.map.kakao.com/1830377088",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Hanip Bagel photo 4"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/2cc25df98a686c52527c4531b725c4edcdddb334?original",
+        "source": "https://place.map.kakao.com/1830377088",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Hanip Bagel photo 5"
+      }
+    ],
+    "duration": "30-45 min",
+    "bestTime": "Late morning",
+    "goodFor": [
+      "Family of 5",
+      "Parents",
+      "Relaxing",
+      "Rainy day"
+    ],
+    "sources": [
+      "https://place.map.kakao.com/1830377088",
+      "https://www.google.com/maps/place/%ED%95%9C%EC%9E%85%EB%B2%A0%EC%9D%B4%EA%B8%80+%EC%84%B1%EC%88%98%EC%A0%90/data=!3m1!4b1!4m4!3m3!1s0x357ca5d23d06dbcb:0xb19df7b936465daf!16s%2Fg%2F11vzq8q0kq!20s8Q99G2RW%2BHF5QJFF?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "cafe-comma-yeouido",
+    "name": "Cafe Comma Yeouido",
+    "nameKo": "카페꼼마 여의도신영증권점",
+    "category": "cafe",
+    "subcategory": "Large library-style café",
+    "cuisine": [
+      "Coffee",
+      "Tea"
+    ],
+    "tags": [
+      "instagrammable",
+      "group-friendly",
+      "outdoor",
+      "parent-friendly"
+    ],
+    "vibes": [
+      "design",
+      "quiet",
+      "minimal"
+    ],
+    "summary": "A sunlit, library-styled café chain outpost in Yeouido's financial district, good for a calm coffee break.",
+    "description": "Cafe Comma's Yeouido branch fills a bright, book-lined space in the financial district with tall windows and a terrace, part of a well-regarded Seoul café chain built around a quiet, \"reading room\" mood. It's a comfortable stop for a relaxed coffee between sights on the Yeouido side of the river — big enough for a family of 5 to find a table.",
+    "highlights": [
+      "Black sesame cream latte",
+      "Roasted pumpkin latte",
+      "Library-style seating with tall windows",
+      "Terrace seating"
+    ],
+    "tips": [
+      "Closed on Chuseok day (25 Sep 2026) per venue notice.",
+      "A 9-min walk from Saetgang Station Exit 1.",
+      "Good pairing with a walk along the Yeouido riverside park."
+    ],
+    "badges": {
+      "familyFriendly": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.3,
+        "count": 196,
+        "url": "https://place.map.kakao.com/645966224"
+      },
+      "google": {
+        "score": 4.6,
+        "url": "https://www.google.com/maps/place/%EC%B9%B4%ED%8E%98%EA%BC%BC%EB%A7%88+%EC%97%AC%EC%9D%98%EB%8F%84%EC%A0%90/data=!3m1!4b1!4m4!3m3!1s0x357c9fea65fe5a8d:0x9b7090f179aa7171!16s%2Fg%2F11q3m4_x_v!20s8Q98GWCH%2BFGGQ5W4?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D",
+        "count": 323
+      }
+    },
+    "reviews": [
+      {
+        "source": "Google",
+        "text": "Rated 4.6 from 323 Google reviews.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "Visitors describe a quiet, cozy, comfortable mood, popular for working or studying over coffee.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "perPersonKRW": [
+        6000,
+        12000
+      ],
+      "note": "Roasted pumpkin tea ₩6,500; roasted pumpkin latte ₩6,800; black sesame cream latte ₩7,000; signature drink ₩7,300"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "10:00-22:00",
+        "tue": "10:00-22:00",
+        "wed": "10:00-22:00",
+        "thu": "10:00-22:00",
+        "fri": "10:00-22:00",
+        "sat": "10:00-22:00",
+        "sun": "10:00-22:00"
+      }
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "closed",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "partial",
+      "note": "Venue notice states closed on Chuseok day itself (\"추석당일 휴무\"); likely open 24 & 26 Sep.",
+      "verified": true,
+      "source": "https://place.map.kakao.com/645966224"
+    },
+    "location": {
+      "address": "16 Gukjegeumyung-ro 8-gil, Yeongdeungpo-gu, Seoul (1F-2F)",
+      "addressKo": "서울 영등포구 국제금융로8길 16 1-2층",
+      "district": "Yeongdeungpo-gu",
+      "neighborhood": "Yeouido",
+      "lat": 37.521182,
+      "lng": 126.9287178,
+      "nearestStation": {
+        "name": "Saetgang",
+        "nameKo": "샛강역",
+        "lines": [
+          "9"
+        ],
+        "exit": "Exit 1",
+        "walkMin": 9
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%EC%B9%B4%ED%8E%98%EA%BC%BC%EB%A7%88%20%EC%97%AC%EC%9D%98%EB%8F%84%EC%8B%A0%EC%98%81%EC%A6%9D%EA%B6%8C%EC%A0%90",
+      "kakaoMap": "https://place.map.kakao.com/645966224",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EC%B9%B4%ED%8E%98%EA%BC%BC%EB%A7%88%20%EC%97%AC%EC%9D%98%EB%8F%84%EC%8B%A0%EC%98%81%EC%A6%9D%EA%B6%8C%EC%A0%90%20%EC%84%9C%EC%9A%B8%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%EA%B5%AD%EC%A0%9C%EA%B8%88%EC%9C%B5%EB%A1%9C8%EA%B8%B8%2016%201-2%EC%B8%B5",
+      "phone": "+82-2-780-1672"
+    },
+    "images": [
+      {
+        "url": "https://t1.kakaocdn.net/mystore/BEE22474E4AE47F0A6F63BEDD2DF6BD3",
+        "source": "https://place.map.kakao.com/645966224",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Cafe Comma Yeouido — main view"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/94E06D9FF0D049EC8F5D40E2881B3451",
+        "source": "https://place.map.kakao.com/645966224",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Cafe Comma Yeouido photo 2"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/4A94C146DCF941F5AD32FCC694B1068E",
+        "source": "https://place.map.kakao.com/645966224",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Cafe Comma Yeouido photo 3"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/E64AB7CB91CA46FC87E64CFA421BD878",
+        "source": "https://place.map.kakao.com/645966224",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Cafe Comma Yeouido photo 4"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/7F63966D90B8475AA6F11872583EE89E",
+        "source": "https://place.map.kakao.com/645966224",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Cafe Comma Yeouido photo 5"
+      }
+    ],
+    "duration": "1-1.5 h",
+    "bestTime": "Afternoon",
+    "goodFor": [
+      "Family of 5",
+      "Parents",
+      "Relaxing",
+      "Rainy day"
+    ],
+    "sources": [
+      "https://place.map.kakao.com/645966224",
+      "https://www.google.com/maps/place/%EC%B9%B4%ED%8E%98%EA%BC%BC%EB%A7%88+%EC%97%AC%EC%9D%98%EB%8F%84%EC%A0%90/data=!3m1!4b1!4m4!3m3!1s0x357c9fea65fe5a8d:0x9b7090f179aa7171!16s%2Fg%2F11q3m4_x_v!20s8Q98GWCH%2BFGGQ5W4?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "maxim-plant-hannam",
+    "name": "Maxim Plant",
+    "nameKo": "맥심플랜트",
+    "category": "cafe",
+    "subcategory": "Large industrial café",
+    "cuisine": [
+      "Coffee"
+    ],
+    "tags": [
+      "instagrammable",
+      "rooftop",
+      "group-friendly",
+      "parent-friendly",
+      "kid-friendly",
+      "design"
+    ],
+    "vibes": [
+      "design",
+      "lively",
+      "minimal"
+    ],
+    "summary": "A cavernous former Maxim coffee facility turned industrial-chic café in Hannam, with its own roastery and a terrace.",
+    "description": "Maxim Plant is one of Seoul's best-known large-format cafés: a multi-level industrial space in Hannam built around Dongsuh/Maxim's coffee heritage, with exposed concrete, greenery, a working roastery and a rooftop terrace. It's huge — basement through three floors — so a family of 5 can always find a table, and the scale itself is part of the appeal.",
+    "highlights": [
+      "On-site coffee roastery",
+      "Multi-floor industrial-chic seating",
+      "Rooftop terrace",
+      "Vanilla latte and espresso flights"
+    ],
+    "tips": [
+      "A 6-min walk from Hangangjin Station Exit 3.",
+      "Huge and popular — arrive off-peak (weekday morning) for easier seating.",
+      "Good combined with a walk around Hannam / Itaewon."
+    ],
+    "badges": {
+      "localFavorite": true,
+      "familyFriendly": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.3,
+        "count": 438,
+        "url": "https://place.map.kakao.com/711864705"
+      },
+      "google": {
+        "score": 4.4,
+        "url": "https://www.google.com/maps/place/%EB%A7%A5%EC%8B%AC%ED%94%8C%EB%9E%9C%ED%8A%B8/data=!3m1!4b1!4m4!3m3!1s0x357ca3518b4dd5fb:0xcf618f2b313f480d!16s%2Fg%2F11f5q0mcll!20s8Q99G2P2%2BQ9PXM85?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D",
+        "count": 1317
+      }
+    },
+    "reviews": [
+      {
+        "source": "Google",
+        "text": "Rated 4.4 from 1,317 Google reviews.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "Visitors describe a spacious, comfortable, stylish mood, good for working, chatting or enjoying dessert with friends and family.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "perPersonKRW": [
+        6000,
+        12000
+      ],
+      "note": "Vanilla latte ₩6,400; flat white ₩5,900; espresso ₩4,900; Americano ₩5,300"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "08:00-22:00",
+        "tue": "08:00-22:00",
+        "wed": "08:00-22:00",
+        "thu": "08:00-22:00",
+        "fri": "08:00-22:00",
+        "sat": "08:00-22:00",
+        "sun": "08:00-22:00"
+      }
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found; large café, likely open — call ahead for 24–26 Sep.",
+      "verified": false
+    },
+    "location": {
+      "address": "250 Itaewon-ro, Yongsan-gu, Seoul (B1-B2, 1F-3F)",
+      "addressKo": "서울 용산구 이태원로 250 지하1-2층, 1-3층",
+      "district": "Yongsan-gu",
+      "neighborhood": "Hannam",
+      "lat": 37.5347044,
+      "lng": 126.9933944,
+      "nearestStation": {
+        "name": "Hangangjin",
+        "nameKo": "한강진역",
+        "lines": [
+          "6"
+        ],
+        "exit": "Exit 3",
+        "walkMin": 6
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%EB%A7%A5%EC%8B%AC%ED%94%8C%EB%9E%9C%ED%8A%B8",
+      "kakaoMap": "https://place.map.kakao.com/711864705",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EB%A7%A5%EC%8B%AC%ED%94%8C%EB%9E%9C%ED%8A%B8%20%EC%84%9C%EC%9A%B8%20%EC%9A%A9%EC%82%B0%EA%B5%AC%20%EC%9D%B4%ED%83%9C%EC%9B%90%EB%A1%9C%20250%20%EC%A7%80%ED%95%981-2%EC%B8%B5%2C%201-3%EC%B8%B5",
+      "phone": "+82-70-4287-8557"
+    },
+    "images": [
+      {
+        "url": "https://t1.kakaocdn.net/fiy_reboot/place/BAB930E8BEAD4F15BA40DF93EEA475AF",
+        "source": "https://place.map.kakao.com/711864705",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Maxim Plant — main view"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/local/kakaomapPhoto/review/786ddbcff66f4508a236c00ca872f44ed0e6f41b?original",
+        "source": "https://place.map.kakao.com/711864705",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Maxim Plant photo 2"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/local/kakaomapPhoto/review/7b266ecac599974469615fb1317969298e391815?original",
+        "source": "https://place.map.kakao.com/711864705",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Maxim Plant photo 3"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/13f1c5a0aa78409bd3336e998ca979f5ff8f4349?original",
+        "source": "https://place.map.kakao.com/711864705",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Maxim Plant photo 4"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/3d7805b7b433524664de02b9f3492933d06e0546?original",
+        "source": "https://place.map.kakao.com/711864705",
+        "credit": "Kakao Map (venue photos)",
+        "alt": "Maxim Plant photo 5"
+      }
+    ],
+    "duration": "1-1.5 h",
+    "bestTime": "Weekday morning",
+    "goodFor": [
+      "Family of 5",
+      "Parents",
+      "Relaxing",
+      "Rainy day"
+    ],
+    "sources": [
+      "https://place.map.kakao.com/711864705",
+      "https://www.google.com/maps/place/%EB%A7%A5%EC%8B%AC%ED%94%8C%EB%9E%9C%ED%8A%B8/data=!3m1!4b1!4m4!3m3!1s0x357ca3518b4dd5fb:0xcf618f2b313f480d!16s%2Fg%2F11f5q0mcll!20s8Q99G2P2%2BQ9PXM85?hl=ko&entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "lastVerified": "2026-09-25"
+  }
+]
