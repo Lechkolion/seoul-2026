@@ -1,0 +1,1898 @@
+[
+  {
+    "id": "amorepacific-museum-of-art",
+    "name": "Amorepacific Museum of Art (APMA)",
+    "nameKo": "아모레퍼시픽미술관",
+    "category": "sight",
+    "subcategory": "Art museum",
+    "tags": [
+      "art",
+      "museum",
+      "free",
+      "design",
+      "instagrammable",
+      "indoor",
+      "parent-friendly",
+      "hidden-gem"
+    ],
+    "vibes": [
+      "futuristic",
+      "minimal",
+      "quiet",
+      "design"
+    ],
+    "summary": "Free museum inside David Chipperfield's monolithic white Amorepacific HQ tower in Yongsan.",
+    "description": "APMA occupies the ground and basement floors of Amorepacific's headquarters, a huge white aluminum-fin monolith with a garden carved through its base. Exhibitions rotate through blue-chip Korean and international artists in a calm, minimal, museum-grade space, and admission is always free. The building also holds apLAP, a two-story public library-lounge, and AMORE YONGSAN, a beauty concept floor. From 1 Sep 2026 the museum shows \"Sol LeWitt: Open Structure\" through Feb 2027, so it's running during the whole trip window.",
+    "highlights": [
+      "David Chipperfield's white monolith facade and sunken garden",
+      "Sol LeWitt: Open Structure exhibition (Sep 2026–Feb 2027)",
+      "apLAP two-story public library lounge",
+      "AMORE YONGSAN beauty concept floor downstairs"
+    ],
+    "tips": [
+      "Closed Mondays and on New Year's Day, Seollal and Chuseok — plan for 27 or 29 Sep instead of the holiday itself.",
+      "Free, no ticket needed for most shows; just walk in via the ground-floor entrance.",
+      "Combine with a walk along the Han River at Yongsan Family Park, a few minutes away.",
+      "The apLAP library floor is a quiet, air-conditioned place to rest even if the art isn't your thing."
+    ],
+    "badges": {
+      "hiddenGem": true,
+      "futuristic": true,
+      "familyFriendly": true,
+      "valueForMoney": true
+    },
+    "ratings": {
+      "google": {
+        "score": 4.6,
+        "count": 1187,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EC%95%84%EB%AA%A8%EB%A0%88%ED%8D%BC%EC%8B%9C%ED%94%BD%EB%AF%B8%EC%88%A0%EA%B4%80%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%9A%A9%EC%82%B0%EA%B5%AC%20%ED%95%9C%EA%B0%95%EB%8C%80%EB%A1%9C%20100"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Press",
+        "text": "Amorepacific Museum of Art offers completely free admission to all exhibitions, unusual among Seoul's major art museums.",
+        "paraphrased": true,
+        "lang": "en",
+        "date": "2026-04",
+        "url": "https://www.apgroup.com/int/en/news/2026-04-07-1.html"
+      },
+      {
+        "source": "Blog",
+        "text": "The building itself — a huge white monolith by David Chipperfield — is as much the attraction as whatever's on the walls inside.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://thesoulofseoul.net/why-i-always-check-what-amorepacific-museum-of-art-is-exhibiting/"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "perPersonKRW": [
+        0,
+        0
+      ],
+      "note": "Free admission to all exhibitions"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "closed",
+        "tue": "10:00-18:00",
+        "wed": "10:00-18:00",
+        "thu": "10:00-18:00",
+        "fri": "10:00-18:00",
+        "sat": "10:00-18:00",
+        "sun": "10:00-18:00"
+      },
+      "note": "Closed Mondays, New Year's Day, Seollal and Chuseok holidays."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "closed",
+      "2026-09-25": "closed",
+      "2026-09-26": "closed",
+      "2026-09-27": "open",
+      "2026-09-28": "closed",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "closed",
+      "note": "Closed 24–26 Sep for the Chuseok holiday (museum policy explicitly closes for Seollal and Chuseok); reopens 27 Sep, then closed again 28 Sep for its regular Monday closure.",
+      "verified": true,
+      "source": "https://www.trip.com/moments/theme/poi-amorepacific-museum-of-art-99592775-attraction-993137/"
+    },
+    "location": {
+      "address": "100 Hangang-daero, Yongsan-gu, Seoul",
+      "addressKo": "서울특별시 용산구 한강대로 100",
+      "district": "Yongsan-gu",
+      "neighborhood": "Yongsan",
+      "lat": 37.5285414,
+      "lng": 126.9684167,
+      "nearestStation": {
+        "name": "Sinyongsan",
+        "nameKo": "신용산역",
+        "lines": [
+          "4"
+        ],
+        "exit": "Exit 2",
+        "walkMin": 6
+      }
+    },
+    "links": {
+      "website": "https://www.apgroup.com/int/en/our-culture/amorepacific-space/amorepacific-headquarters/amorepacific-headquarters.html",
+      "naverMap": "https://map.naver.com/p/search/%EC%95%84%EB%AA%A8%EB%A0%88%ED%8D%BC%EC%8B%9C%ED%94%BD%EB%AF%B8%EC%88%A0%EA%B4%80",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Amorepacific+Museum+of+Art+Seoul"
+    },
+    "images": [
+      {
+        "url": "https://www.apgroup.com/int/en/news/__icsFiles/afieldfile/2026/04/07/04071_1.jpg",
+        "source": "https://www.apgroup.com/int/en/news/2026-04-07-1.html",
+        "credit": "Amorepacific Group",
+        "alt": "APMA exhibition chapter five installation view"
+      },
+      {
+        "url": "https://stories.amorepacific.com/en/wp-content/uploads/sites/2/2026/09/THUM-500X329-2026.jpg",
+        "source": "https://stories.amorepacific.com/en/amorepacific-museum-of-art-presents-sol-lewitt-open-structure/",
+        "credit": "Amorepacific Stories",
+        "alt": "Sol LeWitt: Open Structure exhibition thumbnail"
+      },
+      {
+        "url": "https://stories.amorepacific.com/wp-content/uploads/2026/08/20260821_press_img01-2.jpg",
+        "source": "https://stories.amorepacific.com/",
+        "credit": "Amorepacific Stories press image",
+        "alt": "Amorepacific Museum of Art press photo"
+      }
+    ],
+    "duration": "1–1.5 h",
+    "bestTime": "Weekday morning, quiet",
+    "goodFor": [
+      "Parents",
+      "Rainy day",
+      "Photos",
+      "Relaxing"
+    ],
+    "sources": [
+      "https://www.apgroup.com/int/en/news/2026-04-07-1.html",
+      "https://stories.amorepacific.com/en/amorepacific-museum-of-art-presents-sol-lewitt-open-structure/",
+      "https://www.apgroup.com/int/en/our-culture/amorepacific-space/amorepacific-headquarters/amorepacific-headquarters.html",
+      "https://www.trip.com/moments/theme/poi-amorepacific-museum-of-art-99592775-attraction-993137/"
+    ],
+    "lastVerified": "2026-09-23"
+  },
+  {
+    "id": "songeun-art-space",
+    "name": "SongEun Art Space",
+    "nameKo": "송은",
+    "category": "sight",
+    "subcategory": "Art gallery",
+    "tags": [
+      "art",
+      "museum",
+      "free",
+      "design",
+      "hidden-gem",
+      "indoor",
+      "reservation-needed"
+    ],
+    "vibes": [
+      "futuristic",
+      "minimal",
+      "quiet",
+      "design"
+    ],
+    "summary": "Herzog & de Meuron's perforated-concrete tower in Cheongdam, a free non-profit contemporary art space.",
+    "description": "SongEun is a private, non-profit foundation housed in a striking nine-story building by Pritzker winners Herzog & de Meuron — a solid concrete volume wrapped in a diagonal lattice of tiny perforations that glows at night. Inside, polished white galleries host rotating contemporary art shows and an annual emerging-artist prize exhibition, all free. It's one of the best pieces of new architecture in Cheongdam and rarely crowded with tourists.",
+    "highlights": [
+      "Herzog & de Meuron's perforated-concrete facade, lit up after dark",
+      "Free rotating contemporary art exhibitions",
+      "SongEun Art Award show for emerging Korean artists",
+      "Quiet, gallery-white interior — a break from Cheongdam's shopping crowds"
+    ],
+    "tips": [
+      "Open weekdays only (Mon–Fri 11:00–18:30, last entry 18:10) — closed Saturday and Sunday.",
+      "General admission and docent tours need a reservation via songeun.or.kr.",
+      "It's \"closed between exhibitions,\" so check the website's current show before making a special trip.",
+      "Pair with Boon the Shop and Dosan Park, both a short walk away."
+    ],
+    "badges": {
+      "hiddenGem": true,
+      "futuristic": true,
+      "valueForMoney": true
+    },
+    "ratings": {
+      "google": {
+        "score": 4.3,
+        "count": 180,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EC%86%A1%EC%9D%80%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EB%8F%84%EC%82%B0%EB%8C%80%EB%A1%9C%20441"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Press",
+        "text": "In keeping with our mission to make contemporary art accessible to wide audiences, SONGEUN offers free admission to all visitors.",
+        "paraphrased": false,
+        "lang": "en",
+        "url": "https://songeun.or.kr/en/visit"
+      },
+      {
+        "source": "Blog",
+        "text": "One of Seoul's most photogenic pieces of new architecture — a solid concrete tower perforated with thousands of tiny windows.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://archello.com/project/songeun-art-space"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "perPersonKRW": [
+        0,
+        0
+      ],
+      "note": "Free admission; reservation required"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "11:00-18:30",
+        "tue": "11:00-18:30",
+        "wed": "11:00-18:30",
+        "thu": "11:00-18:30",
+        "fri": "11:00-18:30",
+        "sat": "closed",
+        "sun": "closed"
+      },
+      "lastOrder": "18:10",
+      "note": "Closed Saturday, Sunday, and between exhibitions."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "closed",
+      "2026-09-25": "closed",
+      "2026-09-26": "closed",
+      "2026-09-27": "closed",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "closed",
+      "note": "No 2026 Chuseok notice found. Regular hours are weekdays only, so 26–27 Sep (Sat/Sun) are closed anyway; 24–25 Sep are inferred closed for the Chuseok holiday since it's a small private foundation — call ahead to confirm before 28–29 Sep.",
+      "verified": false
+    },
+    "location": {
+      "address": "441 Dosan-daero, Gangnam-gu, Seoul",
+      "addressKo": "서울특별시 강남구 도산대로 441",
+      "district": "Gangnam-gu",
+      "neighborhood": "Cheongdam",
+      "lat": 37.5246317,
+      "lng": 127.0501012,
+      "nearestStation": {
+        "name": "Apgujeong Rodeo",
+        "nameKo": "압구정로데오역",
+        "lines": [
+          "SUIN"
+        ],
+        "exit": "Exit 2",
+        "walkMin": 9
+      }
+    },
+    "links": {
+      "website": "https://songeun.or.kr/en",
+      "naverMap": "https://map.naver.com/p/search/%EC%86%A1%EC%9D%80",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=SongEun+Art+Space+Seoul"
+    },
+    "images": [
+      {
+        "url": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=50675&fileTy=MEDIA&fileNo=1&thumbTy=L",
+        "source": "https://english.visitseoul.net/exhibition/SongEun-Art-and-Cultural-Foundation-Exhibition/ENP040569",
+        "credit": "Visit Seoul (Seoul Tourism Organization)",
+        "alt": "SongEun Art Space exterior facade"
+      },
+      {
+        "url": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=50677&fileTy=MEDIA&fileNo=1&thumbTy=L",
+        "source": "https://english.visitseoul.net/exhibition/SongEun-Art-and-Cultural-Foundation-Exhibition/ENP040569",
+        "credit": "Visit Seoul (Seoul Tourism Organization)",
+        "alt": "SongEun Art Space gallery interior"
+      },
+      {
+        "url": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=50679&fileTy=MEDIA&fileNo=1&thumbTy=L",
+        "source": "https://english.visitseoul.net/exhibition/SongEun-Art-and-Cultural-Foundation-Exhibition/ENP040569",
+        "credit": "Visit Seoul (Seoul Tourism Organization)",
+        "alt": "SongEun Art Space exhibition view"
+      },
+      {
+        "url": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=50682&fileTy=MEDIA&fileNo=1&thumbTy=L",
+        "source": "https://english.visitseoul.net/exhibition/SongEun-Art-and-Cultural-Foundation-Exhibition/ENP040569",
+        "credit": "Visit Seoul (Seoul Tourism Organization)",
+        "alt": "SongEun Art Space building detail"
+      }
+    ],
+    "duration": "45 min–1 h",
+    "bestTime": "Weekday afternoon",
+    "goodFor": [
+      "Parents",
+      "Photos",
+      "Rainy day"
+    ],
+    "sources": [
+      "https://songeun.or.kr/en/visit",
+      "https://archello.com/project/songeun-art-space",
+      "https://english.visitseoul.net/exhibition/SongEun-Art-and-Cultural-Foundation-Exhibition/ENP040569"
+    ],
+    "lastVerified": "2026-09-23"
+  },
+  {
+    "id": "genesis-studio-hanam",
+    "name": "Genesis Studio Hanam",
+    "nameKo": "제네시스 스튜디오 하남",
+    "category": "experience",
+    "subcategory": "Car brand flagship",
+    "tags": [
+      "high-tech",
+      "instagrammable",
+      "design",
+      "free",
+      "indoor",
+      "kid-friendly",
+      "parent-friendly"
+    ],
+    "vibes": [
+      "futuristic",
+      "luxe",
+      "minimal",
+      "design"
+    ],
+    "summary": "Genesis's flagship showroom inside Starfield Hanam, with concept cars, curated tours and racing simulators.",
+    "description": "The world's first standalone Genesis Studio sits on the 2nd floor of Starfield Hanam mall, a sleek, gallery-like showroom where a personal curator walks you through the current lineup and design story. Reservation-based test drives and simulator games make it more than a car dealership — it feels like a design museum for Genesis's EVs and luxury sedans. During the 2026 trip window it's hosting the Genesis Magma Racing Live Festival (24–27 Sep), showing the GMR-001 Le Mans hypercar and Magma GT3 Concept with racing simulators and a live WEC screening.",
+    "highlights": [
+      "Genesis Magma Racing Live Festival, 24–27 Sep 2026: GMR-001 Le Mans hypercar & Magma GT3 Concept on display",
+      "Personal curator walkthroughs of the current Genesis lineup",
+      "Racing simulators and reaction-speed games",
+      "Reservation-based test drives (21+, valid license)"
+    ],
+    "tips": [
+      "Normally closed the first Monday of each month, New Year's Day, Seollal, Chuseok and the day after — but the 2026 Magma festival keeps it running through the Chuseok weekend itself.",
+      "Book the personal curating session ahead online; arriving more than 15 minutes late cancels the slot.",
+      "It's inside Starfield Hanam, so pair with Hyundai Motorstudio Hanam one floor down and the mall's food court.",
+      "No direct subway — take a taxi or the Starfield shuttle bus from Godeok Station (Line 5)."
+    ],
+    "badges": {
+      "futuristic": true,
+      "familyFriendly": true,
+      "valueForMoney": true
+    },
+    "ratings": {
+      "google": {
+        "score": 4,
+        "count": 6,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%20%ED%95%98%EB%82%A8%20%EA%B2%BD%EA%B8%B0%EB%8F%84%20%ED%95%98%EB%82%A8%EC%8B%9C%20%EB%AF%B8%EC%82%AC%EB%8C%80%EB%A1%9C%20750%20%EC%8A%A4%ED%83%80%ED%95%84%EB%93%9C%20%ED%95%98%EB%82%A8%202%EC%B8%B5"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Press",
+        "text": "Genesis showcased the Magma GT3 Concept at Starfield Hanam, reflecting its intent to compete in GT3 endurance racing.",
+        "paraphrased": true,
+        "lang": "en",
+        "date": "2026-09",
+        "url": "https://en.sedaily.com/finance/2026/09/17/genesis-to-hold-first-motorsport-fan-festival-in-hanam"
+      },
+      {
+        "source": "Press",
+        "text": "The personal curating program takes about an hour from the reservation time, with a Genesis curator explaining the vehicle and space in detail.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.genesis.com/kr/en/experience/space/genesis-studio-hanam.html"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Free to browse; test drives free with reservation and valid license"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "10:00-22:00",
+        "tue": "10:00-22:00",
+        "wed": "10:00-22:00",
+        "thu": "10:00-22:00",
+        "fri": "10:00-22:00",
+        "sat": "10:00-22:00",
+        "sun": "10:00-22:00"
+      },
+      "note": "Follows Starfield Hanam mall hours; curating/test-drive sessions run on their own reserved schedule. Normally closed first Monday of the month, New Year's, Seollal, Chuseok + the following day."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "closed",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "The Genesis Magma Racing Live Festival runs exactly 24–27 Sep 2026 at Starfield Hanam / Genesis Studio Hanam, so it's open through Chuseok this year despite the studio's normal policy of closing for Chuseok and the following day (28 Sep is closed under that regular policy).",
+      "verified": true,
+      "source": "https://en.sedaily.com/finance/2026/09/17/genesis-to-hold-first-motorsport-fan-festival-in-hanam"
+    },
+    "location": {
+      "address": "Starfield Hanam 2F, 750 Misa-daero, Hanam-si, Gyeonggi-do",
+      "addressKo": "경기도 하남시 미사대로 750 스타필드 하남 2층",
+      "district": "Hanam-si",
+      "neighborhood": "Misa",
+      "lat": 37.5454452,
+      "lng": 127.2240568,
+      "nearestStation": {
+        "name": "Godeok",
+        "nameKo": "고덕역",
+        "lines": [
+          "5"
+        ],
+        "walkMin": 25
+      }
+    },
+    "links": {
+      "website": "https://www.genesis.com/kr/en/experience/space/genesis-studio-hanam.html",
+      "naverMap": "https://map.naver.com/p/search/%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%20%ED%95%98%EB%82%A8",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Genesis+Studio+Hanam"
+    },
+    "images": [
+      {
+        "url": "https://www.genesis.com/content/dam/genesis-p2/kr/assets/utility/sns/genesis-kr-experience-space-hanam-og-uyuni-white-g90-1200x630.jpg",
+        "source": "https://www.genesis.com/kr/en/experience/space/genesis-studio-hanam.html",
+        "credit": "Genesis Motors official site",
+        "alt": "Genesis Studio Hanam showroom with G90"
+      },
+      {
+        "url": "https://wimg.sedaily.com/news/cms/2026/09/17/news-p.v1.20260917.01d46493fc5b40cbb69ed2ed2688baaa_P1.jpg",
+        "source": "https://en.sedaily.com/finance/2026/09/17/genesis-to-hold-first-motorsport-fan-festival-in-hanam",
+        "credit": "Seoul Economic Daily",
+        "alt": "Genesis Magma Racing Live Festival announcement"
+      },
+      {
+        "url": "https://wimg.sedaily.com/news/cms/2026/09/15/rcv.YNA.20260702.PAF20260702224701009_P1.jpg",
+        "source": "https://en.sedaily.com/finance/2026/09/17/genesis-to-hold-first-motorsport-fan-festival-in-hanam",
+        "credit": "Yonhap via Seoul Economic Daily",
+        "alt": "Genesis Magma GT3 Concept race car"
+      },
+      {
+        "url": "https://cf.creatrip.com/original/blog/10488/8xfb4rlzyvysrhhxoaqp86byh5u1uqs3.jpg",
+        "source": "https://creatrip.com/en/blog/10488",
+        "credit": "Creatrip",
+        "alt": "Starfield Hanam mall exterior, home to Genesis Studio Hanam"
+      },
+      {
+        "url": "https://cf.creatrip.com/original/blog/10488/9od5fnrcvsu2mnhdytb6c026ukxkvgq0.jpg",
+        "source": "https://creatrip.com/en/blog/10488",
+        "credit": "Creatrip",
+        "alt": "Starfield Hanam interior atrium"
+      }
+    ],
+    "duration": "1–1.5 h",
+    "bestTime": "Weekday afternoon, or 24–27 Sep 2026 for the Magma Racing festival",
+    "goodFor": [
+      "Family of 5",
+      "Kids at heart",
+      "Rainy day",
+      "Photos"
+    ],
+    "sources": [
+      "https://www.genesis.com/kr/en/experience/space/genesis-studio-hanam.html",
+      "https://en.sedaily.com/finance/2026/09/17/genesis-to-hold-first-motorsport-fan-festival-in-hanam",
+      "https://en.wikipedia.org/wiki/Genesis_GMR-001"
+    ],
+    "lastVerified": "2026-09-23"
+  },
+  {
+    "id": "hyundai-motorstudio-hanam",
+    "name": "Hyundai Motorstudio Hanam",
+    "nameKo": "현대 모터스튜디오 하남",
+    "category": "experience",
+    "subcategory": "Car brand flagship",
+    "tags": [
+      "high-tech",
+      "instagrammable",
+      "design",
+      "free",
+      "indoor",
+      "kid-friendly",
+      "group-friendly",
+      "parent-friendly"
+    ],
+    "vibes": [
+      "futuristic",
+      "design",
+      "minimal"
+    ],
+    "summary": "Hyundai's huge 1F flagship inside Starfield Hanam — full model lineup, cinema, cafe and test-drive zone.",
+    "description": "Distinct from the smaller Gangnam Motorstudio, this is Hyundai's flagship experience space on the ground floor of Starfield Hanam, built around a full walk-through of Hyundai's current and future line-up, an EV charging and tech zone, a cinema screening brand films, and a stylish in-house cafe/restaurant. It's designed as a free, low-effort family outing — no pressure to buy, just browse futuristic concept cars and interactive displays. It keeps mall-style hours year-round, including public holidays.",
+    "highlights": [
+      "Walk-through of Hyundai's current EV and ICE line-up",
+      "Interactive tech and design zones",
+      "In-house cinema and cafe/restaurant",
+      "Reservation-based test drives on-site"
+    ],
+    "tips": [
+      "Open 10:00–22:00 every day of the year, including Chuseok — a reliable rainy-day option when smaller museums are shut.",
+      "Combine with Genesis Studio Hanam one floor up and the rest of Starfield Hanam's food court.",
+      "No nearby subway — go by taxi/car or the mall's free shuttle bus from Godeok or Cheonho stations (Line 5/8).",
+      "Free EV charging and rest areas make it an easy stop to break up a Hanam-side day trip."
+    ],
+    "badges": {
+      "futuristic": true,
+      "familyFriendly": true,
+      "valueForMoney": true
+    },
+    "ratings": {
+      "google": {
+        "score": 5,
+        "count": 10,
+        "url": "https://www.google.com/maps/search/?api=1&query=%ED%98%84%EB%8C%80%20%EB%AA%A8%ED%84%B0%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%20%ED%95%98%EB%82%A8%20%EA%B2%BD%EA%B8%B0%EB%8F%84%20%ED%95%98%EB%82%A8%EC%8B%9C%20%EB%AF%B8%EC%82%AC%EB%8C%80%EB%A1%9C%20750%20%EC%8A%A4%ED%83%80%ED%95%84%EB%93%9C%20%ED%95%98%EB%82%A8%201%EC%B8%B5"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Press",
+        "text": "Hyundai Motorstudio Hanam operates year-round with a full walkthrough of the current model lineup inside Starfield Hanam.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://motorstudio.hyundai.com/hanam/cotn/at/utzInfo.do?strgCd=03&lang=en"
+      },
+      {
+        "source": "Blog",
+        "text": "A slick, air-conditioned way to spend an hour browsing concept cars with kids without spending a won.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://creatrip.com/en/blog/10488"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Free entry"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "10:00-22:00",
+        "tue": "10:00-22:00",
+        "wed": "10:00-22:00",
+        "thu": "10:00-22:00",
+        "fri": "10:00-22:00",
+        "sat": "10:00-22:00",
+        "sun": "10:00-22:00"
+      },
+      "note": "Open year-round, including public holidays."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "Published hours are 10:00–22:00 every day of the year with no holiday closure listed.",
+      "verified": true,
+      "source": "https://motorstudio.hyundai.com/hanam/cotn/at/utzInfo.do?strgCd=03&lang=en"
+    },
+    "location": {
+      "address": "Starfield Hanam 1F, 750 Misa-daero, Hanam-si, Gyeonggi-do",
+      "addressKo": "경기도 하남시 미사대로 750 스타필드 하남 1층",
+      "district": "Hanam-si",
+      "neighborhood": "Misa",
+      "lat": 37.5454452,
+      "lng": 127.2240568,
+      "nearestStation": {
+        "name": "Godeok",
+        "nameKo": "고덕역",
+        "lines": [
+          "5"
+        ],
+        "walkMin": 25
+      }
+    },
+    "links": {
+      "website": "https://motorstudio.hyundai.com/hanam/cotn/at/utzInfo.do?strgCd=03&lang=en",
+      "naverMap": "https://map.naver.com/p/search/%ED%98%84%EB%8C%80%EB%AA%A8%ED%84%B0%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%20%ED%95%98%EB%82%A8",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Hyundai+Motorstudio+Hanam"
+    },
+    "images": [
+      {
+        "url": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/newsroom/news-image/2022/06/0608/highlight-thumb-0608.jpg",
+        "source": "https://www.hyundai.com/worldwide/en/newsroom",
+        "credit": "Hyundai Motor Global Newsroom",
+        "alt": "Hyundai Motorstudio Hanam press photo"
+      },
+      {
+        "url": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/newsroom/news-image/2022/06/0608/news-list-thumb-0608.jpg",
+        "source": "https://www.hyundai.com/worldwide/en/newsroom",
+        "credit": "Hyundai Motor Global Newsroom",
+        "alt": "Hyundai Motorstudio Hanam display"
+      },
+      {
+        "url": "https://cf.creatrip.com/original/blog/10488/1ix1p2al3xbf5ghvy5r32oeoxswv88fe.jpg",
+        "source": "https://creatrip.com/en/blog/10488",
+        "credit": "Creatrip",
+        "alt": "Starfield Hanam exterior"
+      },
+      {
+        "url": "https://cf.creatrip.com/original/blog/10488/2wux1v3axye0i157kekp4wzxdrghonl5.jpg",
+        "source": "https://creatrip.com/en/blog/10488",
+        "credit": "Creatrip",
+        "alt": "Starfield Hanam interior"
+      },
+      {
+        "url": "https://cf.creatrip.com/original/blog/10488/54os9s4x4gx3v81rsesx0p4he0tn0f8k.jpg",
+        "source": "https://creatrip.com/en/blog/10488",
+        "credit": "Creatrip",
+        "alt": "Starfield Hanam mall atrium"
+      }
+    ],
+    "duration": "1–1.5 h",
+    "bestTime": "Any time — open daily incl. holidays",
+    "goodFor": [
+      "Family of 5",
+      "Kids at heart",
+      "Rainy day"
+    ],
+    "sources": [
+      "https://motorstudio.hyundai.com/hanam/cotn/at/utzInfo.do?strgCd=03&lang=en",
+      "https://creatrip.com/en/blog/10488"
+    ],
+    "lastVerified": "2026-09-23"
+  },
+  {
+    "id": "tamburins-seongsu",
+    "name": "Tamburins Seongsu",
+    "nameKo": "탬버린즈 성수",
+    "category": "shopping",
+    "subcategory": "Beauty concept flagship",
+    "tags": [
+      "design",
+      "instagrammable",
+      "art",
+      "free",
+      "indoor",
+      "new-2025-2026"
+    ],
+    "vibes": [
+      "futuristic",
+      "minimal",
+      "design",
+      "hip"
+    ],
+    "summary": "Gentle Monster's fragrance-and-skincare label in a raw-concrete Seongsu flagship that feels like an art installation.",
+    "description": "Tamburins' flagship fills a converted building in Seongsu's Yeonmujang-gil with brutalist raw concrete, dramatic lighting and rotating art installations — past versions have included a hanging botanical garden and sculptural scent bars. It's less a shop than a walkable art piece, and browsing is free even if you don't buy the hand creams and perfumes. Expect a line of photographers at the entrance any afternoon.",
+    "highlights": [
+      "Raw-concrete brutalist interior with rotating art installations",
+      "Try-before-you-buy fragrance and hand cream bar",
+      "Frequently changing seasonal displays (check Instagram before visiting)",
+      "A five-minute walk from Ader Error Space and other Seongsu flagships"
+    ],
+    "tips": [
+      "Open daily 11:00–21:00, no reservation needed for the shop floor.",
+      "Best photographed on a weekday morning before the afternoon crowd arrives.",
+      "Combine with Ader Error Space, D Museum and Blue Bottle Seongsu — all within a 10-minute walk.",
+      "Nearest exit is Seongsu Station (Line 2) Exit 4, about 10 minutes on foot through Yeonmujang-gil."
+    ],
+    "badges": {
+      "futuristic": true,
+      "familyFriendly": true,
+      "valueForMoney": true
+    },
+    "ratings": {
+      "google": {
+        "score": 4.5,
+        "count": 265,
+        "url": "https://www.google.com/maps/search/?api=1&query=%ED%83%AC%EB%B2%84%EB%A6%B0%EC%A6%88%20%EC%84%B1%EC%88%98%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%84%B1%EB%8F%99%EA%B5%AC%20%EC%97%B0%EB%AC%B4%EC%9E%A55%EA%B8%B8%208"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Blog",
+        "text": "The store carries a distinctive minimalist concrete architecture that feels more like a gallery than a beauty shop.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://seoulshopper.com/blogs/shopping/tamburins-seongsu-store"
+      },
+      {
+        "source": "Blog",
+        "text": "One of Seongsu's must-visit flagships thanks to its ever-changing installation art and iconic concrete architecture.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://world.nol.com/en/content/pois/a23ce0c4-ab8c-4e00-81e3-a1484db7f5ac"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Free to browse"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "11:00-21:00",
+        "tue": "11:00-21:00",
+        "wed": "11:00-21:00",
+        "thu": "11:00-21:00",
+        "fri": "11:00-21:00",
+        "sat": "11:00-21:00",
+        "sun": "11:00-21:00"
+      }
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "No 2026 Chuseok closure notice found; Seongsu concept-retail flagships typically stay open through the holiday. Not independently confirmed for 2026 — worth a quick Instagram check before going.",
+      "verified": false
+    },
+    "location": {
+      "address": "8 Yeonmujang 5-gil, Seongdong-gu, Seoul",
+      "addressKo": "서울특별시 성동구 연무장5길 8",
+      "district": "Seongdong-gu",
+      "neighborhood": "Seongsu",
+      "lat": 37.5441819,
+      "lng": 127.0528802,
+      "nearestStation": {
+        "name": "Seongsu",
+        "nameKo": "성수역",
+        "lines": [
+          "2"
+        ],
+        "exit": "Exit 4",
+        "walkMin": 10
+      }
+    },
+    "links": {
+      "website": "https://www.tamburins.com/en/store/korea/",
+      "naverMap": "https://map.naver.com/p/search/%ED%83%AC%EB%B2%84%EB%A6%B0%EC%A6%88%20%EC%84%B1%EC%88%98",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Tamburins+Seongsu"
+    },
+    "images": [
+      {
+        "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/9ae68a9c-707d-4b42-8b26-b5ef5c3f3611.jpeg",
+        "source": "https://world.nol.com/en/content/pois/a23ce0c4-ab8c-4e00-81e3-a1484db7f5ac",
+        "credit": "NOL World / Triple",
+        "alt": "Tamburins Seongsu concrete interior"
+      },
+      {
+        "url": "https://cf.creatrip.com/original/blog/14278/2u02t9lsxnjfqul8vsi6lp2zygzgp7v6.jpeg",
+        "source": "https://creatrip.com/en/blog/14278",
+        "credit": "Creatrip",
+        "alt": "Tamburins Seongsu store front"
+      },
+      {
+        "url": "https://cf.creatrip.com/original/blog/14278/elyxsqnp32aphbsih9gpi1n6o1xvu6zg.jpeg",
+        "source": "https://creatrip.com/en/blog/14278",
+        "credit": "Creatrip",
+        "alt": "Tamburins Seongsu display"
+      }
+    ],
+    "duration": "30–45 min",
+    "bestTime": "Weekday morning",
+    "goodFor": [
+      "Photos",
+      "Shopping",
+      "Family of 5"
+    ],
+    "sources": [
+      "https://www.tamburins.com/en/store/korea/",
+      "https://creatrip.com/en/blog/14278",
+      "https://world.nol.com/en/content/pois/a23ce0c4-ab8c-4e00-81e3-a1484db7f5ac"
+    ],
+    "lastVerified": "2026-09-23"
+  },
+  {
+    "id": "apple-myeongdong",
+    "name": "Apple Myeongdong",
+    "nameKo": "애플 명동",
+    "category": "shopping",
+    "subcategory": "Tech flagship store",
+    "tags": [
+      "high-tech",
+      "design",
+      "instagrammable",
+      "free",
+      "indoor",
+      "english-friendly",
+      "tax-free"
+    ],
+    "vibes": [
+      "futuristic",
+      "minimal",
+      "design"
+    ],
+    "summary": "Apple's glass-fronted Myeongdong flagship with pocket gardens, a glass staircase and Asia's first Apple Pickup counter.",
+    "description": "Apple's largest Korean store spans two levels at the base of a Myeongdong tower behind a full-width, double-height glass facade — the first of its kind for Apple. Pocket gardens with commissioned sculptures by Korean artists flank the entrance, a glass-and-steel staircase connects the floors, and the upper Forum level has a big video wall and city views. It's a genuinely relaxing, air-conditioned, low-effort browse in the middle of Myeongdong's shopping chaos, and every product can be tried hands-on.",
+    "highlights": [
+      "Full-width double-height glass storefront with pocket gardens",
+      "Glass-riser staircase and Forum space with video wall",
+      "Every current Apple product available to try",
+      "Asia's first dedicated Apple Pickup counter"
+    ],
+    "tips": [
+      "Open daily 11:00–22:00, including holidays — a reliable air-conditioned break during Myeongdong shopping.",
+      "Tax refund desks are elsewhere in Myeongdong; ask staff for the nearest kiosk if buying electronics.",
+      "The upper Forum level has free seating and Han River/city views — worth the trip up even without buying anything.",
+      "Myeongdong Station (Line 4) Exit 6 is a 3-minute walk."
+    ],
+    "badges": {
+      "futuristic": true,
+      "familyFriendly": true,
+      "mustSee": true
+    },
+    "ratings": {
+      "google": {
+        "score": 4.4,
+        "count": 521,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EC%95%A0%ED%94%8C%20%EB%AA%85%EB%8F%99%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EB%82%A8%EB%8C%80%EB%AC%B8%EB%A1%9C2%EA%B0%80%209-1"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Press",
+        "text": "The store's horizontally supported double-height glass facade is the first installation of its kind for Apple.",
+        "paraphrased": true,
+        "lang": "en",
+        "date": "2022-04",
+        "url": "https://www.apple.com/newsroom/2022/04/apple-myeongdong-opens-saturday-april-9-in-south-korea/"
+      },
+      {
+        "source": "Press",
+        "text": "Landscaped pocket gardens with commissioned sculptures by Korean artists Jaehyo Lee and VAKKI flank the storefront.",
+        "paraphrased": true,
+        "lang": "en",
+        "date": "2022-04",
+        "url": "https://www.apple.com/newsroom/2022/04/apple-myeongdong-opens-saturday-april-9-in-south-korea/"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Free entry"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "11:00-22:00",
+        "tue": "11:00-22:00",
+        "wed": "11:00-22:00",
+        "thu": "11:00-22:00",
+        "fri": "11:00-22:00",
+        "sat": "11:00-22:00",
+        "sun": "11:00-22:00"
+      }
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "No 2026 holiday notice found, but Apple's Korean flagship stores are well known to keep normal hours through Chuseok in past years. Not independently confirmed for 2026.",
+      "verified": false
+    },
+    "location": {
+      "address": "9-1 Namdaemun-ro 2-ga, Jung-gu, Seoul",
+      "addressKo": "서울특별시 중구 남대문로2가 9-1",
+      "district": "Jung-gu",
+      "neighborhood": "Myeongdong",
+      "lat": 37.5612786,
+      "lng": 126.9794532,
+      "nearestStation": {
+        "name": "Myeongdong",
+        "nameKo": "명동역",
+        "lines": [
+          "4"
+        ],
+        "exit": "Exit 6",
+        "walkMin": 3
+      }
+    },
+    "links": {
+      "website": "https://www.apple.com/kr/retail/myeongdong/",
+      "naverMap": "https://map.naver.com/p/search/%EC%95%A0%ED%94%8C%20%EB%AA%85%EB%8F%99",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Apple+Myeongdong+Seoul"
+    },
+    "images": [
+      {
+        "url": "https://www.apple.com/newsroom/images/environments/stores/Apple-Myeongdong-opening-preview-hero_Full-Bleed-Image.jpg.large.jpg",
+        "source": "https://www.apple.com/newsroom/2022/04/apple-myeongdong-opens-saturday-april-9-in-south-korea/",
+        "credit": "Apple Newsroom",
+        "alt": "Apple Myeongdong glass storefront at dusk"
+      },
+      {
+        "url": "https://www.apple.com/newsroom/images/environments/stores/Apple-Myeongdong-opening-preview-forum_Full-Bleed-Image.jpg.large.jpg",
+        "source": "https://www.apple.com/newsroom/2022/04/apple-myeongdong-opens-saturday-april-9-in-south-korea/",
+        "credit": "Apple Newsroom",
+        "alt": "Apple Myeongdong Forum space with video wall"
+      },
+      {
+        "url": "https://www.apple.com/newsroom/images/environments/stores/Apple-Myeongdong-opening-preview-interior_big.jpg.large.jpg",
+        "source": "https://www.apple.com/newsroom/2022/04/apple-myeongdong-opens-saturday-april-9-in-south-korea/",
+        "credit": "Apple Newsroom",
+        "alt": "Apple Myeongdong store interior"
+      },
+      {
+        "url": "https://www.apple.com/newsroom/images/environments/stores/Apple-Myeongdong-opening-preview-pocket-garden-01_big_carousel.jpg.large.jpg",
+        "source": "https://www.apple.com/newsroom/2022/04/apple-myeongdong-opens-saturday-april-9-in-south-korea/",
+        "credit": "Apple Newsroom",
+        "alt": "Apple Myeongdong pocket garden with sculpture"
+      },
+      {
+        "url": "https://www.apple.com/newsroom/images/environments/stores/Apple-Myeongdong-opening-preview-staircase_big_carousel.jpg.large.jpg",
+        "source": "https://www.apple.com/newsroom/2022/04/apple-myeongdong-opens-saturday-april-9-in-south-korea/",
+        "credit": "Apple Newsroom",
+        "alt": "Apple Myeongdong glass staircase"
+      },
+      {
+        "url": "https://www.apple.com/newsroom/images/environments/stores/Apple-Myeongdong-opening-preview-pickup_big_carousel.jpg.large.jpg",
+        "source": "https://www.apple.com/newsroom/2022/04/apple-myeongdong-opens-saturday-april-9-in-south-korea/",
+        "credit": "Apple Newsroom",
+        "alt": "Apple Myeongdong Pickup counter"
+      }
+    ],
+    "duration": "30–45 min",
+    "bestTime": "Any time, less crowded on weekday mornings",
+    "goodFor": [
+      "Family of 5",
+      "Rainy day",
+      "Photos"
+    ],
+    "sources": [
+      "https://www.apple.com/newsroom/2022/04/apple-myeongdong-opens-saturday-april-9-in-south-korea/"
+    ],
+    "lastVerified": "2026-09-23"
+  },
+  {
+    "id": "common-ground-konkuk",
+    "name": "Common Ground",
+    "nameKo": "커먼그라운드",
+    "category": "shopping",
+    "subcategory": "Container concept mall",
+    "tags": [
+      "design",
+      "instagrammable",
+      "indoor",
+      "outdoor",
+      "market",
+      "kid-friendly",
+      "parent-friendly"
+    ],
+    "vibes": [
+      "futuristic",
+      "hip",
+      "design",
+      "trendy"
+    ],
+    "summary": "The world's largest pop-up mall stacked from 200 cobalt-blue shipping containers near Konkuk University.",
+    "description": "Common Ground is built from roughly 200 recycled shipping containers stacked into a striking cobalt-blue complex housing streetwear boutiques, an indoor Market Hall, food stalls and a weekend events space. It's an easy, low-effort browse — flat, mostly covered, air-conditioned in the container corridors — with the industrial architecture itself as photogenic as anything inside. Weekend evenings bring flea markets and live events to the central Market Ground plaza.",
+    "highlights": [
+      "200 stacked shipping containers, Instagram-famous from every angle",
+      "Street Market and Market Hall indoor boutiques",
+      "Weekend flea markets and events in the central Market Ground plaza",
+      "Casual food court with Seoul's trendy F&B brands"
+    ],
+    "tips": [
+      "Open 11:00–22:00 daily; some 3F restaurants stay open till 1am on weekends.",
+      "Konkuk University Station (Lines 2 & 7) Exit 3 is a 3-minute walk.",
+      "Best photographed at dusk when the container walls catch the last light.",
+      "Combine with a walk around Konkuk University's lakeside campus next door."
+    ],
+    "badges": {
+      "futuristic": true,
+      "familyFriendly": true,
+      "valueForMoney": true
+    },
+    "ratings": {
+      "google": {
+        "score": 4.1,
+        "count": 866,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EC%BB%A4%EB%A8%BC%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B4%91%EC%A7%84%EA%B5%AC%20%EC%95%84%EC%B0%A8%EC%82%B0%EB%A1%9C%20200"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Blog",
+        "text": "Common Ground is the world's largest container shopping mall, built by stacking around 200 repurposed shipping containers.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://creatrip.com/en/blog/4304"
+      },
+      {
+        "source": "Blog",
+        "text": "A young, casual, Instagram-friendly cultural platform mixing streetwear boutiques, food and weekend pop-up markets.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.common-ground.co.kr/global/en.html"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Free entry; shopping/dining priced individually"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "11:00-22:00",
+        "tue": "11:00-22:00",
+        "wed": "11:00-22:00",
+        "thu": "11:00-22:00",
+        "fri": "11:00-01:00",
+        "sat": "11:00-01:00",
+        "sun": "11:00-22:00"
+      },
+      "note": "Select 3F dining venues stay open until 1am Friday and Saturday."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "No 2026 Chuseok closure notice found; casual retail/F&B malls of this type typically stay open through the holiday. Not independently confirmed for 2026.",
+      "verified": false
+    },
+    "location": {
+      "address": "200 Achasan-ro, Gwangjin-gu, Seoul",
+      "addressKo": "서울특별시 광진구 아차산로 200",
+      "district": "Gwangjin-gu",
+      "neighborhood": "Konkuk University",
+      "lat": 37.5411557,
+      "lng": 127.0654344,
+      "nearestStation": {
+        "name": "Konkuk University",
+        "nameKo": "건대입구역",
+        "lines": [
+          "2",
+          "7"
+        ],
+        "exit": "Exit 3",
+        "walkMin": 3
+      }
+    },
+    "links": {
+      "website": "https://www.common-ground.co.kr/global/en.html",
+      "naverMap": "https://map.naver.com/p/search/%EC%BB%A4%EB%A8%BC%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Common+Ground+Seoul",
+      "tripadvisor": "https://www.tripadvisor.com/Attraction_Review-g294197-d9796664-Reviews-Common_Ground-Seoul.html"
+    },
+    "images": [
+      {
+        "url": "https://cf.creatrip.com/original/blog/4304/3d83cq5cmzadt4nm32i80eut2boo0xsb.jpg",
+        "source": "https://creatrip.com/en/blog/4304",
+        "credit": "Creatrip",
+        "alt": "Common Ground container mall exterior"
+      },
+      {
+        "url": "https://cf.creatrip.com/original/blog/4304/5svdde5f6605cy2gki12ahoe2younpx8.jpg",
+        "source": "https://creatrip.com/en/blog/4304",
+        "credit": "Creatrip",
+        "alt": "Common Ground container corridor"
+      },
+      {
+        "url": "https://cf.creatrip.com/original/blog/4304/ewtwce2w3d3u8mn9aewb2idzk7z4ugih.jpeg",
+        "source": "https://creatrip.com/en/blog/4304",
+        "credit": "Creatrip",
+        "alt": "Common Ground interior shops"
+      },
+      {
+        "url": "https://cf.creatrip.com/original/blog/4304/rpo52ocdd91mxsd95v2tmd52e0uf2p3h.jpg",
+        "source": "https://creatrip.com/en/blog/4304",
+        "credit": "Creatrip",
+        "alt": "Common Ground Market Ground plaza"
+      }
+    ],
+    "duration": "1–2 h",
+    "bestTime": "Late afternoon into evening",
+    "goodFor": [
+      "Family of 5",
+      "Shopping",
+      "Photos",
+      "Quick bite"
+    ],
+    "sources": [
+      "https://www.common-ground.co.kr/global/en.html",
+      "https://creatrip.com/en/blog/4304",
+      "https://www.tripadvisor.com/Attraction_Review-g294197-d9796664-Reviews-Common_Ground-Seoul.html"
+    ],
+    "lastVerified": "2026-09-23"
+  },
+  {
+    "id": "coex-kpop-square-wave",
+    "name": "COEX K-Pop Square (WAVE)",
+    "nameKo": "코엑스 케이팝 스퀘어 (웨이브)",
+    "category": "sight",
+    "subcategory": "Media facade / public art",
+    "tags": [
+      "high-tech",
+      "instagrammable",
+      "night-view",
+      "free",
+      "outdoor",
+      "k-pop",
+      "iconic",
+      "open-24h"
+    ],
+    "vibes": [
+      "futuristic",
+      "view",
+      "lively"
+    ],
+    "summary": "A giant curved LED screen outside COEX that makes 3D ocean waves appear to crash through the building.",
+    "description": "One of Korea's largest outdoor LED screens (80m wide, 20m tall) wraps the corner of the COEX/K-pop Square building in Samseong-dong, running d'strict's anamorphic \"WAVE\" illusion on a loop alongside K-pop content and public art. At night the crashing-wave effect looks genuinely three-dimensional from the plaza below — it's free, always on, and needs zero effort beyond standing in the right spot with a phone camera.",
+    "highlights": [
+      "d'strict's anamorphic \"WAVE\" 3D illusion, running continuously",
+      "80.1m x 20.1m LED screen, one of Korea's largest",
+      "Rotating K-pop and public digital art content",
+      "Right next to Starfield COEX Mall and Bongeunsa Temple"
+    ],
+    "tips": [
+      "It's an outdoor plaza, open 24 hours — but the wave effect reads best after dark.",
+      "Best viewing spot is the plaza directly across from the screen, not right underneath it.",
+      "Bongeunsa Station (Line 9) Exit 7 comes out almost right beside it.",
+      "Combine with Starfield COEX Mall, Starfield Library and Bongeunsa Temple, all within a few minutes' walk."
+    ],
+    "badges": {
+      "futuristic": true,
+      "mustSee": true,
+      "familyFriendly": true,
+      "valueForMoney": true
+    },
+    "ratings": {
+      "google": {
+        "score": 4.6,
+        "count": 74,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EC%BD%94%EC%97%91%EC%8A%A4%20%EC%BC%80%EC%9D%B4%ED%8C%9D%20%EC%8A%A4%ED%80%98%EC%96%B4%20(%EC%9B%A8%EC%9D%B4%EB%B8%8C)%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EC%98%81%EB%8F%99%EB%8C%80%EB%A1%9C%20513"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Press",
+        "text": "The WAVE creates an amazing effect as if waves are penetrating through the screen, establishing K-Pop Square as Seoul's most influential digital media landmark.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://english.visitseoul.net/area/COEXK-POPSquare/ENPnj8f9x"
+      },
+      {
+        "source": "Press",
+        "text": "One of the largest outdoor, high-definition LED screens in South Korea, built to feature K-pop content on a giant scale.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.koreaherald.com/article/1621275"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Free"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "24h",
+        "tue": "24h",
+        "wed": "24h",
+        "thu": "24h",
+        "fri": "24h",
+        "sat": "24h",
+        "sun": "24h"
+      },
+      "note": "Outdoor public plaza and screen, always accessible; best viewed after dark."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "A permanent outdoor media facade with no opening hours or closures — it runs every day including Chuseok.",
+      "verified": true,
+      "source": "https://english.visitseoul.net/area/COEXK-POPSquare/ENPnj8f9x"
+    },
+    "location": {
+      "address": "513 Yeongdong-daero, Gangnam-gu, Seoul",
+      "addressKo": "서울특별시 강남구 영동대로 513",
+      "district": "Gangnam-gu",
+      "neighborhood": "Samseong-dong",
+      "lat": 37.5125275,
+      "lng": 127.0588489,
+      "nearestStation": {
+        "name": "Bongeunsa",
+        "nameKo": "봉은사역",
+        "lines": [
+          "9"
+        ],
+        "exit": "Exit 7",
+        "walkMin": 1
+      }
+    },
+    "links": {
+      "website": "https://english.visitseoul.net/area/COEXK-POPSquare/ENPnj8f9x",
+      "naverMap": "https://map.naver.com/p/search/%EC%BD%94%EC%97%91%EC%8A%A4%20%EC%BC%80%EC%9D%B4%ED%8C%9D%20%EC%8A%A4%ED%80%98%EC%96%B4",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=COEX+K-pop+Square+Seoul"
+    },
+    "images": [
+      {
+        "url": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=74461&fileTy=MEDIA&fileNo=1&thumbTy=L",
+        "source": "https://english.visitseoul.net/area/COEXK-POPSquare/ENPnj8f9x",
+        "credit": "Visit Seoul (Seoul Tourism Organization)",
+        "alt": "COEX K-pop Square WAVE display at night"
+      },
+      {
+        "url": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=74462&fileTy=MEDIA&fileNo=1&thumbTy=L",
+        "source": "https://english.visitseoul.net/area/COEXK-POPSquare/ENPnj8f9x",
+        "credit": "Visit Seoul (Seoul Tourism Organization)",
+        "alt": "COEX K-pop Square plaza view"
+      },
+      {
+        "url": "https://wimg.heraldcorp.com/content/default/2018/03/21/20180321000864_0.jpg",
+        "source": "https://www.koreaherald.com/article/1621275",
+        "credit": "The Korea Herald",
+        "alt": "COEX outdoor LED screen"
+      },
+      {
+        "url": "https://wimg.heraldcorp.com/content/default/2018/03/21/20180321000865_0.jpg",
+        "source": "https://www.koreaherald.com/article/1621275",
+        "credit": "The Korea Herald",
+        "alt": "COEX K-pop Square screen and plaza"
+      }
+    ],
+    "duration": "15–30 min",
+    "bestTime": "After sunset",
+    "goodFor": [
+      "Family of 5",
+      "Photos",
+      "Night out",
+      "Quick bite"
+    ],
+    "sources": [
+      "https://english.visitseoul.net/area/COEXK-POPSquare/ENPnj8f9x",
+      "https://www.koreaherald.com/article/1621275",
+      "https://knowaboutkorea.com/places/guide/coex-kpop-square-demon-hunters-guide"
+    ],
+    "lastVerified": "2026-09-23"
+  },
+  {
+    "id": "d-museum-seongsu",
+    "name": "D Museum",
+    "nameKo": "디뮤지엄",
+    "category": "sight",
+    "subcategory": "Contemporary art museum",
+    "tags": [
+      "art",
+      "museum",
+      "instagrammable",
+      "design",
+      "indoor",
+      "rooftop"
+    ],
+    "vibes": [
+      "futuristic",
+      "minimal",
+      "design",
+      "quiet"
+    ],
+    "summary": "A sleek Seoul Forest photography/experiential-art museum with a rotating, made-for-Instagram exhibition.",
+    "description": "Run by the Daelim Cultural Foundation, D Museum relocated to a striking modern building beside Seoul Forest in 2021, and every exhibition is built as an immersive, photogenic experience rather than a traditional gallery hang — often blending photography, design and installation art. The rooftop area doubles as a relaxed photo spot with skyline views. It's an easy, air-conditioned couple of hours that reliably impresses parents and adult kids alike.",
+    "highlights": [
+      "A single large rotating exhibition designed as an immersive walk-through",
+      "Rooftop terrace with photo-friendly Seongsu skyline views",
+      "Museum shop with design-forward exhibition merchandise",
+      "A 10-minute walk from Seoul Forest park"
+    ],
+    "tips": [
+      "Closed Mondays, plus Lunar New Year and Chuseok — plan for 27 or 29 Sep, not the holiday itself.",
+      "Buy tickets online in advance for popular exhibitions to skip the queue.",
+      "Combine with Seoul Forest park and the Seongsu Yeonmujang-gil flagship stores nearby.",
+      "The rooftop is worth the walk up even if you find the main exhibition hit-or-miss."
+    ],
+    "badges": {
+      "hiddenGem": false,
+      "futuristic": true,
+      "familyFriendly": true
+    },
+    "ratings": {
+      "tripadvisor": {
+        "score": 4.1,
+        "count": 35,
+        "rank": "#195 of 1,622 things to do in Seoul",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d10288072-Reviews-D_Museum-Seoul.html"
+      }
+    },
+    "reviews": [
+      {
+        "source": "TripAdvisor",
+        "text": "The museum was really great and I wish I had more time to look around without having to wait on the crowds of people.",
+        "paraphrased": false,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d10288072-Reviews-D_Museum-Seoul.html"
+      },
+      {
+        "source": "TripAdvisor",
+        "text": "It's worth coming here — the quality of the exhibition is good, though it depends how much you're into art or design.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d10288072-Reviews-D_Museum-Seoul.html"
+      },
+      {
+        "source": "TripAdvisor",
+        "text": "A waste of time and money for some, but the rooftop has a nice area for photo-taking regardless of the exhibition.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d10288072-Reviews-D_Museum-Seoul.html"
+      }
+    ],
+    "price": {
+      "level": 2,
+      "perPersonKRW": [
+        6000,
+        18000
+      ],
+      "note": "Adults ₩18,000 / teens ₩9,000 / children ₩6,000 (varies by exhibition)"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "closed",
+        "tue": "11:00-20:00",
+        "wed": "11:00-20:00",
+        "thu": "11:00-20:00",
+        "fri": "11:00-20:00",
+        "sat": "11:00-20:00",
+        "sun": "11:00-20:00"
+      },
+      "note": "Closed Mondays, Lunar New Year's Day and Chuseok."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "closed",
+      "2026-09-25": "closed",
+      "2026-09-26": "closed",
+      "2026-09-27": "open",
+      "2026-09-28": "closed",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "closed",
+      "note": "D Museum is closed on Mondays, Lunar New Year's Day, and Chuseok. The 2026 Chuseok holiday runs 24–26 Sep, so it reopens 27 Sep, then closes again 28 Sep for its regular Monday closure.",
+      "verified": true,
+      "source": "https://www.daelimmuseum.org/"
+    },
+    "location": {
+      "address": "83-21 Wangsimni-ro, Seongdong-gu, Seoul",
+      "addressKo": "서울특별시 성동구 왕십리로 83-21",
+      "district": "Seongdong-gu",
+      "neighborhood": "Seongsu / Seoul Forest",
+      "lat": 37.5443073,
+      "lng": 127.0442762,
+      "nearestStation": {
+        "name": "Seoul Forest",
+        "nameKo": "서울숲역",
+        "lines": [
+          "SUIN"
+        ],
+        "exit": "Exit 3",
+        "walkMin": 8
+      }
+    },
+    "links": {
+      "website": "https://www.daelimmuseum.org/",
+      "naverMap": "https://map.naver.com/p/search/%EB%94%94%EB%AE%A4%EC%A7%80%EC%97%84",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=D+Museum+Seoul",
+      "tripadvisor": "https://www.tripadvisor.com/Attraction_Review-g294197-d10288072-Reviews-D_Museum-Seoul.html"
+    },
+    "images": [
+      {
+        "url": "https://ddcfsharestroage.blob.core.windows.net/share/Store/Homepage/Main/Pc/202201/20220124135922977001.jpg",
+        "source": "https://www.daelimmuseum.org/",
+        "credit": "Daelim Cultural Foundation / D Museum",
+        "alt": "D Museum official homepage image"
+      },
+      {
+        "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/1ea59929-4818-4b14-a07c-9fe715624389.jpeg",
+        "source": "https://world.nol.com/en/content/pois/d1ef1e9e-47f7-445e-abf9-bf6100fadd70",
+        "credit": "NOL World / Triple",
+        "alt": "D Museum exhibition installation view"
+      },
+      {
+        "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/8cc2e856-c9f2-459a-9ffd-a915e71b9bb2.jpeg",
+        "source": "https://world.nol.com/en/content/pois/d1ef1e9e-47f7-445e-abf9-bf6100fadd70",
+        "credit": "NOL World / Triple",
+        "alt": "D Museum interior gallery"
+      },
+      {
+        "url": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/d1e6ff4e-8f68-482f-b5c0-af51798d69ed.jpeg",
+        "source": "https://world.nol.com/en/content/pois/d1ef1e9e-47f7-445e-abf9-bf6100fadd70",
+        "credit": "NOL World / Triple",
+        "alt": "D Museum rooftop terrace"
+      }
+    ],
+    "duration": "1.5–2 h",
+    "bestTime": "Weekday afternoon",
+    "goodFor": [
+      "Family of 5",
+      "Photos",
+      "Rainy day"
+    ],
+    "sources": [
+      "https://www.daelimmuseum.org/",
+      "https://www.tripadvisor.com/Attraction_Review-g294197-d10288072-Reviews-D_Museum-Seoul.html",
+      "https://world.nol.com/en/content/pois/d1ef1e9e-47f7-445e-abf9-bf6100fadd70"
+    ],
+    "lastVerified": "2026-09-23"
+  },
+  {
+    "id": "ader-error-space-seongsu",
+    "name": "ADER Error Space Seongsu",
+    "nameKo": "아더에러 스페이스 성수",
+    "category": "shopping",
+    "subcategory": "Fashion flagship / concept store",
+    "tags": [
+      "design",
+      "instagrammable",
+      "art",
+      "free",
+      "indoor",
+      "reservation-needed",
+      "new-2025-2026"
+    ],
+    "vibes": [
+      "futuristic",
+      "hip",
+      "design",
+      "trendy"
+    ],
+    "summary": "ADER Error's reimagined Seongsu flagship, its \"FUTOURIST\" interior turned into undulating, warped rooms.",
+    "description": "For its 10th anniversary, Korean streetwear label ADER Error rebuilt its Seongsu flagship around a \"FUTOURIST: Imagination builds a new world\" concept — deliberately warped, undulating walls and ceilings that make the whole store feel like a glitch in reality. The ground floor sells clothing and accessories, the second floor is a cafe, and every corner is designed for photos. Because the space is large and popular, an on-site reservation is recommended to get in comfortably.",
+    "highlights": [
+      "\"FUTOURIST\" undulating, warped architecture throughout",
+      "Ground-floor flagship store, 2nd-floor cafe",
+      "Rotating art and product installations",
+      "A five-minute walk from Tamburins Seongsu and D Museum"
+    ],
+    "tips": [
+      "Open 11:30–19:00; the brand recommends an on-site reservation given how popular and large the space is.",
+      "Go on a weekday to actually see the architecture without a crowd in every shot.",
+      "Combine with Tamburins, D Museum and Seoul Forest for a Seongsu design-district afternoon.",
+      "Seongsu Station (Line 2) Exit 3/4 is about a 12-minute walk through Yeonmujang-gil."
+    ],
+    "badges": {
+      "futuristic": true,
+      "familyFriendly": true,
+      "valueForMoney": true
+    },
+    "ratings": {
+      "google": {
+        "score": 4.3,
+        "count": 401,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EC%95%84%EB%8D%94%EC%97%90%EB%9F%AC%20%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%20%EC%84%B1%EC%88%98%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%84%B1%EB%8F%99%EA%B5%AC%20%EC%84%B1%EC%88%98%EB%8F%992%EA%B0%80%20317-9"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Press",
+        "text": "ADERERROR renovated its flagship Seongsu space with the theme 'FUTOURIST: Imagination builds a new world' through undulating interiors.",
+        "paraphrased": true,
+        "lang": "en",
+        "date": "2024-12",
+        "url": "https://hypebeast.com/2024/12/adererror-seongsu-space-opening-south-korea-information"
+      },
+      {
+        "source": "Blog",
+        "text": "The flagship store covers a very large area, so an appointment is recommended before visiting.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://insideseoul.app/seongsu/shopping/ader-error-seongsu-space"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Free to browse"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "11:30-19:00",
+        "tue": "11:30-19:00",
+        "wed": "11:30-19:00",
+        "thu": "11:30-19:00",
+        "fri": "11:30-19:00",
+        "sat": "11:30-19:00",
+        "sun": "11:30-19:00"
+      },
+      "note": "On-site reservation recommended due to space and popularity."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "No 2026 Chuseok closure notice found; treated as open like other Seongsu concept-retail flagships. Not independently confirmed — check the brand's Instagram before Chuseok.",
+      "verified": false
+    },
+    "location": {
+      "address": "317-9 Seongsu-dong 2-ga, Seongdong-gu, Seoul",
+      "addressKo": "서울특별시 성동구 성수동2가 317-9",
+      "district": "Seongdong-gu",
+      "neighborhood": "Seongsu",
+      "lat": 37.5441819,
+      "lng": 127.0528802,
+      "nearestStation": {
+        "name": "Seongsu",
+        "nameKo": "성수역",
+        "lines": [
+          "2"
+        ],
+        "exit": "Exit 3",
+        "walkMin": 12
+      }
+    },
+    "links": {
+      "website": "https://adererror.com/",
+      "naverMap": "https://map.naver.com/p/search/%EC%95%84%EB%8D%94%EC%97%90%EB%9F%AC%20%EC%84%B1%EC%88%98",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=ADER+Error+Space+Seongsu"
+    },
+    "images": [
+      {
+        "url": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F12%2F23%2Fadererror-seongsu-space-opening-south-korea-information-1.jpg?q=90&w=1400&cbr=1&fit=max",
+        "source": "https://hypebeast.com/2024/12/adererror-seongsu-space-opening-south-korea-information",
+        "credit": "Hypebeast",
+        "alt": "ADER Error Seongsu undulating interior"
+      },
+      {
+        "url": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F12%2F23%2Fadererror-seongsu-space-opening-south-korea-information-2.jpg?q=90&w=1400&cbr=1&fit=max",
+        "source": "https://hypebeast.com/2024/12/adererror-seongsu-space-opening-south-korea-information",
+        "credit": "Hypebeast",
+        "alt": "ADER Error Seongsu warped ceiling"
+      },
+      {
+        "url": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F12%2F23%2Fadererror-seongsu-space-opening-south-korea-information-3.jpg?q=90&w=1400&cbr=1&fit=max",
+        "source": "https://hypebeast.com/2024/12/adererror-seongsu-space-opening-south-korea-information",
+        "credit": "Hypebeast",
+        "alt": "ADER Error Seongsu store floor"
+      },
+      {
+        "url": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F12%2F23%2Fadererror-seongsu-space-opening-south-korea-information-4.jpg?q=90&w=1400&cbr=1&fit=max",
+        "source": "https://hypebeast.com/2024/12/adererror-seongsu-space-opening-south-korea-information",
+        "credit": "Hypebeast",
+        "alt": "ADER Error Seongsu cafe level"
+      }
+    ],
+    "duration": "30–45 min",
+    "bestTime": "Weekday morning",
+    "goodFor": [
+      "Photos",
+      "Shopping",
+      "Family of 5"
+    ],
+    "sources": [
+      "https://hypebeast.com/2024/12/adererror-seongsu-space-opening-south-korea-information",
+      "https://insideseoul.app/seongsu/shopping/ader-error-seongsu-space"
+    ],
+    "lastVerified": "2026-09-23"
+  },
+  {
+    "id": "boon-the-shop-cheongdam",
+    "name": "Boon the Shop Cheongdam",
+    "nameKo": "분더샵 청담",
+    "category": "shopping",
+    "subcategory": "Luxury concept store",
+    "tags": [
+      "design",
+      "instagrammable",
+      "fashion",
+      "indoor"
+    ],
+    "vibes": [
+      "luxe",
+      "minimal",
+      "design"
+    ],
+    "summary": "Korea's first luxury multi-brand store, rebuilt by Peter Marino into two white-marble volumes in Cheongdam.",
+    "description": "Opened in 2004 as Korea's first luxury multi-brand boutique, Boon the Shop's Cheongdam flagship was rebuilt in 2014 by American architect Peter Marino into two sharp-angled white marble buildings — Building N and Building S — linked by a passageway, spread over seven floors and 55,000 sq ft. Even without buying anything, it's worth a walk-through for the architecture and rotating in-store art, and it anchors an easy stroll through Cheongdam's other design-forward flagships.",
+    "highlights": [
+      "Peter Marino's two-volume white marble architecture (Building N & S)",
+      "Curated multi-brand luxury fashion across seven floors",
+      "Rotating art installations inside the store",
+      "Steps from SongEun Art Space and other Cheongdam flagships"
+    ],
+    "tips": [
+      "Open daily 11:00–20:00.",
+      "Even non-shoppers can walk through for the architecture — staff are used to browsers.",
+      "Combine with SongEun Art Space and the Dosan Park flagship strip for a Cheongdam design walk.",
+      "Apgujeong Rodeo Station (Suin-Bundang Line) Exit 2 is about an 8-minute walk."
+    ],
+    "badges": {
+      "futuristic": false,
+      "familyFriendly": true
+    },
+    "ratings": {
+      "google": {
+        "score": 4.3,
+        "count": 359,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EB%B6%84%EB%8D%94%EC%83%B5%20%EC%B2%AD%EB%8B%B4%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EC%95%95%EA%B5%AC%EC%A0%95%EB%A1%9C60%EA%B8%B8%2021"
+      },
+      "tripadvisor": {
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294197-d24036645-Reviews-BOONTHESHOP_CHEONGDAM_STORE-Seoul.html"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Press",
+        "text": "The flagship, upgraded and reorganized by architect Peter Marino in 2014, comprises 55,000 sq ft over seven floors in two polished white marble volumes.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://english.visitseoul.net/area/BOONTHESHOPCHEONGDAM/ENP020328"
+      },
+      {
+        "source": "Press",
+        "text": "Boon the Shop opened in 2004 as Korea's first luxury multi-brand store.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://www.archdaily.com/782350/boontheshop-peter-marino-architect"
+      }
+    ],
+    "price": {
+      "level": 4,
+      "note": "Free to browse; luxury goods priced individually"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "11:00-20:00",
+        "tue": "11:00-20:00",
+        "wed": "11:00-20:00",
+        "thu": "11:00-20:00",
+        "fri": "11:00-20:00",
+        "sat": "11:00-20:00",
+        "sun": "11:00-20:00"
+      }
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "closed",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "partial",
+      "note": "No 2026 notice found. Inferred closed on Chuseok day itself (25 Sep) as is common for high-end Korean boutiques, open the rest of the holiday period — unconfirmed, call ahead.",
+      "verified": false
+    },
+    "location": {
+      "address": "21 Apgujeong-ro 60-gil, Gangnam-gu, Seoul",
+      "addressKo": "서울특별시 강남구 압구정로60길 21",
+      "district": "Gangnam-gu",
+      "neighborhood": "Cheongdam",
+      "lat": 37.5263788,
+      "lng": 127.0419601,
+      "nearestStation": {
+        "name": "Apgujeong Rodeo",
+        "nameKo": "압구정로데오역",
+        "lines": [
+          "SUIN"
+        ],
+        "exit": "Exit 2",
+        "walkMin": 8
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%EB%B6%84%EB%8D%94%EC%83%B5%20%EC%B2%AD%EB%8B%B4",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=Boon+the+Shop+Cheongdam",
+      "tripadvisor": "https://www.tripadvisor.com/Attraction_Review-g294197-d24036645-Reviews-BOONTHESHOP_CHEONGDAM_STORE-Seoul.html"
+    },
+    "images": [
+      {
+        "url": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=57560&fileTy=MEDIA&fileNo=1&thumbTy=L",
+        "source": "https://english.visitseoul.net/area/BOONTHESHOPCHEONGDAM/ENP020328",
+        "credit": "Visit Seoul (Seoul Tourism Organization)",
+        "alt": "Boon the Shop Cheongdam storefront"
+      },
+      {
+        "url": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=57562&fileTy=MEDIA&fileNo=2&thumbTy=L",
+        "source": "https://english.visitseoul.net/area/BOONTHESHOPCHEONGDAM/ENP020328",
+        "credit": "Visit Seoul (Seoul Tourism Organization)",
+        "alt": "Boon the Shop Cheongdam bag display"
+      },
+      {
+        "url": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=57563&fileTy=MEDIA&fileNo=1&thumbTy=L",
+        "source": "https://english.visitseoul.net/area/BOONTHESHOPCHEONGDAM/ENP020328",
+        "credit": "Visit Seoul (Seoul Tourism Organization)",
+        "alt": "Boon the Shop Cheongdam clothing floor"
+      },
+      {
+        "url": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=57564&fileTy=MEDIA&fileNo=1&thumbTy=L",
+        "source": "https://english.visitseoul.net/area/BOONTHESHOPCHEONGDAM/ENP020328",
+        "credit": "Visit Seoul (Seoul Tourism Organization)",
+        "alt": "Boon the Shop Cheongdam interior"
+      }
+    ],
+    "duration": "30–45 min",
+    "bestTime": "Weekday afternoon",
+    "goodFor": [
+      "Photos",
+      "Shopping",
+      "Date"
+    ],
+    "sources": [
+      "https://english.visitseoul.net/area/BOONTHESHOPCHEONGDAM/ENP020328",
+      "https://www.archdaily.com/782350/boontheshop-peter-marino-architect",
+      "https://www.tripadvisor.com/Attraction_Review-g294197-d24036645-Reviews-BOONTHESHOP_CHEONGDAM_STORE-Seoul.html"
+    ],
+    "lastVerified": "2026-09-23"
+  },
+  {
+    "id": "house-of-shinsegae-cheongdam",
+    "name": "House of Shinsegae Cheongdam",
+    "nameKo": "하우스 오브 신세계 청담",
+    "category": "shopping",
+    "subcategory": "Gourmet food hall",
+    "tags": [
+      "design",
+      "instagrammable",
+      "indoor",
+      "new-2025-2026",
+      "parent-friendly"
+    ],
+    "vibes": [
+      "luxe",
+      "minimal",
+      "design",
+      "trendy"
+    ],
+    "summary": "Shinsegae's reinvented Cheongdam gourmet hall — gray metallic shelving, dry-aged fish tech, a wellness-first edit.",
+    "description": "Reopened 13 December 2025, this is the former SSG Food Market Cheongdam/Dogok completely reworked into \"House of Shinsegae\" — gray metallic shelving instead of Baroque fixtures, energetic music instead of classical, and a curated 6,000-item edit (down from 20,000) built around health-oriented picks rather than pure luxury. It's the first domestic store to use fish dry-aging technology with a visible aging display, and the basement holds a smoothie bar and lounge seating. It's essentially a design-forward, very clean grocery hall that doubles as a browse-and-snack stop.",
+    "highlights": [
+      "Domestic-first fish dry-aging display technology",
+      "Gray-metallic, fashion-brand-style shelving and casual staff uniforms",
+      "\"Twelve\" premium food hall and \"Twelve Wonder Bar\" smoothie counter in the basement",
+      "Curated ~6,000-item wellness-focused edit aimed at Cheongdam/Apgujeong locals in their 30s–40s"
+    ],
+    "tips": [
+      "Reopened only in Dec 2025 — hours weren't independently confirmed for this guide; expect roughly 10:30–20:00 like sister branches and check before going.",
+      "Go for the free-to-browse food-hall atmosphere even without buying — the dry-aging fish display alone is worth seeing.",
+      "Pair with Boon the Shop and SongEun Art Space, both a short walk away in Cheongdam.",
+      "Department-store-linked branches like this typically close one day around Chuseok — call ahead for 24–26 Sep."
+    ],
+    "badges": {
+      "futuristic": true,
+      "familyFriendly": true,
+      "hiddenGem": true
+    },
+    "ratings": {
+      "google": {
+        "score": 5,
+        "count": 4,
+        "url": "https://www.google.com/maps/search/?api=1&query=%ED%95%98%EC%9A%B0%EC%8A%A4%20%EC%98%A4%EB%B8%8C%20%EC%8B%A0%EC%84%B8%EA%B3%84%20%EC%B2%AD%EB%8B%B4%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EB%8F%84%EC%82%B0%EB%8C%80%EB%A1%9C%20442"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Press",
+        "text": "The venue departs from traditional luxury food hall aesthetics — gray metallic shelving replaces Baroque-style fixtures, and staff wear casual clothing instead of formal uniforms.",
+        "paraphrased": true,
+        "lang": "en",
+        "date": "2025-12",
+        "url": "https://www.asiae.co.kr/en/article/2025121014331342650"
+      },
+      {
+        "source": "Press",
+        "text": "The store's first domestic application of fish dry-aging technology visualizes the aging process for shoppers.",
+        "paraphrased": true,
+        "lang": "en",
+        "date": "2025-12",
+        "url": "https://www.asiae.co.kr/en/article/2025121014331342650"
+      }
+    ],
+    "price": {
+      "level": 3,
+      "note": "Free to browse; groceries and prepared food priced individually"
+    },
+    "hours": {
+      "note": "Hours not independently confirmed since the Dec 2025 reopening — likely similar to sister branches (~10:30–20:00). Call ahead."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "unknown",
+      "2026-09-25": "unknown",
+      "2026-09-26": "unknown",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found for this newly reopened store. Department-store-affiliated branches typically close one day around Chuseok — treat 24–26 Sep as uncertain and call ahead.",
+      "verified": false
+    },
+    "location": {
+      "address": "442 Dosan-daero, Gangnam-gu, Seoul",
+      "addressKo": "서울특별시 강남구 도산대로 442",
+      "district": "Gangnam-gu",
+      "neighborhood": "Cheongdam",
+      "lat": 37.5246317,
+      "lng": 127.0501012,
+      "nearestStation": {
+        "name": "Apgujeong Rodeo",
+        "nameKo": "압구정로데오역",
+        "lines": [
+          "SUIN"
+        ],
+        "exit": "Exit 2",
+        "walkMin": 10
+      }
+    },
+    "links": {
+      "naverMap": "https://map.naver.com/p/search/%ED%95%98%EC%9A%B0%EC%8A%A4%20%EC%98%A4%EB%B8%8C%20%EC%8B%A0%EC%84%B8%EA%B3%84%20%EC%B2%AD%EB%8B%B4",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=House+of+Shinsegae+Cheongdam"
+    },
+    "images": [
+      {
+        "url": "https://cphoto.asiae.co.kr/listimglink/1/2025121014180050708_1765343881.jpg",
+        "source": "https://www.asiae.co.kr/en/article/2025121014331342650",
+        "credit": "Asia Business Daily",
+        "alt": "House of Shinsegae Cheongdam interior"
+      },
+      {
+        "url": "https://cphoto.asiae.co.kr/listimglink/1/2025121014183750709_1765343918.jpg",
+        "source": "https://www.asiae.co.kr/en/article/2025121014331342650",
+        "credit": "Asia Business Daily",
+        "alt": "House of Shinsegae Cheongdam food display"
+      },
+      {
+        "url": "https://cphoto.asiae.co.kr/listimglink/1/2025121014193450712_1765343975.jpg",
+        "source": "https://www.asiae.co.kr/en/article/2025121014331342650",
+        "credit": "Asia Business Daily",
+        "alt": "House of Shinsegae Cheongdam shelving and layout"
+      }
+    ],
+    "duration": "45 min–1 h",
+    "bestTime": "Weekday afternoon",
+    "goodFor": [
+      "Family of 5",
+      "Parents",
+      "Shopping",
+      "Foodies"
+    ],
+    "sources": [
+      "https://www.asiae.co.kr/en/article/2025121014331342650",
+      "https://10mag.com/directory/restaurants/grocery-stores/seoul/ssg-food-market-seoul-south-korea/"
+    ],
+    "lastVerified": "2026-09-23"
+  }
+]
