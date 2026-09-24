@@ -10,10 +10,22 @@ import './styles/tokens.css';
 import './styles/base.css';
 import './styles/components.css';
 import './styles/pages.css';
+import { registerSW } from 'virtual:pwa-register';
 import { applyTheme } from './lib/store';
 import { App } from './App';
 
 applyTheme();
+
+// New deploys activate right away (autoUpdate reloads the page); also check for one whenever the app is reopened.
+const updateSW = registerSW({
+  immediate: true,
+  onRegisteredSW(_url, reg) {
+    if (!reg) return;
+    document.addEventListener('visibilitychange', () => document.visibilityState === 'visible' && reg.update());
+    setInterval(() => reg.update(), 30 * 60 * 1000);
+  },
+});
+void updateSW;
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>

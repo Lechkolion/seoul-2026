@@ -166,9 +166,10 @@ export function DaysPage() {
       .then((r) => (r.ok ? r.json() : []))
       .then((d: Day[]) => {
         setDays(d);
-        const today = seoulNow().date;
+        const now = seoulNow();
         const hash = location.hash.split('?d=')[1];
-        const pick = d.find((x) => x.date === hash) ?? d.find((x) => x.date >= today) ?? d[0];
+        // after 18:00 show tomorrow's plan
+        const pick = d.find((x) => x.date === hash) ?? d.find((x) => (now.hour >= 18 ? x.date > now.date : x.date >= now.date)) ?? d[d.length - 1];
         if (pick) setSel(pick.date);
       })
       .catch(() => setDays([]));
@@ -187,8 +188,8 @@ export function DaysPage() {
   return (
     <div className="wrap page daysp">
       <header className="page__head">
-        <p className="kicker">Ready-made days</p>
-        <h1 className="page__title">Five easy days</h1>
+        <p className="kicker">Our plan · ready-made days</p>
+        <h1 className="page__title">Day by day</h1>
         <p className="page__lede">Hand-picked routes for 25–29 Sep, checked against Chuseok closures. Subway times from the same router as every place; tap a hop for stations.</p>
       </header>
 
@@ -239,7 +240,7 @@ export function DaysPage() {
                 })()}
               </span>
               <button type="button" className="btn btn--ghost btn--sm" onClick={addAll}>
-                <ListPlus size={16} aria-hidden="true" /> {added === day.date ? 'Added to Plan ✓' : 'Add to my plan'}
+                <ListPlus size={16} aria-hidden="true" /> {added === day.date ? 'Copied to Saved ✓' : 'Copy to Saved'}
               </button>
             </div>
           </div>

@@ -10,6 +10,7 @@ import { hasBadge, isHeritage, sortPlaces } from '../lib/filters';
 import { useWeather, describe } from '../lib/weather';
 import { Shelf } from '../components/Shelf';
 import { WeatherCard } from '../components/WeatherCard';
+import { PlanCard } from '../components/PlanCard';
 import { Img } from '../components/Img';
 import { CATEGORY_ICON, MoonMark } from '../components/icons';
 import { Skeleton } from '../components/bits';
@@ -188,11 +189,15 @@ export function HomePage() {
             </button>
           </form>
           <Link to="/days" className="btn btn--primary hero__days">
-            Ready-made day plans <ArrowRight size={18} aria-hidden="true" />
+            Our day-by-day plan <ArrowRight size={18} aria-hidden="true" />
           </Link>
           {hero && <p className="hero__credit">Photo: {hero.name} · {hero.images[0]?.credit}</p>}
         </div>
       </section>
+
+      <div className="wrap">
+        <PlanCard />
+      </div>
 
       <div className="wrap home__grid">
         <ChuseokBanner places={places} />

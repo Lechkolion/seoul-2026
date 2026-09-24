@@ -15,10 +15,10 @@
  * public/data/home.enc.json and never written in plain text. The script fails if they leak into public/data.
  * Zero dependencies.
  */
-import { readFileSync, writeFileSync, existsSync, mkdirSync, readdirSync } from 'node:fs';
+import { readFileSync, writeFileSync, existsSync, mkdirSync, readdirSync, statSync } from 'node:fs';
 import { join, resolve, dirname, relative } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { pbkdf2Sync, randomBytes, createCipheriv, createDecipheriv } from 'node:crypto';
+import { pbkdf2Sync, randomBytes, createCipheriv, createDecipheriv, createHash } from 'node:crypto';
 import { validateFiles, listPlaceFiles, loadFile, validateRecord, normalizeLine, haversineM, CATEGORIES } from './validate-places.mjs';
 import { createRouter } from './transit/router.mjs';
 import { loadHome } from './transit/home.mjs';
@@ -98,6 +98,14 @@ for (const cand of records.map((r) => ({ ...r, rec: normalize(r.rec) }))) {
 const cachePath = join(ROOT, 'data', 'media-cache.json');
 const media = existsSync(cachePath) ? readJson(cachePath) : {};
 let localImgs = 0, deadImgs = 0, insecureImgs = 0;
+/** Cache-bust local images: phones cache them CacheFirst, and a file can be replaced under the same name. */
+function versioned(file) {
+  const abs = join(ROOT, 'public', file);
+  if (!existsSync(abs)) return file;
+  const st = statSync(abs);
+  return `${file}?v=${createHash('md5').update(`${st.size}:${st.mtimeMs}`).digest('hex').slice(0, 8)}`;
+}
+
 function withMedia(p) {
   const images = [];
   for (const im of p.images || []) {
@@ -105,7 +113,7 @@ function withMedia(p) {
     if (m?.status === 'dead') { deadImgs++; continue; }
     if (m?.status === 'ok' && m.file && existsSync(join(ROOT, 'public', m.file))) {
       localImgs++;
-      images.push({ ...im, url: m.file, thumb: m.thumb, remoteUrl: im.url, width: m.width, height: m.height });
+      images.push({ ...im, url: versioned(m.file), thumb: m.thumb && versioned(m.thumb), remoteUrl: im.url, width: m.width, height: m.height });
     } else if (/^https:\/\//i.test(im.url)) images.push(im);
     else insecureImgs++; // http-only remote image would be blocked as mixed content on the https site
   }

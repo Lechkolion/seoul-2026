@@ -118,9 +118,11 @@ export function PlanPage() {
   return (
     <div className="wrap page plan">
       <header className="page__head">
-        <p className="kicker">Saved &amp; plan</p>
-        <h1 className="page__title">Your days in Seoul</h1>
-        <p className="page__lede">Save places with the heart, then drop them onto a day. Closed-day clashes are flagged automatically.</p>
+        <p className="kicker">Saved places</p>
+        <h1 className="page__title">Your own list</h1>
+        <p className="page__lede">
+          Looking for the day plans? They are in the <Link to="/days">Plan tab</Link>. Here you keep your own picks: save places with the heart, then drop them onto a day.
+        </p>
         <div className="page__actions">
           <button type="button" className="btn btn--primary" onClick={share} disabled={!saved.length}>
             <Link2 size={18} aria-hidden="true" /> Share plan link

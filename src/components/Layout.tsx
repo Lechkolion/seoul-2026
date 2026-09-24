@@ -8,8 +8,8 @@ const NAV = [
   { to: '/', label: 'Home', icon: HomeIcon, end: true },
   { to: '/explore', label: 'Explore', icon: Compass },
   { to: '/map', label: 'Map', icon: MapIcon },
-  { to: '/days', label: 'Days', icon: RouteIcon },
-  { to: '/plan', label: 'Plan', icon: CalendarHeart },
+  { to: '/days', label: 'Plan', icon: RouteIcon },
+  { to: '/plan', label: 'Saved', icon: CalendarHeart },
   { to: '/practical', label: 'Guide', icon: Info },
 ];
 

@@ -11,7 +11,7 @@ export default defineConfig({
     react(),
     VitePWA({
       registerType: 'autoUpdate',
-      injectRegister: 'auto',
+      injectRegister: null, // registered in src/main.tsx so the app reloads itself on a new deploy
       includeAssets: ['favicon.svg', 'robots.txt', 'apple-touch-icon.png'],
       manifest: {
         name: 'Seoul 2026 · Family Guide',
@@ -44,7 +44,7 @@ export default defineConfig({
           {
             urlPattern: ({ url }) => url.pathname.includes('/images/'),
             handler: 'CacheFirst',
-            options: { cacheName: 'local-images', expiration: { maxEntries: 1500, maxAgeSeconds: 60 * 60 * 24 * 60 } },
+            options: { cacheName: 'local-images-v2', expiration: { maxEntries: 1500, maxAgeSeconds: 60 * 60 * 24 * 60 } },
           },
           {
             urlPattern: ({ request, url }) => request.destination === 'image' && url.origin !== self.location.origin && !url.hostname.includes('arcgisonline.com'),
