@@ -1,0 +1,2523 @@
+[
+  {
+    "id": "the-sphere-jamsil",
+    "name": "The Sphere Jamsil",
+    "nameKo": "더 스피어",
+    "category": "sight",
+    "subcategory": "Modern sculpture / media-art landmark",
+    "tags": [
+      "free",
+      "instagrammable",
+      "night-view",
+      "outdoor",
+      "new-2025-2026",
+      "iconic",
+      "kid-friendly",
+      "parent-friendly"
+    ],
+    "vibes": [
+      "futuristic",
+      "design",
+      "view"
+    ],
+    "summary": "A glowing 7 m LED sphere by Seokchon Lake that turns into a free 3D media-art show after dark.",
+    "description": "Installed in Songpa Naru Park on the south shore of Seokchon Lake, The Sphere is a spherical LED structure that screens looping 3D media-art content — abstract patterns, seasonal themes, and a few interactive pieces visitors can trigger by standing in front of sensors. It's unstaffed, free, and open around the clock, so it works as a 20-minute add-on to a lakeside walk rather than a destination in itself. It sits about 10 minutes on foot from Lotte World Tower/Seoul Sky and Lotte World Adventure, making it an easy free stop before or after either. Content quality gets mixed reviews from frequent visitors, but as a no-cost night-time photo op by the water it's an easy win.",
+    "highlights": [
+      "7 m spherical LED screen wrapped in real-time 3D media art",
+      "A few interactive content segments triggered by motion",
+      "Lakeside setting on Seokchon Lake's south shore (Songpa Naru Park)",
+      "10-minute walk to Lotte World Tower / Seoul Sky and Lotte World Adventure"
+    ],
+    "tips": [
+      "Go after sunset (from ~7pm in late September) — the screen barely registers in daylight",
+      "Loop the rest of Seokchon Lake before or after; it's a flat, stroller-friendly path",
+      "Some visitors find the content library a bit thin/repetitive — treat it as a quick free photo stop, not a headline attraction",
+      "Nearest exit is Seokchon Station (Line 8) Exit 8, about 9 minutes on foot"
+    ],
+    "badges": {
+      "futuristic": true,
+      "familyFriendly": true,
+      "valueForMoney": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.3,
+        "count": 4,
+        "url": "https://place.map.kakao.com/527888296"
+      },
+      "google": {
+        "score": 4.8,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EB%8D%94%20%EC%8A%A4%ED%94%BC%EC%96%B4%20%EC%84%9C%EC%9A%B8%20%EC%86%A1%ED%8C%8C%EA%B5%AC%20%EC%9E%A0%EC%8B%A4%EB%8F%99%2047"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "The 3D media art blends nicely with the lake scenery, and having interactive content that visitors can trigger makes it feel fresh.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "The content library feels a bit thin for what was spent on it — worth a quick look, not a long visit.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "\"Quite impressive either way\" — a pleasant surprise on a lakeside evening walk.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Free"
+    },
+    "hours": {
+      "weekly": {
+        "mon": "24h",
+        "tue": "24h",
+        "wed": "24h",
+        "thu": "24h",
+        "fri": "24h",
+        "sat": "24h",
+        "sun": "24h"
+      },
+      "note": "Unstaffed outdoor installation; media-art screen is most visible after dark."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "Unstaffed outdoor sculpture in a public park — nothing to close for Chuseok.",
+      "verified": false
+    },
+    "location": {
+      "address": "47 Jamsil-dong, Songpa-gu, Seoul (Songpa Naru Park, Seokchon Lake south shore)",
+      "addressKo": "서울 송파구 잠실동 47 (송파나루공원)",
+      "district": "Songpa-gu",
+      "neighborhood": "Jamsil / Seokchon Lake",
+      "lat": 37.5122807,
+      "lng": 127.0855986,
+      "nearestStation": {
+        "name": "Seokchon",
+        "nameKo": "석촌역",
+        "lines": [
+          "8"
+        ],
+        "exit": "Exit 8",
+        "walkMin": 9
+      }
+    },
+    "links": {
+      "kakaoMap": "https://place.map.kakao.com/527888296",
+      "naverMap": "https://map.naver.com/p/search/%EB%8D%94%20%EC%8A%A4%ED%94%BC%EC%96%B4",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EB%8D%94%20%EC%8A%A4%ED%94%BC%EC%96%B4%20%EC%84%9C%EC%9A%B8%20%EC%86%A1%ED%8C%8C%EA%B5%AC%20%EC%9E%A0%EC%8B%A4%EB%8F%99%2047"
+    },
+    "images": [
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/8859c6d75cea7f80ce54d9401f79b04e6c8c9e1c?original",
+        "source": "https://place.map.kakao.com/527888296",
+        "credit": "Kakao Map user photo",
+        "alt": "The Sphere illuminated at night by Seokchon Lake"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/cb3b98afe89390624cd5d7281840a92f510acc43bc0a3ad56277913bd9398c19",
+        "source": "https://place.map.kakao.com/527888296",
+        "credit": "Kakao Map user photo",
+        "alt": "Close-up of the spherical LED media art surface"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/71a9453f5f0700c65f8894839e56914639e5135afcea4e410255a7969d6cfa3c",
+        "source": "https://place.map.kakao.com/527888296",
+        "credit": "Kakao Map user photo",
+        "alt": "The Sphere with visitors walking past at dusk"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/73da61bdf4dd25ed52b350d144bd6c4f57dedf0a41de88b2a92a6bd5dcf8642e",
+        "source": "https://place.map.kakao.com/527888296",
+        "credit": "Kakao Map user photo",
+        "alt": "The Sphere reflected on Seokchon Lake"
+      }
+    ],
+    "duration": "20-30 min",
+    "bestTime": "After sunset",
+    "goodFor": [
+      "Family of 5",
+      "Photos",
+      "Night out",
+      "Kids at heart"
+    ],
+    "reservation": {
+      "recommended": false
+    },
+    "sources": [
+      "https://place.map.kakao.com/527888296",
+      "https://www.google.com/maps/place/%EB%8D%94+%EC%8A%A4%ED%94%BC%EC%96%B4(The+Sphere)"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "ground-seesaw-hannam",
+    "name": "Ground Seesaw Hannam",
+    "nameKo": "그라운드시소 한남",
+    "category": "experience",
+    "subcategory": "Immersive art exhibition",
+    "tags": [
+      "indoor",
+      "rainy-day",
+      "instagrammable",
+      "art",
+      "reservation-needed",
+      "parent-friendly",
+      "new-2025-2026"
+    ],
+    "vibes": [
+      "design",
+      "quiet",
+      "hip"
+    ],
+    "summary": "A rotating photography/art exhibition hall in a Hannam-dong basement — currently a summer-themed photo show through Nov 2026.",
+    "description": "Ground Seesaw is a small chain of exhibition halls in converted commercial basements, and the Hannam branch (below the Gourmet494 Hannam food hall) is one of its best-rated. The current show, a Sung Ryul photography exhibition called \"Summer-Like Us,\" runs 30 Apr–22 Nov 2026, so it will be on throughout the trip window. Rooms are air-conditioned, wheelchair-accessible, and low-effort to walk through at your own pace — a good rainy-afternoon or midday-heat option that isn't a workshop or physical activity. It's a 10-minute walk from Hangangjin Station, so easy to pair with a Hannam-dong lunch or the boutiques nearby.",
+    "highlights": [
+      "Current exhibit: Sung Ryul photography show \"Summer-Like Us\" (through 22 Nov 2026)",
+      "Self-paced walkthrough, fully indoors and air-conditioned",
+      "Located beneath Gourmet494 Hannam food hall — easy to combine with a meal",
+      "Wheelchair accessible, cloak/storage available"
+    ],
+    "tips": [
+      "Ticket sales/admission cut off at 6pm daily even though the space is open later — go by mid-afternoon",
+      "Book ahead online for a small discount versus walk-up price",
+      "Closed only on the first Monday of each month (not a factor 26–29 Sep) and stays open through public holidays",
+      "Pair with lunch or a coffee at Gourmet494 Hannam right upstairs"
+    ],
+    "badges": {
+      "futuristic": false,
+      "familyFriendly": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.8,
+        "count": 45,
+        "url": "https://place.map.kakao.com/1587008231"
+      },
+      "google": {
+        "score": 4.7,
+        "count": 23,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C%EC%8B%9C%EC%86%8C%20%ED%95%9C%EB%82%A8"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "Really enjoyed the exhibition, and the gallery itself is well laid out and tidy.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Blog",
+        "text": "A visitor who booked early bird tickets for \"Summer-Like Us\" said it was worth the wait until the end of summer to catch it.",
+        "paraphrased": true,
+        "lang": "en",
+        "url": "https://blog.naver.com"
+      },
+      {
+        "source": "Kakao",
+        "text": "One visitor compared it to a manga come to life — a gentle, healing kind of show.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 2,
+      "perPersonKRW": [
+        20000,
+        20000
+      ],
+      "note": "Standard adult ticket ₩20,000 for the current exhibit (\"Sung Ryul: Summer-Like Us,\" through 22 Nov 2026); price varies by future exhibit."
+    },
+    "hours": {
+      "weekly": {
+        "mon": "10:00-19:00",
+        "tue": "10:00-19:00",
+        "wed": "10:00-19:00",
+        "thu": "10:00-19:00",
+        "fri": "10:00-19:00",
+        "sat": "10:00-19:00",
+        "sun": "10:00-19:00"
+      },
+      "lastOrder": "Last admission 18:00",
+      "note": "Closed the first Monday of each month; open on public holidays."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "Only closes on the first Monday of each month (7 Sep 2026, not in our window); official FAQ for the sister Central branch states public holidays run normally.",
+      "verified": false,
+      "source": "https://place.map.kakao.com/1587008231"
+    },
+    "location": {
+      "address": "B1, Gourmet494 Hannam, 91 Hannam-daero, Yongsan-gu, Seoul",
+      "addressKo": "서울 용산구 한남대로 91 고메이494 한남 B층",
+      "district": "Yongsan-gu",
+      "neighborhood": "Hannam-dong",
+      "lat": 37.5310578,
+      "lng": 127.0095218,
+      "nearestStation": {
+        "name": "Hangangjin",
+        "nameKo": "한강진역",
+        "lines": [
+          "6"
+        ],
+        "exit": "Exit 3",
+        "walkMin": 10
+      }
+    },
+    "links": {
+      "website": "https://groundseesaw.co.kr",
+      "kakaoMap": "https://place.map.kakao.com/1587008231",
+      "naverMap": "https://map.naver.com/p/search/%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C%EC%8B%9C%EC%86%8C%20%ED%95%9C%EB%82%A8",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C%EC%8B%9C%EC%86%8C%20%ED%95%9C%EB%82%A8",
+      "phone": "+82-2-1522-1796"
+    },
+    "images": [
+      {
+        "url": "https://t1.kakaocdn.net/mystore/35913FB573134ABDB92A5226100EBF44",
+        "source": "https://place.map.kakao.com/1587008231",
+        "credit": "Kakao Map / official listing photo",
+        "alt": "Ground Seesaw Hannam exhibition entrance"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/a6e1b81f2a4868f9e87212a2a35de7f81234d227?original",
+        "source": "https://place.map.kakao.com/1587008231",
+        "credit": "Kakao Map user photo",
+        "alt": "Inside the Sung Ryul photography exhibit"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/booking/review/8190B8C3252B41988C30E9555AB614C4",
+        "source": "https://place.map.kakao.com/1587008231",
+        "credit": "Kakao Map booking review photo",
+        "alt": "Visitors walking through the gallery space"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/booking/review/385B5BA019AD42A2A8FD6D5F1E0819CD",
+        "source": "https://place.map.kakao.com/1587008231",
+        "credit": "Kakao Map booking review photo",
+        "alt": "Exhibition room detail"
+      }
+    ],
+    "duration": "45-60 min",
+    "bestTime": "Weekday afternoon before 5pm",
+    "goodFor": [
+      "Family of 5",
+      "Rainy day",
+      "Date",
+      "Photos"
+    ],
+    "reservation": {
+      "recommended": true,
+      "how": "groundseesaw.co.kr or Kakao Map booking"
+    },
+    "sources": [
+      "https://place.map.kakao.com/1587008231",
+      "https://groundseesaw.co.kr"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "ground-seesaw-central",
+    "name": "Ground Seesaw Central",
+    "nameKo": "그라운드시소 센트럴",
+    "category": "experience",
+    "subcategory": "Immersive art exhibition",
+    "tags": [
+      "indoor",
+      "rainy-day",
+      "instagrammable",
+      "art",
+      "reservation-needed",
+      "parent-friendly",
+      "accessible"
+    ],
+    "vibes": [
+      "design",
+      "quiet",
+      "hip"
+    ],
+    "summary": "Ground Seesaw's flagship hall by Seoul Station — a photography exhibition two minutes from the KTX/subway concourse.",
+    "description": "The Central branch, three floors up in the Grand Central building opposite Seoul Station, is Ground Seesaw's biggest and most-reviewed space (over 3,700 blog posts). It currently runs \"Pyogisik\" (표기식), a photography exhibition, with a per-person ticket and a wheelchair-accessible, cloakroom-equipped gallery. Because it's steps from Seoul Station it slots neatly into a transit day or a rainy-day plan without a special trip, and — unusually for Seoul exhibition spaces — it stays open on public holidays including Chuseok. Reviewers compare the production quality to a proper multiplex-grade show rather than a pop-up.",
+    "highlights": [
+      "Current exhibit: \"Pyogisik\" photography show, ₩20,000",
+      "Two minutes from Seoul Station Exit 4 — easy to slot into a transit day",
+      "Wheelchair accessible with cloakroom and gift shop",
+      "2 hours free parking at the Grand Central building garage while visiting"
+    ],
+    "tips": [
+      "Closed only on the first Monday of each month; runs normally on public holidays, including Chuseok",
+      "2 hours of free parking validated at the on-site art shop if you drive",
+      "Past shows (Yoshigo, Wes Anderson-themed) sold out early-bird slots — book online ahead rather than walking in",
+      "Combine with a meal at Seoul Station's food court or a quick City Hall/Deoksugung stroll"
+    ],
+    "badges": {
+      "futuristic": false,
+      "familyFriendly": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.7,
+        "count": 175,
+        "url": "https://place.map.kakao.com/1875653630"
+      },
+      "google": {
+        "score": 4.7,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C%EC%8B%9C%EC%86%8C%20%EC%84%BC%ED%8A%B8%EB%9F%B4"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "Felt like a multiplex-quality production — very well put together.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "The photos felt like paintings rather than photography; genuinely impressive.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "Wished there were more room to check bags and coats, but overall very satisfied with the show.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 2,
+      "perPersonKRW": [
+        20000,
+        20000
+      ],
+      "note": "Standard adult ticket ₩20,000 for the current \"Pyogisik\" photography exhibit; price varies by future exhibit."
+    },
+    "hours": {
+      "weekly": {
+        "mon": "10:00-19:00",
+        "tue": "10:00-19:00",
+        "wed": "10:00-19:00",
+        "thu": "10:00-19:00",
+        "fri": "10:00-19:00",
+        "sat": "10:00-19:00",
+        "sun": "10:00-19:00"
+      },
+      "note": "Closed the first Monday of each month; open on public holidays including Chuseok."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "Official FAQ states the venue runs normally on public holidays; only closed the first Monday of the month (7 Sep 2026), not in our window.",
+      "verified": true,
+      "source": "https://place.map.kakao.com/1875653630"
+    },
+    "location": {
+      "address": "3F, 14 Sejong-daero, Jung-gu, Seoul (Grand Central Building, opposite Seoul Station)",
+      "addressKo": "서울 중구 세종대로 14 3층",
+      "district": "Jung-gu",
+      "neighborhood": "Seoul Station / Namdaemun",
+      "lat": 37.5580064,
+      "lng": 126.974399,
+      "nearestStation": {
+        "name": "Seoul Station",
+        "nameKo": "서울역",
+        "lines": [
+          "1",
+          "4",
+          "GJ",
+          "AREX"
+        ],
+        "exit": "Exit 4",
+        "walkMin": 3
+      }
+    },
+    "links": {
+      "website": "https://groundseesaw.co.kr",
+      "kakaoMap": "https://place.map.kakao.com/1875653630",
+      "naverMap": "https://map.naver.com/p/search/%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C%EC%8B%9C%EC%86%8C%20%EC%84%BC%ED%8A%B8%EB%9F%B4",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C%EC%8B%9C%EC%86%8C%20%EC%84%BC%ED%8A%B8%EB%9F%B4",
+      "phone": "+82-1522-1796"
+    },
+    "images": [
+      {
+        "url": "https://t1.daumcdn.net/local/booking/review/65DEC0D3984F46E2A08C0F1460FDE916",
+        "source": "https://place.map.kakao.com/1875653630",
+        "credit": "Kakao Map booking review photo",
+        "alt": "Ground Seesaw Central exhibition hall"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/4df5d4c94c44c2961491888b526a075022992617?original",
+        "source": "https://place.map.kakao.com/1875653630",
+        "credit": "Kakao Map user photo",
+        "alt": "Visitors viewing large-format photography prints"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/855cfee25cbdf6cf920383cd6219976f39575147?original",
+        "source": "https://place.map.kakao.com/1875653630",
+        "credit": "Kakao Map user photo",
+        "alt": "Gallery room with photography exhibits"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/383e1f11e9fdfab8f8027fad778573dfdbf23deb?original",
+        "source": "https://place.map.kakao.com/1875653630",
+        "credit": "Kakao Map user photo",
+        "alt": "Exhibition entrance signage"
+      }
+    ],
+    "duration": "45-60 min",
+    "bestTime": "Weekday afternoon",
+    "goodFor": [
+      "Family of 5",
+      "Rainy day",
+      "Date",
+      "Photos"
+    ],
+    "reservation": {
+      "recommended": true,
+      "how": "groundseesaw.co.kr or Kakao Map booking"
+    },
+    "sources": [
+      "https://place.map.kakao.com/1875653630",
+      "https://groundseesaw.co.kr"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "dialogue-in-the-dark-bukchon",
+    "name": "Dialogue in the Dark Bukchon",
+    "nameKo": "어둠속의대화",
+    "category": "experience",
+    "subcategory": "Sensory experience (guided tour in total darkness)",
+    "tags": [
+      "indoor",
+      "rainy-day",
+      "reservation-needed",
+      "parent-friendly",
+      "group-friendly",
+      "accessible"
+    ],
+    "vibes": [
+      "quiet",
+      "cozy"
+    ],
+    "summary": "A 100-minute guided walk through pitch-black rooms led by a blind guide — the globally franchised sensory-empathy exhibit, in Bukchon.",
+    "description": "Dialogue in the Dark is an internationally franchised experience (running in dozens of cities since the 1980s) where small groups are led entirely by touch, sound and smell through simulated everyday spaces — a park, a market, a boat — by a visually-impaired guide, with zero light the whole way. It's seated/walking only, no climbing or exertion, and genuinely popular with adults: reviewers describe it as calming and perspective-shifting rather than a haunted-house scare. Sessions run every 15 minutes and last about 100 minutes, so it fills a relaxed midday slot in the Bukchon/Anguk area.",
+    "highlights": [
+      "100-minute guided walk through several pitch-dark simulated environments",
+      "Led personally by a visually-impaired guide — genuine two-way conversation, not a recording",
+      "Suitable for ages 8–70; no physical exertion, just walking and touch",
+      "Central Bukchon location, walkable from Anguk Station / Insadong"
+    ],
+    "tips": [
+      "Book a specific 15-minute-interval time slot online — arrive 15 minutes early",
+      "Closed Mondays and Tuesdays every week — plan for Sat 26 or Sun 27 during this trip",
+      "First-timers say it's better to go in with zero research/expectations — let the guide lead",
+      "Store bags/phones in the lockers provided; nothing is visible inside anyway"
+    ],
+    "badges": {
+      "familyFriendly": true,
+      "hiddenGem": false
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.7,
+        "count": 149,
+        "url": "https://place.map.kakao.com/11682128"
+      },
+      "google": {
+        "score": 4.8,
+        "count": 945,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EC%96%B4%EB%91%A0%EC%86%8D%EC%9D%98%EB%8C%80%ED%99%94%20%EB%B6%81%EC%B4%8C"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "If it's your first time, go in with as little information as possible — a genuinely good experience once you settle in.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "An enjoyable time that made me appreciate everyday sight and sound all over again.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "Our road-master guide made it an experience we won't forget — just go in and enjoy every moment without looking anything up first.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 2,
+      "perPersonKRW": [
+        33000,
+        33000
+      ],
+      "note": "Around ₩33,000 per adult (check the official site for exact child/group tiers)."
+    },
+    "hours": {
+      "weekly": {
+        "wed": "10:00-19:00",
+        "thu": "10:00-19:00",
+        "fri": "10:00-19:00",
+        "sat": "10:00-19:00",
+        "sun": "10:00-19:00",
+        "mon": "closed",
+        "tue": "closed"
+      },
+      "note": "Timed entry every 15 min by reservation; last entry roughly 17:00-17:30 to finish the 100-min session by close."
+    },
+    "tripDays": {
+      "2026-09-23": "closed",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "closed",
+      "2026-09-29": "closed",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "No Chuseok-specific closure found; it runs on its usual Wed-Sun schedule, so 24-26 Sep (Thu-Sat) are open and it's the regular Mon/Tue weekly closure that affects 28-29 Sep, not the holiday.",
+      "verified": false
+    },
+    "location": {
+      "address": "71 Bukchon-ro, Jongno-gu, Seoul",
+      "addressKo": "서울 종로구 북촌로 71",
+      "district": "Jongno-gu",
+      "neighborhood": "Bukchon / Gahoe-dong",
+      "lat": 37.5799385,
+      "lng": 126.9850315,
+      "nearestStation": {
+        "name": "Anguk",
+        "nameKo": "안국역",
+        "lines": [
+          "3"
+        ],
+        "exit": "Exit 2",
+        "walkMin": 13
+      }
+    },
+    "links": {
+      "website": "https://www.dialogueinthedark.co.kr/",
+      "kakaoMap": "https://place.map.kakao.com/11682128",
+      "naverMap": "https://map.naver.com/p/search/%EC%96%B4%EB%91%A0%EC%86%8D%EC%9D%98%EB%8C%80%ED%99%94",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EC%96%B4%EB%91%A0%EC%86%8D%EC%9D%98%EB%8C%80%ED%99%94%20%EB%B6%81%EC%B4%8C",
+      "phone": "+82-1877-6145"
+    },
+    "images": [
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/df5cbff919884ed69f5fef12a46d8d1f222d58ef?original",
+        "source": "https://place.map.kakao.com/11682128",
+        "credit": "Kakao Map user photo",
+        "alt": "Dialogue in the Dark Bukchon entrance"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/686ab4b93764e9879021384a82da8348c27c118d?original",
+        "source": "https://place.map.kakao.com/11682128",
+        "credit": "Kakao Map user photo",
+        "alt": "Waiting area before the dark-room tour"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/59c88fd6c57a6425c8031b497514eb9634d794c0?original",
+        "source": "https://place.map.kakao.com/11682128",
+        "credit": "Kakao Map user photo",
+        "alt": "Signage at the Bukchon venue"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/9b66c50523ea84d6cb1eb3eb674ee1eb0155bd1c?original",
+        "source": "https://place.map.kakao.com/11682128",
+        "credit": "Kakao Map user photo",
+        "alt": "Exterior of the Bukchon-ro building"
+      }
+    ],
+    "duration": "1.5-2 h (incl. arrival/briefing)",
+    "bestTime": "Late morning, Sat or Sun (only open days in this window)",
+    "goodFor": [
+      "Family of 5",
+      "Parents",
+      "Rainy day",
+      "First-timers"
+    ],
+    "reservation": {
+      "recommended": true,
+      "how": "Official site or Naver reservation, timed 15-min slots"
+    },
+    "sources": [
+      "https://place.map.kakao.com/11682128",
+      "http://www.dialogueinthedark.co.kr/"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "kakao-friends-hongdae-flagship",
+    "name": "Kakao Friends Hongdae Flagship",
+    "nameKo": "카카오프렌즈 홍대플래그십",
+    "category": "shopping",
+    "subcategory": "Character / design goods flagship store",
+    "tags": [
+      "free",
+      "instagrammable",
+      "k-pop",
+      "design",
+      "kid-friendly",
+      "parent-friendly",
+      "group-friendly"
+    ],
+    "vibes": [
+      "lively",
+      "design"
+    ],
+    "summary": "A three-floor Ryan-and-friends wonderland by Hongik Univ. Station — free to browse, packed with photo zones and character goods.",
+    "description": "Kakao's flagship character store fills three floors right by Hongik University Station with oversized Ryan, Apeach and Muzi statues, seasonal photo sets, and the full range of stationery, plushies and homeware. It's a genuinely low-effort browse — no admission, no lines to enter — that works well for grandparents who just want to look and grandkids who want to shop. Kakao rotates collabs and pop-ups through the space regularly, so there's usually something new even for repeat visitors.",
+    "highlights": [
+      "Life-size Ryan and Apeach photo statues across three floors",
+      "Full range of Kakao Friends goods: stationery, plush, homeware, seasonal collabs",
+      "Free entry, no reservation needed",
+      "3 minutes from Hongik Univ. Station Exit 9"
+    ],
+    "tips": [
+      "Open late (until 10pm) so it's an easy after-dinner stop in Hongdae",
+      "Great gift-shopping stop for grandkids without a long commitment of time",
+      "Combine with a wander down the main Hongdae shopping street outside",
+      "Photo props/statues get busy on weekend afternoons — weekday visits are calmer"
+    ],
+    "badges": {
+      "familyFriendly": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.4,
+        "count": 115,
+        "url": "https://place.map.kakao.com/1786432255"
+      },
+      "google": {
+        "score": 4.4,
+        "count": 5253,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%94%84%EB%A0%8C%EC%A6%88%20%ED%99%8D%EB%8C%80%ED%94%8C%EB%9E%98%EA%B7%B8%EC%8B%AD"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "Came back after a while and there are lots of cute new characters — great for photos and browsing.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "Staff explained products in a friendly way; wide variety of cute goods.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "Not even a Kakao Friends fan, but stepping inside makes you want to look around anyway.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Free entry; goods from about ₩5,000 (small stationery) up to ₩50,000+ for large plush toys."
+    },
+    "hours": {
+      "weekly": {
+        "mon": "10:30-22:00",
+        "tue": "10:30-22:00",
+        "wed": "10:30-22:00",
+        "thu": "10:30-22:00",
+        "fri": "10:30-22:00",
+        "sat": "10:30-22:00",
+        "sun": "10:30-22:00"
+      }
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "Flagship retail store with no holiday closure notice found; Hongdae shops typically stay open through Chuseok.",
+      "verified": false
+    },
+    "location": {
+      "address": "162 Yanghwa-ro, Mapo-gu, Seoul",
+      "addressKo": "서울 마포구 양화로 162",
+      "district": "Mapo-gu",
+      "neighborhood": "Hongdae",
+      "lat": 37.5563863,
+      "lng": 126.9238407,
+      "nearestStation": {
+        "name": "Hongik Univ.",
+        "nameKo": "홍대입구역",
+        "lines": [
+          "2",
+          "GJ",
+          "AREX"
+        ],
+        "exit": "Exit 9",
+        "walkMin": 3
+      }
+    },
+    "links": {
+      "website": "https://store.kakaofriends.com",
+      "kakaoMap": "https://place.map.kakao.com/1786432255",
+      "naverMap": "https://map.naver.com/p/search/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%94%84%EB%A0%8C%EC%A6%88%20%ED%99%8D%EB%8C%80%ED%94%8C%EB%9E%98%EA%B7%B8%EC%8B%AD",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%94%84%EB%A0%8C%EC%A6%88%20%ED%99%8D%EB%8C%80%ED%94%8C%EB%9E%98%EA%B7%B8%EC%8B%AD",
+      "phone": "+82-2-6010-0104"
+    },
+    "images": [
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/9895bec3fba55f20ed103a6f28db2c3b08f5c3a6?original",
+        "source": "https://place.map.kakao.com/1786432255",
+        "credit": "Kakao Map user photo",
+        "alt": "Kakao Friends Hongdae flagship storefront"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/319dbf92bd91da4e127eb152cf8823e51641c30b?original",
+        "source": "https://place.map.kakao.com/1786432255",
+        "credit": "Kakao Map user photo",
+        "alt": "Ryan character display inside the store"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/3fddc5605f4640663fb6e25794399141a9d6e619?original",
+        "source": "https://place.map.kakao.com/1786432255",
+        "credit": "Kakao Map user photo",
+        "alt": "Character goods and stationery shelves"
+      },
+      {
+        "url": "https://postfiles.pstatic.net/MjAyNjAyMjJfMTEg/MDAxNzcxNzU4NTc2MDY5.cmKeeBSs1zWCCr7P9whBNCaxJhoXHfI8Yg0VcYRnSlEg.ZLhTmYpCEsm3sYtoSqURcPT3eWG8EXXoPZ9ur-QlYGQg.JPEG/SE-82b38a10-862b-4c86-8cc7-87f4e560a100.jpg?type=w966",
+        "source": "https://place.map.kakao.com/1786432255",
+        "credit": "Naver blog / Kakao Map photo",
+        "alt": "Photo zone with oversized character props"
+      }
+    ],
+    "duration": "30-45 min",
+    "bestTime": "Weekday evening",
+    "goodFor": [
+      "Family of 5",
+      "Shopping",
+      "Photos",
+      "Kids at heart"
+    ],
+    "reservation": {
+      "recommended": false
+    },
+    "sources": [
+      "https://place.map.kakao.com/1786432255",
+      "https://store.kakaofriends.com"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "gentle-monster-hongdae-flagship",
+    "name": "Gentle Monster Hongdae Flagship",
+    "nameKo": "젠틀몬스터 홍대플래그십스토어",
+    "category": "shopping",
+    "subcategory": "Eyewear flagship / art installation store",
+    "tags": [
+      "free",
+      "instagrammable",
+      "design",
+      "art",
+      "fashion",
+      "parent-friendly"
+    ],
+    "vibes": [
+      "design",
+      "hip",
+      "minimal"
+    ],
+    "summary": "Korea's avant-garde eyewear brand's Hongdae flagship, where sunglasses are almost secondary to the rotating sculptural art installations.",
+    "description": "Gentle Monster treats its stores as art spaces first, retail second — this three-floor Hongdae flagship rotates elaborate kinetic and sculptural installations every few months, with the ground floor often given over almost entirely to the current art theme rather than products. It's free to walk through even if nobody buys anything, and it draws design-forward visitors as much as sunglass shoppers. A relaxed, air-conditioned browse that works well paired with the Hapjeong/Hongdae riverside walk.",
+    "highlights": [
+      "Rotating large-scale art/sculpture installations across 3 floors",
+      "Full Gentle Monster eyewear collection to try on",
+      "Free to browse; no pressure to buy",
+      "7-minute walk from Hapjeong Station"
+    ],
+    "tips": [
+      "Ground floor is mostly art installation — head upstairs for the actual eyewear displays",
+      "Staff are low-pressure; happy to let you browse and try on frames without a hard sell",
+      "Closes on Chuseok day itself — plan around 25 Sep if visiting this trip",
+      "Combine with Hongdae's Gyeongui Line Forest Park a short walk away"
+    ],
+    "badges": {
+      "futuristic": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.6,
+        "count": 64,
+        "url": "https://place.map.kakao.com/1741888863"
+      },
+      "google": {
+        "score": 4.4,
+        "count": 478,
+        "url": "https://www.google.com/maps/search/?api=1&query=GENTLE%20MONSTER%20Seoul%20Hong%20Dae"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "Three floors, though the first is mostly art installation — plenty of frame models to try on, and staff aren't pushy.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "The window display and object art are striking even if you're not shopping.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Google",
+        "text": "Reviewers consistently praise the concept-store design as much as the eyewear itself.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Free to browse; sunglasses/optical frames typically ₩250,000-450,000."
+    },
+    "hours": {
+      "weekly": {
+        "mon": "12:00-22:00",
+        "tue": "12:00-22:00",
+        "wed": "12:00-22:00",
+        "thu": "12:00-22:00",
+        "fri": "12:00-22:00",
+        "sat": "12:00-22:00",
+        "sun": "12:00-22:00"
+      }
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "closed",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "partial",
+      "note": "Live store status flagged \"closed today - Chuseok holiday\" when checked on Chuseok day (25 Sep 2026); open 24 and 26 Sep and the rest of the week as usual, 12:00-22:00.",
+      "verified": true,
+      "source": "https://search.naver.com/search.naver?query=%EC%A0%A0%ED%8B%80%EB%AA%AC%EC%8A%A4%ED%84%B0%20%ED%99%8D%EB%8C%80%ED%94%8C%EB%9E%98%EA%B7%B8%EC%8B%AD%20%EC%98%81%EC%97%85%EC%8B%9C%EA%B0%84"
+    },
+    "location": {
+      "address": "54 Dokmak-ro 7-gil, Mapo-gu, Seoul",
+      "addressKo": "서울 마포구 독막로7길 54",
+      "district": "Mapo-gu",
+      "neighborhood": "Hongdae / Hapjeong",
+      "lat": 37.549362,
+      "lng": 126.9194137,
+      "nearestStation": {
+        "name": "Hapjeong",
+        "nameKo": "합정역",
+        "lines": [
+          "2",
+          "6"
+        ],
+        "exit": "Exit 3",
+        "walkMin": 7
+      }
+    },
+    "links": {
+      "website": "http://www.gentlemonster.co.kr",
+      "kakaoMap": "https://place.map.kakao.com/1741888863",
+      "naverMap": "https://map.naver.com/p/search/%EC%A0%A0%ED%8B%80%EB%AA%AC%EC%8A%A4%ED%84%B0%20%ED%99%8D%EB%8C%80%ED%94%8C%EB%9E%98%EA%B7%B8%EC%8B%AD",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=GENTLE%20MONSTER%20Seoul%20Hong%20Dae",
+      "phone": "+82-2-3144-0864"
+    },
+    "images": [
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/23efd1b91137d4959093b322978d7580fec36e00?original",
+        "source": "https://place.map.kakao.com/1741888863",
+        "credit": "Kakao Map user photo",
+        "alt": "Gentle Monster Hongdae flagship art installation"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/4cacb9cd24b6351677c7cecafc7032fa57fca798?original",
+        "source": "https://place.map.kakao.com/1741888863",
+        "credit": "Kakao Map user photo",
+        "alt": "Eyewear display shelves"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/3d9217a92333dcd6fc37abde882a5be4f81f61b6?original",
+        "source": "https://place.map.kakao.com/1741888863",
+        "credit": "Kakao Map user photo",
+        "alt": "Sculptural object art on the ground floor"
+      },
+      {
+        "url": "https://postfiles.pstatic.net/MjAyNjA4MThfMTcy/MDAxNzg3MDU3MzU5NDU0.BRSTUsDCpgs34yZDIOp22LoX2yCNF1xFf63UGSgBVkIg.prWSFLS402nw4NDGRDtNW2FqdTagjKtaEoy_JSk8Qx8g.JPEG/SE-55e19e1f-7bf1-11f1-87ed-93479874375d.jpg?type=w386",
+        "source": "https://place.map.kakao.com/1741888863",
+        "credit": "Naver blog / Kakao Map photo",
+        "alt": "Store interior with try-on mirrors"
+      }
+    ],
+    "duration": "20-30 min",
+    "bestTime": "Weekday afternoon",
+    "goodFor": [
+      "Date",
+      "Shopping",
+      "Photos"
+    ],
+    "reservation": {
+      "recommended": false
+    },
+    "sources": [
+      "https://place.map.kakao.com/1741888863",
+      "https://korean.visitseoul.net"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "kyobo-book-centre-gwanghwamun",
+    "name": "Kyobo Book Centre Gwanghwamun",
+    "nameKo": "교보문고 광화문점",
+    "category": "shopping",
+    "subcategory": "Flagship bookstore",
+    "tags": [
+      "free",
+      "indoor",
+      "rainy-day",
+      "parent-friendly",
+      "kid-friendly",
+      "group-friendly",
+      "accessible"
+    ],
+    "vibes": [
+      "cozy",
+      "classic",
+      "design"
+    ],
+    "summary": "Korea's original flagship bookstore, a basement-level maze at Gwanghwamun with long reading tables and a big English section.",
+    "description": "Opened in 1981, Kyobo's Gwanghwamun flagship is the original branch of Korea's biggest bookstore chain, spanning the entire basement of the Kyobo Life Insurance building with long communal reading tables, a big English-language and travel section, stationery, and a famous wooden Kyobo Table quote (\"사람은 책을 만들고, 책은 사람을 만든다\"). It's an easy, air-conditioned, zero-pressure browse for a rainy afternoon or a break between sights, and it's directly connected underground to Gwanghwamun Station.",
+    "highlights": [
+      "One of Asia's largest single bookstores, entirely underground",
+      "Large English-language, travel and design book sections",
+      "Long communal reading tables — sit and read for free",
+      "Directly connected to Gwanghwamun Station Exit 4 via underground passage"
+    ],
+    "tips": [
+      "Foreign visitors get a small purchase discount with the Kyobo culture card / passport at checkout — ask staff",
+      "Closes only on Seollal and Chuseok Day itself (per the store's own posted info, confirmed Sep 2026) — otherwise open 09:30-22:00 daily",
+      "Paid parking validated with a purchase; or just walk from Gwanghwamun Station underground",
+      "Gwanghwamun Square is right above ground if you want a quick outdoor stroll after"
+    ],
+    "badges": {
+      "familyFriendly": true,
+      "valueForMoney": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.5,
+        "count": 373,
+        "url": "https://place.map.kakao.com/8196057"
+      },
+      "google": {
+        "score": 4.6,
+        "count": 28979,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EA%B5%90%EB%B3%B4%EB%AC%B8%EA%B3%A0%20%EA%B4%91%ED%99%94%EB%AC%B8%EC%A0%90"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "Huge selection, but the reading tables get very crowded and finding a seat is not easy on weekends.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Google",
+        "text": "With nearly 29,000 Google reviews, it's consistently rated as one of Seoul's best bookstore experiences for browsing and atmosphere.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "Well organized by section with helpful staff and validated parking if you buy something.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Free to browse and read at the tables; books from ~₩15,000."
+    },
+    "hours": {
+      "weekly": {
+        "mon": "09:30-22:00",
+        "tue": "09:30-22:00",
+        "wed": "09:30-22:00",
+        "thu": "09:30-22:00",
+        "fri": "09:30-22:00",
+        "sat": "09:30-22:00",
+        "sun": "09:30-22:00"
+      },
+      "note": "Closed only on Seollal and Chuseok Day itself."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "closed",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "partial",
+      "note": "Closed 25 Sep (Chuseok Day) only; open 24 and 26 Sep and the rest of the trip. Confirmed via the store's own official info updated 6 Sep 2026: \"영업시간 매일 09:30~22:00 (설날 당일, 추석 당일만 휴무)\".",
+      "verified": true,
+      "source": "https://store.kyobobook.co.kr"
+    },
+    "location": {
+      "address": "B1, 1 Jong-ro, Jongno-gu, Seoul (Kyobo Life Insurance Building)",
+      "addressKo": "서울 종로구 종로 1 교보생명빌딩 지하1층",
+      "district": "Jongno-gu",
+      "neighborhood": "Gwanghwamun",
+      "lat": 37.5711844,
+      "lng": 126.9778484,
+      "nearestStation": {
+        "name": "Gwanghwamun",
+        "nameKo": "광화문역",
+        "lines": [
+          "5"
+        ],
+        "exit": "Exit 4",
+        "walkMin": 2
+      }
+    },
+    "links": {
+      "website": "https://www.kyobobook.co.kr",
+      "kakaoMap": "https://place.map.kakao.com/8196057",
+      "naverMap": "https://map.naver.com/p/search/%EA%B5%90%EB%B3%B4%EB%AC%B8%EA%B3%A0%20%EA%B4%91%ED%99%94%EB%AC%B8%EC%A0%90",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EA%B5%90%EB%B3%B4%EB%AC%B8%EA%B3%A0%20%EA%B4%91%ED%99%94%EB%AC%B8%EC%A0%90",
+      "phone": "+82-1544-1900"
+    },
+    "images": [
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/3f7ce4c358a33e34c1b87a47f2e206d15d93ff3f?original",
+        "source": "https://place.map.kakao.com/8196057",
+        "credit": "Kakao Map user photo",
+        "alt": "Kyobo Book Centre Gwanghwamun reading tables"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/d5bf34234d53a03645e2a9d276e4000ca14b3c1d?original",
+        "source": "https://place.map.kakao.com/8196057",
+        "credit": "Kakao Map user photo",
+        "alt": "Bookshelves in the Gwanghwamun store"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/a2e25dc1dea82052b24e7a3f46fc969ccf272e4d?original",
+        "source": "https://place.map.kakao.com/8196057",
+        "credit": "Kakao Map user photo",
+        "alt": "English and foreign-language book section"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/defe0130428114a57df04069c5301561e298e405?original",
+        "source": "https://place.map.kakao.com/8196057",
+        "credit": "Kakao Map user photo",
+        "alt": "Stationery section near the entrance"
+      }
+    ],
+    "duration": "30-60 min",
+    "bestTime": "Weekday, avoid weekend afternoons for table seats",
+    "goodFor": [
+      "Family of 5",
+      "Rainy day",
+      "Relaxing"
+    ],
+    "reservation": {
+      "recommended": false
+    },
+    "sources": [
+      "https://place.map.kakao.com/8196057",
+      "https://store.kyobobook.co.kr"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "shinsegae-food-market-dogok",
+    "name": "Shinsegae Food Market Dogok",
+    "nameKo": "신세계푸드마켓 도곡점",
+    "category": "shopping",
+    "subcategory": "Premium supermarket / gourmet food hall",
+    "tags": [
+      "free",
+      "indoor",
+      "parent-friendly",
+      "group-friendly",
+      "value"
+    ],
+    "vibes": [
+      "design",
+      "quiet"
+    ],
+    "summary": "A sleek premium supermarket two minutes from Dogok Station — imported groceries, wine and food-court counters under one roof.",
+    "description": "Shinsegae Food Market is the department-store chain's stand-alone gourmet-supermarket format, and the Dogok branch is a bright, well laid-out example just one subway stop from Seocho — imported and Korean groceries, a curated wine section, bakery, and several counter restaurants (a popular conveyor-belt sushi spot among them) sharing the same floor. It's a genuinely relaxing, air-conditioned browse for grocery-loving parents, and doubles as a practical stop for snacks, banchan, or a quick meal without committing to a full restaurant sit-down. Free parking makes it easy if renting a car for part of the trip.",
+    "highlights": [
+      "Imported groceries, wine cellar, bakery and deli counters under one roof",
+      "In-store conveyor-belt sushi and other quick-eat counters",
+      "Free parking on-site",
+      "2 minutes from Dogok Station Exit 4 — one stop from Seocho on Line 3"
+    ],
+    "tips": [
+      "Good spot to grab pre-made banchan, fruit or a light meal without a restaurant reservation",
+      "The sushi-go-round counter (Gatten Sushi) inside gets a line at lunch — go before noon or after 1:30pm",
+      "Free parking makes it an easy detour if you have a rental car",
+      "A relaxed rainy-day browse for the whole group, not just a quick grocery run"
+    ],
+    "badges": {
+      "valueForMoney": true,
+      "localFavorite": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 3.6,
+        "count": 24,
+        "url": "https://place.map.kakao.com/609271856"
+      },
+      "google": {
+        "score": 4.2,
+        "count": 628,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EC%8B%A0%EC%84%B8%EA%B3%84%ED%91%B8%EB%93%9C%EB%A7%88%EC%BC%93%20%EB%8F%84%EA%B3%A1%EC%A0%90"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "Satisfying overall — good selection and free parking made it an easy stop.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Google",
+        "text": "With over 600 Google reviews, it's a solid neighborhood option for imported groceries and a quick counter meal.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Blog",
+        "text": "A visitor recommended the in-store Gatten Sushi conveyor-belt counter as a reliable, no-queue-hassle lunch option most times of day.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 2,
+      "note": "Free to browse; groceries and deli items typically ₩5,000-30,000, conveyor-belt sushi plates from ~₩3,000 each."
+    },
+    "hours": {
+      "weekly": {
+        "mon": "10:30-22:00",
+        "tue": "10:30-22:00",
+        "wed": "10:30-22:00",
+        "thu": "10:30-22:00",
+        "fri": "10:30-22:00",
+        "sat": "10:30-22:00",
+        "sun": "10:30-22:00"
+      }
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "unknown",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found for this stand-alone supermarket; department-store food markets sometimes close on Chuseok Day itself — call ahead (02-2191-1234) if visiting 25 Sep specifically.",
+      "verified": false
+    },
+    "location": {
+      "address": "B1, 57 Eonju-ro 30-gil, Gangnam-gu, Seoul",
+      "addressKo": "서울 강남구 언주로30길 57 지하1층",
+      "district": "Gangnam-gu",
+      "neighborhood": "Dogok-dong",
+      "lat": 37.4894757,
+      "lng": 127.0540147,
+      "nearestStation": {
+        "name": "Dogok",
+        "nameKo": "도곡역",
+        "lines": [
+          "3",
+          "SUIN"
+        ],
+        "exit": "Exit 4",
+        "walkMin": 2
+      }
+    },
+    "links": {
+      "website": "https://www.shinsegae.com/foodMarket/main.do",
+      "kakaoMap": "https://place.map.kakao.com/609271856",
+      "naverMap": "https://map.naver.com/p/search/%EC%8B%A0%EC%84%B8%EA%B3%84%ED%91%B8%EB%93%9C%EB%A7%88%EC%BC%93%20%EB%8F%84%EA%B3%A1%EC%A0%90",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EC%8B%A0%EC%84%B8%EA%B3%84%ED%91%B8%EB%93%9C%EB%A7%88%EC%BC%93%20%EB%8F%84%EA%B3%A1%EC%A0%90",
+      "phone": "+82-2-2191-1234"
+    },
+    "images": [
+      {
+        "url": "https://postfiles.pstatic.net/MjAyNjA5MTZfNjEg/MDAxNzg5NDg3NTMzMjg3.EBkgYXn91hV1ZncBJAMqMqxCEJmfIiyt1VZvBeKEupog.MZYLmeHxFY8fbmKcUG5YcgLEdP0R8NzZVP4hnAvmUkAg.JPEG/900_IMG_20260725_171626831_HDR.jpg?type=w466",
+        "source": "https://place.map.kakao.com/609271856",
+        "credit": "Kakao Map user photo",
+        "alt": "Shinsegae Food Market Dogok grocery aisles"
+      },
+      {
+        "url": "https://postfiles.pstatic.net/MjAyNjA5MTZfMjI0/MDAxNzg5NDg3NTIyMjk0.IfoD8-bjxJ1z8-Za9VsKqQlza_hk8qNfBgmELrAFPPAg.yJh82kO0a6dnpjO0MUE5w71TQ8U8hjnRvKsbFNBh1ZMg.JPEG/900_IMG_20260725_171420279_HDR.jpg?type=w466",
+        "source": "https://place.map.kakao.com/609271856",
+        "credit": "Kakao Map user photo",
+        "alt": "Deli and bakery counters"
+      },
+      {
+        "url": "https://postfiles.pstatic.net/MjAyNjA5MTZfMTE3/MDAxNzg5NDg3NTIzOTc0.7MctgB8bb7qPbGb5lZH7sCAZLz878CFSkVdSaf3L1gog.8JEdDauP1LTGkIzsrG0QN3HVHncJMNOIEzboBoS-LrYg.JPEG/900_IMG_20260725_171429826.jpg?type=w466",
+        "source": "https://place.map.kakao.com/609271856",
+        "credit": "Kakao Map user photo",
+        "alt": "Imported goods section"
+      },
+      {
+        "url": "https://postfiles.pstatic.net/MjAyNjA5MTZfMTM0/MDAxNzg5NDg3NTMwNzAy.nmjHTvNC29_4MODWejx4O3uEtLJmfw4uzbAwFVnQATcg.SuvspoVFO0akOZBlNfh-az8NAnUb5b-ZZ8guQXocG1Yg.JPEG/900_IMG_20260725_171949671_HDR.jpg?type=w466",
+        "source": "https://place.map.kakao.com/609271856",
+        "credit": "Kakao Map user photo",
+        "alt": "Wine section"
+      }
+    ],
+    "duration": "20-40 min",
+    "bestTime": "Weekday, before noon",
+    "goodFor": [
+      "Family of 5",
+      "Parents",
+      "Shopping",
+      "Quick bite"
+    ],
+    "reservation": {
+      "recommended": false
+    },
+    "sources": [
+      "https://place.map.kakao.com/609271856",
+      "https://www.shinsegae.com/foodMarket/main.do"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "galleria-gourmet494-west",
+    "name": "Gourmet494 (Galleria West)",
+    "nameKo": "고메이494 갤러리아백화점 WEST점",
+    "category": "shopping",
+    "subcategory": "Luxury department-store food hall",
+    "tags": [
+      "indoor",
+      "parent-friendly",
+      "group-friendly",
+      "shopping-mall"
+    ],
+    "vibes": [
+      "luxe",
+      "design"
+    ],
+    "summary": "Galleria's glamorous basement food hall in Apgujeong — global counter food and a gourmet grocery, one minute from Apgujeong Rodeo Station.",
+    "description": "Gourmet494 is the food-hall floor of Galleria's flagship West store on Apgujeong-ro, styled with the same premium finish as the luxury boutiques upstairs — international counter stalls (Vietnamese pho, hand-cut noodles, bakeries, ice cream) sit alongside a specialty grocery section for gourmet gifts. It's an easy, air-conditioned way to graze on a variety of food in one stop without needing a reservation anywhere, and it's a one-minute walk from Apgujeong Rodeo Station, right in the Apgujeong Rodeo shopping district.",
+    "highlights": [
+      "International counter-food stalls (pho, hand-cut noodle bar, bakery, dessert)",
+      "Specialty gourmet grocery and gift section",
+      "1 minute from Apgujeong Rodeo Station Exit 7",
+      "Free valet parking at the West building"
+    ],
+    "tips": [
+      "The hand-cut noodle / pho counter has dishes around ₩14,000-20,000 — good for a lighter group lunch",
+      "Free valet parking at the West garage if you're not taking the subway",
+      "Pair with a wander through Galleria's Luxury Hall or Apgujeong Rodeo Street outside",
+      "Quieter on weekday afternoons; can fill up around lunch on weekends"
+    ],
+    "badges": {
+      "familyFriendly": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 3.8,
+        "count": 19,
+        "url": "https://place.map.kakao.com/18710698"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "A pleasant food-court experience with a nice range of counters to pick from.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Blog",
+        "text": "A regular visitor mixes a favorite dish with something new each time they come, calling the mix-and-match format easy for groups.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "Convenient location right by Apgujeong Rodeo Station with valet parking at the West lot.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 2,
+      "perPersonKRW": [
+        14000,
+        20000
+      ],
+      "note": "Noodle-counter dishes ₩14,000-19,900 per bowl; other stalls vary similarly."
+    },
+    "hours": {
+      "weekly": {
+        "mon": "10:30-20:00",
+        "tue": "10:30-20:00",
+        "wed": "10:30-20:00",
+        "thu": "10:30-20:00",
+        "fri": "10:30-20:00",
+        "sat": "10:30-20:00",
+        "sun": "10:30-20:00"
+      }
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "unknown",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No 2026 Chuseok notice found; department stores typically close one day around the holiday — call ahead (02-410-7114) if planning to visit on 25 Sep.",
+      "verified": false
+    },
+    "location": {
+      "address": "B1, 343 Apgujeong-ro, Gangnam-gu, Seoul (Galleria Department Store, West building)",
+      "addressKo": "서울 강남구 압구정로 343 지하1층",
+      "district": "Gangnam-gu",
+      "neighborhood": "Apgujeong",
+      "lat": 37.5282208,
+      "lng": 127.0404478,
+      "nearestStation": {
+        "name": "Apgujeong Rodeo",
+        "nameKo": "압구정로데오역",
+        "lines": [
+          "SUIN"
+        ],
+        "exit": "Exit 7",
+        "walkMin": 1
+      }
+    },
+    "links": {
+      "website": "http://www.gourmet494.com",
+      "kakaoMap": "https://place.map.kakao.com/18710698",
+      "naverMap": "https://map.naver.com/p/search/%EA%B3%A0%EB%A9%94%EC%9D%B4494%20%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%95%84%20WEST%EC%A0%90",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EA%B3%A0%EB%A9%94%EC%9D%B4494%20%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%95%84%EB%B0%B1%ED%99%94%EC%A0%90%20WEST%EC%A0%90",
+      "phone": "+82-2-410-7114"
+    },
+    "images": [
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/b79599f4d2d6f14147064ef8de807262011043b9?original",
+        "source": "https://place.map.kakao.com/18710698",
+        "credit": "Kakao Map user photo",
+        "alt": "Gourmet494 food hall counters"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/b3359859ec3481b1ef87c7ea25a94a2f7e206ea0?original",
+        "source": "https://place.map.kakao.com/18710698",
+        "credit": "Kakao Map user photo",
+        "alt": "Noodle counter dish"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/32f489b534a1fe64a7a733c8617143f55cdbe5bf?original",
+        "source": "https://place.map.kakao.com/18710698",
+        "credit": "Kakao Map user photo",
+        "alt": "Seating area in the food hall"
+      },
+      {
+        "url": "https://postfiles.pstatic.net/MjAyNjA5MTBfMTEg/MDAxNzg4OTg2OTk5MDYw.O3EjNmDPYtKyQ5u8sz6KmKg5naccP5FZTL6hTdUVQ1Yg.1t3TIlVvfdqd8HKcz9IGaVuwLEkIuAy0JmHf5Mh0KLAg.JPEG/SE-49cfe185-ab80-11f1-9e34-a7985f0aa88a.jpg?type=w386",
+        "source": "https://place.map.kakao.com/18710698",
+        "credit": "Kakao Map user photo",
+        "alt": "Gourmet grocery shelves"
+      }
+    ],
+    "duration": "30-45 min",
+    "bestTime": "Weekday lunch before noon",
+    "goodFor": [
+      "Family of 5",
+      "Quick bite",
+      "Shopping"
+    ],
+    "reservation": {
+      "recommended": false
+    },
+    "sources": [
+      "https://place.map.kakao.com/18710698",
+      "http://www.gourmet494.com"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "muji-gangnam-flagship",
+    "name": "MUJI Gangnam",
+    "nameKo": "무인양품 강남점",
+    "category": "shopping",
+    "subcategory": "Lifestyle-goods flagship store",
+    "tags": [
+      "free",
+      "indoor",
+      "rainy-day",
+      "parent-friendly",
+      "design",
+      "group-friendly"
+    ],
+    "vibes": [
+      "minimal",
+      "design",
+      "quiet"
+    ],
+    "summary": "MUJI's four-floor Gangnam flagship, with a MUJI Diner and café inside — a calm, minimalist browse two blocks from Seocho.",
+    "description": "Spread over four floors of the Pagoda Tower building, MUJI's Gangnam flagship is one of its largest Korean stores — clothing, homeware, stationery, travel goods and a full grocery section, plus an in-house MUJI Diner and café for a coffee break mid-browse. It's calm, quiet and low-effort by design, and it sits just 4 minutes from Gangnam Station, technically inside Seocho-gu, making it one of the closest shopping stops to the family's home base. A good rainy-day or need-a-quiet-hour option that doesn't require any advance planning.",
+    "highlights": [
+      "Four floors: fashion, homeware, stationery, travel goods and groceries",
+      "In-house MUJI Diner and café for a coffee or light meal break",
+      "Calm, minimalist, low-sensory-overload shopping environment",
+      "4 minutes from Gangnam Station Exit 10 — one of the closest stops to Seocho"
+    ],
+    "tips": [
+      "The top-floor MUJI Diner/café is a good quiet coffee break mid-shop",
+      "Ground floor skews food/travel-size goods; homeware and furniture are upstairs",
+      "Open until 10pm, so it works as a low-key after-dinner stop close to home",
+      "Paid parking on-site if needed, though it's an easy walk from Gangnam Station"
+    ],
+    "badges": {
+      "familyFriendly": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.2,
+        "count": 117,
+        "url": "https://place.map.kakao.com/1938552957"
+      },
+      "google": {
+        "score": 4.3,
+        "count": 945,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EB%AC%B4%EC%9D%B8%EC%96%91%ED%92%88%20%EA%B0%95%EB%82%A8%EC%A0%90"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "A relaxing spot to duck into with a MUJI café inside for a coffee break mid-shop.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "One visitor felt the living/homeware section was a bit sparse and wished for more variety, though the food section was well stocked.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Google",
+        "text": "Reviewers regularly cite it as one of the calmer, better-organized MUJI branches in Seoul.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Free to browse; household goods and clothing typically ₩5,000-60,000."
+    },
+    "hours": {
+      "weekly": {
+        "mon": "11:00-22:00",
+        "tue": "11:00-22:00",
+        "wed": "11:00-22:00",
+        "thu": "11:00-22:00",
+        "fri": "11:00-22:00",
+        "sat": "11:00-22:00",
+        "sun": "11:00-22:00"
+      }
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "No holiday closure notice found; standalone retail stores in Gangnam Station typically stay open through Chuseok.",
+      "verified": false
+    },
+    "location": {
+      "address": "1F-4F, 419 Gangnam-daero, Seocho-gu, Seoul (Pagoda Tower)",
+      "addressKo": "서울 서초구 강남대로 419 파고다타워 1~4층",
+      "district": "Seocho-gu",
+      "neighborhood": "Gangnam Station",
+      "lat": 37.499765,
+      "lng": 127.0261518,
+      "nearestStation": {
+        "name": "Gangnam",
+        "nameKo": "강남역",
+        "lines": [
+          "2",
+          "SB"
+        ],
+        "exit": "Exit 10",
+        "walkMin": 4
+      }
+    },
+    "links": {
+      "kakaoMap": "https://place.map.kakao.com/1938552957",
+      "naverMap": "https://map.naver.com/p/search/%EB%AC%B4%EC%9D%B8%EC%96%91%ED%92%88%20%EA%B0%95%EB%82%A8%EC%A0%90",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EB%AC%B4%EC%9D%B8%EC%96%91%ED%92%88%20%EA%B0%95%EB%82%A8%EC%A0%90",
+      "instagram": "https://www.instagram.com/mujikr/",
+      "phone": "+82-2-6203-1291"
+    },
+    "images": [
+      {
+        "url": "https://t1.kakaocdn.net/local/kakaomapPhoto/review/bc5ccf4af9b40e1c284a4bfa42e22a6fff74d695?original",
+        "source": "https://place.map.kakao.com/1938552957",
+        "credit": "Kakao Map user photo",
+        "alt": "MUJI Gangnam storefront"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/bd56a895138d196f09269ebca98be1dec2f7c26c?original",
+        "source": "https://place.map.kakao.com/1938552957",
+        "credit": "Kakao Map user photo",
+        "alt": "Homeware floor inside MUJI Gangnam"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/b6fd732984f45f1bc47e4c9ff2c0832fbde88cd0?original",
+        "source": "https://place.map.kakao.com/1938552957",
+        "credit": "Kakao Map user photo",
+        "alt": "MUJI food and grocery section"
+      },
+      {
+        "url": "https://t1.daumcdn.net/local/kakaomapPhoto/review/9aed8e08f1352f5bdd0ca93d8619cb901aa434bb?original",
+        "source": "https://place.map.kakao.com/1938552957",
+        "credit": "Kakao Map user photo",
+        "alt": "Clothing racks on an upper floor"
+      }
+    ],
+    "duration": "30-45 min",
+    "bestTime": "Weekday afternoon",
+    "goodFor": [
+      "Family of 5",
+      "Rainy day",
+      "Shopping",
+      "Relaxing"
+    ],
+    "reservation": {
+      "recommended": false
+    },
+    "sources": [
+      "https://place.map.kakao.com/1938552957"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "hanoi-foot-body-cheongdam",
+    "name": "The Hanoi Foot & Body, Cheongdam Le Ciel",
+    "nameKo": "더하노이풋앤바디 청담르엘점",
+    "category": "wellness",
+    "subcategory": "Foot & body massage",
+    "tags": [
+      "indoor",
+      "spa",
+      "parent-friendly",
+      "reservation-needed",
+      "value"
+    ],
+    "vibes": [
+      "quiet",
+      "cozy",
+      "luxe"
+    ],
+    "summary": "A spotless, 5.0-rated foot-and-body massage chain in Cheongdam — reservation-only, open 10am-midnight every day of the year.",
+    "description": "The Hanoi Foot & Body is a fast-growing Vietnamese-style massage chain, and its Cheongdam Le Ciel branch (in the basement of an upscale apartment retail arcade) is one of its top-reviewed locations, with a perfect 5.0 score across 148 reviews. Rooms are private and immaculately clean, therapists average 20 years' experience, and every visit starts with a foot-soak and hand-wrap before the main treatment — genuinely zero-effort, lie-down relaxation rather than a spa circuit to navigate. It runs 365 days a year including all public holidays, which makes it an easy fit for a Chuseok-week visit.",
+    "highlights": [
+      "Perfect 5.0 Kakao rating across 148 reviews",
+      "Foot soak + hand-wrap included before every treatment",
+      "Private, spotless treatment rooms; therapists average 20 years' experience",
+      "Open 10:00-24:00, 365 days a year including Chuseok"
+    ],
+    "tips": [
+      "100% reservation system — book via Naver Reservation or phone before walking in, no drop-ins",
+      "Ask for the Relief Special (full body, 80 min) if the group wants the most complete session",
+      "3 minutes from Cheongdam Station — easy to pair with a Cheongdam/Apgujeong shopping afternoon",
+      "On-site parking available, useful if driving"
+    ],
+    "badges": {
+      "valueForMoney": true,
+      "localFavorite": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 5,
+        "count": 148,
+        "url": "https://place.map.kakao.com/298671468"
+      },
+      "google": {
+        "score": 5,
+        "count": 55,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EB%8D%94%ED%95%98%EB%85%B8%EC%9D%B4%ED%92%8B%EC%95%A4%EB%B0%94%EB%94%94%20%EC%B2%AD%EB%8B%B4%EB%A5%B4%EC%97%98%EC%A0%90"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "The facility is spotlessly clean, so there's no hesitation about hygiene — got a thorough, satisfying session for how tense my body was.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Blog",
+        "text": "The Cheongdam Le Ciel branch is described as clean and cozy, perfect for a private, relaxing session.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Blog",
+        "text": "A visitor praised the 20-years-experienced therapists for tailored 1:1 care and said the reservation-only system kept the space calm.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 3,
+      "perPersonKRW": [
+        66000,
+        100000
+      ],
+      "note": "Relief Basic (back + hot stone + foot pack) ₩66,000; Relief Special (full body, 80 min) ₩87,000; Aroma Special (full body) ₩100,000."
+    },
+    "hours": {
+      "weekly": {
+        "mon": "10:00-24:00",
+        "tue": "10:00-24:00",
+        "wed": "10:00-24:00",
+        "thu": "10:00-24:00",
+        "fri": "10:00-24:00",
+        "sat": "10:00-24:00",
+        "sun": "10:00-24:00"
+      },
+      "note": "Open 365 days a year, including all public holidays."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "Branch explicitly advertises \"연중무휴, 휴일에도 정상영업\" (open 365 days a year, normal hours on holidays too).",
+      "verified": true,
+      "source": "https://www.thehanoifootbody.com"
+    },
+    "location": {
+      "address": "B2, L'Front Cheongdam, 11 Hakdong-ro 101-gil, Gangnam-gu, Seoul",
+      "addressKo": "서울 강남구 학동로101길 11 엘프론트청담 지하2층",
+      "district": "Gangnam-gu",
+      "neighborhood": "Cheongdam-dong",
+      "lat": 37.521264,
+      "lng": 127.0574205,
+      "nearestStation": {
+        "name": "Cheongdam",
+        "nameKo": "청담역",
+        "lines": [
+          "7"
+        ],
+        "exit": "Exit 14",
+        "walkMin": 3
+      }
+    },
+    "links": {
+      "website": "https://www.thehanoifootbody.com",
+      "kakaoMap": "https://place.map.kakao.com/298671468",
+      "naverMap": "https://map.naver.com/p/search/%EB%8D%94%ED%95%98%EB%85%B8%EC%9D%B4%ED%92%8B%EC%95%A4%EB%B0%94%EB%94%94%20%EC%B2%AD%EB%8B%B4%EB%A5%B4%EC%97%98%EC%A0%90",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EB%8D%94%ED%95%98%EB%85%B8%EC%9D%B4%ED%92%8B%EC%95%A4%EB%B0%94%EB%94%94%20%EC%B2%AD%EB%8B%B4%EB%A5%B4%EC%97%98%EC%A0%90",
+      "phone": "+82-2-516-6166"
+    },
+    "images": [
+      {
+        "url": "https://t1.kakaocdn.net/mystore/44B3225BA21840CFB4C4091D1F41D151",
+        "source": "https://place.map.kakao.com/298671468",
+        "credit": "Kakao Map / official listing photo",
+        "alt": "The Hanoi Foot & Body Cheongdam reception"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/039AEF27B8BC496BAFB07D8478BCF51F",
+        "source": "https://place.map.kakao.com/298671468",
+        "credit": "Kakao Map / official listing photo",
+        "alt": "Private treatment room interior"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/668DFE8128314CCF8A8B49AC4A1CCF6E",
+        "source": "https://place.map.kakao.com/298671468",
+        "credit": "Kakao Map / official listing photo",
+        "alt": "Massage bed and foot-soak setup"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/AA32C53081CD45FCAB993EDC0A08E802",
+        "source": "https://place.map.kakao.com/298671468",
+        "credit": "Kakao Map / official listing photo",
+        "alt": "Waiting lounge"
+      }
+    ],
+    "duration": "60-90 min",
+    "bestTime": "Late afternoon after a shopping loop in Cheongdam",
+    "goodFor": [
+      "Parents",
+      "Relaxing",
+      "Date"
+    ],
+    "reservation": {
+      "recommended": true,
+      "how": "Naver Reservation or phone; 100% reservation-only, no walk-ins"
+    },
+    "sources": [
+      "https://place.map.kakao.com/298671468",
+      "https://www.thehanoifootbody.com"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "yaksonmyungga-hanti",
+    "name": "Yaksonmyungga Hanti",
+    "nameKo": "약손명가 한티역점",
+    "category": "wellness",
+    "subcategory": "Massage / body care",
+    "tags": [
+      "indoor",
+      "spa",
+      "parent-friendly",
+      "reservation-needed"
+    ],
+    "vibes": [
+      "quiet",
+      "cozy"
+    ],
+    "summary": "A branch of Korea's Yaksonmyungga body-care chain, two minutes from Hanti Station — full-body and face/body care.",
+    "description": "Yaksonmyungga is a well-established Korean body-care franchise (dozens of branches nationwide) specializing in manual full-body and facial-contouring treatments rather than a sauna/jjimjilbang format. The Hanti branch keeps a 4.8 rating with reviewers repeatedly praising staff warmth and tailored pressure, and it's two minutes on foot from Hanti Station, one stop from the Gangnam/Seocho area. It closes Mondays and on Chuseok Day itself, so it fits neatly around the rest of this trip window.",
+    "highlights": [
+      "Full-body \"Slim Body\" manual massage and facial-contouring treatments",
+      "4.8-rated with reviewers highlighting attentive, tailored pressure",
+      "In-building parking available",
+      "2 minutes from Hanti Station Exit 2"
+    ],
+    "tips": [
+      "Closed Mondays and on Chuseok Day (25 Sep) — book for another day in the window",
+      "Reserve by phone or KakaoTalk channel ahead of time",
+      "Officially listed full-body \"Slim Body\" care is ₩190,000; ask about shorter back-only options for a lower price",
+      "One subway stop from Seocho via Line 3/Suin-Bundang connection makes it an easy add-on to a Gangnam day"
+    ],
+    "badges": {
+      "localFavorite": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.8,
+        "count": 25,
+        "url": "https://place.map.kakao.com/996513229"
+      },
+      "google": {
+        "score": 5,
+        "count": 5,
+        "url": "https://www.google.com/maps/search/?api=1&query=%EC%95%BD%EC%86%90%EB%AA%85%EA%B0%80%20%ED%95%9C%ED%8B%B0%EC%97%AD%EC%A0%90"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "The deputy director was genuinely kind and gave one of the best treatments I've had.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "Warm, comfortable atmosphere that helped me relax even more during the massage; would recommend to friends, including for couples.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "An hour of relaxed massage in a comfortable setting was a great way to start the day, with pressure adjusted to what I needed.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 4,
+      "perPersonKRW": [
+        100000,
+        190000
+      ],
+      "note": "Full-body \"Slim Body\" care ₩190,000/session (official chain price, may vary slightly by branch); back-only care from about ₩100,000."
+    },
+    "hours": {
+      "weekly": {
+        "tue": "10:00-20:00",
+        "wed": "10:00-20:00",
+        "thu": "10:00-20:00",
+        "fri": "10:00-20:00",
+        "sat": "10:00-20:00",
+        "sun": "10:00-20:00",
+        "mon": "closed"
+      },
+      "note": "Closing time approximate; confirm exact last-appointment time when booking."
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "closed",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "closed",
+      "2026-09-29": "open",
+      "2026-09-30": "closed"
+    },
+    "chuseok": {
+      "status": "partial",
+      "note": "Closed on Chuseok Day (25 Sep) only per the branch's own posted info; open 24 and 26 Sep and the rest of the trip except the regular Monday closure (28 Sep).",
+      "verified": true,
+      "source": "https://place.map.kakao.com/996513229"
+    },
+    "location": {
+      "address": "3F, 405 Dogok-ro, Gangnam-gu, Seoul",
+      "addressKo": "서울 강남구 도곡로 405 3층",
+      "district": "Gangnam-gu",
+      "neighborhood": "Daechi-dong / Hanti",
+      "lat": 37.4973569,
+      "lng": 127.0546902,
+      "nearestStation": {
+        "name": "Hanti",
+        "nameKo": "한티역",
+        "lines": [
+          "SUIN"
+        ],
+        "exit": "Exit 2",
+        "walkMin": 2
+      }
+    },
+    "links": {
+      "website": "https://yaksonhouse.com",
+      "kakaoMap": "https://place.map.kakao.com/996513229",
+      "naverMap": "https://map.naver.com/p/search/%EC%95%BD%EC%86%90%EB%AA%85%EA%B0%80%20%ED%95%9C%ED%8B%B0%EC%97%AD%EC%A0%90",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EC%95%BD%EC%86%90%EB%AA%85%EA%B0%80%20%ED%95%9C%ED%8B%B0%EC%97%AD%EC%A0%90",
+      "phone": "+82-2-555-7745"
+    },
+    "images": [
+      {
+        "url": "https://postfiles.pstatic.net/MjAyNjA5MDdfMTA3/MDAxNzg4NzUwNTQzNzYw.9TxnjgLPwKZ-Ja0QsjrTheXsXnVOFFDhFadsquQrsfYg.fn0W39UF8rvD-YDF__ahcFNWKiVs5kAIFW6cnHlUA5Eg.JPEG/IMG%EF%BC%BF6492.jpg?type=w275",
+        "source": "https://place.map.kakao.com/996513229",
+        "credit": "Kakao Map user photo",
+        "alt": "Yaksonmyungga Hanti treatment room"
+      },
+      {
+        "url": "https://postfiles.pstatic.net/MjAyNjA5MDdfMTUx/MDAxNzg4NzUwNTQzNTk4.tZVHkSXwJ23BufGijvK0vn0aDAwsLhMcWFyrk7VZnikg.BrQyn4szJ2YyfkjKBRTXEm0Vs9i4mYVULwcqfSOW5FIg.JPEG/IMG%EF%BC%BF6488.jpg?type=w580",
+        "source": "https://place.map.kakao.com/996513229",
+        "credit": "Kakao Map user photo",
+        "alt": "Reception area"
+      },
+      {
+        "url": "https://postfiles.pstatic.net/MjAyNjA5MDdfMjk2/MDAxNzg4NzUwNTQ0MTQ3.edq_wRG2jZlrW4T4xtGW58wO3MC4vZNLIixrrd9M-e0g.kGSB89jskLtT9W5jJ_eYoyDQMGdPHfnNg_1EXnn4nS0g.JPEG/IMG%EF%BC%BF6503.jpg?type=w275",
+        "source": "https://place.map.kakao.com/996513229",
+        "credit": "Kakao Map user photo",
+        "alt": "Treatment bed setup"
+      },
+      {
+        "url": "https://postfiles.pstatic.net/MjAyNjA5MDdfMjgx/MDAxNzg4NzUwNTQzODQx.cI8QfkwmwecEcjnGOoi18ATe3Gp8CLLM9T0xi2hpYpUg.g8NJFw52TG9598ItUxwNiTkp5AkffLmkpuD50omsrs4g.JPEG/IMG%EF%BC%BF6500.jpg?type=w275",
+        "source": "https://place.map.kakao.com/996513229",
+        "credit": "Kakao Map user photo",
+        "alt": "Interior hallway"
+      }
+    ],
+    "duration": "60-90 min",
+    "bestTime": "Weekday morning",
+    "goodFor": [
+      "Parents",
+      "Relaxing"
+    ],
+    "reservation": {
+      "recommended": true,
+      "how": "Phone or KakaoTalk channel booking"
+    },
+    "sources": [
+      "https://place.map.kakao.com/996513229",
+      "https://yaksonhouse.com"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "premium-spa-l-gangnam",
+    "name": "Premium Spa L, Gangnam",
+    "nameKo": "프리미엄 스파엘 강남본점",
+    "category": "wellness",
+    "subcategory": "Premium spa / couple massage",
+    "tags": [
+      "indoor",
+      "spa",
+      "open-24h",
+      "parent-friendly",
+      "reservation-needed"
+    ],
+    "vibes": [
+      "luxe",
+      "quiet",
+      "romantic"
+    ],
+    "summary": "A 24-hour, hotel-spa-styled massage house in Nonhyeon with private couple rooms — near-perfect ratings across 200+ reviews.",
+    "description": "Premium Spa L is a boutique day-spa in Nonhyeon-dong built around private, hotel-quality treatment suites, including dedicated two-person couple rooms so parents (or any pair) can be treated side by side. Programs range from a singing-bowl-and-aromatherapy \"Signature Black\" ritual to hot-stone and fully customized premium care, and the branch operates 24 hours a day. With a 4.9 Kakao score across 69 reviews and 5.0 on Google across 202, it's one of the highest and most consistently rated massage venues in this part of Gangnam.",
+    "highlights": [
+      "Private couple treatment rooms for side-by-side massage",
+      "24-hour operation — bookable any time of day",
+      "Signature Black (singing bowl + aromatherapy + bamboo therapy), Stone and Premium courses",
+      "Free on-site parking"
+    ],
+    "tips": [
+      "Book the couple room in advance if you want to be treated together — it's popular",
+      "The Special course starts at 60 min from ₩154,000; Stone from ₩187,000; Premium from ₩253,000",
+      "5 minutes from Eonju Station Exit 3, with free parking if driving",
+      "24-hour operation means it also works as a late-arrival or early-morning option"
+    ],
+    "badges": {
+      "valueForMoney": false,
+      "localFavorite": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.9,
+        "count": 69,
+        "url": "https://place.map.kakao.com/646687998"
+      },
+      "google": {
+        "score": 5,
+        "count": 202,
+        "url": "https://www.google.com/maps/search/?api=1&query=%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%EC%8A%A4%ED%8C%8C%EC%97%98%20%EA%B0%95%EB%82%A8%EB%B3%B8%EC%A0%90"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "A luxurious, hotel-like interior for a couple's massage, with a choice of aroma scent before the treatment starts.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Blog",
+        "text": "An influencer-recommended couple massage spot in Gangnam, praised for its complete setup from décor to therapy quality.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Google",
+        "text": "With over 200 Google reviews and a 5.0 average, it's one of the top-rated spas in the Nonhyeon/Gangnam area.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 4,
+      "perPersonKRW": [
+        154000,
+        253000
+      ],
+      "note": "SPECIAL course (60 min) from ₩154,000; STONE course (60 min) ₩187,000; PREMIUM course (60 min) ₩253,000; couple rooms available."
+    },
+    "hours": {
+      "weekly": {
+        "mon": "24h",
+        "tue": "24h",
+        "wed": "24h",
+        "thu": "24h",
+        "fri": "24h",
+        "sat": "24h",
+        "sun": "24h"
+      }
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "open",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "open",
+      "note": "Operates 24 hours a day year-round; no holiday closure found.",
+      "verified": false
+    },
+    "location": {
+      "address": "3F, 628 Nonhyeon-ro, Gangnam-gu, Seoul",
+      "addressKo": "서울 강남구 논현로 628 3층",
+      "district": "Gangnam-gu",
+      "neighborhood": "Nonhyeon-dong",
+      "lat": 37.5098305,
+      "lng": 127.0330783,
+      "nearestStation": {
+        "name": "Eonju",
+        "nameKo": "언주역",
+        "lines": [
+          "9"
+        ],
+        "exit": "Exit 3",
+        "walkMin": 5
+      }
+    },
+    "links": {
+      "website": "https://www.premiumspal.co.kr/",
+      "kakaoMap": "https://place.map.kakao.com/646687998",
+      "naverMap": "https://map.naver.com/p/search/%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%20%EC%8A%A4%ED%8C%8C%EC%97%98%20%EA%B0%95%EB%82%A8%EB%B3%B8%EC%A0%90",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%EC%8A%A4%ED%8C%8C%EC%97%98%20%EA%B0%95%EB%82%A8%EB%B3%B8%EC%A0%90",
+      "phone": "+82-2-540-7719"
+    },
+    "images": [
+      {
+        "url": "https://t1.kakaocdn.net/mystore/6E08D236078442BABB49E34E9E9106AB",
+        "source": "https://place.map.kakao.com/646687998",
+        "credit": "Kakao Map / official listing photo",
+        "alt": "Premium Spa L Gangnam couple treatment room"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/753C88EAE1A346ACAB0B674CFDD917E8",
+        "source": "https://place.map.kakao.com/646687998",
+        "credit": "Kakao Map / official listing photo",
+        "alt": "Spa reception lounge"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/16C8C81158DD4D4CAE20604DEE363B5B",
+        "source": "https://place.map.kakao.com/646687998",
+        "credit": "Kakao Map / official listing photo",
+        "alt": "Treatment room detail"
+      },
+      {
+        "url": "https://t1.kakaocdn.net/mystore/24C5DA67470943CA93B3A27DE84A4DE0",
+        "source": "https://place.map.kakao.com/646687998",
+        "credit": "Kakao Map / official listing photo",
+        "alt": "Spa hallway"
+      }
+    ],
+    "duration": "60-190 min",
+    "bestTime": "Any time — open 24 hours",
+    "goodFor": [
+      "Parents",
+      "Date",
+      "Relaxing",
+      "Celebration"
+    ],
+    "reservation": {
+      "recommended": true,
+      "how": "Phone or Naver Talk Talk booking"
+    },
+    "sources": [
+      "https://place.map.kakao.com/646687998",
+      "https://www.premiumspal.co.kr/"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "pokemon-megafesta-hiker-ground",
+    "name": "Pokemon Mega Festa: Pikachu's Autumn Outing",
+    "nameKo": "포켓몬 메가페스타 2026: 피카츄의 가을 나들이",
+    "category": "event",
+    "subcategory": "Free character pop-up exhibition",
+    "tags": [
+      "free",
+      "indoor",
+      "k-pop",
+      "instagrammable",
+      "kid-friendly",
+      "parent-friendly",
+      "new-2025-2026"
+    ],
+    "vibes": [
+      "lively",
+      "hip"
+    ],
+    "summary": "A free, hanbok-themed Pikachu pop-up and stamp rally at HiKR Ground near Jonggak — running 18 Sep-11 Oct 2026, so it spans the whole trip.",
+    "description": "Korea Tourism Organization's HiKR Ground cultural space hosts this free Pokemon Korea pop-up through 11 October 2026, themed around Pikachu and friends dressed in hanbok wandering through a folk-painting-style autumn scene. The shop and main photo sets sit on the 5th floor, with a stamp rally spanning the 1st-3rd floors that hands out a 30th-anniversary Pokemon sticker once two stamps are collected. It's completely free, indoors, air-conditioned, and genuinely low-effort — a good complement to a Gwanghwamun/Jongno sightseeing day.",
+    "highlights": [
+      "Free Pikachu-in-hanbok photo zones and folk-painting-themed sets (5F)",
+      "Stamp rally across floors 1-3 with a free Pokemon 30th-anniversary sticker reward",
+      "Instagram-follow bonus: a free sun cap for early visitors who follow @pokemon_korea_official",
+      "4 minutes from Jonggak Station Exit 5"
+    ],
+    "tips": [
+      "Runs 18 Sep-11 Oct 2026, so all four trip days (26-29 Sep) are covered",
+      "Open 10:00-20:00 daily; go on a weekday morning to avoid the opening-time queue",
+      "Combine with Gwanghwamun/Cheonggyecheon or Kyobo Book Centre, both nearby",
+      "HiKR Ground's other floors have free K-culture/VR experiences worth a look while you're there"
+    ],
+    "badges": {
+      "familyFriendly": true,
+      "valueForMoney": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 4.3,
+        "count": 44,
+        "url": "https://place.map.kakao.com/520168372"
+      },
+      "google": {
+        "score": 4.6,
+        "count": 1136,
+        "url": "https://www.google.com/maps/search/?api=1&query=%ED%95%98%EC%9D%B4%EC%BB%A4%20%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "A space that packages a taste of Korean culture into one accessible spot — foreigners will love it, especially the interactive song-and-dance corner.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Blog",
+        "text": "A parent visiting with kids called the folk-painting-style photo zones the most memorable spot of their autumn outing.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Kakao",
+        "text": "Fun and varied — a good free stop in central Seoul.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 1,
+      "note": "Free entry to the pop-up and stamp rally; optional Pokemon Korea goods for sale in the shop."
+    },
+    "hours": {
+      "weekly": {
+        "mon": "10:00-20:00",
+        "tue": "10:00-20:00",
+        "wed": "10:00-20:00",
+        "thu": "10:00-20:00",
+        "fri": "10:00-20:00",
+        "sat": "10:00-20:00",
+        "sun": "10:00-20:00"
+      }
+    },
+    "tripDays": {
+      "2026-09-23": "open",
+      "2026-09-24": "open",
+      "2026-09-25": "unknown",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "open",
+      "2026-09-29": "open",
+      "2026-09-30": "open"
+    },
+    "chuseok": {
+      "status": "unknown",
+      "note": "No specific Chuseok-day closure notice found for the pop-up itself; HiKR Ground is inside a government-run (Korea Tourism Organization) building, which occasionally adjusts hours on the holiday — call ahead for 25 Sep specifically. The other trip days (26-29 Sep) fall within the confirmed 18 Sep-11 Oct 2026 run.",
+      "verified": false
+    },
+    "location": {
+      "address": "5F (shop) / 1F-3F (stamp rally), HiKR Ground, Korea Tourism Organization Bldg, 40 Cheonggyecheon-ro, Jung-gu, Seoul",
+      "addressKo": "서울 중구 청계천로 40 한국관광공사 하이커그라운드",
+      "district": "Jung-gu",
+      "neighborhood": "Jongno / Cheonggyecheon",
+      "lat": 37.5666849,
+      "lng": 127.020161,
+      "nearestStation": {
+        "name": "Jonggak",
+        "nameKo": "종각역",
+        "lines": [
+          "1"
+        ],
+        "exit": "Exit 5",
+        "walkMin": 4
+      }
+    },
+    "links": {
+      "website": "https://korean.visitkorea.or.kr",
+      "instagram": "https://www.instagram.com/pokemon_korea_official",
+      "kakaoMap": "https://place.map.kakao.com/187449949",
+      "naverMap": "https://map.naver.com/p/search/%ED%95%98%EC%9D%B4%EC%BB%A4%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%ED%95%98%EC%9D%B4%EC%BB%A4%20%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C"
+    },
+    "images": [
+      {
+        "url": "https://postfiles.pstatic.net/MjAyNjA5MjFfMTU4/MDAxNzg5OTE4NTc0OTEy.Bib9kOs0RCGCmc3aHbdjGjk5_E1RXVB6kITpzwnHph4g.L-JQtJcV8WiGVx2PxXtP6JK5gDJLD16amsu1YcDAZXQg.JPEG/SE-e4df9df2-b505-11f1-b44c-394de2c44a98.jpg?type=w466",
+        "source": "https://place.map.kakao.com/187449949",
+        "credit": "Kakao Map user photo",
+        "alt": "Pikachu in hanbok photo zone at the pop-up"
+      },
+      {
+        "url": "https://postfiles.pstatic.net/MjAyNjA5MjFfNDYg/MDAxNzg5OTE4NTgwMTc5.uz59EjNid0XHVwEwNzYKROd82grTvmGABzXHi4R4k50g.e8ZNxS4mIsVPc_3lx6prh7DHmBaGfwDUChDkywRUatAg.JPEG/SE-42c3b8ed-b4fb-11f1-851c-3bdc6efd0430.jpg?type=w966",
+        "source": "https://place.map.kakao.com/187449949",
+        "credit": "Kakao Map user photo",
+        "alt": "Folk-painting-style autumn scene set"
+      },
+      {
+        "url": "https://postfiles.pstatic.net/MjAyNjA5MjFfMjk1/MDAxNzg5OTE4NTYzNjYz.RwUUqb7JGe0vYkbt-GvArjhH3Rtx0snnkr_MZTsbcdAg.FF_GPB26T4IL_4wScNRaGQGl4OilMdxPNF_ODyYBJqcg.JPEG/SE-81057859-b501-11f1-966d-9b50700c1a2d.jpg?type=w966",
+        "source": "https://place.map.kakao.com/187449949",
+        "credit": "Kakao Map user photo",
+        "alt": "Pokemon Korea pop-up shop goods"
+      },
+      {
+        "url": "https://postfiles.pstatic.net/MjAyNjA5MjFfMTE3/MDAxNzg5OTE4NTcxODM3.4UsNsacQBhjyDVHoqRLAnqYe-9ACoEpeXa4VAJ06yk8g.T0yujMKgOgyCZ_u8W2L_c0mOfAEOfxkm4GCmNtjnz2Ug.JPEG/SE-e4e1c0d4-b505-11f1-b44c-57cc4deb5266.jpg?type=w466",
+        "source": "https://place.map.kakao.com/187449949",
+        "credit": "Kakao Map user photo",
+        "alt": "Visitors at the pop-up stamp rally"
+      }
+    ],
+    "duration": "45-75 min",
+    "bestTime": "Weekday morning, right at 10am open",
+    "goodFor": [
+      "Family of 5",
+      "Kids at heart",
+      "Photos"
+    ],
+    "reservation": {
+      "recommended": false
+    },
+    "eventDates": {
+      "start": "2026-09-18",
+      "end": "2026-10-11"
+    },
+    "sources": [
+      "https://place.map.kakao.com/187449949",
+      "https://place.map.kakao.com/520168372"
+    ],
+    "lastVerified": "2026-09-25"
+  },
+  {
+    "id": "demon-slayer-jipjungjeon-seongsu",
+    "name": "Demon Slayer: Total Concentration Exhibition",
+    "nameKo": "귀멸의 칼날: 전집중展",
+    "category": "event",
+    "subcategory": "Anime exhibition",
+    "tags": [
+      "indoor",
+      "instagrammable",
+      "k-pop",
+      "kid-friendly",
+      "reservation-needed",
+      "new-2025-2026"
+    ],
+    "vibes": [
+      "lively",
+      "hip"
+    ],
+    "summary": "Demon Slayer's first Korea exhibition in a Seongsu warehouse — closes 27 Sep, so only 26–27 Sep of this trip catch it.",
+    "description": "This is the Korean debut of the \"Total Concentration\" (전집중) Demon Slayer touring exhibition, set up inside S-Factory's Building D in Seongsu with recreated scenes, original art panels and exclusive merchandise. It's been running since 27 June 2026 and is scheduled to close on 27 September 2026 — right in the middle of the trip window, so it's only catchable on Saturday 26 or Sunday 27 September, not the Monday/Tuesday after. Reviews are more mixed than most entries in this guide (some found the production value underwhelming for the price), so it's best treated as a fan-driven pop-in rather than a must-see, timed for anyone in the group who's into the anime.",
+    "highlights": [
+      "Korea's first Demon Slayer touring exhibition, with recreated scenes and original art",
+      "Exclusive limited-edition merchandise counter",
+      "Timed-entry ticketing by 15-30 min slots to manage crowds",
+      "8 minutes from Seongsu Station Exit 2, in the Seongsu warehouse-conversion district"
+    ],
+    "tips": [
+      "Closes 27 Sep 2026 — only Sat 26 or Sun 27 work for this trip, not the 28th or 29th",
+      "Some visitors found the exhibit thinner than expected for the ticket price — go for the merch and photo ops, not a deep dive",
+      "Book a timed slot online in advance rather than queuing on the day",
+      "Combine with a Seongsu café/shopping loop (Ttukseom/Seongsu is a short walk)"
+    ],
+    "badges": {
+      "familyFriendly": true
+    },
+    "ratings": {
+      "kakao": {
+        "score": 2.6,
+        "count": 9,
+        "url": "https://place.map.kakao.com/1891570540"
+      }
+    },
+    "reviews": [
+      {
+        "source": "Kakao",
+        "text": "Went to the Demon Slayer exhibition and understood why some visitors called it disappointing — the production quality felt underwhelming for the price.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Blog",
+        "text": "A fan who visited on a weekday said it was worth it for the calm, uncrowded viewing experience despite mixed word-of-mouth.",
+        "paraphrased": true,
+        "lang": "en"
+      },
+      {
+        "source": "Blog",
+        "text": "One visitor said it's a must for anyone who loved the Mugen Train and Infinity Castle films, primarily for the exclusive merchandise.",
+        "paraphrased": true,
+        "lang": "en"
+      }
+    ],
+    "price": {
+      "level": 2,
+      "perPersonKRW": [
+        26000,
+        28000
+      ],
+      "note": "Weekday tickets ₩26,000; weekend tickets ₩28,000. Exhibition closes 27 Sep 2026."
+    },
+    "hours": {
+      "weekly": {
+        "fri": "11:00-21:00",
+        "sat": "11:00-21:00",
+        "sun": "11:00-21:00"
+      },
+      "lastOrder": "Last admission 20:00",
+      "note": "Exhibition period 27 Jun-27 Sep 2026 only; closed outside those dates regardless of the time shown."
+    },
+    "tripDays": {
+      "2026-09-23": "closed",
+      "2026-09-24": "closed",
+      "2026-09-25": "closed",
+      "2026-09-26": "open",
+      "2026-09-27": "open",
+      "2026-09-28": "closed",
+      "2026-09-29": "closed",
+      "2026-09-30": "closed"
+    },
+    "chuseok": {
+      "status": "partial",
+      "note": "Not driven by the holiday — the exhibition simply runs 27 Jun-27 Sep 2026, so it happens to be open 26 Sep but closed by 27 Sep evening / definitely closed 28-30 Sep.",
+      "verified": true,
+      "source": "https://search.naver.com/search.naver?query=%EA%B7%80%EB%A9%B8%EC%9D%98%EC%B9%BC%EB%82%A0%20%EC%A0%84%EC%A7%91%EC%A4%91%EC%A0%84%20%EC%84%B1%EC%88%98%20%EA%B8%B0%EA%B0%84"
+    },
+    "location": {
+      "address": "1F, S-Factory Building D, 11 Yeonmujang 15-gil, Seongdong-gu, Seoul",
+      "addressKo": "서울 성동구 연무장15길 11 에스팩토리 D동 1F",
+      "district": "Seongdong-gu",
+      "neighborhood": "Seongsu-dong",
+      "lat": 37.5428358,
+      "lng": 127.0589363,
+      "nearestStation": {
+        "name": "Seongsu",
+        "nameKo": "성수역",
+        "lines": [
+          "2"
+        ],
+        "exit": "Exit 2",
+        "walkMin": 8
+      }
+    },
+    "links": {
+      "kakaoMap": "https://place.map.kakao.com/988039230",
+      "naverMap": "https://map.naver.com/p/search/%EC%97%90%EC%8A%A4%ED%8C%A9%ED%86%A0%EB%A6%AC%20D%EB%8F%99",
+      "googleMaps": "https://www.google.com/maps/search/?api=1&query=%EC%97%90%EC%8A%A4%ED%8C%A9%ED%86%A0%EB%A6%AC%20D%EB%8F%99%20%EC%84%B1%EC%88%98"
+    },
+    "images": [
+      {
+        "url": "https://postfiles.pstatic.net/MjAyNjA5MjBfNjEg/MDAxNzg5OTE1NjkzNDE4.66V78MrBMnJ2_xC8WvXOwQCmlrSvo7U2Z0WLGojbxewg.ZTZQrYueaR9S4Mhgtp8RDNmtbdjedxuY9iHPiYlf1vcg.JPEG/480_1789915688551.jpg?type=w386",
+        "source": "https://place.map.kakao.com/988039230",
+        "credit": "Kakao Map user photo",
+        "alt": "Demon Slayer exhibition entrance signage at S-Factory"
+      },
+      {
+        "url": "https://postfiles.pstatic.net/MjAyNjA5MjBfMTc4/MDAxNzg5OTE2MTQ2MjQx.rDZQyLei6zn0aDGoiEdqY4dfu_1bb2PVXNFJuyDOSKQg.86fSsJw7YvWxpMq7lkxN5-NTMTLxCCnC1X6fpKtNjq0g.JPEG/480_1789916143367.jpg?type=w773",
+        "source": "https://place.map.kakao.com/988039230",
+        "credit": "Kakao Map user photo",
+        "alt": "Recreated scene inside the exhibition"
+      },
+      {
+        "url": "https://postfiles.pstatic.net/MjAyNjA5MjBfMTQ4/MDAxNzg5OTE1NTU2ODY5.hfp73Td37xl9N4f5_SHQOjvv_SDsTeTJiFWP7GM5Lcog.Tyw3-8eQRmT71_tvtbNED0WyIPTQ4Ia2UQnLzEdRzeMg.JPEG/480_1789915554064.jpg?type=w773",
+        "source": "https://place.map.kakao.com/988039230",
+        "credit": "Kakao Map user photo",
+        "alt": "Original art panel display"
+      },
+      {
+        "url": "https://postfiles.pstatic.net/MjAyNjA5MjBfMTky/MDAxNzg5OTE1ODI2Njc5.7Bz9zlbPDIeMe28_Hci_bqUqaDQlSecnGMxMX7cqDRMg.BoCRP_eD5N1IN6afsfaIVGzR5RGclzL9PpIybmPD0pMg.JPEG/480_1789915820733.jpg?type=w773",
+        "source": "https://place.map.kakao.com/988039230",
+        "credit": "Kakao Map user photo",
+        "alt": "Merchandise counter at the exhibition"
+      }
+    ],
+    "duration": "45-60 min",
+    "bestTime": "Weekday, but only Sat 26 / Sun 27 Sep fall within this trip",
+    "goodFor": [
+      "Kids at heart",
+      "Photos"
+    ],
+    "reservation": {
+      "recommended": true,
+      "how": "Interpark/NOL ticket, timed entry slots"
+    },
+    "eventDates": {
+      "start": "2026-06-27",
+      "end": "2026-09-27"
+    },
+    "sources": [
+      "https://place.map.kakao.com/988039230",
+      "https://place.map.kakao.com/1891570540"
+    ],
+    "lastVerified": "2026-09-25"
+  }
+]

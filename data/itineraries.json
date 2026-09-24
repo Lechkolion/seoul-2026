@@ -149,19 +149,20 @@
       {
         "id": "37-grill-conrad-yeouido",
         "time": "20:00",
-        "stay": 90,
-        "note": "37th-floor whisky lounge at the Conrad with Han River views. Smart-casual."
+        "stay": 120,
+        "note": "Dinner and drinks on the 37th floor of the Conrad — grill menu, 250+ whiskies, Han River views. Smart-casual."
       }
     ],
     "tips": [
-      "Everything after lunch is along the river in Yeouido Hangang Park — short flat walks."
+      "Everything after lunch is along the river in Yeouido Hangang Park — short flat walks.",
+      "Splurge alternative for dinner: Walking on the Cloud (Italian, 59F of the 63 Building) — courses ₩195k–250k."
     ]
   },
   {
     "date": "2026-09-28",
     "title": "Gangnam future",
     "theme": "Monday — tech, design, steak and cocktails",
-    "summary": "Starfield Library and the COEX WAVE screen, a Hyundai car-tech showroom, Gentle Monster's surreal Haus Dosan, then Wolfgang's steak and a world-ranked cocktail bar.",
+    "summary": "Starfield Library and the COEX WAVE screen, a Hyundai car-tech showroom, Gentle Monster's surreal Haus Dosan, a massage, then Wolfgang's steak and a world-ranked cocktail bar.",
     "stops": [
       {
         "id": "starfield-coex-library",
@@ -190,32 +191,39 @@
       {
         "id": "haus-dosan-gentle-monster",
         "time": "15:45",
-        "stay": 75,
+        "stay": 50,
         "note": "Robotic art installations + Nudake desserts in the basement."
       },
       {
+        "id": "hanoi-foot-body-cheongdam",
+        "time": "17:00",
+        "stay": 80,
+        "note": "Reservation-only foot & body massage — book 5 slots. Relief Special (80 min) ₩87,000; Relief Basic ₩66,000."
+      },
+      {
         "id": "wolfgangs-steakhouse-cheongdam",
-        "time": "18:00",
-        "stay": 105,
+        "time": "18:45",
+        "stay": 100,
         "note": "Dry-aged porterhouse for 2–3 is enough for 5 with sides."
       },
       {
         "id": "zest",
-        "time": "20:15",
+        "time": "20:40",
         "stay": 90,
         "note": "Asia's 50 Best Bars; sustainable cocktails, relaxed lounge feel."
       }
     ],
     "tips": [
       "Gucci Osteria is closed Mondays — that's why Wolfgang's is tonight.",
-      "Tired feet? Megabox COEX has Seoul's only Dolby Cinema, right under the mall."
+      "Tired feet? Megabox COEX has Seoul's only Dolby Cinema, right under the mall.",
+      "Value dinner alternative: Stubborn (steakhouse, Gangnam) ≈₩40–75k per person."
     ]
   },
   {
     "date": "2026-09-29",
     "title": "Seongsu & Hannam",
     "theme": "Tuesday — design district, art, last-night drinks",
-    "summary": "Seoul Forest, Seongsu's art and concept-store scene, Leeum's modern architecture, the Hyundai Card music library, then Mexican in Hannam and a rooftop bar.",
+    "summary": "Seoul Forest, Seongsu's art and concept-store scene, Leeum's modern architecture, a Ground Seesaw exhibition, then Mexican in Hannam and a rooftop bar.",
     "stops": [
       {
         "id": "seoul-forest",
@@ -254,10 +262,10 @@
         "note": "Buildings by Botta, Nouvel and Koolhaas. Head for the contemporary-art building (M2) and the lobby installations; skip the traditional wing if you've had enough history. Closes 18:00."
       },
       {
-        "id": "hyundai-card-music-library",
+        "id": "ground-seesaw-hannam",
         "time": "17:00",
-        "stay": 45,
-        "note": "Library floor needs a Hyundai Card or a DIVE-app sign-up; the vinyl shop and café are open to all."
+        "stay": 50,
+        "note": "Photo/art exhibition hall (₩20,000). Closes 19:00."
       },
       {
         "id": "escondido",
