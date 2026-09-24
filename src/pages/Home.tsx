@@ -180,6 +180,9 @@ export function HomePage() {
               <ArrowRight size={20} aria-hidden="true" />
             </button>
           </form>
+          <Link to="/days" className="btn btn--primary hero__days">
+            Ready-made day plans <ArrowRight size={18} aria-hidden="true" />
+          </Link>
           {hero && <p className="hero__credit">Photo: {hero.name} · {hero.images[0]?.credit}</p>}
         </div>
       </section>

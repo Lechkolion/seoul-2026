@@ -8,6 +8,7 @@ import { Layout } from './components/Layout';
 import { HomePage } from './pages/Home';
 import { ExplorePage } from './pages/Explore';
 import { PlanPage } from './pages/Plan';
+import { DaysPage } from './pages/Days';
 import { ChuseokPage } from './pages/Chuseok';
 import { PracticalPage } from './pages/Practical';
 import { PlaceDetail } from './pages/PlaceDetail';
@@ -66,6 +67,7 @@ export function App() {
             <Route path="/" element={<HomePage />} />
             <Route path="/explore" element={<ExplorePage />} />
             <Route path="/map" element={<MapPage />} />
+            <Route path="/days" element={<DaysPage />} />
             <Route path="/plan" element={<PlanPage />} />
             <Route path="/chuseok" element={<ChuseokPage />} />
             <Route path="/practical" element={<PracticalPage />} />

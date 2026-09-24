@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build:data": "node scripts/build-data.mjs --lenient",
+    "build:data": "node scripts/build-data.mjs --lenient && node scripts/build-itineraries.mjs",
     "validate": "node scripts/validate-places.mjs",
     "images": "node scripts/fetch-images.mjs",
     "build": "node scripts/maybe-build-data.mjs && tsc -b && vite build",

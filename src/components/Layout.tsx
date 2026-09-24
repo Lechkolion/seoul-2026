@@ -1,6 +1,6 @@
 import type { ReactNode } from 'react';
 import { NavLink, Link } from 'react-router-dom';
-import { Compass, Home as HomeIcon, Map as MapIcon, CalendarHeart, Info, Moon, Sun } from 'lucide-react';
+import { Compass, Home as HomeIcon, Map as MapIcon, CalendarHeart, Info, Moon, Route as RouteIcon, Sun } from 'lucide-react';
 import { actions, useStore } from '../lib/store';
 import { MoonMark } from './icons';
 
@@ -8,6 +8,7 @@ const NAV = [
   { to: '/', label: 'Home', icon: HomeIcon, end: true },
   { to: '/explore', label: 'Explore', icon: Compass },
   { to: '/map', label: 'Map', icon: MapIcon },
+  { to: '/days', label: 'Days', icon: RouteIcon },
   { to: '/plan', label: 'Plan', icon: CalendarHeart },
   { to: '/practical', label: 'Guide', icon: Info },
 ];

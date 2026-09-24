@@ -1,0 +1,80 @@
+[
+  {
+    "date": "2026-09-25",
+    "title": "Sky-high Jamsil",
+    "theme": "Chuseok day — stick to places confirmed open",
+    "summary": "Lotte World Tower day: lake walk, lunch on the 81st floor, glass-floor observatory, then back near home for a hotel buffet and the Banpo rainbow fountain.",
+    "stops": [
+      { "id": "seokchon-lake", "time": "10:30", "stay": 45, "note": "Flat loop around the lake with the tower above you." },
+      { "id": "bicena", "time": "12:30", "stay": 90, "note": "Open 12:30 on Chuseok day. Book ahead; the lunch set is the value option." },
+      { "id": "lotte-world-tower-seoul-sky", "time": "14:15", "stay": 120, "note": "Buy tickets online the morning of. Glass-floor Sky Deck on 118F; 120F terrace." },
+      { "id": "lotte-world-mall-avenuel", "time": "16:30", "stay": 60, "note": "Mall opens noon on Chuseok day. Browse or rest before heading home." },
+      { "id": "jw-marriott-flavors", "time": "18:00", "stay": 105, "note": "Dinner buffet near home — no transfers needed after." },
+      { "id": "banpo-moonlight-rainbow-fountain", "time": "20:00", "stay": 40, "note": "Shows at 19:30, 20:00, 20:30, 21:00, 21:30 (20 min each). Cancelled in rain or strong wind." }
+    ],
+    "tips": ["Chuseok day: many small restaurants close — every stop here is confirmed open or a hotel/mall.", "Nightcap option: MOBO Bar at JW Marriott is 15 min on foot from the fountain."]
+  },
+  {
+    "date": "2026-09-26",
+    "title": "Free palace, modern art",
+    "theme": "Chuseok holiday — palaces and MMCA are free",
+    "summary": "Gyeongbokgung for free, brunch at a hanok bakery, Do Ho Suh at the national modern art museum, then Four Seasons buffet and Asia's-50-Best bar Charles H without moving again.",
+    "stops": [
+      { "id": "gyeongbokgung", "time": "10:00", "stay": 90, "note": "Free entry 24–27 Sep. Guard-changing ceremony 10:00 & 14:00." },
+      { "id": "cafe-onion-anguk", "time": "11:50", "stay": 60, "note": "Pastries and coffee in a traditional hanok courtyard." },
+      { "id": "mmca-seoul", "time": "13:15", "stay": 90, "note": "Free during Chuseok, incl. the Do Ho Suh show." },
+      { "id": "osulloc-tea-house-bukchon", "time": "15:10", "stay": 45, "note": "Green-tea desserts and tea in a hanok." },
+      { "id": "cheonggyecheon", "time": "16:45", "stay": 40, "note": "Flat stream walk; the Four Seasons is a few minutes from its start." },
+      { "id": "four-seasons-market-kitchen", "time": "17:45", "stay": 105, "note": "Dinner buffet; book ahead on holiday weekends." },
+      { "id": "charles-h-four-seasons", "time": "20:00", "stay": 90, "note": "Hidden speakeasy downstairs in the same hotel. Opens 17:00." }
+    ],
+    "tips": ["Taxi home from Gwanghwamun is ~30 min; for 5 people take a large Kakao T Venti or two taxis."]
+  },
+  {
+    "date": "2026-09-27",
+    "title": "Yeouido & the river",
+    "theme": "Normal Sunday — malls and river",
+    "summary": "Seoul's most futuristic department store, the Centre Pompidou's new Seoul branch, then sunset on the Han River from a tethered balloon and a boat.",
+    "stops": [
+      { "id": "the-hyundai-seoul", "time": "10:30", "stay": 150, "note": "Indoor garden and waterfall on 5F; eat lunch at the basement food hall." },
+      { "id": "centre-pompidou-hanwha", "time": "13:30", "stay": 75, "note": "Opened June 2026 inside the 63 Building — Paris collection loans. Book timed tickets." },
+      { "id": "yeouido-hangang-park", "time": "15:30", "stay": 60, "note": "Rent a mat, order chicken to the park — very Seoul." },
+      { "id": "seoul-dal-balloon", "time": "17:00", "stay": 45, "note": "Tethered balloon 130 m up; sunset ~18:17. Weather cancels it — check before going." },
+      { "id": "e-land-cruise", "time": "18:30", "stay": 70, "note": "Take an evening sailing, not the day tour — city lights on both banks." }
+    ],
+    "tips": ["Everything after lunch is along the river in Yeouido Hangang Park — short flat walks."]
+  },
+  {
+    "date": "2026-09-28",
+    "title": "Gangnam future",
+    "theme": "Monday — tech, design, steak and cocktails",
+    "summary": "Starfield Library and the COEX wave screen, a Hyundai car-tech showroom, Gentle Monster's surreal Haus Dosan, then Wolfgang's steak and a world-ranked cocktail bar.",
+    "stops": [
+      { "id": "starfield-coex-library", "time": "10:30", "stay": 45, "note": "13 m bookshelves; photos best before 11:00." },
+      { "id": "starfield-coex-mall", "time": "11:15", "stay": 120, "note": "The WAVE anamorphic screen is outside at K-Pop Square. Lunch in the mall." },
+      { "id": "bongeunsa", "time": "13:30", "stay": 40, "note": "Temple across the road from COEX — calm contrast with the skyscrapers." },
+      { "id": "hyundai-motorstudio-seoul", "time": "14:45", "stay": 60, "note": "Free car-tech showroom; concept cars and design exhibits." },
+      { "id": "haus-dosan-gentle-monster", "time": "16:15", "stay": 60, "note": "Robotic art installations + Nudake desserts in the basement." },
+      { "id": "wolfgangs-steakhouse-cheongdam", "time": "18:00", "stay": 105, "note": "Dry-aged porterhouse for 2–3 is enough for 5 with sides." },
+      { "id": "zest", "time": "20:15", "stay": 90, "note": "Asia's 50 Best Bars; sustainable cocktails, relaxed lounge feel." }
+    ],
+    "tips": ["Gucci Osteria is closed Mondays — that's why Wolfgang's is tonight."]
+  },
+  {
+    "date": "2026-09-29",
+    "title": "Seongsu & Hannam",
+    "theme": "Tuesday — design district, art, last-night drinks",
+    "summary": "Seoul Forest, Seongsu's showroom-style concept stores, Leeum's modern architecture, the Hyundai Card music library, then Mexican in Hannam and a rooftop bar.",
+    "stops": [
+      { "id": "seoul-forest", "time": "10:30", "stay": 45, "note": "Flat park paths; deer enclosure near the Seongsu side." },
+      { "id": "nudake-seongsu", "time": "11:30", "stay": 45, "note": "Gallery-like dessert shop from Gentle Monster's team." },
+      { "id": "musinsa-mega-store-seongsu", "time": "12:30", "stay": 60, "note": "Korea's biggest fashion platform, multiple floors." },
+      { "id": "daelim-changgo", "time": "13:45", "stay": 60, "note": "Warehouse café-gallery for a light lunch." },
+      { "id": "leeum", "time": "15:15", "stay": 90, "note": "Architecture by Mario Botta, Jean Nouvel and Rem Koolhaas; closes 18:00." },
+      { "id": "hyundai-card-music-library", "time": "17:00", "stay": 45, "note": "Library floor needs a Hyundai Card or a DIVE-app sign-up; the vinyl shop and café are open to all." },
+      { "id": "escondido", "time": "18:15", "stay": 90, "note": "Open from 17:15 on Tuesdays; tacos and mezcal." },
+      { "id": "privilege-bar-mondrian", "time": "20:15", "stay": 90, "note": "Indoor-outdoor rooftop at the Mondrian; weekdays are calmer than weekends. Reserve a terrace table on CatchTable." }
+    ],
+    "tips": ["Seongsu → Hannam is quickest by taxi (~15 min).", "Last night: Privilege is a 25 min taxi from home."]
+  }
+]
