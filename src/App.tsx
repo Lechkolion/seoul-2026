@@ -9,6 +9,7 @@ import { HomePage } from './pages/Home';
 import { ExplorePage } from './pages/Explore';
 import { PlanPage } from './pages/Plan';
 import { DaysPage } from './pages/Days';
+import { RainPage } from './pages/Rain';
 import { ChuseokPage } from './pages/Chuseok';
 import { PracticalPage } from './pages/Practical';
 import { PlaceDetail } from './pages/PlaceDetail';
@@ -68,6 +69,7 @@ export function App() {
             <Route path="/explore" element={<ExplorePage />} />
             <Route path="/map" element={<MapPage />} />
             <Route path="/days" element={<DaysPage />} />
+            <Route path="/rain" element={<RainPage />} />
             <Route path="/plan" element={<PlanPage />} />
             <Route path="/chuseok" element={<ChuseokPage />} />
             <Route path="/practical" element={<PracticalPage />} />

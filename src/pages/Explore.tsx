@@ -4,6 +4,7 @@ import { LayoutGrid, Map as MapIcon, Search, SlidersHorizontal, X } from 'lucide
 import { useData } from '../lib/data';
 import type { Category } from '../lib/types';
 import { BADGE_LABEL, EMPTY, SORT_LABEL, advancedCount, applyFilters, filtersToParams, parseFilters, type Filters, type SortKey } from '../lib/filters';
+import { PLACE_TYPES, matchesType } from '../lib/placeTypes';
 import { CATEGORY_LABEL, CATEGORY_ORDER, shortDate } from '../lib/trip';
 import { priceLabel } from '../lib/place-utils';
 import { useOverlay } from '../lib/nav';
@@ -28,6 +29,14 @@ export function ExplorePage() {
   const sentinel = useRef<HTMLDivElement>(null);
 
   const results = useMemo(() => applyFilters(places, f, fuse), [places, f, fuse]);
+
+  // Type chips for a single chosen category, with counts under the other active filters.
+  const typeChips = useMemo(() => {
+    if (f.cat.length !== 1) return [];
+    const types = PLACE_TYPES[f.cat[0]] ?? [];
+    const pool = applyFilters(places, { ...f, type: [] }, fuse);
+    return types.map((t) => ({ ...t, n: pool.filter((p) => matchesType(p, t.key)).length })).filter((t) => t.n > 0);
+  }, [places, f, fuse]);
 
   const update = (patch: Partial<Filters>, replace = true) => {
     setSp(filtersToParams({ ...f, ...patch }, sp), { replace });
@@ -106,20 +115,33 @@ export function ExplorePage() {
             </div>
           </div>
           <div className="catchips" role="group" aria-label="Category">
-            <button type="button" className={`catchip ${f.cat.length === 0 ? 'is-on' : ''}`} aria-pressed={f.cat.length === 0} onClick={() => update({ cat: [], cuisine: [] }, false)}>
+            <button type="button" className={`catchip ${f.cat.length === 0 ? 'is-on' : ''}`} aria-pressed={f.cat.length === 0} onClick={() => update({ cat: [], cuisine: [], type: [] }, false)}>
               All
             </button>
             {CATEGORY_ORDER.map((c) => {
               const Icon = CATEGORY_ICON[c];
               const on = f.cat.includes(c);
               return (
-                <button key={c} type="button" className={`catchip ${on ? 'is-on' : ''}`} aria-pressed={on} onClick={() => update({ cat: on ? f.cat.filter((x) => x !== c) : [c as Category], cuisine: [] }, false)}>
+                <button key={c} type="button" className={`catchip ${on ? 'is-on' : ''}`} aria-pressed={on} onClick={() => update({ cat: on ? f.cat.filter((x) => x !== c) : [c as Category], cuisine: [], type: [] }, false)}>
                   <Icon size={16} aria-hidden="true" />
                   {CATEGORY_LABEL[c]}
                 </button>
               );
             })}
           </div>
+          {typeChips.length > 0 && (
+            <div className="catchips typechips" role="group" aria-label={`${CATEGORY_LABEL[f.cat[0]]} types`}>
+              {typeChips.map((t) => {
+                const on = f.type.includes(t.key);
+                return (
+                  <button key={t.key} type="button" className={`typechip ${on ? 'is-on' : ''}`} aria-pressed={on} onClick={() => update({ type: on ? f.type.filter((x) => x !== t.key) : [...f.type, t.key] })}>
+                    {t.label}
+                    <span className="typechip__n">{t.n}</span>
+                  </button>
+                );
+              })}
+            </div>
+          )}
         </div>
       </div>
 

@@ -2,6 +2,7 @@ import Fuse from 'fuse.js';
 import type { Category, Place, TripDate } from './types';
 import { CHUSEOK_DAYS } from './trip';
 import { dayStatus, isOpenOn, ratingKey, reviewCount } from './place-utils';
+import { matchesType } from './placeTypes';
 
 export type SortKey = 'rating' | 'reviews' | 'time' | 'price' | 'name';
 export type BadgeKey = 'value' | 'gem' | 'futuristic' | 'michelin' | 'family' | 'local' | 'must';
@@ -31,6 +32,7 @@ export interface Filters {
   q: string;
   cat: Category[];
   cuisine: string[];
+  type: string[]; // quick type chips within one category (placeTypes.ts)
   vibe: string[];
   tag: string[];
   price: number[];
@@ -44,7 +46,7 @@ export interface Filters {
 }
 
 export const EMPTY: Filters = {
-  q: '', cat: [], cuisine: [], vibe: [], tag: [], price: [], rating: 0, time: 0, day: '', chuseok: false, modern: false, badge: [], sort: 'rating',
+  q: '', cat: [], cuisine: [], type: [], vibe: [], tag: [], price: [], rating: 0, time: 0, day: '', chuseok: false, modern: false, badge: [], sort: 'rating',
 };
 
 const list = (v: string | null) => (v ? v.split(',').filter(Boolean) : []);
@@ -54,6 +56,7 @@ export function parseFilters(sp: URLSearchParams): Filters {
     q: sp.get('q') ?? '',
     cat: list(sp.get('cat')) as Category[],
     cuisine: list(sp.get('cuisine')),
+    type: list(sp.get('type')),
     vibe: list(sp.get('vibe')),
     tag: list(sp.get('tag')),
     price: list(sp.get('price')).map(Number).filter((n) => n >= 1 && n <= 4),
@@ -73,6 +76,7 @@ export function filtersToParams(f: Filters, keep?: URLSearchParams): URLSearchPa
   if (f.q) sp.set('q', f.q);
   if (f.cat.length) sp.set('cat', f.cat.join(','));
   if (f.cuisine.length) sp.set('cuisine', f.cuisine.join(','));
+  if (f.type.length) sp.set('type', f.type.join(','));
   if (f.vibe.length) sp.set('vibe', f.vibe.join(','));
   if (f.tag.length) sp.set('tag', f.tag.join(','));
   if (f.price.length) sp.set('price', f.price.join(','));
@@ -143,6 +147,7 @@ export function applyFilters(places: Place[], f: Filters, fuse?: Fuse<Place>): P
   }
   const out = base.filter((p) => {
     if (f.cat.length && !f.cat.includes(p.category)) return false;
+    if (f.type.length && !f.type.some((k) => matchesType(p, k))) return false;
     if (f.cuisine.length && !f.cuisine.some((c) => p.cuisine?.includes(c) || p.subcategory === c)) return false;
     if (f.vibe.length && !f.vibe.some((v) => p.vibes.includes(v))) return false;
     if (f.tag.length && !f.tag.every((t) => p.tags.includes(t))) return false;

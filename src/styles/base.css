@@ -454,7 +454,7 @@ main {
   bottom: calc(10px + var(--safe-b));
   height: var(--bottomnav-h);
   display: grid;
-  grid-template-columns: repeat(6, 1fr);
+  grid-template-columns: repeat(6, 1fr); /* Home Explore Map Plan Rain Saved */
   padding: 6px;
   border-radius: 24px;
   background: color-mix(in srgb, var(--bg-2) 78%, transparent);

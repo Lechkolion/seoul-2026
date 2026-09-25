@@ -1,16 +1,17 @@
 import type { ReactNode } from 'react';
 import { NavLink, Link } from 'react-router-dom';
-import { Compass, Home as HomeIcon, Map as MapIcon, CalendarHeart, Info, Moon, Route as RouteIcon, Sun } from 'lucide-react';
+import { Compass, Home as HomeIcon, Map as MapIcon, CalendarHeart, Info, Moon, Route as RouteIcon, Sun, Umbrella } from 'lucide-react';
 import { actions, useStore } from '../lib/store';
 import { MoonMark } from './icons';
 
-const NAV = [
+const NAV: { to: string; label: string; icon: typeof HomeIcon; end?: boolean; topOnly?: boolean }[] = [
   { to: '/', label: 'Home', icon: HomeIcon, end: true },
   { to: '/explore', label: 'Explore', icon: Compass },
   { to: '/map', label: 'Map', icon: MapIcon },
   { to: '/days', label: 'Plan', icon: RouteIcon },
+  { to: '/rain', label: 'Rain', icon: Umbrella },
   { to: '/plan', label: 'Saved', icon: CalendarHeart },
-  { to: '/practical', label: 'Guide', icon: Info },
+  { to: '/practical', label: 'Guide', icon: Info, topOnly: true },
 ];
 
 function ThemeToggle() {
@@ -62,6 +63,9 @@ export function Layout({ children }: { children: ReactNode }) {
             </NavLink>
           </nav>
           <div className="topbar__actions">
+            <NavLink to="/practical" className="icon-btn mobile-only" aria-label="Practical guide">
+              <Info size={20} strokeWidth={1.7} />
+            </NavLink>
             <NavLink to="/chuseok" className="icon-btn icon-btn--moon mobile-only" aria-label="Chuseok calendar">
               <MoonMark size={18} />
             </NavLink>
@@ -73,7 +77,7 @@ export function Layout({ children }: { children: ReactNode }) {
         {children}
       </main>
       <nav className="bottomnav" aria-label="Main">
-        {NAV.map((n) => (
+        {NAV.filter((n) => !n.topOnly).map((n) => (
           <NavLink key={n.to} to={n.to} end={n.end} className="bottomnav__a">
             <span className="bottomnav__icon">
               <n.icon size={22} strokeWidth={1.7} aria-hidden="true" />

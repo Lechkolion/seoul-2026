@@ -1,9 +1,11 @@
 import { useEffect, useMemo, useState } from 'react';
-import { Car, CircleAlert, Clock, Footprints, Home as HomeIcon, Lightbulb, ListPlus, Repeat, TrainFront } from 'lucide-react';
+import { ArrowRight, Car, CircleAlert, Clock, Footprints, Home as HomeIcon, Lightbulb, ListPlus, Repeat, TrainFront, Umbrella } from 'lucide-react';
 import { useData } from '../lib/data';
 import type { Place, TripDate } from '../lib/types';
 import type { RouteLeg } from '../types/place';
 import { isChuseok, lineInfo, seoulNow } from '../lib/trip';
+import { useWeather } from '../lib/weather';
+import { Link } from 'react-router-dom';
 import { actions } from '../lib/store';
 import { usePlaceOpener } from '../lib/nav';
 import { Img } from '../components/Img';
@@ -176,6 +178,8 @@ export function DaysPage() {
   }, []);
 
   const day = useMemo(() => days?.find((d) => d.date === sel), [days, sel]);
+  const { weather } = useWeather();
+  const rain = day ? weather?.daily.find((w) => w.date === day.date)?.rain ?? null : null;
   const today = seoulNow().date;
 
   const addAll = () => {
@@ -223,6 +227,11 @@ export function DaysPage() {
               {day.title}
             </h2>
             <p className="dayplan__sum">{day.summary}</p>
+            {rain != null && rain >= 50 && (
+              <Link to={`/rain?d=${day.date}`} className="rainbanner">
+                <Umbrella size={18} aria-hidden="true" /> <b>{rain}% chance of rain</b> — see the rain version of this day <ArrowRight size={16} aria-hidden="true" />
+              </Link>
+            )}
             <div className="dayplan__stats">
               <span>
                 <b>{day.stops.length}</b> stops
