@@ -108,38 +108,49 @@
     "date": "2026-09-27",
     "title": "Yeouido & the river",
     "theme": "Sunday · dry, 26°C · sunset 18:14",
-    "summary": "Brunch in Seorae Village, then Seoul’s most futuristic department store, Paris’s Centre Pompidou and the new 60th-floor sky deck, fried chicken on the riverbank, a balloon ride and a sunset cruise, and dinner 37 floors up at the Conrad.",
+    "summary": "Brunch in Seorae Village, a futuristic glass-dome botanic garden and a contemporary art museum in Magok, Paris’s Centre Pompidou, fried chicken on the riverbank, a balloon ride, the 60th-floor sky deck at golden hour, a sunset cruise and dinner 37 floors up at the Conrad.",
     "stops": [
       {
         "id": "farno-seorae",
-        "time": "08:45",
+        "time": "08:30",
         "stay": 60,
-        "note": "Calm all-day brunch kitchen 10 min from home. Early-bird set until 09:00, then the full menu.",
+        "note": "Calm all-day brunch kitchen 10 min from home. Eat properly: lunch is a late chicken picnic.",
         "do": [
           "Order: shakshuka-style eggs, tomato omelette (₩19,000), hummus plate (₩19,000), daily soup with toast (₩11,000)",
-          "Sleeping in? Skip it and eat at The Hyundai food hall instead"
+          "Then Line 9 from Sinbanpo straight to Magongnaru, no transfer"
         ],
         "cost": 100000,
         "book": "Walk-in"
       },
       {
-        "id": "the-hyundai-seoul",
-        "time": "10:30",
-        "stay": 125,
-        "note": "Glass-roofed store with an indoor forest and waterfall. Arrive at opening, before the Sunday crowds.",
+        "id": "seoul-botanic-park",
+        "time": "10:20",
+        "stay": 85,
+        "note": "A huge bowl-shaped glass conservatory with plants from 12 world cities and a skywalk above the canopy.",
         "do": [
-          "5F Sounds Forest: indoor garden under the glass roof, 12 m waterfall",
-          "B1/B2 pop-up halls: rotating brand exhibitions",
-          "12:00 lunch at the B1 food hall (Tasty Seoul): burgers, pasta, Korean, bakeries; ≈₩18k per person",
-          "IFC Mall (Zara, Uniqlo, Muji) is 3 min away underground if anyone wants more shops"
+          "Conservatory ≈₩5,000; the lake garden outside is free",
+          "Walk the skywalk ring inside the dome",
+          "2026 special exhibition: “Tender Balance”",
+          "Magongnaru Stn exit 3 opens onto the park"
         ],
-        "cost": 90000,
+        "cost": 25000,
+        "book": "On site"
+      },
+      {
+        "id": "space-k-seoul",
+        "time": "12:05",
+        "stay": 40,
+        "note": "Kolon’s sleek contemporary art museum, two minutes from the park. Rarely crowded.",
+        "do": [
+          "Current show: “Friends and Neighbors” (to Dec 2026)",
+          "Check spacek.co.kr for the ticket price"
+        ],
         "book": "Walk-in"
       },
       {
         "id": "centre-pompidou-hanwha",
-        "time": "12:50",
-        "stay": 75,
+        "time": "13:25",
+        "stay": 70,
         "note": "The Paris Pompidou’s new Seoul branch (opened June 2026). Show: “Cubist: Innovators of Vision”, with Picasso, Braque and Léger loans.",
         "do": [
           "Book timed tickets online in the morning; Sunday afternoons sell out",
@@ -150,22 +161,10 @@
         "book": "Online timed tickets"
       },
       {
-        "id": "63-sky-picnic",
-        "time": "14:10",
-        "stay": 55,
-        "note": "Same building: the 60th-floor sky deck reopened in June 2026 with 360° river views.",
-        "do": [
-          "Rooftop terrace on the old helipad: the best photo of the day",
-          "Starbucks on the deck: coffee break with a view",
-          "Ticket price not yet published; pay at the door"
-        ],
-        "book": "Walk-in"
-      },
-      {
         "id": "yeouido-hangang-park",
-        "time": "15:20",
-        "stay": 65,
-        "note": "Seoul’s favourite riverbank. Do chimaek (chicken + beer) on the grass, the most local thing you can do.",
+        "time": "14:50",
+        "stay": 60,
+        "note": "Late lunch the Seoul way: chimaek (fried chicken + beer) on the grass by the river.",
         "do": [
           "Buy a mat and cold beer at the GS25/CU by Yeouinaru Stn exit 2–3",
           "Order fried chicken (BHC/Kyochon ≈₩23k each; two feed five) to the park’s delivery zone, or ask the shop staff to help",
@@ -175,8 +174,8 @@
       },
       {
         "id": "seoul-dal-balloon",
-        "time": "16:40",
-        "stay": 45,
+        "time": "16:05",
+        "stay": 40,
         "note": "Tethered balloon 130 m up; a 15-min ride. Cancelled in wind; check the queue screen at the park.",
         "do": [
           "≈₩22,000 each; buy tickets on site",
@@ -186,8 +185,20 @@
         "book": "On site"
       },
       {
+        "id": "63-sky-picnic",
+        "time": "17:10",
+        "stay": 45,
+        "note": "Back to the 63 Building for the 60th-floor sky deck in golden-hour light. Views over the whole river.",
+        "do": [
+          "Rooftop terrace on the old helipad: the best photo of the day",
+          "Starbucks on the deck: coffee break with a view",
+          "Ticket price not yet published; pay at the door"
+        ],
+        "book": "Walk-in"
+      },
+      {
         "id": "e-land-cruise",
-        "time": "18:00",
+        "time": "18:05",
         "stay": 70,
         "note": "Sunset sailing from Yeouinaru pier: 40 min past the 63 Building and Bamseom islets with the bridges lighting up.",
         "do": [
@@ -200,7 +211,7 @@
       },
       {
         "id": "37-grill-conrad-yeouido",
-        "time": "19:25",
+        "time": "19:30",
         "stay": 120,
         "note": "Dinner and nightcap on the Conrad’s top floor: grill plates, 250+ whiskies and river views.",
         "do": [
@@ -213,7 +224,7 @@
       }
     ],
     "tips": [
-      "Cheaper dinner: IFC Mall’s restaurant floor (L2–L3) has casual Western chains right next to the Conrad.",
+      "Hungry before 14:40? Space K has a café, and the 63 Building has a food court under the Pompidou.",
       "Splurge: Walking on the Cloud (Italian, 59F of the 63 Building): courses ₩195k–250k per person.",
       "Order chicken in English: Coupang Eats and Baemin need a Korean phone number. Otherwise walk to a chicken shop near Yeouinaru Stn and carry it over."
     ]
@@ -221,8 +232,8 @@
   {
     "date": "2026-09-28",
     "title": "Gangnam future",
-    "theme": "Monday · cloudy, 25°C · tech, design, steak",
-    "summary": "Samsung’s hands-on tech flagship, the Starfield Library and the COEX WAVE screen, American pizza, Hyundai’s car-tech showroom, Gentle Monster’s robot art, an 80-minute massage, then a New York steakhouse and a world-ranked cocktail bar.",
+    "theme": "Monday · cloudy, 25°C · tech, design, steak (all in Apgujeong–Cheongdam)",
+    "summary": "Samsung’s hands-on tech flagship, free art in a Herzog & de Meuron building, French toast at Standard Bread, Hyundai’s car-tech showroom, Gentle Monster’s robot art, cream donuts, an 80-minute massage, then a New York steakhouse and a world-ranked cocktail bar.",
     "stops": [
       {
         "id": "samsung-gangnam",
@@ -237,51 +248,32 @@
         "book": "Walk-in"
       },
       {
-        "id": "starfield-coex-library",
-        "time": "11:10",
-        "stay": 30,
-        "note": "The 13 m wall of bookshelves; best photos before lunchtime crowds.",
+        "id": "songeun-art-space",
+        "time": "11:05",
+        "stay": 45,
+        "note": "Free contemporary art in a nine-storey Herzog & de Meuron building wrapped in perforated concrete.",
         "do": [
-          "Photo from the top of the central staircase",
-          "Free, no ticket"
-        ]
-      },
-      {
-        "id": "starfield-coex-mall",
-        "time": "11:45",
-        "stay": 65,
-        "note": "Asia’s largest underground mall. Browse, then head out for lunch.",
-        "do": [
-          "Kakao Friends and Line Friends stores for gifts",
-          "Hyundai Department Store COEX is connected: food hall on B1",
-          "Screenshot the floor map; shop codes confuse everyone"
-        ]
-      },
-      {
-        "id": "coex-kpop-square-wave",
-        "time": "12:55",
-        "stay": 15,
-        "note": "The giant 3D “wave” screen outside COEX. Stand on the plaza opposite, not underneath.",
-        "do": [
-          "The wave loop plays every few minutes between ads"
-        ]
-      },
-      {
-        "id": "the-pizza-stand",
-        "time": "13:25",
-        "stay": 60,
-        "note": "American-style pizza and craft beer; opens 13:00, so walk in and grab the big table.",
-        "do": [
-          "Order 3 larges for 5: garlic white (₩39,000), combination (₩43,000), pepperoni (₩29,000)",
-          "Craft beer on tap; sports on the big screens"
+          "Free, but book a slot on songeun.or.kr (English page)",
+          "Look up at the diagonal lattice facade from across the street"
         ],
-        "cost": 150000,
+        "book": "songeun.or.kr, free"
+      },
+      {
+        "id": "standard-bread-dosan",
+        "time": "12:05",
+        "stay": 60,
+        "note": "Four-floor European-style bakery café near Dosan Park. Lunch and coffee in one.",
+        "do": [
+          "Order: crème brûlée French toast (₩13,000), sandwiches and pastries from the counter",
+          "Grab the terrace if the weather is nice"
+        ],
+        "cost": 100000,
         "book": "Walk-in"
       },
       {
         "id": "hyundai-motorstudio-seoul",
-        "time": "14:45",
-        "stay": 50,
+        "time": "13:15",
+        "stay": 60,
         "note": "Free five-floor car-tech showroom: concept cars, Genesis and N performance models, design exhibits.",
         "do": [
           "Start at the top floor and walk down",
@@ -290,8 +282,8 @@
       },
       {
         "id": "haus-dosan-gentle-monster",
-        "time": "15:45",
-        "stay": 45,
+        "time": "14:30",
+        "stay": 50,
         "note": "Gentle Monster’s surreal flagship: a giant robotic sculpture, eyewear floors, Tamburins perfume on 4F.",
         "do": [
           "1F: the moving robot installation",
@@ -301,8 +293,20 @@
         "cost": 60000
       },
       {
+        "id": "knotted",
+        "time": "15:35",
+        "stay": 35,
+        "note": "Seoul’s famous cream-donut café: a sweet stop before the massage.",
+        "do": [
+          "Milk-cream donut (₩3,900) and Earl Grey donut",
+          "Skip it if you had Nudake at Haus Dosan"
+        ],
+        "cost": 40000,
+        "book": "Walk-in"
+      },
+      {
         "id": "hanoi-foot-body-cheongdam",
-        "time": "16:50",
+        "time": "16:30",
         "stay": 80,
         "note": "Perfect 5.0 massage spot (148 reviews). Foot soak, then full-body massage in private rooms.",
         "do": [
@@ -314,7 +318,7 @@
       },
       {
         "id": "wolfgangs-steakhouse-cheongdam",
-        "time": "18:25",
+        "time": "18:10",
         "stay": 100,
         "note": "New York dry-aged steakhouse; the porterhouse is the reason to come.",
         "do": [
@@ -327,7 +331,7 @@
       },
       {
         "id": "zest",
-        "time": "20:10",
+        "time": "20:05",
         "stay": 90,
         "note": "One of Asia’s 50 Best Bars: relaxed lounge, sustainable cocktails and friendly English-speaking staff.",
         "do": [
@@ -341,7 +345,7 @@
     ],
     "tips": [
       "Cheaper steak: Stubborn (Gangnam) at ≈₩40–75k per person, or Jang Steakhouse (hanwoo) nearby in Apgujeong.",
-      "Tired by mid-afternoon? Swap the Motorstudio for a Dolby Cinema film at Megabox COEX (Hollywood films in English).",
+      "Tired by mid-afternoon? CGV Cine de Chef (Apgujeong) serves a chef’s course at recliner seats before the film.",
       "Closed today (Monday): Leeum, D Museum, Centre Pompidou, Amorepacific museum. That’s why the art is on Tuesday."
     ]
   },
