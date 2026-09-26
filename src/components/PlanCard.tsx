@@ -6,6 +6,7 @@ import { seoulNow } from '../lib/trip';
 
 interface DaySummary {
   date: string;
+  version?: string;
   title: string;
   theme: string;
   stops: { id: string; time: string }[];
@@ -51,7 +52,7 @@ export function PlanCard() {
           {next.stops.length > 5 && <span className="muted">+{next.stops.length - 5} more</span>}
         </span>
         <span className="plancard__cta">
-          Open the plan with subway routes <ArrowRight size={16} aria-hidden="true" />
+          {days.filter((d) => d.date === next.date).length > 1 ? `Plan A of ${days.filter((d) => d.date === next.date).length} — see the other versions` : 'Open the plan with subway routes'} <ArrowRight size={16} aria-hidden="true" />
         </span>
       </span>
     </Link>

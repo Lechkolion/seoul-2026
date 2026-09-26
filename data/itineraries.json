@@ -227,6 +227,210 @@
       "Hungry before 14:40? Space K has a café, and the 63 Building has a food court under the Pompidou.",
       "Splurge: Walking on the Cloud (Italian, 59F of the 63 Building): courses ₩195k–250k per person.",
       "Order chicken in English: Coupang Eats and Baemin need a Korean phone number. Otherwise walk to a chicken shop near Yeouinaru Stn and carry it over."
+    ],
+    "version": "A",
+    "label": "Packed"
+  },
+  {
+    "date": "2026-09-27",
+    "version": "B",
+    "label": "Easy · near home",
+    "title": "Slow Sunday by the river",
+    "theme": "Sunday · dry, 26°C · everything ≤10 min from home",
+    "summary": "Late brunch, an art-and-design museum you can walk to, a rest at home, then a sunset yacht under the Banpo Bridge, steak in Seorae Village, the rainbow fountain and cocktails in a greenhouse bar.",
+    "stops": [
+      {
+        "id": "farno-seorae",
+        "time": "10:30",
+        "stay": 75,
+        "note": "Late, lazy brunch; no alarm clocks today.",
+        "do": [
+          "Shakshuka-style eggs, tomato omelette (₩19,000), hummus plate (₩19,000), soup with toast (₩11,000)"
+        ],
+        "cost": 100000,
+        "book": "Walk-in"
+      },
+      {
+        "id": "seoul-arts-center",
+        "time": "12:15",
+        "stay": 90,
+        "note": "Seoul’s big arts campus. The Hangaram Art & Design Museum has this season’s headline exhibition.",
+        "do": [
+          "Check sac.or.kr for today’s exhibitions and any evening concert",
+          "Café on the plaza for a coffee afterwards"
+        ],
+        "cost": 100000,
+        "book": "On site"
+      },
+      {
+        "id": "cafe-dolce-sebitseom",
+        "time": "16:15",
+        "stay": 45,
+        "note": "After a rest at home: coffee inside the floating Some Sevit islands on the river.",
+        "do": [
+          "Sevit Hangang lemonade (₩7,500)",
+          "Walk the island decks: the LED façades switch on at dusk"
+        ],
+        "cost": 35000
+      },
+      {
+        "id": "golden-blue-marina",
+        "time": "17:15",
+        "stay": 70,
+        "note": "Sunset on the water from Sebitseom, not the crowded Yeouido pier.",
+        "do": [
+          "Book the ≈55-min Rainbow Bridge yacht around sunset (≈₩55–66k each)",
+          "Or the 25-min limousine boat (₩26,100 on weekends) if you want it short"
+        ],
+        "cost": 300000,
+        "book": "Phone or Naver, book today"
+      },
+      {
+        "id": "vangundy-steakhouse",
+        "time": "18:45",
+        "stay": 90,
+        "note": "Cosy steakhouse in Seorae Village.",
+        "do": [
+          "Bacon-wrapped Caesar (₩22,000), sizzling bacon skewers, seafood spaghetti (₩22,000), steaks by the cut",
+          "Small room: book a table for 5 by phone"
+        ],
+        "cost": 350000,
+        "book": "Phone / Instagram"
+      },
+      {
+        "id": "banpo-moonlight-rainbow-fountain",
+        "time": "20:30",
+        "stay": 25,
+        "note": "The rainbow fountain off the Banpo Bridge: 20-min shows at 20:30 and 21:00.",
+        "do": [
+          "Watch from the steps under the bridge or the Some Sevit side",
+          "Cancelled in wind or rain"
+        ]
+      },
+      {
+        "id": "mobo-bar-jw-marriott",
+        "time": "21:10",
+        "stay": 80,
+        "note": "Greenhouse-style cocktail bar in the JW Marriott, 5 min from the fountain.",
+        "do": [
+          "Herb of Grace (₩29,000), San Martini (₩38,000)",
+          "Ask for the terrace sofas"
+        ],
+        "cost": 200000,
+        "book": "Walk-in / Naver"
+      }
+    ],
+    "tips": [
+      "Midday gap (13:45–16:15) is for a rest at home.",
+      "Want a concert? Seoul Arts Center often has good last-minute seats; check sac.or.kr."
+    ]
+  },
+  {
+    "date": "2026-09-27",
+    "version": "C",
+    "label": "Hongdae & sunset",
+    "title": "Hongdae, parks & live jazz",
+    "theme": "Sunday · dry, 26°C · young Seoul, big sunset view",
+    "summary": "A roastery in an old shoe factory, cult ramen, Gentle Monster’s art-installation store, Kakao Friends, the Yeonnam park strip, a recycled water plant turned garden, a hilltop sunset over the Han, yakitori and a live jazz set.",
+    "stops": [
+      {
+        "id": "anthracite-hapjeong",
+        "time": "11:00",
+        "stay": 45,
+        "note": "Roastery in a former shoe factory, raw brick and steel.",
+        "do": [
+          "Hand-brewed filter coffee; the upstairs is quieter"
+        ],
+        "cost": 40000
+      },
+      {
+        "id": "oreno-ramen",
+        "time": "12:00",
+        "stay": 50,
+        "note": "Famous creamy chicken ramen (tori paitan).",
+        "do": [
+          "Tori paitan ₩13,000, spicy kara paitan, tsukune skewers ₩5,000, Sapporo draft",
+          "Expect a short queue at noon"
+        ],
+        "cost": 90000,
+        "book": "Queue"
+      },
+      {
+        "id": "gentle-monster-hongdae-flagship",
+        "time": "13:05",
+        "stay": 40,
+        "note": "Three floors of giant art installations; the eyewear is upstairs.",
+        "do": [
+          "Ground floor is pure installation art; free"
+        ]
+      },
+      {
+        "id": "kakao-friends-hongdae-flagship",
+        "time": "14:00",
+        "stay": 35,
+        "note": "Life-size Ryan statues and gifts for the grandkids.",
+        "do": [
+          "Goods from ₩5,000; open late"
+        ]
+      },
+      {
+        "id": "gyeongui-line-forest-park-yeonnam",
+        "time": "14:45",
+        "stay": 60,
+        "note": "Old railway line turned into a green strip lined with cafés: very relaxed people-watching.",
+        "do": [
+          "Walk the “Yeontral Park” lawn stretch",
+          "Stop at any café along it"
+        ]
+      },
+      {
+        "id": "seonyudo-park",
+        "time": "16:10",
+        "stay": 55,
+        "note": "An old water-treatment plant turned into a garden. Concrete columns covered in green: a design-lover’s favourite.",
+        "do": [
+          "Garden of Green Columns and the tank ponds",
+          "Line 9 (home line) stops right here"
+        ]
+      },
+      {
+        "id": "haneul-park-sangam",
+        "time": "17:25",
+        "stay": 70,
+        "note": "Hilltop silver-grass fields with a 360° river-and-skyline view. Sunset at 18:14.",
+        "do": [
+          "Take the small shuttle up; skip the stairs",
+          "Silver grass is starting to turn: great photos"
+        ]
+      },
+      {
+        "id": "yakitori-mook",
+        "time": "19:10",
+        "stay": 80,
+        "note": "Yakitori omakase counter in Yeonnam.",
+        "do": [
+          "Omakase or à la carte skewers from ₩4,000; one drink each",
+          "Book 5 seats together on CatchTable"
+        ],
+        "cost": 300000,
+        "book": "CatchTable"
+      },
+      {
+        "id": "club-evans-hongdae",
+        "time": "20:50",
+        "stay": 90,
+        "note": "Hongdae’s best jazz club; second set 21:20–22:10.",
+        "do": [
+          "Entry ₩15,000 (Sunday) + one drink each",
+          "No reservations: arrive before 21:15 for seats"
+        ],
+        "cost": 125000,
+        "book": "No booking"
+      }
+    ],
+    "tips": [
+      "Haneul Park → Yeonnam is quickest by Venti/TADA (≈15 min).",
+      "Ride home: Line 2 from Hongik Univ., or a van ≈35 min."
     ]
   },
   {
@@ -347,6 +551,162 @@
       "Cheaper steak: Stubborn (Gangnam) at ≈₩40–75k per person, or Jang Steakhouse (hanwoo) nearby in Apgujeong.",
       "Tired by mid-afternoon? CGV Cine de Chef (Apgujeong) serves a chef’s course at recliner seats before the film.",
       "Closed today (Monday): Leeum, D Museum, Centre Pompidou, Amorepacific museum. That’s why the art is on Tuesday."
+    ],
+    "version": "A",
+    "label": "Packed"
+  },
+  {
+    "date": "2026-09-28",
+    "version": "B",
+    "label": "Easy · spa & river",
+    "title": "Spa day & Han River sunset",
+    "theme": "Monday · cloudy, 25°C · pampering, very little walking",
+    "summary": "Aussie brunch in Hannam, a long hotel-spa afternoon at the Grand Hyatt, coffee on the Hangang Bridge, sunset from Nodeul Island, Mexican on a rooftop and live jazz at the Paris Bar.",
+    "stops": [
+      {
+        "id": "summer-lane-hannam",
+        "time": "10:30",
+        "stay": 75,
+        "note": "Bright Australian brunch café.",
+        "do": [
+          "Smashed avocado (₩23,000), croissant French toast (₩22,000), waffle eggs Benedict (₩19–20k)",
+          "Flat whites ₩5,500"
+        ],
+        "cost": 130000,
+        "book": "Walk-in"
+      },
+      {
+        "id": "the-spa-grand-hyatt-seoul",
+        "time": "12:15",
+        "stay": 150,
+        "note": "Hotel spa on Namsan: sauna and pool first, then a Korean massage.",
+        "do": [
+          "Arrive 45 min early for the sauna/pool included with treatments",
+          "Book adjacent slots for 5 by phone; ask for the Korean massage"
+        ],
+        "cost": 1100000,
+        "book": "Phone the hotel today"
+      },
+      {
+        "id": "urban-plant-hangang-bridge",
+        "time": "15:30",
+        "stay": 70,
+        "note": "Café built into the Hangang Bridge with river views on both sides.",
+        "do": [
+          "Einspänner (₩7,500), perilla pesto pasta (₩17,600), burrata-prosciutto sandwich",
+          "Grab window seats"
+        ],
+        "cost": 90000
+      },
+      {
+        "id": "nodeul-island",
+        "time": "17:15",
+        "stay": 55,
+        "note": "River island under the bridge; the west steps face the sunset (18:12) over Yeouido.",
+        "do": [
+          "Sit on the west-facing steps",
+          "Food trucks run until 31 Oct"
+        ]
+      },
+      {
+        "id": "sombrero-itaewon",
+        "time": "18:45",
+        "stay": 90,
+        "note": "Mexican with a rooftop terrace.",
+        "do": [
+          "Chimichanga and enchiladas (₩17,500), quesadillas, burritos; margaritas",
+          "Ask for the rooftop"
+        ],
+        "cost": 180000,
+        "book": "Walk-in"
+      },
+      {
+        "id": "paris-bar-grand-hyatt",
+        "time": "20:40",
+        "stay": 90,
+        "note": "Grand Hyatt’s bar: live jazz and city lights. Closed Tuesdays, so tonight is the night.",
+        "do": [
+          "Reserve a window table on TableCheck",
+          "Signature cocktails and French bar snacks"
+        ],
+        "cost": 300000,
+        "book": "TableCheck"
+      }
+    ],
+    "tips": [
+      "Spa cost is a guess: Grand Hyatt treatments run ≈₩200k+ per person. Cheaper: Hanoi Foot & Body in Cheongdam (₩87k, 80 min).",
+      "Hotel to Urban Plant: Venti/TADA ≈15 min."
+    ]
+  },
+  {
+    "date": "2026-09-28",
+    "version": "C",
+    "label": "Futuristic Incheon",
+    "title": "Future city day trip",
+    "theme": "Monday · cloudy, 25°C · day trip by van (≈1 h each way)",
+    "summary": "Korea’s sci-fi side: Paradise City’s art resort, the Inspire resort’s domed digital-art street “Aurora”, and Songdo’s skyscraper park at sunset, then burgers and cocktails back near home.",
+    "stops": [
+      {
+        "id": "paradise-city-art-space-casino-incheon",
+        "time": "10:45",
+        "stay": 135,
+        "note": "Art-filled resort by the airport: free Art Space gallery, outdoor art plaza and Wonderbox indoor carnival.",
+        "do": [
+          "Art Space and the lobby art: free",
+          "Lunch in the resort (several restaurants and a food court)",
+          "Casino is foreigners-only if anyone’s curious"
+        ],
+        "cost": 200000,
+        "taxi": true
+      },
+      {
+        "id": "inspire-resort-incheon",
+        "time": "13:35",
+        "stay": 100,
+        "note": "The “Aurora”: a 150 m domed LED street with scheduled digital-art shows. Free.",
+        "do": [
+          "Check the Aurora show times at the entrance",
+          "Walk the shopping level; the arena may have a show on"
+        ],
+        "taxi": true
+      },
+      {
+        "id": "songdo-central-park",
+        "time": "16:15",
+        "stay": 120,
+        "note": "Glass towers around a seawater canal. Arrive before sunset, when the skyline switches on.",
+        "do": [
+          "Tri-bowl (three inverted domes) and the canal boardwalk",
+          "Rent a water taxi or paddle boat on the canal",
+          "Grab a snack at the Central Park café terraces"
+        ],
+        "cost": 60000
+      },
+      {
+        "id": "brooklyn-the-burger-joint-seorae",
+        "time": "19:30",
+        "stay": 70,
+        "note": "Back home: Seoul’s classic American burger joint in Seorae Village.",
+        "do": [
+          "Order: the Brooklyn, bacon cheeseburger, fries and milkshakes"
+        ],
+        "cost": 120000,
+        "book": "Walk-in"
+      },
+      {
+        "id": "bar-guilty-seocho",
+        "time": "21:00",
+        "stay": 80,
+        "note": "Neighbourhood cocktail bar near home, rated 4.9.",
+        "do": [
+          "Tell the bartender what you like; they build custom drinks"
+        ],
+        "cost": 200000
+      }
+    ],
+    "tips": [
+      "Transport: book a Venti/TADA van each way (≈₩80–100k); AREX from Seoul Station to Incheon Airport T1 + the free resort shuttle also works.",
+      "Songdo → home ≈60 min by van in evening traffic."
     ]
   },
   {
@@ -485,6 +845,193 @@
       "Wednesday: pack tonight. Olive Young and Musinsa (next door) tax refunds are instant, so there’s nothing to claim at the airport.",
       "Rather have beer than art? Swap Ground Seesaw for Seoul Brewery Seongsu (flights of house beer, wood-fired pizza).",
       "Seongsu → Hannam is quickest by Venti/TADA (≈15 min)."
+    ],
+    "version": "A",
+    "label": "Packed"
+  },
+  {
+    "date": "2026-09-29",
+    "version": "B",
+    "label": "Easy · near home",
+    "title": "Last day, slow & close to home",
+    "theme": "Tuesday · sunny, 25°C · packing time built in",
+    "summary": "Chipperfield’s Amorepacific museum (free), Vietnamese lunch in Yongnidan-gil, an afternoon to pack, a sunset sail on the Han from Banpo, French steak in Seorae, the fountain and a rooftop wine bar near home.",
+    "stops": [
+      {
+        "id": "amorepacific-museum-of-art",
+        "time": "10:30",
+        "stay": 75,
+        "note": "David Chipperfield’s white cube with a sunken garden. All shows are free.",
+        "do": [
+          "Sol LeWitt: “Open Structure”",
+          "Ground-floor library lounge (apLAP)"
+        ],
+        "book": "Walk-in, free"
+      },
+      {
+        "id": "hyotteu",
+        "time": "12:00",
+        "stay": 60,
+        "note": "Vietnamese on Yongnidan-gil, 5 min from the museum.",
+        "do": [
+          "Pho, bún chả and spring rolls to share"
+        ],
+        "cost": 100000
+      },
+      {
+        "id": "hyundai-yacht-club-banpo",
+        "time": "16:30",
+        "stay": 75,
+        "note": "After packing: a shared sailing from inside Banpo Hangang Park at golden hour.",
+        "do": [
+          "Shared sailing from ₩25,000 per person, or a private charter",
+          "Book the slot nearest sunset (≈18:10)"
+        ],
+        "cost": 125000,
+        "book": "Book today"
+      },
+      {
+        "id": "la-saveur-seorae",
+        "time": "18:30",
+        "stay": 105,
+        "note": "French bistro in Seorae Village for the farewell dinner.",
+        "do": [
+          "Dinner steak course ₩109,000; lamb rack; foie gras + steak pairing",
+          "Confirm the course price when booking"
+        ],
+        "cost": 550000,
+        "book": "Phone"
+      },
+      {
+        "id": "banpo-moonlight-rainbow-fountain",
+        "time": "20:30",
+        "stay": 25,
+        "note": "One last fountain show: 20:30 or 21:00.",
+        "do": [
+          "Cancelled in wind or rain"
+        ]
+      },
+      {
+        "id": "seocho-oksang",
+        "time": "21:15",
+        "stay": 90,
+        "note": "Rooftop wine bar in the neighbourhood; last drink of the trip.",
+        "do": [
+          "Cheese and charcuterie, a bottle to share",
+          "Rooftop open until 23:30"
+        ],
+        "cost": 150000
+      }
+    ],
+    "tips": [
+      "13:00–16:30 is free for packing and a nap.",
+      "Buy a last Olive Young haul? Olive Young Gangnam Town is open until 22:30, near home."
+    ]
+  },
+  {
+    "date": "2026-09-29",
+    "version": "C",
+    "label": "Downtown & Euljiro bars",
+    "title": "Downtown art & hidden bars",
+    "theme": "Tuesday · sunny, 25°C · galleries, bookstore, retro bar alleys",
+    "summary": "A photo exhibition by Seoul Station, a free modern-art retrospective, Vietnamese lunch, Asia’s biggest bookstore, a walk along the Cheonggyecheon stream, a retro pharmacy café, then wine dining and vinyl and cocktail bars in hip Euljiro.",
+    "stops": [
+      {
+        "id": "ground-seesaw-central",
+        "time": "10:30",
+        "stay": 60,
+        "note": "Photo exhibition “Pyogisik”, 2 min from Seoul Station.",
+        "do": [
+          "Adults ₩20,000; book online"
+        ],
+        "cost": 100000,
+        "book": "Online"
+      },
+      {
+        "id": "seoul-museum-of-art",
+        "time": "11:50",
+        "stay": 60,
+        "note": "Free retrospective of Yoo Youngkuk, Korea’s great abstract colour painter.",
+        "do": [
+          "Free; the show runs to 25 Oct"
+        ]
+      },
+      {
+        "id": "ttin-ttin-sfc",
+        "time": "13:05",
+        "stay": 55,
+        "note": "Vietnamese in the SFC tower.",
+        "do": [
+          "Pho, bún, fried spring rolls; ≈₩15k each"
+        ],
+        "cost": 80000
+      },
+      {
+        "id": "kyobo-book-centre-gwanghwamun",
+        "time": "14:10",
+        "stay": 40,
+        "note": "Huge underground bookstore: English, travel and design sections.",
+        "do": [
+          "Sit at the long reading tables",
+          "Stationery and gifts at Hottracks inside"
+        ]
+      },
+      {
+        "id": "cheonggyecheon",
+        "time": "15:00",
+        "stay": 45,
+        "note": "Flat walk east along the stream in the middle of the city.",
+        "do": [
+          "Start at the plaza waterfall; exit near Euljiro 3-ga"
+        ]
+      },
+      {
+        "id": "coffee-hanyakbang",
+        "time": "16:00",
+        "stay": 45,
+        "note": "Hand-drip coffee in an antique pharmacy-style room down a tiny alley.",
+        "do": [
+          "Signature (₩7,000) and a fruit tart"
+        ],
+        "cost": 45000
+      },
+      {
+        "id": "un-ordinary-euljiro",
+        "time": "18:00",
+        "stay": 100,
+        "note": "Wine dining with a terrace and a private room.",
+        "do": [
+          "Seasonal ceviche (₩28,900), filet steak (₩43,900); wine by the bottle",
+          "Ask for the private room for 5"
+        ],
+        "cost": 350000,
+        "book": "Naver / phone"
+      },
+      {
+        "id": "koya-record-euljiro",
+        "time": "20:00",
+        "stay": 75,
+        "note": "Hidden vinyl bar: the entrance is behind J-Macro Tower 1F, right of the real-estate sign.",
+        "do": [
+          "Request a record; adults only"
+        ],
+        "cost": 120000,
+        "book": "Naver"
+      },
+      {
+        "id": "yoontaku-euljiro",
+        "time": "21:25",
+        "stay": 60,
+        "note": "Tiny, top-rated cocktail bar (4.9) for the last drink.",
+        "do": [
+          "Sit at the counter and watch the bartender"
+        ],
+        "cost": 120000
+      }
+    ],
+    "tips": [
+      "16:45–18:00 is free: wander Euljiro’s print-shop alleys or rest at the café.",
+      "Show option: PAINTERZ (live speed-painting, no words) near City Hall; check the evening showtime."
     ]
   }
 ]

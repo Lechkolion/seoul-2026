@@ -121,6 +121,7 @@ export function RainPage() {
   useEffect(() => {
     fetch(import.meta.env.BASE_URL + 'data/itineraries.json', { cache: 'no-cache' })
       .then((r) => (r.ok ? r.json() : []))
+      .then((d: (DayPlan & { version?: string })[]) => d.filter((x) => !x.version || x.version === 'A'))
       .then((d: DayPlan[]) => setDays(d.filter((x) => x.date >= now.date)))
       .catch(() => setDays([]));
     // eslint-disable-next-line react-hooks/exhaustive-deps

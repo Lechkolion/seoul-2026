@@ -64,6 +64,8 @@ const out = days.map((d) => {
     const status = p.tripDays?.[d.date] ?? 'unknown';
     if (status === 'closed') { console.error(`ERR ${d.date}: ${s.id} is closed that day`); problems++; }
     const leg = slim(prev ? between(prev, p) : p.route);
+    // stop.taxi: this hop is only sensible by van (e.g. between Incheon resorts); show it as a taxi ride
+    if (s.taxi && leg.taxiMin) Object.assign(leg, { outOfTown: true, walkOnly: false, totalMin: leg.taxiMin, lines: [], transfers: 0 });
     stops.push({ ...s, leg, status });
     prev = p;
   }

@@ -37,6 +37,8 @@ interface Stop {
 }
 interface Day {
   date: TripDate;
+  version?: string; // 'A' | 'B' | 'C' — alternative plans for the same date
+  label?: string;
   title: string;
   theme: string;
   summary: string;
@@ -187,6 +189,7 @@ export function DaysPage() {
   const { byId, status } = useData();
   const [days, setDays] = useState<Day[] | null>(null);
   const [sel, setSel] = useState<string>('');
+  const [ver, setVer] = useState<string>('A');
   const [added, setAdded] = useState<string>('');
 
   useEffect(() => {
@@ -195,7 +198,9 @@ export function DaysPage() {
       .then((d: Day[]) => {
         setDays(d);
         const now = seoulNow();
-        const hash = location.hash.split('?d=')[1];
+        const q = new URLSearchParams(location.hash.split('?')[1] ?? '');
+        const hash = q.get('d');
+        if (q.get('v')) setVer(q.get('v')!);
         // after 18:00 show tomorrow's plan
         const pick = d.find((x) => x.date === hash) ?? d.find((x) => (now.hour >= 18 ? x.date > now.date : x.date >= now.date)) ?? d[d.length - 1];
         if (pick) setSel(pick.date);
@@ -203,7 +208,19 @@ export function DaysPage() {
       .catch(() => setDays([]));
   }, []);
 
-  const day = useMemo(() => days?.find((d) => d.date === sel), [days, sel]);
+  const dates = useMemo(() => {
+    const uniq = (days ?? []).filter((d, i, a) => a.findIndex((x) => x.date === d.date) === i);
+    const today = seoulNow().date;
+    // hide finished days once the trip is under way
+    const upcoming = uniq.filter((d) => d.date >= today);
+    return upcoming.length ? upcoming : uniq;
+  }, [days]);
+  const versions = useMemo(() => (days ?? []).filter((d) => d.date === sel), [days, sel]);
+  const day = versions.find((d) => (d.version ?? 'A') === ver) ?? versions[0];
+  const pickDate = (date: string) => {
+    setSel(date);
+    setVer('A');
+  };
   const { weather } = useWeather();
   const rain = day ? weather?.daily.find((w) => w.date === day.date)?.rain ?? null : null;
   const today = seoulNow().date;
@@ -220,19 +237,19 @@ export function DaysPage() {
       <header className="page__head">
         <p className="kicker">Our plan · ready-made days</p>
         <h1 className="page__title">Day by day</h1>
-        <p className="page__lede">Packed, hand-picked days for the rest of the trip — every stop checked open that day, with what to do, what to order and rough costs. Subway times from the same router as every place; tap a hop for stations.</p>
+        <p className="page__lede">Three versions for each remaining day (A packed, B easy, C a different area). Pick the one that suits your mood. Every stop is checked open that day, with what to do, what to order and rough costs. Subway times from the same router as every place; tap a hop for stations.</p>
       </header>
 
-      {days && days.length > 0 && (
+      {dates.length > 0 && (
         <div className="daytabs" role="tablist" aria-label="Choose a day">
-          {days.map((d) => (
+          {dates.map((d) => (
             <button
               key={d.date}
               type="button"
               role="tab"
               aria-selected={d.date === sel}
               className={`daytab ${d.date === sel ? 'is-on' : ''} ${isChuseok(d.date) ? 'is-chuseok' : ''} ${d.date < today ? 'is-past' : ''}`}
-              onClick={() => setSel(d.date)}
+              onClick={() => pickDate(d.date)}
             >
               <span className="daytab__dow">
                 {dowOf(d.date)} {isChuseok(d.date) && <MoonMark size={10} />}
@@ -242,6 +259,23 @@ export function DaysPage() {
               <span className="daytab__title">{d.title}</span>
             </button>
           ))}
+        </div>
+      )}
+
+      {versions.length > 1 && (
+        <div className="vertabs" role="tablist" aria-label="Choose a version of this day">
+          {versions.map((v) => {
+            const on = v === day;
+            return (
+              <button key={v.version} type="button" role="tab" aria-selected={on} className={`vertab ${on ? 'is-on' : ''}`} onClick={() => setVer(v.version ?? 'A')}>
+                <span className="vertab__v">{v.version}</span>
+                <span className="vertab__txt">
+                  <b>{v.label}</b>
+                  <span>{v.title}</span>
+                </span>
+              </button>
+            );
+          })}
         </div>
       )}
 
