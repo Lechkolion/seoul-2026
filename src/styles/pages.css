@@ -1829,6 +1829,44 @@
   color: var(--text-2);
   line-height: 1.45;
 }
+.stop__do {
+  list-style: disc;
+  margin: 2px 0 0;
+  padding-left: 18px;
+  display: grid;
+  gap: 3px;
+  font-size: 13px;
+  color: var(--text-2);
+  line-height: 1.4;
+  text-align: left;
+}
+.stop__do li::marker {
+  color: var(--accent);
+}
+.stop__extras {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 2px;
+}
+.stop__cost,
+.stop__book {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 2px 8px;
+  border-radius: var(--r-pill);
+  font-size: 12px;
+  background: var(--surface-2);
+  border: 1px solid var(--line);
+  color: var(--text-2);
+}
+.stop__cost {
+  color: var(--accent);
+  font-weight: 600;
+  background: var(--accent-soft);
+  border-color: transparent;
+}
 .stop__warn {
   display: inline-flex;
   align-items: center;

@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react';
-import { ArrowRight, Car, CircleAlert, Clock, Footprints, Home as HomeIcon, Lightbulb, ListPlus, Repeat, TrainFront, Umbrella } from 'lucide-react';
+import { ArrowRight, CalendarCheck, Car, CircleAlert, Clock, Footprints, Home as HomeIcon, Lightbulb, ListPlus, Repeat, TrainFront, Umbrella, Wallet } from 'lucide-react';
 import { useData } from '../lib/data';
 import type { Place, TripDate } from '../lib/types';
 import type { RouteLeg } from '../types/place';
@@ -31,6 +31,9 @@ interface Stop {
   note: string;
   status: string;
   leg: Leg;
+  do?: string[];
+  cost?: number; // estimate for the five of us, KRW
+  book?: string;
 }
 interface Day {
   date: TripDate;
@@ -53,6 +56,8 @@ const fareRange = (l: Leg) => {
   const lo = Math.min(...f), hi = Math.max(...f);
   return ` · ≈₩${lo === hi ? lo : `${lo}–${hi}`}k`;
 };
+
+const won = (n: number) => (n >= 1e6 ? `₩${(n / 1e6).toFixed(1).replace(/\.0$/, '')}M` : `₩${Math.round(n / 1000)}k`);
 
 /** Taxi worth it: much faster than the subway for a short hop, or a walk of 15+ min. */
 const taxiBetter = (l: Leg) => !!l.taxiMin && l.taxiMin <= 20 && (l.walkOnly ? l.totalMin >= 15 : l.totalMin >= l.taxiMin * 1.8);
@@ -141,6 +146,27 @@ function StopRow({ stop, place, date }: { stop: Stop; place: Place; date: TripDa
             {place.location.neighborhood && <span className="muted">{place.location.neighborhood}</span>}
           </span>
           <span className="stop__note">{stop.note}</span>
+          {stop.do && stop.do.length > 0 && (
+            <ul className="stop__do">
+              {stop.do.map((d) => (
+                <li key={d}>{d}</li>
+              ))}
+            </ul>
+          )}
+          {(stop.cost || stop.book) && (
+            <span className="stop__extras">
+              {stop.cost ? (
+                <span className="stop__cost">
+                  <Wallet size={12} aria-hidden="true" /> ≈{won(stop.cost)} for 5
+                </span>
+              ) : null}
+              {stop.book && (
+                <span className="stop__book">
+                  <CalendarCheck size={12} aria-hidden="true" /> {stop.book}
+                </span>
+              )}
+            </span>
+          )}
           {stop.status === 'unknown' && isChuseok(date) && (
             <span className="stop__warn">
               <MoonMark size={11} /> Chuseok hours unconfirmed — check before going
@@ -194,7 +220,7 @@ export function DaysPage() {
       <header className="page__head">
         <p className="kicker">Our plan · ready-made days</p>
         <h1 className="page__title">Day by day</h1>
-        <p className="page__lede">Hand-picked routes for 25–29 Sep, checked against Chuseok closures. Subway times from the same router as every place; tap a hop for stations.</p>
+        <p className="page__lede">Packed, hand-picked days for the rest of the trip — every stop checked open that day, with what to do, what to order and rough costs. Subway times from the same router as every place; tap a hop for stations.</p>
       </header>
 
       {days && days.length > 0 && (
@@ -248,6 +274,14 @@ export function DaysPage() {
                   return `${Math.floor(end / 60)}:${String(end % 60).padStart(2, '0')}`;
                 })()}
               </span>
+              {(() => {
+                const total = day.stops.reduce((t, s) => t + (s.cost ?? 0), 0);
+                return total ? (
+                  <span>
+                    <Wallet size={14} aria-hidden="true" /> ≈<b>{won(total)}</b> for 5
+                  </span>
+                ) : null;
+              })()}
               <button type="button" className="btn btn--ghost btn--sm" onClick={addAll}>
                 <ListPlus size={16} aria-hidden="true" /> {added === day.date ? 'Copied to Saved ✓' : 'Copy to Saved'}
               </button>
@@ -287,7 +321,7 @@ export function DaysPage() {
               ))}
             </ul>
           )}
-          <p className="muted small">Five people: subway is easiest. For taxi hops book one large taxi in the Kakao T app (Venti) or the TADA app (Next) — fares shown are normal-demand estimates; surge and late-night rates are higher.</p>
+          <p className="muted small">Costs are rough estimates for five (food, tickets, drinks; not shopping or transport). Five people: subway is easiest. For taxi hops book one large taxi in the Kakao T app (Venti) or the TADA app (Next) — fares shown are normal-demand estimates; surge and late-night rates are higher.</p>
         </section>
       )}
     </div>
