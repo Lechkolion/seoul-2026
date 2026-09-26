@@ -61,11 +61,13 @@ const out = days.map((d) => {
   for (const s of d.stops) {
     const p = byId.get(s.id);
     if (!p) { console.error(`ERR ${d.date}: unknown place id ${s.id}`); problems++; continue; }
+    // stop.legMin: hand-timed hop (with stop.legNote), e.g. an intercity coach
     const status = p.tripDays?.[d.date] ?? 'unknown';
     if (status === 'closed') { console.error(`ERR ${d.date}: ${s.id} is closed that day`); problems++; }
     const leg = slim(prev ? between(prev, p) : p.route);
     // stop.taxi: this hop is only sensible by van (e.g. between Incheon resorts); show it as a taxi ride
     if (s.taxi && leg.taxiMin) Object.assign(leg, { outOfTown: true, walkOnly: false, totalMin: leg.taxiMin, lines: [], transfers: 0 });
+    if (s.legMin) leg.totalMin = s.legMin;
     stops.push({ ...s, leg, status });
     prev = p;
   }

@@ -710,6 +710,64 @@
     ]
   },
   {
+    "date": "2026-09-28",
+    "version": "D",
+    "label": "Outlet day",
+    "title": "Yeoju Premium Outlets",
+    "theme": "Monday · cloudy, 25°C · quieter than the weekend · direct bus from our terminal",
+    "summary": "Korea’s biggest designer outlet: Shinsegae Simon Yeoju, 258 brands in an American-style open-air village. Tommy Hilfiger, Polo Ralph Lauren, Lacoste, Coach, Michael Kors, Calvin Klein, Levi’s, Brooks Brothers, Nike Factory and more at 30–70% off. Direct bus there and back, then steak and cocktails near home.",
+    "stops": [
+      {
+        "id": "shinsegae-outlet-yeoju",
+        "time": "10:40",
+        "stay": 375,
+        "legMin": 80,
+        "legNote": "Direct bus from Seoul Express Bus Terminal (Gyeongbu side, platform 29): ≈70 min, ₩6,400 each. First bus 09:00; take the ≈09:30 one. Book seats in the T money GO or KOBUS app. The terminal is 2 stops on Line 3 or a ₩5k taxi.",
+        "note": "Open 10:30–20:30 on Mondays. Two halls, EAST and WEST; the brands you want are mostly in EAST.",
+        "do": [
+          "EAST HIGH: Tommy Hilfiger, Calvin Klein, Levi’s, Club Monaco, Nike Factory, Samsonite",
+          "EAST LOW: Polo Ralph Lauren, Lacoste, Michael Kors, Brooks Brothers, Boss, Armani, Tumi; Coach is in EAST too",
+          "WEST: Theory, Adidas, Under Armour, New Balance; luxury (Gucci, Prada, Burberry, Moncler) if you want to look",
+          "Lunch: Outback Steakhouse, Five Guys, Jackson Pizza or Pizzeria O (wood-fired) in the food zone; Starbucks and Knotted for breaks",
+          "Tax refund: show passports when you pay (instant tax-free), or use the refund kiosk at the information desk",
+          "Get the free coupon book at the information centre with a passport (extra % off at many brands)"
+        ],
+        "book": "Bus: T money GO / KOBUS app"
+      },
+      {
+        "id": "vangundy-steakhouse",
+        "time": "18:40",
+        "stay": 90,
+        "legMin": 85,
+        "legNote": "Bus back from the stop by the EAST entrance (≈17:00; last bus 21:00) → Express Bus Terminal ≈18:15, then a Venti/TADA ≈9 min to Seorae Village.",
+        "note": "Relaxed steak dinner 10 min from home after a long shopping day.",
+        "do": [
+          "Bacon-wrapped Caesar (₩22,000), sizzling bacon skewers, seafood spaghetti, steaks by the cut",
+          "Drop the shopping bags at home first if you like; it’s on the way"
+        ],
+        "cost": 350000,
+        "book": "Phone / Instagram"
+      },
+      {
+        "id": "mobo-bar-jw-marriott",
+        "time": "20:30",
+        "stay": 80,
+        "note": "Greenhouse cocktail bar in the JW Marriott for a nightcap.",
+        "do": [
+          "Herb of Grace (₩29,000), San Martini (₩38,000)",
+          "Terrace sofas for 5"
+        ],
+        "cost": 200000
+      }
+    ],
+    "tips": [
+      "Why Yeoju: the most brands of any Seoul-area outlet with the American brands you want, and the only one with a direct bus from our terminal. Paju (274 brands, adds Tory Burch and Hugo Boss) is a 1 h+ drive with no direct bus.",
+      "Crowds: weekends are packed; Monday or Tuesday is much calmer. The plan works on Tuesday too.",
+      "Big haul? Take a Venti back (≈₩80k, 1 h+) instead of the bus: room for bags.",
+      "Bring an empty suitcase-sized bag. Outlet prices plus instant tax-free usually beat online."
+    ]
+  },
+  {
     "date": "2026-09-29",
     "title": "Seongsu & Hannam",
     "theme": "Tuesday · sunny, 25°C · last full day",

@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react';
-import { ArrowRight, CalendarCheck, Car, CircleAlert, Clock, Footprints, Home as HomeIcon, Lightbulb, ListPlus, Repeat, TrainFront, Umbrella, Wallet } from 'lucide-react';
+import { ArrowRight, Bus, CalendarCheck, Car, CircleAlert, Clock, Footprints, Home as HomeIcon, Lightbulb, ListPlus, Repeat, TrainFront, Umbrella, Wallet } from 'lucide-react';
 import { useData } from '../lib/data';
 import type { Place, TripDate } from '../lib/types';
 import type { RouteLeg } from '../types/place';
@@ -34,6 +34,7 @@ interface Stop {
   do?: string[];
   cost?: number; // estimate for the five of us, KRW
   book?: string;
+  legNote?: string; // replaces the computed hop (e.g. an intercity bus the router doesn't know)
 }
 interface Day {
   date: TripDate;
@@ -127,6 +128,23 @@ function Transit({ leg, label }: { leg: Leg; label?: string }) {
         </span>
       </button>
       {open && <LegDetail legs={leg.legs} />}
+    </div>
+  );
+}
+
+/** A hand-written hop, e.g. the direct coach to an out-of-town outlet. */
+function NoteHop({ text, label }: { text: string; label?: string }) {
+  return (
+    <div className="hop hop--note">
+      <div className="hop__main">
+        <span className="hop__icon" aria-hidden="true">
+          <Bus size={16} />
+        </span>
+        <span className="hop__txt">
+          {label && <span className="hop__label">{label}</span>}
+          {text}
+        </span>
+      </div>
     </div>
   );
 }
@@ -237,7 +255,7 @@ export function DaysPage() {
       <header className="page__head">
         <p className="kicker">Our plan · ready-made days</p>
         <h1 className="page__title">Day by day</h1>
-        <p className="page__lede">Three versions for each remaining day (A packed, B easy, C a different area). Pick the one that suits your mood. Every stop is checked open that day, with what to do, what to order and rough costs. Subway times from the same router as every place; tap a hop for stations.</p>
+        <p className="page__lede">Several versions for each remaining day (A packed, B easy, C a different area, plus an outlet shopping day). Pick the one that suits your mood. Every stop is checked open that day, with what to do, what to order and rough costs. Subway times from the same router as every place; tap a hop for stations.</p>
       </header>
 
       {dates.length > 0 && (
@@ -328,7 +346,7 @@ export function DaysPage() {
               if (!p) return null;
               return (
                 <li key={s.id}>
-                  <Transit leg={s.leg} label={i === 0 ? 'From home' : undefined} />
+                  {s.legNote ? <NoteHop text={s.legNote} label={i === 0 ? 'From home' : undefined} /> : <Transit leg={s.leg} label={i === 0 ? 'From home' : undefined} />}
                   <StopRow stop={s} place={p} date={day.date} />
                 </li>
               );
